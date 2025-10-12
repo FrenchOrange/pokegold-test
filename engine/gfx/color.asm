@@ -1242,7 +1242,7 @@ PokegearPals:
 INCLUDE "gfx/pokegear/pokegear.pal"
 
 BetaPokerPals:
-INCLUDE "gfx/beta_poker/beta_poker.pal"
+	ret
 
 SlotMachinePals:
 IF DEF(_GOLD)

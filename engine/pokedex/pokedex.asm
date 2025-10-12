@@ -2473,7 +2473,7 @@ Pokedex_InvertTiles:
 	ret
 
 PokedexLZ:
-INCBIN "gfx/pokedex/pokedex.2bpp.lz"
+INCBIN "gfx/pokedex/pokedex_sgb.2bpp.lz"
 
 PokedexSlowpokeLZ:
 INCBIN "gfx/pokedex/slowpoke.2bpp.lz"
