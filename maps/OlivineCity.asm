@@ -1,8 +1,8 @@
 	object_const_def
 	const OLIVINECITY_SAILOR1
-	const OLIVINECITY_STANDING_YOUNGSTER
+	const OLIVINECITY_YOUNGSTER
 	const OLIVINECITY_SAILOR2
-	const OLIVINECITY_OLIVINE_RIVAL
+	const OLIVINECITY_RIVAL
 
 OlivineCity_MapScripts:
 	def_scene_scripts
@@ -28,9 +28,9 @@ OlivineCityRivalSceneTop:
 	special FadeOutMusic
 	pause 15
 	playsound SFX_ENTER_DOOR
-	appear OLIVINECITY_OLIVINE_RIVAL
+	appear OLIVINECITY_RIVAL
 	waitsfx
-	applymovement OLIVINECITY_OLIVINE_RIVAL, OlivineCityRivalApproachesTopMovement
+	applymovement OLIVINECITY_RIVAL, OlivineCityRivalApproachesTopMovement
 	playmusic MUSIC_RIVAL_ENCOUNTER
 	opentext
 	writetext OlivineCityRivalText
@@ -38,12 +38,10 @@ OlivineCityRivalSceneTop:
 	closetext
 	applymovement PLAYER, OlivineCityPlayerStepsAsideTopMovement
 	turnobject PLAYER, RIGHT
-	applymovement OLIVINECITY_OLIVINE_RIVAL, OlivineCityRivalLeavesTopMovement
+	applymovement OLIVINECITY_RIVAL, OlivineCityRivalLeavesTopMovement
 	setscene SCENE_OLIVINECITY_NOOP
-	disappear OLIVINECITY_OLIVINE_RIVAL
+	disappear OLIVINECITY_RIVAL
 	special RestartMapMusic
-	variablesprite SPRITE_OLIVINE_RIVAL, SPRITE_SWIMMER_GUY
-	special LoadUsedSpritesGFX
 	end
 
 OlivineCityRivalSceneBottom:
@@ -52,9 +50,9 @@ OlivineCityRivalSceneBottom:
 	special FadeOutMusic
 	pause 15
 	playsound SFX_ENTER_DOOR
-	appear OLIVINECITY_OLIVINE_RIVAL
+	appear OLIVINECITY_RIVAL
 	waitsfx
-	applymovement OLIVINECITY_OLIVINE_RIVAL, OlivineCityRivalApproachesBottomMovement
+	applymovement OLIVINECITY_RIVAL, OlivineCityRivalApproachesBottomMovement
 	playmusic MUSIC_RIVAL_ENCOUNTER
 	opentext
 	writetext OlivineCityRivalText
@@ -62,12 +60,10 @@ OlivineCityRivalSceneBottom:
 	closetext
 	applymovement PLAYER, OlivineCityPlayerStepsAsideBottomMovement
 	turnobject PLAYER, RIGHT
-	applymovement OLIVINECITY_OLIVINE_RIVAL, OlivineCityRivalLeavesBottomMovement
-	disappear OLIVINECITY_OLIVINE_RIVAL
+	applymovement OLIVINECITY_RIVAL, OlivineCityRivalLeavesBottomMovement
+	disappear OLIVINECITY_RIVAL
 	setscene SCENE_OLIVINECITY_NOOP
 	special RestartMapMusic
-	variablesprite SPRITE_OLIVINE_RIVAL, SPRITE_SWIMMER_GUY
-	special LoadUsedSpritesGFX
 	end
 
 OlivineCitySailor1Script:
@@ -303,4 +299,4 @@ OlivineCity_MapEvents:
 	object_event 26, 27, SPRITE_SAILOR, SPRITEMOVEDATA_WALK_UP_DOWN, 0, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, OlivineCitySailor1Script, -1
 	object_event 20, 13, SPRITE_YOUNGSTER, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 1, 0, -1, -1, PAL_NPC_RED, OBJECTTYPE_SCRIPT, 0, OlivineCityStandingYoungsterScript, -1
 	object_event 17, 21, SPRITE_SAILOR, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, OlivineCitySailor2Script, -1
-	object_event 10, 11, SPRITE_OLIVINE_RIVAL, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, EVENT_RIVAL_OLIVINE_CITY
+	object_event 10, 11, SPRITE_RIVAL, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, EVENT_RIVAL_OLIVINE_CITY
