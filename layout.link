@@ -42,7 +42,6 @@ ROMX $05
 ROMX $06
 	"Tileset Data 1"
 ROMX $07
-	"Roofs"
 	"Tileset Data 2"
 	"Extra Songs 1"
 ROMX $08

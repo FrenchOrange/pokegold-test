@@ -1228,9 +1228,6 @@ INCLUDE "gfx/diploma/diploma.pal"
 PartyMenuOBPals:
 INCLUDE "gfx/stats/party_menu_ob.pal"
 
-UnusedBattleObjectPals: ; unreferenced
-INCLUDE "gfx/battle_anims/unused_battle_anims.pal"
-
 GSTitleBGPals:
 IF DEF(_GOLD)
 INCLUDE "gfx/title/title_bg_gold.pal"
