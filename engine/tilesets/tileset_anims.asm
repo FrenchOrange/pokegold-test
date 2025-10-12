@@ -237,12 +237,6 @@ AnimateFlowerTile:
 	ld a, [wTileAnimationTimer]
 	and %10
 
-; CGB has different tile graphics for flowers
-	ld e, a
-	ldh a, [hCGB]
-	and 1
-	add e
-
 ; hl = .FlowerTileFrames + a * 16
 	swap a
 	ld e, a
@@ -256,10 +250,10 @@ AnimateFlowerTile:
 	jp WriteTile
 
 .FlowerTileFrames:
-	INCBIN "gfx/tilesets/flower/dmg_1.2bpp"
-	INCBIN "gfx/tilesets/flower/cgb_1.2bpp"
-	INCBIN "gfx/tilesets/flower/dmg_2.2bpp"
-	INCBIN "gfx/tilesets/flower/cgb_2.2bpp"
+	INCBIN "gfx/tilesets/flower/flower_1.2bpp"
+	INCBIN "gfx/tilesets/flower/flower_1.2bpp"
+	INCBIN "gfx/tilesets/flower/flower_2.2bpp"
+	INCBIN "gfx/tilesets/flower/flower_2.2bpp"
 
 WriteTileFromAnimBuffer:
 ; Save the stack pointer in bc for WriteTile to restore
