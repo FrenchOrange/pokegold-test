@@ -1237,10 +1237,12 @@ wPlayerStepVectorY:: db
 wPlayerStepFlags:: db
 wPlayerStepDirection:: db
 
+wSpinning:: db
+
 wPlayerNextMovement:: db
 wPlayerMovement:: db
 
-	ds 2
+	ds 1
 
 wMovementObject:: db
 wMovementDataBank:: db

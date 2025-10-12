@@ -44,6 +44,8 @@ BattleBGMap:
 
 HalveMoney:
 ; Halve the player's money.
+	xor a
+	ld [wSpinning], a
 	ld hl, wMoney
 	ld a, [hl]
 	srl a
