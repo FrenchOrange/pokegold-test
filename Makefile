@@ -1,8 +1,6 @@
 roms := \
 	pokegold.gbc \
-	pokesilver.gbc \
-	pokegold_debug.gbc \
-	pokesilver_debug.gbc
+	pokesilver.gbc
 patches := \
 	pokegold.patch \
 	pokesilver.patch
@@ -29,15 +27,11 @@ gs_excl_asm := \
 
 gold_excl_obj         := $(addsuffix _gold.o,$(gs_excl_asm))
 silver_excl_obj       := $(addsuffix _silver.o,$(gs_excl_asm))
-gold_debug_excl_obj   := $(addsuffix _gold_debug.o,$(gs_excl_asm))
-silver_debug_excl_obj := $(addsuffix _silver_debug.o,$(gs_excl_asm))
 gold_vc_excl_obj      := $(addsuffix _gold_vc.o,$(gs_excl_asm))
 silver_vc_excl_obj    := $(addsuffix _silver_vc.o,$(gs_excl_asm))
 
 pokegold_obj          := $(rom_obj:.o=_gold.o) $(gold_excl_obj)
 pokesilver_obj        := $(rom_obj:.o=_silver.o) $(silver_excl_obj)
-pokegold_debug_obj    := $(rom_obj:.o=_gold_debug.o) $(gold_debug_excl_obj)
-pokesilver_debug_obj  := $(rom_obj:.o=_silver_debug.o) $(silver_debug_excl_obj)
 pokegold_vc_obj       := $(rom_obj:.o=_gold_vc.o) $(gold_vc_excl_obj)
 pokesilver_vc_obj     := $(rom_obj:.o=_silver_vc.o) $(silver_vc_excl_obj)
 
@@ -60,7 +54,7 @@ RGBLINK ?= $(RGBDS)rgblink
 ### Build targets
 
 .SUFFIXES:
-.PHONY: all gold silver gold_debug silver_debug clean tidy compare tools
+.PHONY: all gold silver clean tidy compare tools
 .SECONDEXPANSION:
 .PRECIOUS:
 .SECONDARY:
@@ -68,8 +62,6 @@ RGBLINK ?= $(RGBDS)rgblink
 all: $(roms)
 gold:         pokegold.gbc
 silver:       pokesilver.gbc
-gold_debug:   pokegold_debug.gbc
-silver_debug: pokesilver_debug.gbc
 gold_vc:      pokegold.patch
 silver_vc:    pokesilver.patch
 
@@ -95,8 +87,6 @@ tidy:
 	      $(pokesilver_obj) \
 	      $(pokegold_vc_obj) \
 	      $(pokesilver_vc_obj) \
-	      $(pokegold_debug_obj) \
-	      $(pokesilver_debug_obj) \
 	      rgbdscheck.o
 	$(MAKE) clean -C tools/
 
@@ -115,8 +105,6 @@ endif
 
 $(pokegold_obj):         RGBASMFLAGS += -D _GOLD
 $(pokesilver_obj):       RGBASMFLAGS += -D _SILVER
-$(pokegold_debug_obj):   RGBASMFLAGS += -D _GOLD -D _DEBUG
-$(pokesilver_debug_obj): RGBASMFLAGS += -D _SILVER -D _DEBUG
 $(pokegold_vc_obj):      RGBASMFLAGS += -D _GOLD -D _GOLD_VC
 $(pokesilver_vc_obj):    RGBASMFLAGS += -D _SILVER -D _GOLD_VC
 
@@ -146,10 +134,6 @@ $(foreach obj, $(filter-out $(gold_excl_obj), $(pokegold_obj)), \
 	$(eval $(call DEP,$(obj),$(obj:_gold.o=.asm))))
 $(foreach obj, $(filter-out $(silver_excl_obj), $(pokesilver_obj)), \
 	$(eval $(call DEP,$(obj),$(obj:_silver.o=.asm))))
-$(foreach obj, $(filter-out $(gold_debug_excl_obj), $(pokegold_debug_obj)), \
-	$(eval $(call DEP,$(obj),$(obj:_gold_debug.o=.asm))))
-$(foreach obj, $(filter-out $(silver_debug_excl_obj), $(pokesilver_debug_obj)), \
-	$(eval $(call DEP,$(obj),$(obj:_silver_debug.o=.asm))))
 $(foreach obj, $(filter-out $(gold_vc_excl_obj), $(pokegold_vc_obj)), \
 	$(eval $(call DEP,$(obj),$(obj:_gold_vc.o=.asm))))
 $(foreach obj, $(filter-out $(silver_vc_excl_obj), $(pokesilver_vc_obj)), \
@@ -158,10 +142,6 @@ $(foreach obj, $(filter-out $(silver_vc_excl_obj), $(pokesilver_vc_obj)), \
 # Dependencies for game-exclusive objects (keep _gold and _silver in asm file basenames)
 $(foreach obj, $(gold_excl_obj) $(silver_excl_obj), \
 	$(eval $(call DEP,$(obj),$(obj:.o=.asm))))
-$(foreach obj, $(gold_debug_excl_obj), \
-	$(eval $(call DEP,$(obj),$(obj:_gold_debug.o=_gold.asm))))
-$(foreach obj, $(silver_debug_excl_obj), \
-	$(eval $(call DEP,$(obj),$(obj:_silver_debug.o=_silver.asm))))
 $(foreach obj, $(gold_vc_excl_obj), \
 	$(eval $(call DEP,$(obj),$(obj:_gold_vc.o=_gold.asm))))
 $(foreach obj, $(silver_vc_excl_obj), \
@@ -172,8 +152,6 @@ endif
 
 pokegold_opt         = -cjsv -t POKEMON_GLD -i AAUE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
 pokesilver_opt       = -cjsv -t POKEMON_SLV -i AAXE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
-pokegold_debug_opt   = -cjsv -t POKEMON_GLD -i AAUE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
-pokesilver_debug_opt = -cjsv -t POKEMON_SLV -i AAXE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
 pokegold_vc_opt      = -cjsv -t POKEMON_GLD -i AAUE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
 pokesilver_vc_opt    = -cjsv -t POKEMON_SLV -i AAXE -k 01 -l 0x33 -m MBC3+TIMER+RAM+BATTERY -r 3 -p 0
 
