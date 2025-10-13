@@ -359,7 +359,7 @@ LoadPinkPage:
 	ld b, $0
 	call DrawPlayerHP
 	hlcoord 8, 9
-	ld [hl], $41 ; right HP/exp bar end cap
+	ld [hl], $6b ; right HP bar end cap
 	hlcoord 0, 12
 	ld de, .Status_Type
 	call PlaceString
@@ -512,23 +512,10 @@ LoadPinkPage:
 .PkrsStr:
 	db "#RUS@"
 
-StatsScreen_PlaceVerticalDivider: ; unreferenced
-; The Japanese stats screen has a vertical divider.
-	hlcoord 7, 0
-	ld bc, SCREEN_WIDTH
-	ld d, SCREEN_HEIGHT
-.loop
-	ld a, $31 ; vertical divider
-	ld [hl], a
-	add hl, bc
-	dec d
-	jr nz, .loop
-	ret
-
 StatsScreen_PlaceHorizontalDivider:
 	hlcoord 0, 7
 	ld b, SCREEN_WIDTH
-	ld a, $62 ; horizontal divider (empty HP/exp bar)
+	ld a, $72 ; horizontal divider (empty HP bar)
 .loop
 	ld [hli], a
 	dec b

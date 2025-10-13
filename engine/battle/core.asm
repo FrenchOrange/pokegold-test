@@ -4531,7 +4531,7 @@ DrawEnemyHUD:
 	hlcoord 9, 1
 	ld [hl], a
 
-	hlcoord 6, 1
+	hlcoord 4, 1
 	push af
 	push hl
 	ld de, wEnemyMonStatus
@@ -7652,7 +7652,7 @@ PlaceExpBar:
 	sub $8
 	jr c, .next
 	ld b, a
-	ld a, $6a ; full bar
+	ld a, $70 ; full bar
 	ld [hld], a
 	dec c
 	jr z, .finish
@@ -7665,11 +7665,11 @@ PlaceExpBar:
 	jr .skip
 
 .loop2
-	ld a, $62 ; empty bar
+	ld a, $72 ; empty bar
 
 .skip
 	ld [hld], a
-	ld a, $62 ; empty bar
+	ld a, $72 ; empty bar
 	dec c
 	jr nz, .loop2
 

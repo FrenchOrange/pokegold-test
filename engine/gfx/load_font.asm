@@ -94,10 +94,4 @@ LoadStatsScreenPageTilesGFX:
 	call Get2bpp
 	ret
 
-LoadFontsBattleLevel: ; unreferenced
-	ld de, FontBattleExtra + 14 tiles
-	ld hl, vTiles2 tile "<LV>" ; $6e
-	lb bc, BANK(FontBattleExtra), 1
-	jp Get2bpp
-
 INCLUDE "gfx/font.asm"

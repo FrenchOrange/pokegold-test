@@ -38,7 +38,7 @@ BattleMenuHeader:
 .Text:
 	db "FIGHT@"
 	db "<PK><MN>@"
-	db "PACK@"
+	db "ITEM@"
 	db "RUN@"
 
 SafariBattleMenuHeader:
