@@ -1,6 +1,6 @@
 DEF TILE_1BPP_SIZE EQU TILE_SIZE / 2 ; bytes
 
-DEF PALRGB_WHITE EQU palred 31 + palgreen 31 + palblue 31 ; $7fff
+DEF PALRGB_WHITE EQU palred 31 + palgreen 29 + palblue 31 ; $7fff
 
 DEF METATILE_WIDTH EQU 4 ; tiles
 DEF SCREEN_META_WIDTH EQU 6 ; metatiles
