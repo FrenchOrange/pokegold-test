@@ -21,7 +21,6 @@ INCLUDE "macros/scripts/oam_anims.asm"
 
 INCLUDE "constants/hardware.inc"
 
-INCLUDE "constants/deco_constants.asm"
 INCLUDE "constants/ram_constants.asm"
 INCLUDE "constants/misc_constants.asm"
 INCLUDE "constants/gfx_constants.asm"

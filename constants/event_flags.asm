@@ -334,53 +334,53 @@
 	const EVENT_SOLVED_KABUTO_PUZZLE
 	const EVENT_SOLVED_OMANYTE_PUZZLE
 	const EVENT_SOLVED_AERODACTYL_PUZZLE
-; Decorations
-	const EVENT_DECO_BED_1
-	const EVENT_DECO_BED_2
-	const EVENT_DECO_BED_3
-	const EVENT_DECO_BED_4
-	const EVENT_DECO_CARPET_1
-	const EVENT_DECO_CARPET_2
-	const EVENT_DECO_CARPET_3
-	const EVENT_DECO_CARPET_4
-	const EVENT_DECO_PLANT_1
-	const EVENT_DECO_PLANT_2
-	const EVENT_DECO_PLANT_3
-	const EVENT_DECO_POSTER_1
-	const EVENT_DECO_POSTER_2
-	const EVENT_DECO_POSTER_3
-	const EVENT_DECO_POSTER_4
-	const EVENT_DECO_FAMICOM
-	const EVENT_DECO_SNES
-	const EVENT_DECO_N64
-	const EVENT_DECO_VIRTUAL_BOY
-	const EVENT_DECO_PIKACHU_DOLL
-	const EVENT_DECO_SURFING_PIKACHU_DOLL
-	const EVENT_DECO_CLEFAIRY_DOLL
-	const EVENT_DECO_JIGGLYPUFF_DOLL
-	const EVENT_DECO_BULBASAUR_DOLL
-	const EVENT_DECO_CHARMANDER_DOLL
-	const EVENT_DECO_SQUIRTLE_DOLL
-	const EVENT_DECO_POLIWAG_DOLL
-	const EVENT_DECO_DIGLETT_DOLL
-	const EVENT_DECO_STARYU_DOLL
-	const EVENT_DECO_MAGIKARP_DOLL
-	const EVENT_DECO_ODDISH_DOLL
-	const EVENT_DECO_GENGAR_DOLL
-	const EVENT_DECO_SHELLDER_DOLL
-	const EVENT_DECO_GRIMER_DOLL
-	const EVENT_DECO_VOLTORB_DOLL
-	const EVENT_DECO_WEEDLE_DOLL
-	const EVENT_DECO_UNOWN_DOLL
-	const EVENT_DECO_GEODUDE_DOLL
-	const EVENT_DECO_MACHOP_DOLL
-	const EVENT_DECO_TENTACOOL_DOLL
-	const EVENT_PLAYERS_ROOM_POSTER
-	const EVENT_DECO_GOLD_TROPHY
-	const EVENT_DECO_SILVER_TROPHY
-	const EVENT_DECO_BIG_SNORLAX_DOLL
-	const EVENT_DECO_BIG_ONIX_DOLL
-	const EVENT_DECO_BIG_LAPRAS_DOLL
+; Unused batch
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; More Johto story events
 	const EVENT_WARPED_FROM_ROUTE_35_NATIONAL_PARK_GATE
 	const EVENT_SWITCH_1

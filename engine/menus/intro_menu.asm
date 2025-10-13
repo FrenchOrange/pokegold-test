@@ -130,8 +130,6 @@ endc
 
 	call InitializeNPCNames
 
-	farcall InitDecorations
-
 	farcall DeletePartyMonMail
 
 	call ResetGameTime
@@ -281,7 +279,6 @@ Continue:
 	ld c, 20
 	call DelayFrames
 	farcall JumpRoamMons
-	farcall CopyMysteryGiftReceivedDecorationsToPC
 	farcall ClockContinue
 	ld a, [wSpawnAfterChampion]
 	cp SPAWN_LANCE

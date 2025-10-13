@@ -135,9 +135,8 @@ PC_CheckPartyForPokemon:
 	const PLAYERSPCITEM_DEPOSIT_ITEM  ; 1
 	const PLAYERSPCITEM_TOSS_ITEM     ; 2
 	const PLAYERSPCITEM_MAIL_BOX      ; 3
-	const PLAYERSPCITEM_DECORATION    ; 4
-	const PLAYERSPCITEM_LOG_OFF       ; 5
-	const PLAYERSPCITEM_TURN_OFF      ; 6
+	const PLAYERSPCITEM_LOG_OFF       ; 4
+	const PLAYERSPCITEM_TURN_OFF      ; 5
 
 BillsPC:
 	call PC_PlayChoosePCSound
@@ -211,17 +210,8 @@ _PlayersHousePC:
 	ld b, PLAYERSPC_HOUSE
 	call _PlayersPC
 	and a
-	jr nz, .changed_deco_tiles
-	call LoadOverworldTilemapAndAttrmapPals
-	call ApplyTilemap
-	call UpdateSprites
 	call PC_PlayShutdownSound
 	ld c, FALSE
-	ret
-
-.changed_deco_tiles
-	call ClearBGPalettes
-	ld c, TRUE
 	ret
 
 PlayersPCTurnOnText:
@@ -277,7 +267,6 @@ PlayersPCMenuData:
 	dw PlayerDepositItemMenu,  .DepositItem
 	dw PlayerTossItemMenu,     .TossItem
 	dw PlayerMailBoxMenu,      .MailBox
-	dw PlayerDecorationMenu,   .Decoration
 	dw PlayerLogOffMenu,       .LogOff
 	dw PlayerLogOffMenu,       .TurnOff
 
@@ -285,7 +274,6 @@ PlayersPCMenuData:
 .DepositItem:  db "DEPOSIT ITEM@"
 .TossItem:     db "TOSS ITEM@"
 .MailBox:      db "MAIL BOX@"
-.Decoration:   db "DECORATION@"
 .TurnOff:      db "TURN OFF@"
 .LogOff:       db "LOG OFF@"
 
@@ -302,12 +290,11 @@ PlayersPCMenuData:
 	db -1 ; end
 
 	; PLAYERSPC_HOUSE
-	db 6
+	db 5
 	db PLAYERSPCITEM_WITHDRAW_ITEM
 	db PLAYERSPCITEM_DEPOSIT_ITEM
 	db PLAYERSPCITEM_TOSS_ITEM
 	db PLAYERSPCITEM_MAIL_BOX
-	db PLAYERSPCITEM_DECORATION
 	db PLAYERSPCITEM_TURN_OFF
 	db -1 ; end
 
@@ -414,14 +401,6 @@ PlayerTossItemMenu:
 .quit
 	call CloseSubmenu
 	xor a
-	ret
-
-PlayerDecorationMenu:
-	farcall _PlayerDecorationMenu
-	ld a, c
-	and a
-	ret z
-	scf
 	ret
 
 PlayerLogOffMenu:

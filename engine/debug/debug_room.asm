@@ -334,27 +334,6 @@ DebugRoomMenu_TimerReset:
 	ret
 
 DebugRoomMenu_DecorateAll:
-	call YesNoBox
-	ret c
-	ld a, BANK(sPlayerData3)
-	call OpenSRAM
-	ld hl, sPlayerData3 + (wEventFlags - wPlayerData3)
-	ld de, EVENT_DECO_BED_1 ; the first EVENT_DECO_* constant
-	ld b, SET_FLAG
-	ld c, EVENT_DECO_BIG_LAPRAS_DOLL - EVENT_DECO_BED_1 + 1
-.loop
-	push bc
-	push de
-	push hl
-	call FlagAction
-	pop hl
-	pop de
-	pop bc
-	inc de
-	dec c
-	jr nz, .loop
-	call CloseSRAM
-	call DebugRoom_SaveChecksum
 	ret
 
 MACRO paged_value

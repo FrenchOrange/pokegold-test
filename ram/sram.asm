@@ -45,7 +45,7 @@ sMysteryGiftUnlocked:: db
 sBackupMysteryGiftItem:: db
 sNumDailyMysteryGiftPartnerIDs:: db
 sDailyMysteryGiftPartnerIDs:: ds MAX_MYSTERY_GIFT_PARTNERS * 2
-sMysteryGiftDecorationsReceived:: flag_array NUM_NON_TROPHY_DECOS
+sMysteryGiftDecorationsReceived::
 	ds 4
 sMysteryGiftTimer:: dw
 	ds 1

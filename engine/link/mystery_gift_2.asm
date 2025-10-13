@@ -131,20 +131,8 @@ MysteryGiftGetItem:
 	ld c, [hl]
 	ret
 
-MysteryGiftGetDecoration:
-	ld a, c
-	cp MysteryGiftDecos.End - MysteryGiftDecos
-	jr nc, MysteryGiftFallbackItem
-	ld hl, MysteryGiftDecos
-	ld b, 0
-	add hl, bc
-	ld c, [hl]
-	ret
-
 MysteryGiftFallbackItem:
-	ld c, DECOFLAG_RED_CARPET ; GREAT_BALL
+	ld c, GREAT_BALL
 	ret
 
 INCLUDE "data/items/mystery_gift_items.asm"
-
-INCLUDE "data/decorations/mystery_gift_decos.asm"

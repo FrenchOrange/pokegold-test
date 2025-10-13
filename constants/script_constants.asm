@@ -236,16 +236,6 @@ DEF EMOTE_LENGTH EQU 6
 	const FRUITTREE_FUCHSIA_CITY  ; 1e
 DEF NUM_FRUIT_TREES EQU const_value - 1
 
-; describedecoration arguments
-; DescribeDecoration.JumpTable indexes (see engine/overworld/decorations.asm)
-	const_def
-	const DECODESC_POSTER     ; 0
-	const DECODESC_LEFT_DOLL  ; 1
-	const DECODESC_RIGHT_DOLL ; 2
-	const DECODESC_BIG_DOLL   ; 3
-	const DECODESC_CONSOLE    ; 4
-DEF NUM_DECODESCS EQU const_value
-
 ; ActivateFishingSwarm setval arguments
 	const_def
 	const FISHSWARM_NONE     ; 0

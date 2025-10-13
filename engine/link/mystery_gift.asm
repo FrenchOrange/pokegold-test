@@ -92,34 +92,12 @@ endc
 	jr nz, .FriendNotReady
 	ld a, [wMysteryGiftPartnerGameVersion]
 	cp POKEMON_PIKACHU_2_VERSION
-	jr z, .skip_append_save
+	jr z, .SentItem
 	call .AddMysteryGiftPartnerID
 	ld a, [wMysteryGiftPartnerGameVersion]
 	cp RESERVED_GAME_VERSION
-	jr z, .skip_append_save
-	call .SaveMysteryGiftTrainerName
-.skip_append_save
-	ld a, [wMysteryGiftPartnerSentDeco]
-	and a
 	jr z, .SentItem
-; sent decoration
-	ld a, [wMysteryGiftPartnerWhichDeco]
-	ld c, a
-	farcall MysteryGiftGetDecoration
-	push bc
-	call CheckAndSetMysteryGiftDecorationAlreadyReceived
-	pop bc
-	jr nz, .SentItem
-; keep the decoration if it wasn't already received
-	callfar GetDecorationName_c
-	ld h, d
-	ld l, e
-	ld de, wStringBuffer1
-	ld bc, ITEM_NAME_LENGTH
-	call CopyBytes
-	ld hl, .MysteryGiftSentHomeText ; sent decoration to home
-	jr .PrintTextAndExit
-
+	call .SaveMysteryGiftTrainerName
 .SentItem:
 	call GetMysteryGiftBank
 	ld a, [wMysteryGiftPartnerWhichItem]
@@ -130,7 +108,7 @@ endc
 	ld [wNamedObjectIndex], a
 	call CloseSRAM
 	call GetItemName
-	ld hl, .MysteryGiftSentText ; sent item/decoration
+	ld hl, .MysteryGiftSentText ; sent item
 	jr .PrintTextAndExit
 
 .LinkCanceled:
@@ -1143,52 +1121,6 @@ endr
 	ld a, JOYP_GET_NONE
 	ldh [rJOYP], a
 	ret
-
-CheckAndSetMysteryGiftDecorationAlreadyReceived:
-; Return nz if decoration c was already received; otherwise receive it.
-	call GetMysteryGiftBank
-	ld d, 0
-	ld b, CHECK_FLAG
-	ld hl, sMysteryGiftDecorationsReceived
-	lda_predef SmallFarFlagAction
-	push hl
-	push bc
-	call Predef
-	call CloseSRAM
-	ld a, c
-	and a
-	pop bc
-	pop hl
-	ret nz
-	call GetMysteryGiftBank
-	ld b, SET_FLAG
-	predef SmallFarFlagAction
-	call CloseSRAM
-	xor a
-	ret
-
-CopyMysteryGiftReceivedDecorationsToPC:
-	call GetMysteryGiftBank
-	ld c, 0
-.loop
-	push bc
-	ld d, 0
-	ld b, CHECK_FLAG
-	ld hl, sMysteryGiftDecorationsReceived
-	predef SmallFarFlagAction
-	ld a, c
-	and a
-	pop bc
-	jr z, .skip
-	push bc
-	callfar SetSpecificDecorationFlag
-	pop bc
-.skip
-	inc c
-	ld a, c
-	cp NUM_NON_TROPHY_DECOS
-	jr c, .loop
-	jp CloseSRAM
 
 UnlockMysteryGift:
 ; If [sMysteryGiftUnlocked] was -1, this sets both
