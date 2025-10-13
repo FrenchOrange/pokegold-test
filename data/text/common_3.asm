@@ -4,21 +4,21 @@ _SlotsStartText::
 
 _SlotsNotEnoughCoinsText::
 	text "Not enough"
-	line "coins."
+	line "coins!"
 	prompt
 
 _SlotsRanOutOfCoinsText::
-	text "Darn… Ran out of"
-	line "coins…"
+	text "Darn!"
+	line "Ran out of coins!"
 	done
 
 _SlotsPlayAgainText::
-	text "Play again?"
+	text "One more go?"
 	done
 
 _SlotsLinedUpText::
 	text "lined up!"
-	line "Won @"
+	line "Scored @"
 	text_ram wStringBuffer2
 	text " coins!"
 	done
