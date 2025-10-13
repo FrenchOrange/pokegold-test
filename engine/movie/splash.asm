@@ -129,7 +129,6 @@ GameFreakPresentsScene:
 	dw GameFreakPresents_Star
 	dw GameFreakPresents_PlaceLogo
 	dw GameFreakPresents_LogoSparkles
-	dw GameFreakPresents_PlacePresents
 	dw GameFreakPresents_WaitForTimer
 	dw GameFreakPresents_SetDoneFlag
 
@@ -212,22 +211,6 @@ GameFreakPresents_PlaceGameFreak:
 
 .game_freak
 	db $80, $81, $82, $83, $8d, $84, $85, $83, $81, $86
-	db "@"
-
-GameFreakPresents_PlacePresents:
-	hlcoord 7, 13
-	ld de, .presents
-	call PlaceString
-
-	call GameFreakPresents_NextScene
-
-; set timer for GameFreakPresents_WaitForTimer
-	ld a, 128
-	ld [wIntroSceneTimer], a
-	ret
-
-.presents
-	db $87, $88, $89, $8a, $8b, $8c
 	db "@"
 
 GameFreakPresents_SetDoneFlag:
