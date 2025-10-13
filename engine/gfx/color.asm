@@ -239,33 +239,6 @@ Intro_LoadMonPalette:
 	ret
 
 LoadBetaPokerPalettes: ; unreferenced
-	ldh a, [hCGB]
-	and a
-	jr nz, .cgb
-	ld hl, wBetaPokerSGBPals
-	jp PushSGBPals
-
-.cgb
-	ld a, [wBetaPokerSGBCol]
-	ld c, a
-	ld a, [wBetaPokerSGBRow]
-	hlcoord 0, 0, wAttrmap
-	ld de, SCREEN_WIDTH
-.loop
-	and a
-	jr z, .done
-	add hl, de
-	dec a
-	jr .loop
-
-.done
-	ld b, 0
-	add hl, bc
-	lb bc, 6, 4
-	ld a, [wBetaPokerSGBAttr]
-	and $3
-	call FillBoxCGB
-	call CopyTilemapAtOnce
 	ret
 
 ApplyMonOrTrainerPals:
@@ -1245,8 +1218,4 @@ BetaPokerPals:
 	ret
 
 SlotMachinePals:
-IF DEF(_GOLD)
-INCLUDE "gfx/slots/slots_gold.pal"
-ELIF DEF(_SILVER)
-INCLUDE "gfx/slots/slots_silver.pal"
-ENDC
+	ret
