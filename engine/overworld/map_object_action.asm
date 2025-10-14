@@ -238,20 +238,6 @@ SetFacingBigDoll:
 	ret
 
 SetFacingBoulderDust:
-	ld hl, OBJECT_STEP_FRAME
-	add hl, bc
-	inc [hl]
-	ld a, [hl]
-
-	ld hl, OBJECT_FACING
-	add hl, bc
-	and 2
-	ld a, FACING_BOULDER_DUST_1
-	jr z, .ok
-	assert FACING_BOULDER_DUST_1 + 1 == FACING_BOULDER_DUST_2
-	inc a
-.ok
-	ld [hl], a
 	ret
 
 SetFacingGrassShake:
