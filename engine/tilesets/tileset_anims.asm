@@ -95,26 +95,25 @@ TilesetDarkCaveAnim:
 	dw vTiles2 tile $40, WriteTileFromAnimBuffer
 	dw NULL,  DoneTileAnimation
 
+TilesetPlayersHouseAnim:
+TilesetHouseAnim:
+TilesetMansionAnim:
 TilesetKantoAnim::
 TilesetParkAnim::
 TilesetForestAnim::
 TilesetIcePathAnim:
 TilesetEliteFourRoomAnim:
 TilesetTowerAnim:
-TilesetHouseAnim:
-TilesetPlayersHouseAnim:
 TilesetPokecenterAnim:
 TilesetGateAnim:
 TilesetLabAnim:
 TilesetFacilityAnim:
 TilesetMartAnim:
-TilesetMansionAnim:
 TilesetGameCornerAnim:
 TilesetTraditionalHouseAnim:
 TilesetTrainStationAnim:
 TilesetChampionsRoomAnim:
 TilesetLighthouseAnim:
-TilesetPlayersRoomAnim:
 TilesetRuinsOfAlphAnim:
 TilesetRadioTowerAnim:
 TilesetUndergroundAnim:

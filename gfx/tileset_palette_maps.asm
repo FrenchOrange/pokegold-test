@@ -9,17 +9,17 @@ MACRO tilepal
 ENDM
 
 TilesetOverworldPalMap:
+TilesetPlayersHousePalMap:
+TilesetHousePalMap:
+TilesetMansionPalMap:
 TilesetKantoPalMap:
 TilesetJohtoModernPalMap:
-TilesetHousePalMap:
-TilesetPlayersHousePalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
 TilesetPortPalMap:
 TilesetLabPalMap:
 TilesetFacilityPalMap:
 TilesetMartPalMap:
-TilesetMansionPalMap:
 TilesetGameCornerPalMap:
 TilesetEliteFourRoomPalMap:
 TilesetTraditionalHousePalMap:
@@ -33,7 +33,6 @@ TilesetTrainStationPalMap:
 TilesetUndergroundPalMap:
 TilesetChampionsRoomPalMap:
 TilesetLighthousePalMap:
-TilesetPlayersRoomPalMap:
 TilesetIcePathPalMap:
 TilesetForestPalMap:
 INCLUDE "gfx/tilesets/dummy_palette_map.asm"

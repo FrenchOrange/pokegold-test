@@ -293,7 +293,7 @@ PlayersHouse1F_MapEvents:
 	def_warp_events
 	warp_event  6,  7, NEW_BARK_TOWN, 2
 	warp_event  7,  7, NEW_BARK_TOWN, 2
-	warp_event  9,  0, PLAYERS_HOUSE_2F, 1
+	warp_event  9,  1, PLAYERS_HOUSE_2F, 1
 
 	def_coord_events
 
@@ -301,7 +301,7 @@ PlayersHouse1F_MapEvents:
 	bg_event  0,  1, BGEVENT_READ, PlayersHouse1FStoveScript
 	bg_event  1,  1, BGEVENT_READ, PlayersHouse1FSinkScript
 	bg_event  2,  1, BGEVENT_READ, PlayersHouse1FFridgeScript
-	bg_event  4,  1, BGEVENT_READ, PlayersHouse1FTVScript
+	bg_event  5,  1, BGEVENT_READ, PlayersHouse1FTVScript
 
 	def_object_events
 	object_event  7,  3, SPRITE_MOM, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MomScript, EVENT_PLAYERS_HOUSE_MOM_1

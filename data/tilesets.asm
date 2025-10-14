@@ -14,24 +14,23 @@ Tilesets::
 ; entries correspond to TILESET_* constants (see constants/tileset_constants.asm)
 	table_width TILESET_LENGTH
 	tileset TilesetOverworld
+	tileset TilesetPlayersHouse
+	tileset TilesetHouse
+	tileset TilesetMansion
 	tileset TilesetJohtoModern
 	tileset TilesetKanto
-	tileset TilesetHouse
-	tileset TilesetPlayersHouse
 	tileset TilesetPokecenter
 	tileset TilesetGate
 	tileset TilesetPort
 	tileset TilesetLab
 	tileset TilesetFacility
 	tileset TilesetMart
-	tileset TilesetMansion
 	tileset TilesetGameCorner
 	tileset TilesetEliteFourRoom
 	tileset TilesetTraditionalHouse
 	tileset TilesetTrainStation
 	tileset TilesetChampionsRoom
 	tileset TilesetLighthouse
-	tileset TilesetPlayersRoom
 	tileset TilesetTower
 	tileset TilesetCave
 	tileset TilesetPark
