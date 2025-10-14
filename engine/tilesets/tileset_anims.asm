@@ -37,12 +37,25 @@ _AnimateTileset::
 
 	jp hl
 
-Tileset0Anim::
+TilesetOverworldAnim:
+	dw vTiles2 tile $14, ReadTileToAnimBuffer
+	dw wTileAnimBuffer, ScrollTileRightLeft
+	dw vTiles2 tile $14, WriteTileFromAnimBuffer
+	dw NULL,  WaitTileAnimation
+	dw vTiles2 tile $0d, ReadTileToAnimBuffer
+	dw wTileAnimBuffer, ScrollTileRightLeft
+	dw vTiles2 tile $0d, WriteTileFromAnimBuffer
+	dw NULL,  WaitTileAnimation
+	dw NULL,  AnimateFlowerTile
+	dw vTiles2 tile $00, ReadTileToAnimBuffer
+	dw wTileAnimBuffer, ScrollTileDown
+	dw wTileAnimBuffer, ScrollTileDown
+	dw wTileAnimBuffer, ScrollTileDown
+	dw vTiles2 tile $00, WriteTileFromAnimBuffer
+	dw NULL,  StandingTileFrame8
+	dw NULL,  DoneTileAnimation
+
 TilesetJohtoModernAnim::
-TilesetJohtoAnim:
-TilesetKantoAnim::
-TilesetParkAnim::
-TilesetForestAnim::
 	dw vTiles2 tile $14, ReadTileToAnimBuffer
 	dw wTileAnimBuffer, ScrollTileRightLeft
 	dw vTiles2 tile $14, WriteTileFromAnimBuffer
@@ -82,6 +95,9 @@ TilesetDarkCaveAnim:
 	dw vTiles2 tile $40, WriteTileFromAnimBuffer
 	dw NULL,  DoneTileAnimation
 
+TilesetKantoAnim::
+TilesetParkAnim::
+TilesetForestAnim::
 TilesetIcePathAnim:
 TilesetEliteFourRoomAnim:
 TilesetTowerAnim:

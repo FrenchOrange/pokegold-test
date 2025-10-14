@@ -8,9 +8,8 @@ MACRO tilepal
 	endr
 ENDM
 
+TilesetOverworldPalMap:
 TilesetKantoPalMap:
-Tileset0PalMap:
-TilesetJohtoPalMap:
 TilesetJohtoModernPalMap:
 TilesetHousePalMap:
 TilesetPlayersHousePalMap:
