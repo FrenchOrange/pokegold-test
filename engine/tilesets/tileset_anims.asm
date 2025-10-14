@@ -56,6 +56,7 @@ TilesetOverworldAnim:
 	dw NULL,  DoneTileAnimation
 
 TilesetPortAnim:
+TilesetForestAnim::
 	dw vTiles2 tile $14, ReadTileToAnimBuffer
 	dw wTileAnimBuffer, ScrollTileRightLeft
 	dw vTiles2 tile $14, WriteTileFromAnimBuffer
@@ -87,7 +88,6 @@ TilesetHouseAnim:
 TilesetMansionAnim:
 TilesetKantoAnim::
 TilesetParkAnim::
-TilesetForestAnim::
 TilesetIcePathAnim:
 TilesetEliteFourRoomAnim:
 TilesetTowerAnim:

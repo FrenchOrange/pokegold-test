@@ -48,7 +48,7 @@
 	tilecoll HOP_DOWN, FLOOR, WALL, FLOOR ; 2f
 	tilecoll WALL, WALL, WALL, WALL ; 30
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 31
-	tilecoll WALL, FLOOR, WALL, WALL ; 32
+	tilecoll WALL, FLOOR, WALL, PIT ; 32
 	tilecoll FLOOR, WALL, WALL, FLOOR ; 33
 	tilecoll WALL, FLOOR, FLOOR, WALL ; 34
 	tilecoll FLOOR, CUT_TREE, WALL, FLOOR ; 35

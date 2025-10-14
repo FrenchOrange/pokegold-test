@@ -18,6 +18,7 @@ Tilesets::
 	tileset TilesetHouse
 	tileset TilesetMansion
 	tileset TilesetPort
+	tileset TilesetForest
 	tileset TilesetKanto
 	tileset TilesetPokecenter
 	tileset TilesetGate
@@ -38,5 +39,4 @@ Tilesets::
 	tileset TilesetUnderground
 	tileset TilesetIcePath
 	tileset TilesetDarkCave
-	tileset TilesetForest
 	assert_table_length NUM_TILESETS

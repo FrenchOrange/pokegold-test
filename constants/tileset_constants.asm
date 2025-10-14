@@ -5,6 +5,7 @@
 	const TILESET_HOUSE                ; 03
 	const TILESET_MANSION              ; 04
 	const TILESET_PORT                 ; 05
+	const TILESET_FOREST               ; 0a
 	const TILESET_KANTO                ; 03
 	const TILESET_POKECENTER           ; 06
 	const TILESET_GATE                 ; 07
@@ -25,7 +26,6 @@
 	const TILESET_UNDERGROUND          ; 19
 	const TILESET_ICE_PATH             ; 1a
 	const TILESET_DARK_CAVE            ; 1b
-	const TILESET_FOREST               ; 1c
 DEF NUM_TILESETS EQU const_value
 
 ; wTileset struct size

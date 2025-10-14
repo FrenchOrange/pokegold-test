@@ -12,6 +12,7 @@ TilesetOverworldPalMap:
 TilesetPlayersHousePalMap:
 TilesetHousePalMap:
 TilesetMansionPalMap:
+TilesetForestPalMap:
 TilesetKantoPalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
@@ -33,7 +34,6 @@ TilesetUndergroundPalMap:
 TilesetChampionsRoomPalMap:
 TilesetLighthousePalMap:
 TilesetIcePathPalMap:
-TilesetForestPalMap:
 INCLUDE "gfx/tilesets/dummy_palette_map.asm"
 
 MapGroupPalettes:
