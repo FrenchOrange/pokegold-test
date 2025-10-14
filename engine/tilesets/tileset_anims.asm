@@ -57,6 +57,7 @@ TilesetOverworldAnim:
 
 TilesetPortAnim:
 TilesetForestAnim::
+TilesetShipAnim:
 	dw vTiles2 tile $14, ReadTileToAnimBuffer
 	dw wTileAnimBuffer, ScrollTileRightLeft
 	dw vTiles2 tile $14, WriteTileFromAnimBuffer
@@ -94,14 +95,13 @@ TilesetGateAnim:
 TilesetIcePathAnim:
 TilesetEliteFourRoomAnim:
 TilesetTowerAnim:
-TilesetLabAnim:
+TilesetClubAnim:
 TilesetFacilityAnim:
 TilesetMartAnim:
 TilesetGameCornerAnim:
 TilesetTraditionalHouseAnim:
 TilesetTrainStationAnim:
 TilesetChampionsRoomAnim:
-TilesetLighthouseAnim:
 TilesetRuinsOfAlphAnim:
 TilesetUndergroundAnim:
 	dw NULL,  WaitTileAnimation

@@ -19,7 +19,7 @@ TilesetGymPalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
 TilesetForestPalMap:
-TilesetLabPalMap:
+TilesetClubPalMap:
 TilesetFacilityPalMap:
 TilesetMartPalMap:
 TilesetGameCornerPalMap:
@@ -32,7 +32,7 @@ TilesetRuinsOfAlphPalMap:
 TilesetTrainStationPalMap:
 TilesetUndergroundPalMap:
 TilesetChampionsRoomPalMap:
-TilesetLighthousePalMap:
+TilesetShipPalMap:
 TilesetIcePathPalMap:
 INCLUDE "gfx/tilesets/dummy_palette_map.asm"
 

@@ -24,7 +24,7 @@ Tilesets::
 	tileset TilesetPokecenter
 	tileset TilesetGate
 	tileset TilesetForest
-	tileset TilesetLab
+	tileset TilesetClub
 	tileset TilesetFacility
 	tileset TilesetMart
 	tileset TilesetGameCorner
@@ -32,7 +32,7 @@ Tilesets::
 	tileset TilesetTraditionalHouse
 	tileset TilesetTrainStation
 	tileset TilesetChampionsRoom
-	tileset TilesetLighthouse
+	tileset TilesetShip
 	tileset TilesetTower
 	tileset TilesetCave
 	tileset TilesetRuinsOfAlph

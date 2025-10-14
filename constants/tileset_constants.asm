@@ -11,7 +11,7 @@
 	const TILESET_POKECENTER           ; 08
 	const TILESET_GATE                 ; 09
 	const TILESET_FOREST               ; 0a
-	const TILESET_LAB                  ; 0x
+	const TILESET_CLUB                 ; 0x
 	const TILESET_FACILITY             ; 0x
 	const TILESET_MART                 ; 0x
 	const TILESET_GAME_CORNER          ; 0x
@@ -19,7 +19,7 @@
 	const TILESET_TRADITIONAL_HOUSE    ; 0x
 	const TILESET_TRAIN_STATION        ; 10
 	const TILESET_CHAMPIONS_ROOM       ; 11
-	const TILESET_LIGHTHOUSE           ; 12
+	const TILESET_SHIP                 ; 12
 	const TILESET_TOWER                ; 14
 	const TILESET_CAVE                 ; 15
 	const TILESET_RUINS_OF_ALPH        ; 17

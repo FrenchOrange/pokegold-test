@@ -101,14 +101,14 @@ INCBIN "data/tilesets/tower_metatiles.bin"
 TilesetTowerColl::
 INCLUDE "data/tilesets/tower_collision.asm"
 
-TilesetLabGFX::
-INCBIN "gfx/tilesets/lab.2bpp.lz"
+TilesetClubGFX::
+INCBIN "gfx/tilesets/club.2bpp.lz"
 
-TilesetLabMeta::
-INCBIN "data/tilesets/lab_metatiles.bin"
+TilesetClubMeta::
+INCBIN "data/tilesets/club_metatiles.bin"
 
-TilesetLabColl::
-INCLUDE "data/tilesets/lab_collision.asm"
+TilesetClubColl::
+INCLUDE "data/tilesets/club_collision.asm"
 
 TilesetFacilityGFX::
 INCBIN "gfx/tilesets/facility.2bpp.lz"
@@ -227,14 +227,14 @@ INCBIN "data/tilesets/house_metatiles.bin"
 TilesetHouseColl::
 INCLUDE "data/tilesets/house_collision.asm"
 
-TilesetLighthouseGFX::
-INCBIN "gfx/tilesets/lighthouse.2bpp.lz"
+TilesetShipGFX::
+INCBIN "gfx/tilesets/ship.2bpp.lz"
 
-TilesetLighthouseMeta::
-INCBIN "data/tilesets/lighthouse_metatiles.bin"
+TilesetShipMeta::
+INCBIN "data/tilesets/ship_metatiles.bin"
 
-TilesetLighthouseColl::
-INCLUDE "data/tilesets/lighthouse_collision.asm"
+TilesetShipColl::
+INCLUDE "data/tilesets/ship_collision.asm"
 
 TilesetForestColl::
 INCLUDE "data/tilesets/forest_collision.asm"
