@@ -17,11 +17,10 @@ Tilesets::
 	tileset TilesetPlayersHouse
 	tileset TilesetHouse
 	tileset TilesetMansion
-	tileset TilesetJohtoModern
+	tileset TilesetPort
 	tileset TilesetKanto
 	tileset TilesetPokecenter
 	tileset TilesetGate
-	tileset TilesetPort
 	tileset TilesetLab
 	tileset TilesetFacility
 	tileset TilesetMart

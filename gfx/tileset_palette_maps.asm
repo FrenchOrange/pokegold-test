@@ -13,7 +13,6 @@ TilesetPlayersHousePalMap:
 TilesetHousePalMap:
 TilesetMansionPalMap:
 TilesetKantoPalMap:
-TilesetJohtoModernPalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
 TilesetPortPalMap:

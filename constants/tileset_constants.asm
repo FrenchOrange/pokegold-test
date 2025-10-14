@@ -4,11 +4,10 @@
 	const TILESET_PLAYERS_HOUSE        ; 02
 	const TILESET_HOUSE                ; 03
 	const TILESET_MANSION              ; 04
-	const TILESET_JOHTO_MODERN         ; 02
+	const TILESET_PORT                 ; 05
 	const TILESET_KANTO                ; 03
 	const TILESET_POKECENTER           ; 06
 	const TILESET_GATE                 ; 07
-	const TILESET_PORT                 ; 08
 	const TILESET_LAB                  ; 09
 	const TILESET_FACILITY             ; 0a
 	const TILESET_MART                 ; 0b

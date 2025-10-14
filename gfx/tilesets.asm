@@ -21,15 +21,6 @@ INCBIN "data/tilesets/kanto_metatiles.bin"
 TilesetKantoColl::
 INCLUDE "data/tilesets/kanto_collision.asm"
 
-TilesetJohtoModernGFX::
-INCBIN "gfx/tilesets/johto_modern.2bpp.lz"
-
-TilesetJohtoModernMeta::
-INCBIN "data/tilesets/johto_modern_metatiles.bin"
-
-TilesetJohtoModernColl::
-INCLUDE "data/tilesets/johto_modern_collision.asm"
-
 TilesetTraditionalHouseGFX::
 INCBIN "gfx/tilesets/traditional_house.2bpp.lz"
 
