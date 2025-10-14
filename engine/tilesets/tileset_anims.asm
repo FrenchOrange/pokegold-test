@@ -86,13 +86,14 @@ TilesetDarkCaveAnim:
 TilesetPlayersHouseAnim:
 TilesetHouseAnim:
 TilesetMansionAnim:
-TilesetKantoAnim::
-TilesetParkAnim::
+TilesetLobbyAnim:
+TilesetPlateauAnim::
+TilesetGymAnim::
+TilesetPokecenterAnim:
+TilesetGateAnim:
 TilesetIcePathAnim:
 TilesetEliteFourRoomAnim:
 TilesetTowerAnim:
-TilesetPokecenterAnim:
-TilesetGateAnim:
 TilesetLabAnim:
 TilesetFacilityAnim:
 TilesetMartAnim:
@@ -102,7 +103,6 @@ TilesetTrainStationAnim:
 TilesetChampionsRoomAnim:
 TilesetLighthouseAnim:
 TilesetRuinsOfAlphAnim:
-TilesetRadioTowerAnim:
 TilesetUndergroundAnim:
 	dw NULL,  WaitTileAnimation
 	dw NULL,  WaitTileAnimation

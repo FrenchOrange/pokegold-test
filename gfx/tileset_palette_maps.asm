@@ -12,11 +12,13 @@ TilesetOverworldPalMap:
 TilesetPlayersHousePalMap:
 TilesetHousePalMap:
 TilesetMansionPalMap:
-TilesetForestPalMap:
-TilesetKantoPalMap:
+TilesetPortPalMap:
+TilesetLobbyPalMap:
+TilesetPlateauPalMap:
+TilesetGymPalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
-TilesetPortPalMap:
+TilesetForestPalMap:
 TilesetLabPalMap:
 TilesetFacilityPalMap:
 TilesetMartPalMap:
@@ -26,9 +28,7 @@ TilesetTraditionalHousePalMap:
 TilesetTowerPalMap:
 TilesetCavePalMap:
 TilesetDarkCavePalMap:
-TilesetParkPalMap:
 TilesetRuinsOfAlphPalMap:
-TilesetRadioTowerPalMap:
 TilesetTrainStationPalMap:
 TilesetUndergroundPalMap:
 TilesetChampionsRoomPalMap:

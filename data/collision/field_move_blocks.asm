@@ -2,6 +2,7 @@
 CutTreeBlockPointers:
 ; tileset, block list pointer
 	dbw TILESET_OVERWORLD,    .overworld
+	dbw TILESET_PLATEAU,      .plateau
 	dbw TILESET_FOREST,       .forest
 	db -1 ; end
 
@@ -9,6 +10,12 @@ CutTreeBlockPointers:
 ; facing block, replacement block, animation
 	db $0b, $0a, 1 ; grass
 	db $35, $4c, 0 ; tree
+	db -1 ; end
+
+.plateau
+; facing block, replacement block, animation
+	db $04, $46, 1 ; grass
+	db $13, $12, 1 ; grass
 	db -1 ; end
 
 .forest:

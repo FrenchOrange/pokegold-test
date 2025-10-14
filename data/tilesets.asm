@@ -18,10 +18,12 @@ Tilesets::
 	tileset TilesetHouse
 	tileset TilesetMansion
 	tileset TilesetPort
-	tileset TilesetForest
-	tileset TilesetKanto
+	tileset TilesetLobby
+	tileset TilesetPlateau
+	tileset TilesetGym
 	tileset TilesetPokecenter
 	tileset TilesetGate
+	tileset TilesetForest
 	tileset TilesetLab
 	tileset TilesetFacility
 	tileset TilesetMart
@@ -33,9 +35,7 @@ Tilesets::
 	tileset TilesetLighthouse
 	tileset TilesetTower
 	tileset TilesetCave
-	tileset TilesetPark
 	tileset TilesetRuinsOfAlph
-	tileset TilesetRadioTower
 	tileset TilesetUnderground
 	tileset TilesetIcePath
 	tileset TilesetDarkCave

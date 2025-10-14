@@ -15,11 +15,11 @@ INCBIN "data/tilesets/overworld_metatiles.bin"
 TilesetOverworldColl::
 INCLUDE "data/tilesets/overworld_collision.asm"
 
-TilesetKantoMeta::
-INCBIN "data/tilesets/kanto_metatiles.bin"
+TilesetPlateauMeta::
+INCBIN "data/tilesets/plateau_metatiles.bin"
 
-TilesetKantoColl::
-INCLUDE "data/tilesets/kanto_collision.asm"
+TilesetPlateauColl::
+INCLUDE "data/tilesets/plateau_collision.asm"
 
 TilesetTraditionalHouseGFX::
 INCBIN "gfx/tilesets/traditional_house.2bpp.lz"
@@ -158,14 +158,11 @@ INCBIN "data/tilesets/elite_four_room_metatiles.bin"
 TilesetEliteFourRoomColl::
 INCLUDE "data/tilesets/elite_four_room_collision.asm"
 
-TilesetParkGFX::
-INCBIN "gfx/tilesets/park.2bpp.lz"
+TilesetGymGFX::
+INCBIN "gfx/tilesets/gym.2bpp.lz"
 
-TilesetParkMeta::
-INCBIN "data/tilesets/park_metatiles.bin"
-
-TilesetParkColl::
-INCLUDE "data/tilesets/park_collision.asm"
+TilesetGymMeta::
+INCBIN "data/tilesets/gym_metatiles.bin"
 
 TilesetRuinsOfAlphGFX::
 INCBIN "gfx/tilesets/ruins_of_alph.2bpp.lz"
@@ -176,14 +173,14 @@ INCBIN "data/tilesets/ruins_of_alph_metatiles.bin"
 TilesetRuinsOfAlphColl::
 INCLUDE "data/tilesets/ruins_of_alph_collision.asm"
 
-TilesetRadioTowerGFX::
-INCBIN "gfx/tilesets/radio_tower.2bpp.lz"
+TilesetLobbyGFX::
+INCBIN "gfx/tilesets/lobby.2bpp.lz"
 
-TilesetRadioTowerMeta::
-INCBIN "data/tilesets/radio_tower_metatiles.bin"
+TilesetLobbyMeta::
+INCBIN "data/tilesets/lobby_metatiles.bin"
 
-TilesetRadioTowerColl::
-INCLUDE "data/tilesets/radio_tower_collision.asm"
+TilesetLobbyColl::
+INCLUDE "data/tilesets/lobby_collision.asm"
 
 TilesetUndergroundGFX::
 INCBIN "gfx/tilesets/underground.2bpp.lz"
@@ -245,8 +242,11 @@ INCLUDE "data/tilesets/forest_collision.asm"
 
 SECTION "Tileset Data 6", ROMX
 
-TilesetKantoGFX::
-INCBIN "gfx/tilesets/kanto.2bpp.lz"
+TilesetGymColl::
+INCLUDE "data/tilesets/gym_collision.asm"
+
+TilesetPlateauGFX::
+INCBIN "gfx/tilesets/plateau.2bpp.lz"
 
 TilesetForestMeta::
 INCBIN "data/tilesets/forest_metatiles.bin"
