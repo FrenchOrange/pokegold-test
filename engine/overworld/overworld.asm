@@ -236,10 +236,6 @@ LoadMiscTiles:
 
 	ld c, EMOTE_SHADOW
 	farcall LoadEmote
-	call GetMapEnvironment
-	call CheckOutdoorMap
-	ld c, EMOTE_GRASS_RUSTLE
-	farcall LoadEmote
 	ret
 
 GetSprite:

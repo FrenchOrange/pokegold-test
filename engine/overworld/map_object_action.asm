@@ -241,17 +241,4 @@ SetFacingBoulderDust:
 	ret
 
 SetFacingGrassShake:
-	ld hl, OBJECT_STEP_FRAME
-	add hl, bc
-	inc [hl]
-	ld a, [hl]
-	ld hl, OBJECT_FACING
-	add hl, bc
-	and 4
-	ld a, FACING_GRASS_1
-	jr z, .ok
-	assert FACING_GRASS_1 + 1 == FACING_GRASS_2
-	inc a
-.ok
-	ld [hl], a
 	ret
