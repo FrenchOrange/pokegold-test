@@ -11,21 +11,18 @@
 	const TILESET_POKECENTER           ; 08
 	const TILESET_GATE                 ; 09
 	const TILESET_FOREST               ; 0a
-	const TILESET_CLUB                 ; 0x
-	const TILESET_FACILITY             ; 0x
-	const TILESET_MART                 ; 0x
-	const TILESET_GAME_CORNER          ; 0x
-	const TILESET_ELITE_FOUR_ROOM      ; 0x
-	const TILESET_TRADITIONAL_HOUSE    ; 0x
-	const TILESET_TRAIN_STATION        ; 10
-	const TILESET_CHAMPIONS_ROOM       ; 11
-	const TILESET_SHIP                 ; 12
-	const TILESET_TOWER                ; 14
-	const TILESET_CAVE                 ; 15
-	const TILESET_RUINS_OF_ALPH        ; 17
-	const TILESET_UNDERGROUND          ; 19
-	const TILESET_ICE_PATH             ; 1a
-	const TILESET_DARK_CAVE            ; 1b
+	const TILESET_DREAMYARD            ; 0b
+	const TILESET_TOWER                ; 0c
+	const TILESET_CAVE                 ; 0d
+	const TILESET_MART                 ; 0e
+	const TILESET_SHIP                 ; 0f
+	const TILESET_CLUB                 ; 10
+	const TILESET_FACILITY             ; 11
+	const TILESET_UNDERGROUND          ; 12
+	const TILESET_ELITE_FOUR_ROOM      ; 13
+	const TILESET_TRAIN_STATION        ; 14
+	const TILESET_ABYSSAL_RUINS        ; 15
+	const TILESET_DARK_CAVE            ; 16
 DEF NUM_TILESETS EQU const_value
 
 ; wTileset struct size

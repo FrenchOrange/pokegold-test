@@ -24,19 +24,16 @@ Tilesets::
 	tileset TilesetPokecenter
 	tileset TilesetGate
 	tileset TilesetForest
-	tileset TilesetClub
-	tileset TilesetFacility
-	tileset TilesetMart
-	tileset TilesetGameCorner
-	tileset TilesetEliteFourRoom
-	tileset TilesetTraditionalHouse
-	tileset TilesetTrainStation
-	tileset TilesetChampionsRoom
-	tileset TilesetShip
+	tileset TilesetDreamyard
 	tileset TilesetTower
 	tileset TilesetCave
-	tileset TilesetRuinsOfAlph
+	tileset TilesetMart
+	tileset TilesetShip
+	tileset TilesetClub
+	tileset TilesetFacility
 	tileset TilesetUnderground
-	tileset TilesetIcePath
+	tileset TilesetEliteFourRoom
+	tileset TilesetTrainStation
+	tileset TilesetAbyssalRuins
 	tileset TilesetDarkCave
 	assert_table_length NUM_TILESETS

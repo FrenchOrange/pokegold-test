@@ -21,14 +21,14 @@ INCBIN "data/tilesets/plateau_metatiles.bin"
 TilesetPlateauColl::
 INCLUDE "data/tilesets/plateau_collision.asm"
 
-TilesetTraditionalHouseGFX::
-INCBIN "gfx/tilesets/traditional_house.2bpp.lz"
+TilesetDreamyardGFX::
+INCBIN "gfx/tilesets/dreamyard.2bpp.lz"
 
-TilesetTraditionalHouseMeta::
-INCBIN "data/tilesets/traditional_house_metatiles.bin"
+TilesetDreamyardMeta::
+INCBIN "data/tilesets/dreamyard_metatiles.bin"
 
-TilesetTraditionalHouseColl::
-INCLUDE "data/tilesets/traditional_house_collision.asm"
+TilesetDreamyardColl::
+INCLUDE "data/tilesets/dreamyard_collision.asm"
 
 
 SECTION "Tileset Data 2", ROMX
@@ -128,15 +128,6 @@ INCBIN "data/tilesets/mart_metatiles.bin"
 TilesetMartColl::
 INCLUDE "data/tilesets/mart_collision.asm"
 
-TilesetGameCornerGFX::
-INCBIN "gfx/tilesets/game_corner.2bpp.lz"
-
-TilesetGameCornerMeta::
-INCBIN "data/tilesets/game_corner_metatiles.bin"
-
-TilesetGameCornerColl::
-INCLUDE "data/tilesets/game_corner_collision.asm"
-
 TilesetTrainStationGFX::
 INCBIN "gfx/tilesets/train_station.2bpp.lz"
 
@@ -164,14 +155,14 @@ INCBIN "gfx/tilesets/gym.2bpp.lz"
 TilesetGymMeta::
 INCBIN "data/tilesets/gym_metatiles.bin"
 
-TilesetRuinsOfAlphGFX::
-INCBIN "gfx/tilesets/ruins_of_alph.2bpp.lz"
+TilesetAbyssalRuinsGFX::
+INCBIN "gfx/tilesets/abyssal_ruins.2bpp.lz"
 
-TilesetRuinsOfAlphMeta::
-INCBIN "data/tilesets/ruins_of_alph_metatiles.bin"
+TilesetAbyssalRuinsMeta::
+INCBIN "data/tilesets/abyssal_ruins_metatiles.bin"
 
-TilesetRuinsOfAlphColl::
-INCLUDE "data/tilesets/ruins_of_alph_collision.asm"
+TilesetAbyssalRuinsColl::
+INCLUDE "data/tilesets/abyssal_ruins_collision.asm"
 
 TilesetLobbyGFX::
 INCBIN "gfx/tilesets/lobby.2bpp.lz"
@@ -191,15 +182,6 @@ INCBIN "data/tilesets/underground_metatiles.bin"
 TilesetUndergroundColl::
 INCLUDE "data/tilesets/underground_collision.asm"
 
-TilesetIcePathGFX::
-INCBIN "gfx/tilesets/ice_path.2bpp.lz"
-
-TilesetIcePathMeta::
-INCBIN "data/tilesets/ice_path_metatiles.bin"
-
-TilesetIcePathColl::
-INCLUDE "data/tilesets/ice_path_collision.asm"
-
 TilesetDarkCaveGFX::
 INCBIN "gfx/tilesets/dark_cave.2bpp.lz"
 
@@ -208,15 +190,6 @@ INCBIN "gfx/tilesets/forest.2bpp.lz"
 
 
 SECTION "Tileset Data 5", ROMX
-
-TilesetChampionsRoomGFX::
-INCBIN "gfx/tilesets/champions_room.2bpp.lz"
-
-TilesetChampionsRoomMeta::
-INCBIN "data/tilesets/champions_room_metatiles.bin"
-
-TilesetChampionsRoomColl::
-INCLUDE "data/tilesets/champions_room_collision.asm"
 
 TilesetHouseGFX::
 INCBIN "gfx/tilesets/house.2bpp.lz"

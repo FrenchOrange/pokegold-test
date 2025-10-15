@@ -92,18 +92,15 @@ TilesetPlateauAnim::
 TilesetGymAnim::
 TilesetPokecenterAnim:
 TilesetGateAnim:
-TilesetIcePathAnim:
-TilesetEliteFourRoomAnim:
+TilesetDreamyardAnim:
 TilesetTowerAnim:
+TilesetMartAnim:
 TilesetClubAnim:
 TilesetFacilityAnim:
-TilesetMartAnim:
-TilesetGameCornerAnim:
-TilesetTraditionalHouseAnim:
-TilesetTrainStationAnim:
-TilesetChampionsRoomAnim:
-TilesetRuinsOfAlphAnim:
 TilesetUndergroundAnim:
+TilesetEliteFourRoomAnim:
+TilesetTrainStationAnim:
+TilesetAbyssalRuinsAnim:
 	dw NULL,  WaitTileAnimation
 	dw NULL,  WaitTileAnimation
 	dw NULL,  WaitTileAnimation

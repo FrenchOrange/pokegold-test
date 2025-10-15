@@ -19,21 +19,18 @@ TilesetGymPalMap:
 TilesetPokecenterPalMap:
 TilesetGatePalMap:
 TilesetForestPalMap:
-TilesetClubPalMap:
-TilesetFacilityPalMap:
-TilesetMartPalMap:
-TilesetGameCornerPalMap:
-TilesetEliteFourRoomPalMap:
-TilesetTraditionalHousePalMap:
+TilesetDreamyardPalMap:
 TilesetTowerPalMap:
 TilesetCavePalMap:
-TilesetDarkCavePalMap:
-TilesetRuinsOfAlphPalMap:
-TilesetTrainStationPalMap:
-TilesetUndergroundPalMap:
-TilesetChampionsRoomPalMap:
+TilesetMartPalMap:
 TilesetShipPalMap:
-TilesetIcePathPalMap:
+TilesetClubPalMap:
+TilesetFacilityPalMap:
+TilesetUndergroundPalMap:
+TilesetEliteFourRoomPalMap:
+TilesetTrainStationPalMap:
+TilesetAbyssalRuinsPalMap:
+TilesetDarkCavePalMap:
 INCLUDE "gfx/tilesets/dummy_palette_map.asm"
 
 MapGroupPalettes:
