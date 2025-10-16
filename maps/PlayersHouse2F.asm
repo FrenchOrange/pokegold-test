@@ -45,6 +45,7 @@ DebugSign:
 	giveitem RARE_CANDY, 99
 	giveitem MAX_REPEL, 99
 	giveitem ESCAPE_ROPE, 99
+	giveitem MAIL, 5
 	giveitem TOWN_MAP
 	giveitem BICYCLE
 	giveitem OLD_ROD

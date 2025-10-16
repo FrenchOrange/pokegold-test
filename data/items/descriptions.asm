@@ -158,7 +158,7 @@ ItemDescriptions:
 	dw TeruSama24Desc
 	dw SacredAshDesc
 	dw HeavyBallDesc
-	dw FlowerMailDesc
+	dw MailDesc
 	dw LevelBallDesc
 	dw LureBallDesc
 	dw FastBallDesc
@@ -181,15 +181,15 @@ ItemDescriptions:
 	dw RainbowWingDesc
 	dw TeruSama28Desc
 	dw BrickPieceDesc
-	dw SurfMailDesc
-	dw LiteBlueMailDesc
-	dw PortraitMailDesc
-	dw LovelyMailDesc
-	dw EonMailDesc
-	dw MorphMailDesc
-	dw BlueSkyMailDesc
-	dw MusicMailDesc
-	dw MirageMailDesc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
+	dw TeruSama29Desc
 	dw TeruSama29Desc
 	assert_table_length NUM_ITEMS
 	dw TeruSama30Desc
@@ -858,8 +858,8 @@ HeavyBallDesc:
 	db   "A BALL for catch-"
 	next "ing heavy #MON.@"
 
-FlowerMailDesc:
-	db   "Flower-print MAIL."
+MailDesc:
+	db   "MAIL for #MON."
 	next "(HOLD)@"
 
 LevelBallDesc:
@@ -945,42 +945,6 @@ TeruSama28Desc:
 BrickPieceDesc:
 	db   "A rare chunk of"
 	next "brick.@"
-
-SurfMailDesc:
-	db   "LAPRAS-print MAIL."
-	next "(HOLD)@"
-
-LiteBlueMailDesc:
-	db   "DRATINI-print"
-	next "MAIL. (HOLD)@"
-
-PortraitMailDesc:
-	db   "MAIL featuring the"
-	next "holder's likeness.@"
-
-LovelyMailDesc:
-	db   "Heart-print MAIL."
-	next "(HOLD)@"
-
-EonMailDesc:
-	db   "EEVEE-print MAIL."
-	next "(HOLD)@"
-
-MorphMailDesc:
-	db   "DITTO-print MAIL."
-	next "(HOLD)@"
-
-BlueSkyMailDesc:
-	db   "Sky-print MAIL."
-	next "(HOLD)@"
-
-MusicMailDesc:
-	db   "NATU-print MAIL."
-	next "(HOLD)@"
-
-MirageMailDesc:
-	db   "MEW-print MAIL."
-	next "(HOLD)@"
 
 TeruSama29Desc:
 	db   "?@"

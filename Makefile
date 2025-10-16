@@ -244,11 +244,7 @@ gfx/intro/fire3.2bpp: gfx/intro/fire.2bpp ; cat $^ > $@
 gfx/new_game/shrink1.2bpp: rgbgfx += --columns
 gfx/new_game/shrink2.2bpp: rgbgfx += --columns
 
-gfx/mail/dragonite.1bpp: tools/gfx += --remove-whitespace
-gfx/mail/large_note.1bpp: tools/gfx += --remove-whitespace
-gfx/mail/surf_mail_border.1bpp: tools/gfx += --remove-whitespace
 gfx/mail/flower_mail_border.1bpp: tools/gfx += --remove-whitespace
-gfx/mail/litebluemail_border.1bpp: tools/gfx += --remove-whitespace
 
 gfx/pokedex/pokedex.2bpp: tools/gfx += --trim-whitespace
 gfx/pokedex/pokedex_sgb.2bpp: tools/gfx += --trim-whitespace
