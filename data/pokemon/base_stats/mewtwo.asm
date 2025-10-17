@@ -11,11 +11,7 @@
 	db 100 ; unknown 1
 	db 120 ; step cycles to hatch
 	db 5 ; unknown 2
-IF DEF(_GOLD)
-	INCBIN "gfx/pokemon/mewtwo/front_gold.dimensions"
-ELIF DEF(_SILVER)
-	INCBIN "gfx/pokemon/mewtwo/front_silver.dimensions"
-ENDC
+	INCBIN "gfx/pokemon/mewtwo/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
 	dn EGG_NONE, EGG_NONE ; egg groups

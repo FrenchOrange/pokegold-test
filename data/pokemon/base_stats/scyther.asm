@@ -11,11 +11,7 @@
 	db 100 ; unknown 1
 	db 25 ; step cycles to hatch
 	db 5 ; unknown 2
-IF DEF(_GOLD)
-	INCBIN "gfx/pokemon/scyther/front_gold.dimensions"
-ELIF DEF(_SILVER)
-	INCBIN "gfx/pokemon/scyther/front_silver.dimensions"
-ENDC
+	INCBIN "gfx/pokemon/scyther/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_BUG, EGG_BUG ; egg groups

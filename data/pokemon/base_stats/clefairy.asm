@@ -11,11 +11,7 @@
 	db 100 ; unknown 1
 	db 10 ; step cycles to hatch
 	db 5 ; unknown 2
-IF DEF(_GOLD)
-	INCBIN "gfx/pokemon/clefairy/front_gold.dimensions"
-ELIF DEF(_SILVER)
-	INCBIN "gfx/pokemon/clefairy/front_silver.dimensions"
-ENDC
+	INCBIN "gfx/pokemon/clefairy/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
 	dn EGG_FAIRY, EGG_FAIRY ; egg groups

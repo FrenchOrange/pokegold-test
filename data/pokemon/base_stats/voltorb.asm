@@ -11,11 +11,7 @@
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
-IF DEF(_GOLD)
-	INCBIN "gfx/pokemon/voltorb/front_gold.dimensions"
-ELIF DEF(_SILVER)
-	INCBIN "gfx/pokemon/voltorb/front_silver.dimensions"
-ENDC
+	INCBIN "gfx/pokemon/voltorb/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups
