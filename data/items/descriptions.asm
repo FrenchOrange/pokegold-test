@@ -191,9 +191,9 @@ ItemDescriptions:
 	dw TeruSama29Desc
 	dw TeruSama29Desc
 	dw TeruSama29Desc
+	dw TeruSama30Desc
+	dw TeruSama30Desc
 	assert_table_length NUM_ITEMS
-	dw TeruSama30Desc
-	dw TeruSama30Desc
 	dw TeruSama30Desc
 	dw TeruSama30Desc
 	dw TeruSama30Desc

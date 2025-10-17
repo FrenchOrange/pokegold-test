@@ -204,6 +204,8 @@ ItemEffects:
 	dw NoEffect            ; ITEM_BC
 	dw NoEffect            ; ITEM_BD
 	dw NoEffect            ; ITEM_BE
+	dw NoEffect            ; ITEM_C3
+	dw NoEffect            ; ITEM_DC
 	assert_table_length NUM_ITEMS
 
 PokeBallEffect:

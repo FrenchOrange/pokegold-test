@@ -58,8 +58,7 @@ DebugSign:
 	giveitem HM_FLASH
 	giveitem HM_WHIRLPOOL
 	giveitem HM_WATERFALL
-	giveitem TM_ROCK_SMASH, 99
-	giveitem TM_DIG, 99
+	giveitem TM_DIG
 	opentext
 ; debug team
 	givepoke FERALIGATR, 100
