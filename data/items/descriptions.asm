@@ -157,16 +157,16 @@ ItemDescriptions:
 	dw TeruSama23Desc
 	dw TeruSama24Desc
 	dw SacredAshDesc
-	dw HeavyBallDesc
+	dw TimerBallDesc
 	dw MailDesc
-	dw LevelBallDesc
-	dw LureBallDesc
+	dw NestBallDesc
+	dw NetBallDesc
 	dw QuickBallDesc
 	dw TeruSama25Desc
 	dw LightBallDesc
-	dw FriendBallDesc
-	dw MoonBallDesc
-	dw LoveBallDesc
+	dw LuxuryBallDesc
+	dw DuskBallDesc
+	dw RepeatBallDesc
 	dw NormalBoxDesc
 	dw GorgeousBoxDesc
 	dw SunStoneDesc
@@ -854,21 +854,21 @@ SacredAshDesc:
 	db   "Fully revives all"
 	next "fainted #MON.@"
 
-HeavyBallDesc:
-	db   "A BALL for catch-"
-	next "ing heavy #MON.@"
+TimerBallDesc:
+	db   "A BALL for late"
+	next "in a battle.@"
 
 MailDesc:
 	db   "MAIL for #MON."
 	next "(HOLD)@"
 
-LevelBallDesc:
-	db   "A BALL for lower-"
-	next "level #MON.@"
+NestBallDesc:
+	db   "A BALL for weaker"
+	next "#MON.@"
 
-LureBallDesc:
-	db   "A BALL for #MON"
-	next "hooked by a ROD.@"
+NetBallDesc:
+	db   "A BALL for WATER"
+	next "or BUG #MON.@"
 
 QuickBallDesc:
 	db   "A BALL for early"
@@ -881,17 +881,17 @@ LightBallDesc:
 	db   "An odd, electrical"
 	next "orb. (HOLD)@"
 
-FriendBallDesc:
-	db   "A BALL that makes"
-	next "#MON friendly.@"
+LuxuryBallDesc:
+	db   "A cozy BALL to"
+	next "befriend #MON.@"
 
-MoonBallDesc:
-	db   "A BALL for MOON"
-	next "STONE evolvers.@"
+DuskBallDesc:
+	db   "A BALL for night-"
+	next "time or caves.@"
 
-LoveBallDesc:
-	db   "For catching the"
-	next "opposite gender.@"
+RepeatBallDesc:
+	db   "A BALL for #MON"
+	next "caught before.@"
 
 NormalBoxDesc:
 	db   "Open it and see"

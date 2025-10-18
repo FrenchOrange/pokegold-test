@@ -170,16 +170,16 @@ ItemEffects:
 	dw NoEffect            ; ITEM_9A
 	dw NoEffect            ; ITEM_9B
 	dw SacredAshEffect     ; SACRED_ASH
-	dw PokeBallEffect      ; HEAVY_BALL
+	dw PokeBallEffect      ; TIMER_BALL
 	dw NoEffect            ; MAIL
-	dw PokeBallEffect      ; LEVEL_BALL
-	dw PokeBallEffect      ; LURE_BALL
+	dw PokeBallEffect      ; NEST_BALL
+	dw PokeBallEffect      ; NET_BALL
 	dw PokeBallEffect      ; QUICK_BALL
 	dw NoEffect            ; ITEM_A2
 	dw NoEffect            ; LIGHT_BALL
-	dw PokeBallEffect      ; FRIEND_BALL
-	dw PokeBallEffect      ; MOON_BALL
-	dw PokeBallEffect      ; LOVE_BALL
+	dw PokeBallEffect      ; LUXURY_BALL
+	dw PokeBallEffect      ; DUSK_BALL
+	dw PokeBallEffect      ; REPEAT_BALL
 	dw NoEffect            ; NORMAL_BOX
 	dw NoEffect            ; GORGEOUS_BOX
 	dw EvoStoneEffect      ; SUN_STONE
@@ -272,7 +272,7 @@ PokeBallEffect:
 
 .skip_or_return_from_ball_fn
 	ld a, [wCurItem]
-	cp LEVEL_BALL
+	cp NEST_BALL
 	ld a, b
 	jp z, .skip_hp_calc
 
@@ -539,8 +539,8 @@ PokeBallEffect:
 	predef TryAddMonToParty
 
 	ld a, [wCurItem]
-	cp FRIEND_BALL
-	jr nz, .SkipPartyMonFriendBall
+	cp LUXURY_BALL
+	jr nz, .SkipPartyMonLuxuryBall
 
 	ld a, [wPartyCount]
 	dec a
@@ -548,10 +548,10 @@ PokeBallEffect:
 	ld bc, PARTYMON_STRUCT_LENGTH
 	call AddNTimes
 
-	ld a, FRIEND_BALL_HAPPINESS
+	ld a, LUXURY_BALL_HAPPINESS
 	ld [hl], a
 
-.SkipPartyMonFriendBall:
+.SkipPartyMonLuxuryBall:
 	ld hl, AskGiveNicknameText
 	call PrintText
 
@@ -602,12 +602,12 @@ PokeBallEffect:
 	set BATTLERESULT_BOX_FULL, [hl]
 .BoxNotFullYet:
 	ld a, [wCurItem]
-	cp FRIEND_BALL
-	jr nz, .SkipBoxMonFriendBall
+	cp LUXURY_BALL
+	jr nz, .SkipBoxMonLuxuryBall
 	; The captured mon is now first in the box
-	ld a, FRIEND_BALL_HAPPINESS
+	ld a, LUXURY_BALL_HAPPINESS
 	ld [sBoxMon1Happiness], a
-.SkipBoxMonFriendBall:
+.SkipBoxMonLuxuryBall:
 	call CloseSRAM
 
 	ld hl, AskGiveNicknameText
@@ -704,12 +704,12 @@ BallMultiplierFunctionTable:
 	dbw ULTRA_BALL,  UltraBallMultiplier
 	dbw GREAT_BALL,  GreatBallMultiplier
 	dbw SAFARI_BALL, SafariBallMultiplier ; Safari Ball, leftover from RBY
-	dbw HEAVY_BALL,  HeavyBallMultiplier
-	dbw LEVEL_BALL,  LevelBallMultiplier
-	dbw LURE_BALL,   LureBallMultiplier
+	dbw TIMER_BALL,  TimerBallMultiplier
+	dbw NEST_BALL,   NestBallMultiplier
+	dbw NET_BALL,    NetBallMultiplier
 	dbw QUICK_BALL,  QuickBallMultiplier
-	dbw MOON_BALL,   MoonBallMultiplier
-	dbw LOVE_BALL,   LoveBallMultiplier
+	dbw DUSK_BALL,   DuskBallMultiplier
+	dbw REPEAT_BALL, RepeatBallMultiplier
 	dbw PARK_BALL,   ParkBallMultiplier
 	db -1 ; end
 
@@ -732,227 +732,66 @@ ParkBallMultiplier:
 	ld b, $ff
 	ret
 
-HeavyBallMultiplier:
-; subtract 20 from catch rate if weight < 102.4 kg
-; else add 0 to catch rate if weight < 204.8 kg
-; else add 20 to catch rate if weight < 307.2 kg
-; else add 30 to catch rate if weight < 409.6 kg
-; else add 40 to catch rate
-	ld a, [wEnemyMonSpecies]
+TimerBallMultiplier:
+; multiply catch rate by 1 + (turns passed * 3) / 10, capped at 4
+	ld a, [wTotalBattleTurns]
 	dec a
-	ld hl, PokedexDataPointerTable
-	ld e, a
-	ld d, 0
-	add hl, de
-	add hl, de
-	rlca
-	rlca
-	maskbits NUM_DEX_ENTRY_BANKS
-	add BANK("Pokedex Entries 001-064")
-	ld d, a
-	ld a, BANK(PokedexDataPointerTable)
-	call GetFarWord
-
-.SkipText:
-	ld a, d
-	call GetFarByte
-	inc hl
-	cp "@"
-	jr nz, .SkipText
-
-	ld a, d
-	push bc
-	inc hl
-	inc hl
-	call GetFarWord
-
-	srl h
-	rr l
-	ld b, h
-	ld c, l
-
-rept 4
-	srl b
-	rr c
-endr
-	call .subbc
-
-	srl b
-	rr c
-	call .subbc
-
-	ld a, h
-	pop bc
-	jr .compare
-
-.subbc
-	; subtract bc from hl
-	push bc
-	ld a, b
-	cpl
 	ld b, a
-	ld a, c
-	cpl
-	ld c, a
-	inc bc
-	add hl, bc
-	pop bc
-	ret
-
-.compare
-	ld c, a
-	cp HIGH(1024) ; 102.4 kg
-	jr c, .lightmon
-
-	ld hl, .WeightsTable
-.lookup
-	ld a, c
-	cp [hl]
-	jr c, .heavymon
-	inc hl
-	inc hl
-	jr .lookup
-
-.heavymon
-	inc hl
-	ld a, b
-	add [hl]
-	ld b, a
-	ret nc
-	ld b, $ff
-	ret
-
-.lightmon
-	ld a, b
-	sub 20
-	ld b, a
-	ret nc
-	ld b, $1
-	ret
-
-.WeightsTable:
-; weight factor, boost
-	db HIGH(2048),   0
-	db HIGH(3072),  20
-	db HIGH(4096),  30
-	db HIGH(65280), 40
-
-LureBallMultiplier:
-; multiply catch rate by 3 if this is a fishing rod battle
-	ld a, [wBattleType]
-	cp BATTLETYPE_FISH
-	ret nz
-
-	ld a, b
 	add a
-	jr c, .max
-
 	add b
-	jr nc, .done
-.max
-	ld a, $ff
-.done
-	ld b, a
-	ret
+	add 10
+	cp 40
+	jr c, .nocap
+	ld a, 40
+.nocap
+	ldh [hMultiplier], a
+	farcall Multiply
+	ln a, 1, 10 ; x0.1 after the above multiplier gives 1.3x, 1.6x, 1.9x, ..., 4x.
+	jp MultiplyAndDivide
 
-MoonBallMultiplier:
-	push bc
-	ld a, [wTempEnemyMonSpecies]
-	dec a
-	ld c, a
-	ld b, 0
-	ld hl, EvosAttacksPointers
-	add hl, bc
-	add hl, bc
-	ld a, BANK(EvosAttacksPointers)
-	call GetFarWord
-	pop bc
-
-	push bc
-	ld a, BANK("Evolutions and Attacks")
-	call GetFarByte
-	cp EVOLVE_ITEM
-	pop bc
+NetBallMultiplier:
+; multiply catch rate by 3.5 if mon is water or bug type
+	ld a, [wEnemyMonType1]
+	cp WATER
+	jr z, .ok
+	cp BUG
+	jr z, .ok
+	ld a, [wEnemyMonType2]
+	cp WATER
+	jr z, .ok
+	cp BUG
 	ret nz
 
-	inc hl
+.ok
+	ln a, 7, 2 ; x3.5
+	jp MultiplyAndDivide
 
-	push bc
-	ld a, BANK("Evolutions and Attacks")
-	call GetFarByte
-	cp MOON_STONE
-	pop bc
+DuskBallMultiplier:
+; multiply catch rate by 3 at evening, night, or in caves
+	ld a, [wEnvironment]
+	cp CAVE
+	jr z, .dusk
+
+	ld a, [wTimeOfDay]
+	cp 1 << NITE
+	jr z, .dusk
 	ret nz
 
-	sla b
-	jr c, .max
-	sla b
-	jr nc, .done
-.max
-	ld b, $ff
-.done
-	ret
+.dusk
+	ln a, 3, 1 ; x3
+	jp MultiplyAndDivide
 
-LoveBallMultiplier:
-	; does species match?
+RepeatBallMultiplier:
+; multiply catch rate by 3.5 if enemy mon is already in Pokédex
+	push bc
 	ld a, [wTempEnemyMonSpecies]
 	ld c, a
-	ld a, [wTempBattleMonSpecies]
-	cp c
+	call CheckCaughtMon
+	pop bc
 	ret z
 
-	; check player mon species
-	push bc
-	ld a, [wTempBattleMonSpecies]
-	ld [wCurPartySpecies], a
-	xor a ; PARTYMON
-	ld [wMonType], a
-	ld a, [wCurBattleMon]
-	ld [wCurPartyMon], a
-	farcall GetGender
-	jr c, .done1 ; no effect on genderless
-
-	ld d, 0 ; male
-	jr nz, .playermale
-	inc d   ; female
-.playermale
-
-	; check wild mon species
-	push de
-	ld a, [wTempEnemyMonSpecies]
-	ld [wCurPartySpecies], a
-	ld a, WILDMON
-	ld [wMonType], a
-	farcall GetGender
-	jr c, .done2 ; no effect on genderless
-
-	ld d, 0 ; male
-	jr nz, .wildmale
-	inc d   ; female
-.wildmale
-
-	ld a, d
-	pop de
-	cp d
-	pop bc
-	ret nz ; for the intended effect, this should be "ret z"
-
-	sla b
-	jr c, .max
-	sla b
-	jr c, .max
-	sla b
-	ret nc
-.max
-	ld b, $ff
-	ret
-
-.done2
-	pop de
-
-.done1
-	pop bc
-	ret
+	ln a, 7, 2 ; x3.5
+	jp MultiplyAndDivide
 
 QuickBallMultiplier:
 ; multiply catch rate by 5 on first turn
@@ -963,33 +802,17 @@ QuickBallMultiplier:
 	ln a, 5, 1 ; x5
 	jp MultiplyAndDivide
 
-LevelBallMultiplier:
-; multiply catch rate by 8 if player mon level / 4 > enemy mon level
-; multiply catch rate by 4 if player mon level / 2 > enemy mon level
-; multiply catch rate by 2 if player mon level > enemy mon level
-	ld a, [wBattleMonLevel]
-	ld c, a
+NestBallMultiplier:
+; multiply catch rate by (41 - enemy mon level) / 5, floored at 1
 	ld a, [wEnemyMonLevel]
-	cp c
-	ret nc ; if player is lower level, we're done here
-	sla b
-	jr c, .max
-
-	srl c
-	cp c
-	ret nc ; if player/2 is lower level, we're done here
-	sla b
-	jr c, .max
-
-	srl c
-	cp c
-	ret nc ; if player/4 is lower level, we're done here
-	sla b
+	cp 36
 	ret nc
-
-.max
-	ld b, $ff
-	ret
+	cpl
+	add 41 + 1 ; a = 41 - a
+	ldh [hMultiplier], a
+	farcall Multiply
+	ln a, 1, 5 ; x0.2
+	jp MultiplyAndDivide
 
 ; BallDodgedText and BallMissedText were used in Gen 1.
 

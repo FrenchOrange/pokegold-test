@@ -162,16 +162,16 @@
 	const ITEM_9A      ; (TEMP) 9a
 	const ITEM_9B      ; (TEMP) 9b
 	const SACRED_ASH   ; (TEMP) 9c
-	const HEAVY_BALL   ; (TEMP) 9d
+	const TIMER_BALL   ; 9d
 	const MAIL         ; (TEMP) 9e
-	const LEVEL_BALL   ; (TEMP) 9f
-	const LURE_BALL    ; (TEMP) a0
+	const NEST_BALL    ; 9f
+	const NET_BALL     ; a0
 	const QUICK_BALL   ; a1
 	const ITEM_A2      ; (TEMP) a2
 	const LIGHT_BALL   ; (TEMP) a3
-	const FRIEND_BALL  ; (TEMP) a4
-	const MOON_BALL    ; (TEMP) a5
-	const LOVE_BALL    ; (TEMP) a6
+	const LUXURY_BALL  ; a4
+	const DUSK_BALL    ; a5
+	const REPEAT_BALL  ; a6
 	const NORMAL_BOX   ; (TEMP) a7
 	const GORGEOUS_BOX ; (TEMP) a8
 	const SUN_STONE    ; (TEMP) a9
