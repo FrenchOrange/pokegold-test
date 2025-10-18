@@ -171,107 +171,6 @@ _EnemyUsedOnText::
 	text "!"
 	prompt
 
-_ThatCantBeUsedRightNowText:: ; unreferenced
-	text "That can't be used"
-	line "right now."
-	prompt
-
-_ThatItemCantBePutInThePackText:: ; unreferenced
-	text "That item can't be"
-	line "put in the BAG."
-	done
-
-_TheItemWasPutInThePackText:: ; unreferenced
-	text "The @"
-	text_ram wStringBuffer1
-	text_start
-	line "was put in the"
-	cont "BAG."
-	done
-
-_RemainingTimeText:: ; unreferenced
-	text "Remaining Time"
-	done
-
-_YourMonsHPWasHealedText:: ; unreferenced
-	text "Your #MON's HP"
-	line "was healed."
-	prompt
-
-_WarpingText:: ; unreferenced
-	text "Warping…"
-	done
-
-_ChangeWhichNumberText:: ; unreferenced
-	text "Which number"
-	line "should be changed?"
-	done
-
-_WillYouPlayWithMonText:: ; unreferenced
-	text "Will you play with"
-	line "@"
-	text_ram wStringBuffer2
-	text "?"
-	done
-
-_YouNeedTwoMonForBreedingText:: ; unreferenced
-	text "You need two #-"
-	line "MON for breeding."
-	prompt
-
-_BreedingIsNotPossibleText:: ; unreferenced
-	text "Breeding is not"
-	line "possible."
-	prompt
-
-_CompatibilityShouldTheyBreedText:: ; unreferenced
-	text "The compatibility"
-	line "is @"
-	text_decimal wBreedingCompatibility, 1, 3
-	text "."
-	cont "Should they breed?"
-	done
-
-_ThereIsNoEggText:: ; unreferenced
-	text "There is no EGG."
-	line ""
-	prompt
-
-_ItsGoingToHatchText:: ; unreferenced
-	text "It's going to"
-	line "hatch!"
-	prompt
-
-_TestEventText:: ; unreferenced
-	text "Test event"
-	line "@"
-	text_decimal wStringBuffer2, 1, 2
-	text "?"
-	done
-
-_WhatDoYouWantToPlayWithText:: ; unreferenced
-	text "What do you want"
-	line "to play with?"
-	done
-
-_YouCanHaveThisText:: ; unreferenced
-	text "You can have this."
-	prompt
-
-_TheBoxIsFullText:: ; unreferenced
-	text "The BOX is full!"
-	done
-
-_ObtainedTheVoltorbBadgeText:: ; unreferenced
-	text "Obtained the"
-	line "VOLTORBBADGE!"
-	done
-
-_ThePasswordIsText:: ; unreferenced
-	text "The password is:"
-	line ""
-	done
-
 _MomHiHowAreYouText::
 	text "Hi, <PLAYER>!"
 	line "How are you?"
@@ -346,8 +245,6 @@ _WillTradeText::
 	text_ram wOTTrademonSpeciesName
 	text_end
 
-	text_end ; unreferenced
-
 _ForYourMonWillTradeText::
 	text "for @"
 	text_ram wPlayerTrademonSenderName
@@ -379,8 +276,6 @@ _OPT_OakText1::
 	line "OAK: @"
 	text_ram wMonOrItemNameBuffer
 	text_end
-
-	text_end ; unreferenced
 
 _OPT_OakText2::
 	text_start
@@ -720,8 +615,6 @@ _PnP_Text4::
 	text_ram wStringBuffer1
 	text_end
 
-	text_end ; unreferenced
-
 _PnP_CuteText::
 	text_start
 	line "is cute."
@@ -807,8 +700,6 @@ _PnP_Text5::
 	line "@"
 	text_ram wStringBuffer1
 	text_end
-
-	text_end ; unreferenced
 
 _RocketRadioText1::
 	text_start
@@ -1710,11 +1601,6 @@ _MysteryGiftSentHomeText::
 	cont "to @"
 	text_ram wMysteryGiftPlayerName
 	text "'s home."
-	prompt
-
-_BadgeRequiredText::
-	text "Sorry! A new BADGE"
-	line "is required."
 	prompt
 
 _CantUseItemText::

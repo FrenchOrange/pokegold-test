@@ -82,10 +82,6 @@ _PhoneThankYouText::
 	text "Thank you!"
 	done
 
-_SpaceSpaceColonText:: ; unreferenced
-	text "  :"
-	done
-
 _PasswordAskResetText::
 	text "Password OK."
 	line "Select CONTINUE &"
@@ -166,8 +162,6 @@ Text_MoveForgetCount::
 	text "1, 2 and…@"
 	text_pause
 	text_end
-
-	text_end ; unreferenced
 
 _MoveForgotText::
 	text " Poof!@"
@@ -265,8 +259,6 @@ Text_BallCaught::
 	sound_caught_mon
 	text_end
 
-	text_end ; unreferenced
-
 _WaitButtonText::
 	text_promptbutton
 	text_end
@@ -330,8 +322,6 @@ Text_PlayedPokeFlute::
 	line "# FLUTE.@"
 	text_promptbutton
 	text_end
-
-	text_end ; unreferenced
 
 _CoinCaseCountText::
 	text "Coins:"
