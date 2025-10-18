@@ -5,199 +5,199 @@
 ; - ItemAttributes (see data/items/attributes.asm)
 ; - ItemEffects (see engine/items/item_effects.asm)
 	const_def
-	const NO_ITEM      ; 00
-	const MASTER_BALL  ; 01
-	const ULTRA_BALL   ; 02
-	const BRIGHTPOWDER ; 03
-	const GREAT_BALL   ; 04
-	const POKE_BALL    ; 05
-	const TOWN_MAP     ; 06
-	const BICYCLE      ; 07
-	const MOON_STONE   ; 08
-	const ANTIDOTE     ; 09
-	const BURN_HEAL    ; 0a
-	const ICE_HEAL     ; 0b
-	const AWAKENING    ; 0c
-	const PARLYZ_HEAL  ; 0d
-	const FULL_RESTORE ; 0e
-	const MAX_POTION   ; 0f
-	const HYPER_POTION ; 10
-	const SUPER_POTION ; 11
-	const POTION       ; 12
-	const ESCAPE_ROPE  ; 13
-	const REPEL        ; 14
-	const MAX_ELIXIR   ; 15
-	const FIRE_STONE   ; 16
-	const THUNDERSTONE ; 17
-	const WATER_STONE  ; 18
-	const ITEM_19      ; 19
-	const HP_UP        ; 1a
-	const PROTEIN      ; 1b
-	const IRON         ; 1c
-	const CARBOS       ; 1d
-	const LUCKY_PUNCH  ; 1e
-	const CALCIUM      ; 1f
-	const RARE_CANDY   ; 20
-	const X_ACCURACY   ; 21
-	const LEAF_STONE   ; 22
-	const METAL_POWDER ; 23
-	const NUGGET       ; 24
-	const POKE_DOLL    ; 25
-	const FULL_HEAL    ; 26
-	const REVIVE       ; 27
-	const MAX_REVIVE   ; 28
-	const GUARD_SPEC   ; 29
-	const SUPER_REPEL  ; 2a
-	const MAX_REPEL    ; 2b
-	const DIRE_HIT     ; 2c
-	const ITEM_2D      ; 2d
-	const FRESH_WATER  ; 2e
-	const SODA_POP     ; 2f
-	const LEMONADE     ; 30
-	const X_ATTACK     ; 31
-	const ITEM_32      ; 32
-	const X_DEFEND     ; 33
-	const X_SPEED      ; 34
-	const X_SPECIAL    ; 35
-	const COIN_CASE    ; 36
-	const ITEMFINDER   ; 37
-	const POKE_FLUTE   ; 38
-	const EXP_SHARE    ; 39
-	const OLD_ROD      ; 3a
-	const GOOD_ROD     ; 3b
-	const SILVER_LEAF  ; 3c
-	const SUPER_ROD    ; 3d
-	const PP_UP        ; 3e
-	const ETHER        ; 3f
-	const MAX_ETHER    ; 40
-	const ELIXIR       ; 41
-	const RED_SCALE    ; 42
-	const SECRETPOTION ; 43
-	const S_S_TICKET   ; 44
-	const MYSTERY_EGG  ; 45
-	const ITEM_46      ; 46
-	const SILVER_WING  ; 47
-	const MOOMOO_MILK  ; 48
-	const QUICK_CLAW   ; 49
-	const PECHA_BERRY  ; 4a
-	const GOLD_LEAF    ; 4b
-	const SOFT_SAND    ; 4c
-	const SHARP_BEAK   ; 4d
-	const CHERI_BERRY  ; 4e
-	const ASPEAR_BERRY ; 4f
-	const RAWST_BERRY  ; 50
-	const POISON_BARB  ; 51
-	const KINGS_ROCK   ; 52
-	const PERSIM_BERRY ; 53
-	const CHESTO_BERRY ; 54
-	const RED_APRICORN ; 55
-	const TINYMUSHROOM ; 56
-	const BIG_MUSHROOM ; 57
-	const SILVERPOWDER ; 58
-	const BLU_APRICORN ; 59
-	const ITEM_5A      ; 5a
-	const AMULET_COIN  ; 5b
-	const YLW_APRICORN ; 5c
-	const GRN_APRICORN ; 5d
-	const CLEANSE_TAG  ; 5e
-	const MYSTIC_WATER ; 5f
-	const TWISTEDSPOON ; 60
-	const WHT_APRICORN ; 61
-	const BLACK_BELT_I ; 62
-	const BLK_APRICORN ; 63
-	const ITEM_64      ; 64
-	const PNK_APRICORN ; 65
-	const BLACKGLASSES ; 66
-	const SLOWPOKETAIL ; 67
-	const PINK_BOW     ; 68
-	const STICK        ; 69
-	const SMOKE_BALL   ; 6a
-	const NEVERMELTICE ; 6b
-	const MAGNET       ; 6c
-	const LUM_BERRY    ; 6d
-	const PEARL        ; 6e
-	const BIG_PEARL    ; 6f
-	const EVERSTONE    ; 70
-	const SPELL_TAG    ; 71
-	const RAGECANDYBAR ; 72
-	const ITEM_73      ; 73
-	const ITEM_74      ; 74
-	const MIRACLE_SEED ; 75
-	const THICK_CLUB   ; 76
-	const FOCUS_BAND   ; 77
-	const ITEM_78      ; 78
-	const ENERGYPOWDER ; 79
-	const ENERGY_ROOT  ; 7a
-	const HEAL_POWDER  ; 7b
-	const REVIVAL_HERB ; 7c
-	const HARD_STONE   ; 7d
-	const LUCKY_EGG    ; 7e
-	const CARD_KEY     ; 7f
-	const MACHINE_PART ; 80
-	const ITEM_81      ; 81
-	const LOST_ITEM    ; 82
-	const STARDUST     ; 83
-	const STAR_PIECE   ; 84
-	const BASEMENT_KEY ; 85
-	const PASS         ; 86
-	const ITEM_87      ; 87
-	const ITEM_88      ; 88
-	const ITEM_89      ; 89
-	const CHARCOAL     ; 8a
-	const BERRY_JUICE  ; 8b
-	const SCOPE_LENS   ; 8c
-	const ITEM_8D      ; 8d
-	const ITEM_8E      ; 8e
-	const METAL_COAT   ; 8f
-	const DRAGON_FANG  ; 90
-	const ITEM_91      ; 91
-	const LEFTOVERS    ; 92
-	const ITEM_93      ; 93
-	const ITEM_94      ; 94
-	const ITEM_95      ; 95
-	const LEPPA_BERRY  ; 96
-	const DRAGON_SCALE ; 97
-	const BERSERK_GENE ; 98
-	const ITEM_99      ; 99
-	const ITEM_9A      ; 9a
-	const ITEM_9B      ; 9b
-	const SACRED_ASH   ; 9c
-	const HEAVY_BALL   ; 9d
-	const MAIL         ; 9e
-	const LEVEL_BALL   ; 9f
-	const LURE_BALL    ; a0
-	const FAST_BALL    ; a1
-	const ITEM_A2      ; a2
-	const LIGHT_BALL   ; a3
-	const FRIEND_BALL  ; a4
-	const MOON_BALL    ; a5
-	const LOVE_BALL    ; a6
-	const NORMAL_BOX   ; a7
-	const GORGEOUS_BOX ; a8
-	const SUN_STONE    ; a9
-	const POLKADOT_BOW ; aa
-	const ITEM_AB      ; ab
-	const UP_GRADE     ; ac
-	const ORAN_BERRY   ; ad
-	const SITRUS_BERRY ; ae
-	const SQUIRTBOTTLE ; af
-	const ITEM_B0      ; b0
-	const PARK_BALL    ; b1
-	const RAINBOW_WING ; b2
-	const ITEM_B3      ; b3
-	const BRICK_PIECE  ; b4
-	const ITEM_B5      ; b5
-	const ITEM_B6      ; b6
-	const ITEM_B7      ; b7
-	const ITEM_B8      ; b8
-	const ITEM_B9      ; b9
-	const ITEM_BA      ; ba
-	const ITEM_BB      ; bb
-	const ITEM_BC      ; bc
-	const ITEM_BD      ; bd
-	const ITEM_BE      ; be
-	const ITEM_C3      ; c3
-	const ITEM_DC      ; dc
+	const NO_ITEM      ; (TEMP) 00
+	const MASTER_BALL  ; (TEMP) 01
+	const ULTRA_BALL   ; (TEMP) 02
+	const BRIGHTPOWDER ; (TEMP) 03
+	const GREAT_BALL   ; (TEMP) 04
+	const POKE_BALL    ; (TEMP) 05
+	const TOWN_MAP     ; (TEMP) 06
+	const BICYCLE      ; (TEMP) 07
+	const MOON_STONE   ; (TEMP) 08
+	const ANTIDOTE     ; (TEMP) 09
+	const BURN_HEAL    ; (TEMP) 0a
+	const ICE_HEAL     ; (TEMP) 0b
+	const AWAKENING    ; (TEMP) 0c
+	const PARLYZ_HEAL  ; (TEMP) 0d
+	const FULL_RESTORE ; (TEMP) 0e
+	const MAX_POTION   ; (TEMP) 0f
+	const HYPER_POTION ; (TEMP) 10
+	const SUPER_POTION ; (TEMP) 11
+	const POTION       ; (TEMP) 12
+	const ESCAPE_ROPE  ; (TEMP) 13
+	const REPEL        ; (TEMP) 14
+	const MAX_ELIXIR   ; (TEMP) 15
+	const FIRE_STONE   ; (TEMP) 16
+	const THUNDERSTONE ; (TEMP) 17
+	const WATER_STONE  ; (TEMP) 18
+	const ITEM_19      ; (TEMP) 19
+	const HP_UP        ; (TEMP) 1a
+	const PROTEIN      ; (TEMP) 1b
+	const IRON         ; (TEMP) 1c
+	const CARBOS       ; (TEMP) 1d
+	const LUCKY_PUNCH  ; (TEMP) 1e
+	const CALCIUM      ; (TEMP) 1f
+	const RARE_CANDY   ; (TEMP) 20
+	const X_ACCURACY   ; (TEMP) 21
+	const LEAF_STONE   ; (TEMP) 22
+	const METAL_POWDER ; (TEMP) 23
+	const NUGGET       ; (TEMP) 24
+	const POKE_DOLL    ; (TEMP) 25
+	const FULL_HEAL    ; (TEMP) 26
+	const REVIVE       ; (TEMP) 27
+	const MAX_REVIVE   ; (TEMP) 28
+	const GUARD_SPEC   ; (TEMP) 29
+	const SUPER_REPEL  ; (TEMP) 2a
+	const MAX_REPEL    ; (TEMP) 2b
+	const DIRE_HIT     ; (TEMP) 2c
+	const ITEM_2D      ; (TEMP) 2d
+	const FRESH_WATER  ; (TEMP) 2e
+	const SODA_POP     ; (TEMP) 2f
+	const LEMONADE     ; (TEMP) 30
+	const X_ATTACK     ; (TEMP) 31
+	const ITEM_32      ; (TEMP) 32
+	const X_DEFEND     ; (TEMP) 33
+	const X_SPEED      ; (TEMP) 34
+	const X_SPECIAL    ; (TEMP) 35
+	const COIN_CASE    ; (TEMP) 36
+	const ITEMFINDER   ; (TEMP) 37
+	const POKE_FLUTE   ; (TEMP) 38
+	const EXP_SHARE    ; (TEMP) 39
+	const OLD_ROD      ; (TEMP) 3a
+	const GOOD_ROD     ; (TEMP) 3b
+	const SILVER_LEAF  ; (TEMP) 3c
+	const SUPER_ROD    ; (TEMP) 3d
+	const PP_UP        ; (TEMP) 3e
+	const ETHER        ; (TEMP) 3f
+	const MAX_ETHER    ; (TEMP) 40
+	const ELIXIR       ; (TEMP) 41
+	const RED_SCALE    ; (TEMP) 42
+	const SECRETPOTION ; (TEMP) 43
+	const S_S_TICKET   ; (TEMP) 44
+	const MYSTERY_EGG  ; (TEMP) 45
+	const ITEM_46      ; (TEMP) 46
+	const SILVER_WING  ; (TEMP) 47
+	const MOOMOO_MILK  ; (TEMP) 48
+	const QUICK_CLAW   ; (TEMP) 49
+	const PECHA_BERRY  ; (TEMP) 4a
+	const GOLD_LEAF    ; (TEMP) 4b
+	const SOFT_SAND    ; (TEMP) 4c
+	const SHARP_BEAK   ; (TEMP) 4d
+	const CHERI_BERRY  ; (TEMP) 4e
+	const ASPEAR_BERRY ; (TEMP) 4f
+	const RAWST_BERRY  ; (TEMP) 50
+	const POISON_BARB  ; (TEMP) 51
+	const KINGS_ROCK   ; (TEMP) 52
+	const PERSIM_BERRY ; (TEMP) 53
+	const CHESTO_BERRY ; (TEMP) 54
+	const RED_APRICORN ; (TEMP) 55
+	const TINYMUSHROOM ; (TEMP) 56
+	const BIG_MUSHROOM ; (TEMP) 57
+	const SILVERPOWDER ; (TEMP) 58
+	const BLU_APRICORN ; (TEMP) 59
+	const ITEM_5A      ; (TEMP) 5a
+	const AMULET_COIN  ; (TEMP) 5b
+	const YLW_APRICORN ; (TEMP) 5c
+	const GRN_APRICORN ; (TEMP) 5d
+	const CLEANSE_TAG  ; (TEMP) 5e
+	const MYSTIC_WATER ; (TEMP) 5f
+	const TWISTEDSPOON ; (TEMP) 60
+	const WHT_APRICORN ; (TEMP) 61
+	const BLACK_BELT_I ; (TEMP) 62
+	const BLK_APRICORN ; (TEMP) 63
+	const ITEM_64      ; (TEMP) 64
+	const PNK_APRICORN ; (TEMP) 65
+	const BLACKGLASSES ; (TEMP) 66
+	const SLOWPOKETAIL ; (TEMP) 67
+	const SILK_SCARF   ; (TEMP) 68
+	const STICK        ; (TEMP) 69
+	const SMOKE_BALL   ; (TEMP) 6a
+	const NEVERMELTICE ; (TEMP) 6b
+	const MAGNET       ; (TEMP) 6c
+	const LUM_BERRY    ; (TEMP) 6d
+	const PEARL        ; (TEMP) 6e
+	const BIG_PEARL    ; (TEMP) 6f
+	const EVERSTONE    ; (TEMP) 70
+	const SPELL_TAG    ; (TEMP) 71
+	const RAGECANDYBAR ; (TEMP) 72
+	const ITEM_73      ; (TEMP) 73
+	const ITEM_74      ; (TEMP) 74
+	const MIRACLE_SEED ; (TEMP) 75
+	const THICK_CLUB   ; (TEMP) 76
+	const FOCUS_BAND   ; (TEMP) 77
+	const ITEM_78      ; (TEMP) 78
+	const ENERGYPOWDER ; (TEMP) 79
+	const ENERGY_ROOT  ; (TEMP) 7a
+	const HEAL_POWDER  ; (TEMP) 7b
+	const REVIVAL_HERB ; (TEMP) 7c
+	const HARD_STONE   ; (TEMP) 7d
+	const LUCKY_EGG    ; (TEMP) 7e
+	const CARD_KEY     ; (TEMP) 7f
+	const MACHINE_PART ; (TEMP) 80
+	const ITEM_81      ; (TEMP) 81
+	const LOST_ITEM    ; (TEMP) 82
+	const STARDUST     ; (TEMP) 83
+	const STAR_PIECE   ; (TEMP) 84
+	const BASEMENT_KEY ; (TEMP) 85
+	const PASS         ; (TEMP) 86
+	const ITEM_87      ; (TEMP) 87
+	const ITEM_88      ; (TEMP) 88
+	const ITEM_89      ; (TEMP) 89
+	const CHARCOAL     ; (TEMP) 8a
+	const BERRY_JUICE  ; (TEMP) 8b
+	const SCOPE_LENS   ; (TEMP) 8c
+	const ITEM_8D      ; (TEMP) 8d
+	const ITEM_8E      ; (TEMP) 8e
+	const METAL_COAT   ; (TEMP) 8f
+	const DRAGON_FANG  ; (TEMP) 90
+	const ITEM_91      ; (TEMP) 91
+	const LEFTOVERS    ; (TEMP) 92
+	const ITEM_93      ; (TEMP) 93
+	const ITEM_94      ; (TEMP) 94
+	const ITEM_95      ; (TEMP) 95
+	const LEPPA_BERRY  ; (TEMP) 96
+	const DRAGON_SCALE ; (TEMP) 97
+	const BERSERK_GENE ; (TEMP) 98
+	const ITEM_99      ; (TEMP) 99
+	const ITEM_9A      ; (TEMP) 9a
+	const ITEM_9B      ; (TEMP) 9b
+	const SACRED_ASH   ; (TEMP) 9c
+	const HEAVY_BALL   ; (TEMP) 9d
+	const MAIL         ; (TEMP) 9e
+	const LEVEL_BALL   ; (TEMP) 9f
+	const LURE_BALL    ; (TEMP) a0
+	const FAST_BALL    ; (TEMP) a1
+	const ITEM_A2      ; (TEMP) a2
+	const LIGHT_BALL   ; (TEMP) a3
+	const FRIEND_BALL  ; (TEMP) a4
+	const MOON_BALL    ; (TEMP) a5
+	const LOVE_BALL    ; (TEMP) a6
+	const NORMAL_BOX   ; (TEMP) a7
+	const GORGEOUS_BOX ; (TEMP) a8
+	const SUN_STONE    ; (TEMP) a9
+	const POLKADOT_BOW ; (TEMP) aa
+	const ITEM_AB      ; (TEMP) ab
+	const UP_GRADE     ; (TEMP) ac
+	const ORAN_BERRY   ; (TEMP) ad
+	const SITRUS_BERRY ; (TEMP) ae
+	const SQUIRTBOTTLE ; (TEMP) af
+	const ITEM_B0      ; (TEMP) b0
+	const PARK_BALL    ; (TEMP) b1
+	const RAINBOW_WING ; (TEMP) b2
+	const ITEM_B3      ; (TEMP) b3
+	const BRICK_PIECE  ; (TEMP) b4
+	const ITEM_B5      ; (TEMP) b5
+	const ITEM_B6      ; (TEMP) b6
+	const ITEM_B7      ; (TEMP) b7
+	const ITEM_B8      ; (TEMP) b8
+	const ITEM_B9      ; (TEMP) b9
+	const ITEM_BA      ; (TEMP) ba
+	const ITEM_BB      ; (TEMP) bb
+	const ITEM_BC      ; (TEMP) bc
+	const ITEM_BD      ; (TEMP) bd
+	const ITEM_BE      ; (TEMP) be
+	const ITEM_C3      ; (TEMP) c3
+	const ITEM_DC      ; (TEMP) dc
 DEF NUM_ITEMS EQU const_value - 1
 
 DEF __tmhm_value__ = 1
@@ -219,56 +219,56 @@ ENDM
 
 ; see data/moves/tmhm_moves.asm for moves
 DEF TM01 EQU const_value
-	add_tm DYNAMICPUNCH ; bf
-	add_tm HEADBUTT     ; c0
-	add_tm CURSE        ; c1
-	add_tm ROLLOUT      ; c2
-	add_tm ROAR         ; c4
-	add_tm TOXIC        ; c5
-	add_tm ZAP_CANNON   ; c6
-	add_tm ROCK_SMASH   ; c7
-	add_tm PSYCH_UP     ; c8
-	add_tm HIDDEN_POWER ; c9
-	add_tm SUNNY_DAY    ; ca
-	add_tm SWEET_SCENT  ; cb
-	add_tm SNORE        ; cc
-	add_tm BLIZZARD     ; cd
-	add_tm HYPER_BEAM   ; ce
-	add_tm ICY_WIND     ; cf
-	add_tm PROTECT      ; d0
-	add_tm RAIN_DANCE   ; d1
-	add_tm GIGA_DRAIN   ; d2
-	add_tm ENDURE       ; d3
-	add_tm FRUSTRATION  ; d4
-	add_tm SOLARBEAM    ; d5
-	add_tm IRON_TAIL    ; d6
-	add_tm DRAGONBREATH ; d7
-	add_tm THUNDER      ; d8
-	add_tm EARTHQUAKE   ; d9
-	add_tm RETURN       ; da
-	add_tm DIG          ; db
-	add_tm PSYCHIC_M    ; dd
-	add_tm SHADOW_BALL  ; de
-	add_tm MUD_SLAP     ; df
-	add_tm DOUBLE_TEAM  ; e0
-	add_tm ICE_PUNCH    ; e1
-	add_tm SWAGGER      ; e2
-	add_tm SLEEP_TALK   ; e3
-	add_tm SLUDGE_BOMB  ; e4
-	add_tm SANDSTORM    ; e5
-	add_tm FIRE_BLAST   ; e6
-	add_tm SWIFT        ; e7
-	add_tm DEFENSE_CURL ; e8
-	add_tm THUNDERPUNCH ; e9
-	add_tm DREAM_EATER  ; ea
-	add_tm DETECT       ; eb
-	add_tm REST         ; ec
-	add_tm ATTRACT      ; ed
-	add_tm THIEF        ; ee
-	add_tm STEEL_WING   ; ef
-	add_tm FIRE_PUNCH   ; f0
-	add_tm FURY_CUTTER  ; f1
-	add_tm NIGHTMARE    ; f2
+	add_tm DYNAMICPUNCH ; (TEMP) bf
+	add_tm HEADBUTT     ; (TEMP) c0
+	add_tm CURSE        ; (TEMP) c1
+	add_tm ROLLOUT      ; (TEMP) c2
+	add_tm ROAR         ; (TEMP) c4
+	add_tm TOXIC        ; (TEMP) c5
+	add_tm ZAP_CANNON   ; (TEMP) c6
+	add_tm ROCK_SMASH   ; (TEMP) c7
+	add_tm PSYCH_UP     ; (TEMP) c8
+	add_tm HIDDEN_POWER ; (TEMP) c9
+	add_tm SUNNY_DAY    ; (TEMP) ca
+	add_tm SWEET_SCENT  ; (TEMP) cb
+	add_tm SNORE        ; (TEMP) cc
+	add_tm BLIZZARD     ; (TEMP) cd
+	add_tm HYPER_BEAM   ; (TEMP) ce
+	add_tm ICY_WIND     ; (TEMP) cf
+	add_tm PROTECT      ; (TEMP) d0
+	add_tm RAIN_DANCE   ; (TEMP) d1
+	add_tm GIGA_DRAIN   ; (TEMP) d2
+	add_tm ENDURE       ; (TEMP) d3
+	add_tm FRUSTRATION  ; (TEMP) d4
+	add_tm SOLARBEAM    ; (TEMP) d5
+	add_tm IRON_TAIL    ; (TEMP) d6
+	add_tm DRAGONBREATH ; (TEMP) d7
+	add_tm THUNDER      ; (TEMP) d8
+	add_tm EARTHQUAKE   ; (TEMP) d9
+	add_tm RETURN       ; (TEMP) da
+	add_tm DIG          ; (TEMP) db
+	add_tm PSYCHIC_M    ; (TEMP) dd
+	add_tm SHADOW_BALL  ; (TEMP) de
+	add_tm MUD_SLAP     ; (TEMP) df
+	add_tm DOUBLE_TEAM  ; (TEMP) e0
+	add_tm ICE_PUNCH    ; (TEMP) e1
+	add_tm SWAGGER      ; (TEMP) e2
+	add_tm SLEEP_TALK   ; (TEMP) e3
+	add_tm SLUDGE_BOMB  ; (TEMP) e4
+	add_tm SANDSTORM    ; (TEMP) e5
+	add_tm FIRE_BLAST   ; (TEMP) e6
+	add_tm SWIFT        ; (TEMP) e7
+	add_tm DEFENSE_CURL ; (TEMP) e8
+	add_tm THUNDERPUNCH ; (TEMP) e9
+	add_tm DREAM_EATER  ; (TEMP) ea
+	add_tm DETECT       ; (TEMP) eb
+	add_tm REST         ; (TEMP) ec
+	add_tm ATTRACT      ; (TEMP) ed
+	add_tm THIEF        ; (TEMP) ee
+	add_tm STEEL_WING   ; (TEMP) ef
+	add_tm FIRE_PUNCH   ; (TEMP) f0
+	add_tm FURY_CUTTER  ; (TEMP) f1
+	add_tm NIGHTMARE    ; (TEMP) f2
 DEF NUM_TMS EQU __tmhm_value__ - 1
 
 MACRO add_hm
@@ -283,18 +283,18 @@ MACRO add_hm
 ENDM
 
 DEF HM01 EQU const_value
-	add_hm CUT          ; f3
-	add_hm FLY          ; f4
-	add_hm SURF         ; f5
-	add_hm STRENGTH     ; f6
-	add_hm FLASH        ; f7
-	add_hm WHIRLPOOL    ; f8
-	add_hm WATERFALL    ; f9
+	add_hm CUT          ; (TEMP) f3
+	add_hm FLY          ; (TEMP) f4
+	add_hm SURF         ; (TEMP) f5
+	add_hm STRENGTH     ; (TEMP) f6
+	add_hm FLASH        ; (TEMP) f7
+	add_hm WHIRLPOOL    ; (TEMP) f8
+	add_hm WATERFALL    ; (TEMP) f9
 DEF NUM_HMS EQU __tmhm_value__ - NUM_TMS - 1
 
 DEF NUM_TM_HM EQU NUM_TMS + NUM_HMS
 
-	const ITEM_FA       ; fa
+	const ITEM_FA       ; (TEMP) fa
 
 DEF USE_SCRIPT_VAR EQU $00
 DEF ITEM_FROM_MEM  EQU $ff
