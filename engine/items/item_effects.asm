@@ -176,7 +176,7 @@ ItemEffects:
 	dw PokeBallEffect      ; NET_BALL
 	dw PokeBallEffect      ; QUICK_BALL
 	dw NoEffect            ; ITEM_A2
-	dw NoEffect            ; LIGHT_BALL
+	dw PokeBallEffect      ; HEAL_BALL
 	dw PokeBallEffect      ; LUXURY_BALL
 	dw PokeBallEffect      ; DUSK_BALL
 	dw PokeBallEffect      ; REPEAT_BALL
@@ -190,7 +190,7 @@ ItemEffects:
 	dw RestoreHPEffect     ; SITRUS_BERRY
 	dw SquirtbottleEffect  ; SQUIRTBOTTLE
 	dw NoEffect            ; ITEM_B0
-	dw PokeBallEffect      ; PARK_BALL
+	dw PokeBallEffect      ; DIVE_BALL
 	dw NoEffect            ; RAINBOW_WING
 	dw NoEffect            ; ITEM_B3
 	dw NoEffect            ; BRICK_PIECE
@@ -231,8 +231,8 @@ PokeBallEffect:
 .room_in_party
 	xor a
 	ld [wWildMon], a
-	ld a, [wCurItem]
-	cp PARK_BALL
+	ld a, [wBattleType]
+	cp BATTLETYPE_CONTEST
 	call nz, ReturnToBattle_UseBall
 
 	ld hl, wOptions
@@ -552,6 +552,17 @@ PokeBallEffect:
 	ld [hl], a
 
 .SkipPartyMonLuxuryBall:
+	ld a, [wCurItem]
+	cp HEAL_BALL
+	jr nz, .SkipPartyMonHealBall
+
+	ld a, [wPartyCount]
+	dec a
+	ld [wCurPartyMon], a
+	call HealPartyMon
+
+.SkipPartyMonHealBall:
+
 	ld hl, AskGiveNicknameText
 	call PrintText
 
@@ -677,8 +688,6 @@ PokeBallEffect:
 	ret z
 	cp BATTLETYPE_DEBUG
 	ret z
-	cp BATTLETYPE_CONTEST
-	jr z, .used_park_ball
 
 	ld a, [wWildMon]
 	and a
@@ -693,11 +702,6 @@ PokeBallEffect:
 	ld [wItemQuantityChange], a
 	jp TossItem
 
-.used_park_ball
-	ld hl, wParkBallsRemaining
-	dec [hl]
-	ret
-
 BallMultiplierFunctionTable:
 ; table of routines that increase or decrease the catch rate based on
 ; which ball is used in a certain situation.
@@ -710,7 +714,7 @@ BallMultiplierFunctionTable:
 	dbw QUICK_BALL,  QuickBallMultiplier
 	dbw DUSK_BALL,   DuskBallMultiplier
 	dbw REPEAT_BALL, RepeatBallMultiplier
-	dbw PARK_BALL,   ParkBallMultiplier
+	dbw DIVE_BALL,   DiveBallMultiplier
 	db -1 ; end
 
 UltraBallMultiplier:
@@ -722,7 +726,6 @@ UltraBallMultiplier:
 
 SafariBallMultiplier:
 GreatBallMultiplier:
-ParkBallMultiplier:
 ; multiply catch rate by 1.5
 	ld a, b
 	srl a
@@ -812,6 +815,22 @@ NestBallMultiplier:
 	ldh [hMultiplier], a
 	farcall Multiply
 	ln a, 1, 5 ; x0.2
+	jp MultiplyAndDivide
+
+DiveBallMultiplier:
+; multiply catch rate by 3.5 if surfing or fishing
+	ld a, [wPlayerState]
+	cp PLAYER_SURF
+	jr z, .water
+	cp PLAYER_SURF_PIKA
+	jr z, .water
+
+	ld a, [wBattleType]
+	cp BATTLETYPE_FISH
+	ret nz
+
+.water
+	ln a, 7, 2 ; x3.5
 	jp MultiplyAndDivide
 
 ; BallDodgedText and BallMissedText were used in Gen 1.

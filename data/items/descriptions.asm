@@ -163,7 +163,7 @@ ItemDescriptions:
 	dw NetBallDesc
 	dw QuickBallDesc
 	dw TeruSama25Desc
-	dw LightBallDesc
+	dw HealBallDesc
 	dw LuxuryBallDesc
 	dw DuskBallDesc
 	dw RepeatBallDesc
@@ -177,7 +177,7 @@ ItemDescriptions:
 	dw SitrusBerryDesc
 	dw SquirtBottleDesc
 	dw TeruSama27Desc
-	dw ParkBallDesc
+	dw DiveBallDesc
 	dw RainbowWingDesc
 	dw TeruSama28Desc
 	dw BrickPieceDesc
@@ -877,9 +877,9 @@ QuickBallDesc:
 TeruSama25Desc:
 	db   "?@"
 
-LightBallDesc:
-	db   "An odd, electrical"
-	next "orb. (HOLD)@"
+HealBallDesc:
+	db   "A remedial BALL to"
+	next "heal #mon.@"
 
 LuxuryBallDesc:
 	db   "A cozy BALL to"
@@ -931,7 +931,7 @@ SquirtBottleDesc:
 TeruSama27Desc:
 	db   "?@"
 
-ParkBallDesc:
+DiveBallDesc:
 	db   "The Bug-Catching"
 	next "Contest BALL.@"
 

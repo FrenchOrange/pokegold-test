@@ -4729,7 +4729,7 @@ BattleMenu_Pack:
 	jr .got_item
 
 .contest
-	ld a, PARK_BALL
+	ld a, POKE_BALL
 	ld [wCurItem], a
 	call DoItemEffect
 

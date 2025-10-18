@@ -168,7 +168,7 @@
 	const NET_BALL     ; a0
 	const QUICK_BALL   ; a1
 	const ITEM_A2      ; (TEMP) a2
-	const LIGHT_BALL   ; (TEMP) a3
+	const HEAL_BALL    ; a3
 	const LUXURY_BALL  ; a4
 	const DUSK_BALL    ; a5
 	const REPEAT_BALL  ; a6
@@ -182,7 +182,7 @@
 	const SITRUS_BERRY ; (TEMP) ae
 	const SQUIRTBOTTLE ; (TEMP) af
 	const ITEM_B0      ; (TEMP) b0
-	const PARK_BALL    ; (TEMP) b1
+	const DIVE_BALL    ; b1
 	const RAINBOW_WING ; (TEMP) b2
 	const ITEM_B3      ; (TEMP) b3
 	const BRICK_PIECE  ; (TEMP) b4
