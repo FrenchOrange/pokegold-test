@@ -3,7 +3,6 @@
 	const ROUTE11_YOUNGSTER2
 	const ROUTE11_YOUNGSTER3
 	const ROUTE11_YOUNGSTER4
-	const ROUTE11_FRUIT_TREE
 
 Route11_MapScripts:
 	def_scene_scripts
@@ -56,9 +55,6 @@ TrainerPsychicFidel:
 
 Route11Sign:
 	jumptext Route11SignText
-
-Route11FruitTree:
-	fruittree FRUITTREE_ROUTE_11
 
 Route11HiddenRevive:
 	hiddenitem REVIVE, EVENT_ROUTE_11_HIDDEN_REVIVE
@@ -159,4 +155,3 @@ Route11_MapEvents:
 	object_event 15,  9, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 2, TrainerYoungsterJason, -1
 	object_event 29,  7, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 1, TrainerPsychicHerman, -1
 	object_event  7,  4, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 3, TrainerPsychicFidel, -1
-	object_event 32,  2, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route11FruitTree, -1

@@ -7,7 +7,6 @@
 	const ROUTE39_MILTANK3
 	const ROUTE39_MILTANK4
 	const ROUTE39_PSYCHIC_NORMAN
-	const ROUTE39_FRUIT_TREE
 
 Route39_MapScripts:
 	def_scene_scripts
@@ -146,9 +145,6 @@ MoomooFarmSign:
 
 Route39TrainerTips:
 	jumptext Route39TrainerTipsText
-
-Route39FruitTree:
-	fruittree FRUITTREE_ROUTE_39
 
 Route39HiddenNugget:
 	hiddenitem NUGGET, EVENT_ROUTE_39_HIDDEN_NUGGET
@@ -298,4 +294,3 @@ Route39_MapEvents:
 	object_event  4, 15, SPRITE_TAUROS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route39Miltank, -1
 	object_event  8, 13, SPRITE_TAUROS, SPRITEMOVEDATA_POKEMON, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route39Miltank, -1
 	object_event 13,  6, SPRITE_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_FAST, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 3, TrainerPsychicNorman, -1
-	object_event  9,  3, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route39FruitTree, -1

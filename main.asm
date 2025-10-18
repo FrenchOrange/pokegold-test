@@ -175,7 +175,6 @@ INCLUDE "engine/pokemon/evolve.asm"
 
 SECTION "bank11", ROMX
 
-INCLUDE "engine/events/fruit_trees.asm"
 INCLUDE "engine/battle/ai/move.asm"
 INCLUDE "engine/pokedex/pokedex_2.asm"
 INCLUDE "engine/battle/start_battle.asm"

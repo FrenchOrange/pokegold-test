@@ -2,8 +2,6 @@
 	const ROUTE46_POKEFAN_M
 	const ROUTE46_YOUNGSTER
 	const ROUTE46_LASS
-	const ROUTE46_FRUIT_TREE1
-	const ROUTE46_FRUIT_TREE2
 	const ROUTE46_POKE_BALL
 
 Route46_MapScripts:
@@ -122,12 +120,6 @@ Route46Sign:
 Route46DireHit:
 	itemball DIRE_HIT
 
-Route46FruitTree1:
-	fruittree FRUITTREE_ROUTE_46_1
-
-Route46FruitTree2:
-	fruittree FRUITTREE_ROUTE_46_2
-
 HikerBaileySeenText:
 	text "Awright! I'll show"
 	line "you the power of"
@@ -209,6 +201,4 @@ Route46_MapEvents:
 	object_event 12, 18, SPRITE_POKEFAN_M, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_TRAINER, 2, TrainerHikerBailey, -1
 	object_event  3, 13, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_TRAINER, 4, TrainerCamperTed, -1
 	object_event  1, 15, SPRITE_LASS, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_TRAINER, 4, TrainerPicnickerErin1, -1
-	object_event  7,  5, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route46FruitTree1, -1
-	object_event  8,  6, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route46FruitTree2, -1
 	object_event  0, 12, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, Route46DireHit, EVENT_ROUTE_46_DIRE_HIT

@@ -4,7 +4,6 @@
 	const ROUTE36_SUDOWOODO
 	const ROUTE36_LASS1
 	const ROUTE36_FISHER
-	const ROUTE36_FRUIT_TREE
 	const ROUTE36_ARTHUR
 
 Route36_MapScripts:
@@ -251,9 +250,6 @@ Route36TrainerTips1:
 Route36TrainerTips2:
 	jumptext Route36TrainerTips2Text
 
-Route36FruitTree:
-	fruittree FRUITTREE_ROUTE_36
-
 SudowoodoShakeMovement:
 	tree_shake
 	step_end
@@ -483,5 +479,4 @@ Route36_MapEvents:
 	object_event 35,  9, SPRITE_SUDOWOODO, SPRITEMOVEDATA_SUDOWOODO, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, SudowoodoScript, EVENT_ROUTE_36_SUDOWOODO
 	object_event 51,  8, SPRITE_LASS, SPRITEMOVEDATA_WALK_LEFT_RIGHT, 2, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36LassScript, -1
 	object_event 44,  9, SPRITE_FISHER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36RockSmashGuyScript, -1
-	object_event 21,  4, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route36FruitTree, -1
 	object_event 46,  6, SPRITE_YOUNGSTER, SPRITEMOVEDATA_WANDER, 1, 1, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ArthurScript, EVENT_ROUTE_36_ARTHUR_OF_THURSDAY

@@ -6,7 +6,6 @@
 	const ROUTE2_POKE_BALL2
 	const ROUTE2_POKE_BALL3
 	const ROUTE2_POKE_BALL4
-	const ROUTE2_FRUIT_TREE
 
 Route2_MapScripts:
 	def_scene_scripts
@@ -63,9 +62,6 @@ Route2Carbos:
 
 Route2Elixer:
 	itemball ELIXER
-
-Route2FruitTree:
-	fruittree FRUITTREE_ROUTE_2
 
 Route2HiddenMaxEther:
 	hiddenitem MAX_ETHER, EVENT_ROUTE_2_HIDDEN_MAX_ETHER
@@ -172,4 +168,3 @@ Route2_MapEvents:
 	object_event  2, 23, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, Route2MaxPotion, EVENT_ROUTE_2_MAX_POTION
 	object_event 19,  2, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, Route2Carbos, EVENT_ROUTE_2_CARBOS
 	object_event 14, 50, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, Route2Elixer, EVENT_ROUTE_2_ELIXER
-	object_event 10, 14, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route2FruitTree, -1

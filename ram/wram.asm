@@ -2596,7 +2596,7 @@ wDailyFlags2:: db
 wTimerEventStartDay:: db
 	ds 3
 
-wFruitTreeFlags:: flag_array NUM_FRUIT_TREES
+wFruitTreeFlags:: db
 
 	ds 2
 

@@ -4,7 +4,6 @@
 	const ROUTE38_STANDING_YOUNGSTER2
 	const ROUTE38_BEAUTY
 	const ROUTE38_SAILOR
-	const ROUTE38_FRUIT_TREE
 
 Route38_MapScripts:
 	def_scene_scripts
@@ -216,9 +215,6 @@ Route38Sign:
 Route38TrainerTips:
 	jumptext Route38TrainerTipsText
 
-Route38FruitTree:
-	fruittree FRUITTREE_ROUTE_38
-
 BirdKeeperTobySeenText:
 	text "Fly high into the"
 	line "sky, my beloved"
@@ -365,4 +361,3 @@ Route38_MapEvents:
 	object_event 15, 10, SPRITE_YOUNGSTER, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 2, TrainerBirdKeeperToby, -1
 	object_event  9,  6, SPRITE_BEAUTY, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 2, TrainerBeautyValerie, -1
 	object_event 25,  5, SPRITE_SAILOR, SPRITEMOVEDATA_SPINCLOCKWISE, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 2, TrainerSailorHarry, -1
-	object_event 12, 10, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route38FruitTree, -1

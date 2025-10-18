@@ -7,7 +7,6 @@
 	const AZALEATOWN_SLOWPOKE2
 	const AZALEATOWN_SLOWPOKE3
 	const AZALEATOWN_SLOWPOKE4
-	const AZALEATOWN_FRUIT_TREE
 	const AZALEATOWN_RIVAL
 	const AZALEATOWN_AZALEA_ROCKET3
 
@@ -138,15 +137,6 @@ AzaleaTownSlowpokeScript:
 	closetext
 	end
 
-UnusedWoosterScript: ; unreferenced
-	faceplayer
-	opentext
-	writetext WoosterText
-	cry QUAGSIRE
-	waitbutton
-	closetext
-	end
-
 AzaleaTownSign:
 	jumptext AzaleaTownSignText
 
@@ -170,9 +160,6 @@ AzaleaTownPokecenterSign:
 
 AzaleaTownMartSign:
 	jumpstd MartSignScript
-
-WhiteApricornTree:
-	fruittree FRUITTREE_AZALEA_TOWN
 
 AzaleaTownHiddenFullHeal:
 	hiddenitem FULL_HEAL, EVENT_AZALEA_TOWN_HIDDEN_FULL_HEAL
@@ -431,6 +418,5 @@ AzaleaTown_MapEvents:
 	object_event 18,  9, SPRITE_SLOWPOKE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, AzaleaTownSlowpokeScript, EVENT_AZALEA_TOWN_SLOWPOKES
 	object_event 29,  9, SPRITE_SLOWPOKE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, AzaleaTownSlowpokeScript, EVENT_AZALEA_TOWN_SLOWPOKES
 	object_event 15, 15, SPRITE_SLOWPOKE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, AzaleaTownSlowpokeScript, EVENT_AZALEA_TOWN_SLOWPOKES
-	object_event  8,  2, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, WhiteApricornTree, -1
 	object_event 11, 10, SPRITE_RIVAL, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, EVENT_RIVAL_AZALEA_TOWN
 	object_event 10, 16, SPRITE_ROCKET, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, AzaleaTownRocket2Script, EVENT_SLOWPOKE_WELL_ROCKETS

@@ -217,14 +217,13 @@ ScriptCommandTable:
 	dw Script_askforphonenumber          ; 96
 	dw Script_phonecall                  ; 97
 	dw Script_hangup                     ; 98
-	dw Script_fruittree                  ; 99
-	dw Script_specialphonecall           ; 9a
-	dw Script_checkphonecall             ; 9b
-	dw Script_verbosegiveitem            ; 9c
-	dw Script_swarm                      ; 9d
-	dw Script_halloffame                 ; 9e
-	dw Script_credits                    ; 9f
-	dw Script_warpfacing                 ; a0
+	dw Script_specialphonecall           ; 99
+	dw Script_checkphonecall             ; 9a
+	dw Script_verbosegiveitem            ; 9b
+	dw Script_swarm                      ; 9c
+	dw Script_halloffame                 ; 9d
+	dw Script_credits                    ; 9e
+	dw Script_warpfacing                 ; 9f
 	assert_table_length NUM_EVENT_COMMANDS
 
 StartScript:
@@ -584,13 +583,6 @@ Script_askforphonenumber:
 .done
 	ld [wScriptVar], a
 	ret
-
-Script_fruittree:
-	call GetScriptByte
-	ld [wCurFruitTree], a
-	ld b, BANK(FruitTreeScript)
-	ld hl, FruitTreeScript
-	jp ScriptJump
 
 Script_swarm:
 	call GetScriptByte

@@ -305,10 +305,9 @@ DEF PLAYER_RUN       EQU 16
 	const DAILYFLAGS1_BUG_CONTEST_F                   ; 1
 	const DAILYFLAGS1_SWARM_F                         ; 2
 	const DAILYFLAGS1_TIME_CAPSULE_F                  ; 3
-	const DAILYFLAGS1_ALL_FRUIT_TREES_F               ; 4
-	const DAILYFLAGS1_GOT_SHUCKIE_TODAY_F             ; 5
-	const DAILYFLAGS1_GOLDENROD_UNDERGROUND_BARGAIN_F ; 6
-	const DAILYFLAGS1_TRAINER_HOUSE_F                 ; 7
+	const DAILYFLAGS1_GOT_SHUCKIE_TODAY_F             ; 4
+	const DAILYFLAGS1_GOLDENROD_UNDERGROUND_BARGAIN_F ; 5
+	const DAILYFLAGS1_TRAINER_HOUSE_F                 ; 6
 
 ; wDailyFlags2::
 	const_def

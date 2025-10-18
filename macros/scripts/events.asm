@@ -953,24 +953,18 @@ MACRO hangup
 	db hangup_command
 ENDM
 
-	const fruittree_command ; $9a
-MACRO fruittree
-	db fruittree_command
-	db \1 ; tree_id
-ENDM
-
-	const specialphonecall_command ; $9b
+	const specialphonecall_command ; $99
 MACRO specialphonecall
 	db specialphonecall_command
 	dw \1 ; call_id
 ENDM
 
-	const checkphonecall_command ; $9c
+	const checkphonecall_command ; $9a
 MACRO checkphonecall
 	db checkphonecall_command
 ENDM
 
-	const verbosegiveitem_command ; $9d
+	const verbosegiveitem_command ; $9b
 MACRO verbosegiveitem
 	if _NARG == 1
 		verbosegiveitem \1, 1
@@ -981,23 +975,23 @@ MACRO verbosegiveitem
 	endc
 ENDM
 
-	const swarm_command ; $9e
+	const swarm_command ; $9c
 MACRO swarm
 	db swarm_command
 	map_id \1 ; map
 ENDM
 
-	const halloffame_command ; $9f
+	const halloffame_command ; $9d
 MACRO halloffame
 	db halloffame_command
 ENDM
 
-	const credits_command ; $a0
+	const credits_command ; $9e
 MACRO credits
 	db credits_command
 ENDM
 
-	const warpfacing_command ; $a1
+	const warpfacing_command ; $9f
 MACRO warpfacing
 	db warpfacing_command
 	db \1 ; facing

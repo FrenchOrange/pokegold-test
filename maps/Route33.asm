@@ -1,6 +1,5 @@
 	object_const_def
 	const ROUTE33_POKEFAN_M
-	const ROUTE33_FRUIT_TREE
 
 Route33_MapScripts:
 	def_scene_scripts
@@ -93,9 +92,6 @@ TrainerHikerAnthony:
 Route33Sign:
 	jumptext Route33SignText
 
-Route33FruitTree:
-	fruittree FRUITTREE_ROUTE_33
-
 HikerAnthony2SeenText:
 	text "I came through the"
 	line "tunnel, but I"
@@ -132,4 +128,3 @@ Route33_MapEvents:
 
 	def_object_events
 	object_event  6, 13, SPRITE_POKEFAN_M, SPRITEMOVEDATA_SPINRANDOM_FAST, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_TRAINER, 2, TrainerHikerAnthony, -1
-	object_event 14, 16, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route33FruitTree, -1

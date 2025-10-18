@@ -4,7 +4,6 @@
 	const ROUTE8_BIKER3
 	const ROUTE8_SUPER_NERD1
 	const ROUTE8_SUPER_NERD2
-	const ROUTE8_FRUIT_TREE
 
 Route8_MapScripts:
 	def_scene_scripts
@@ -71,9 +70,6 @@ Route8LockedDoor:
 
 Route8UndergroundPathSign:
 	jumptext Route8UndergroundPathSignText
-
-Route8FruitTree:
-	fruittree FRUITTREE_ROUTE_8
 
 BikerDwayneSeenText:
 	text "We're the KANTO"
@@ -195,4 +191,3 @@ Route8_MapEvents:
 	object_event 10, 10, SPRITE_BIKER, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, PAL_NPC_BLUE, OBJECTTYPE_TRAINER, 5, TrainerBikerZeke, -1
 	object_event 20,  6, SPRITE_SUPER_NERD, SPRITEMOVEDATA_STANDING_UP, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_TRAINER, 4, TrainerSupernerdSam, -1
 	object_event 27,  9, SPRITE_SUPER_NERD, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, PAL_NPC_BROWN, OBJECTTYPE_TRAINER, 2, TrainerSupernerdTom, -1
-	object_event 33,  5, SPRITE_FRUIT_TREE, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route8FruitTree, -1
