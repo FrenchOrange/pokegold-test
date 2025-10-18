@@ -99,7 +99,7 @@
 	const AMULET_COIN  ; 5b
 	const YLW_APRICORN ; (TEMP) 5c
 	const GRN_APRICORN ; (TEMP) 5d
-	const CLEANSE_TAG  ; (TEMP) 5e
+	const CLEANSE_TAG  ; 5e
 	const MYSTIC_WATER ; 5f
 	const TWISTEDSPOON ; 60
 	const WHT_APRICORN ; (TEMP) 61
@@ -124,7 +124,7 @@
 	const DUSK_STONE   ; 74
 	const MIRACLE_SEED ; 75
 	const THICK_CLUB   ; (TEMP) 76
-	const FOCUS_BAND   ; (TEMP) 77
+	const FOCUS_BAND   ; 77
 	const EVIOLITE     ; 78
 	const ENERGYPOWDER ; 79
 	const ENERGY_ROOT  ; 7a
