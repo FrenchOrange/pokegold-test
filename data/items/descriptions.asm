@@ -115,12 +115,12 @@ ItemDescriptions:
 	dw EverStoneDesc
 	dw SpellTagDesc
 	dw RageCandyBarDesc
-	dw TeruSama9Desc
-	dw TeruSama10Desc
+	dw ShinyStoneDesc
+	dw DuskStoneDesc
 	dw MiracleSeedDesc
 	dw ThickClubDesc
 	dw FocusBandDesc
-	dw TeruSama11Desc
+	dw EvioliteDesc
 	dw EnergyPowderDesc
 	dw EnergyRootDesc
 	dw HealPowderDesc
@@ -147,9 +147,9 @@ ItemDescriptions:
 	dw DragonFangDesc
 	dw TeruSama18Desc
 	dw LeftoversDesc
-	dw TeruSama19Desc
-	dw TeruSama20Desc
-	dw TeruSama21Desc
+	dw PlumeFossilDesc
+	dw CoverFossilDesc
+	dw HeartScaleDesc
 	dw LeppaBerryDesc
 	dw DragonScaleDesc
 	dw BerserkGeneDesc
@@ -703,11 +703,13 @@ RageCandyBarDesc:
 	db   "Restores #MON"
 	next "HP by 20.@"
 
-TeruSama9Desc:
-	db   "?@"
+ShinyStoneDesc:
+	db   "Evolves certain"
+	next "kinds of #MON.@"
 
-TeruSama10Desc:
-	db   "?@"
+DuskStoneDesc:
+	db   "Evolves certain"
+	next "kinds of #MON.@"
 
 MiracleSeedDesc:
 	db   "Powers up grass-"
@@ -721,8 +723,10 @@ FocusBandDesc:
 	db   "May prevent faint-"
 	next "ing. (HOLD)@"
 
-TeruSama11Desc:
-	db   "?@"
+EvioliteDesc:
+	db   "Ups DEF and SP.DEF"
+	next "of evolvers.@"
+	done
 
 EnergyPowderDesc:
 	db   "Restores #MON"
@@ -820,14 +824,17 @@ LeftoversDesc:
 	db   "Restores HP during"
 	next "battle. (HOLD)@"
 
-TeruSama19Desc:
-	db   "?@"
+PlumeFossilDesc:
+	db   "A fossilized"
+	next "#MON wing.@"
 
-TeruSama20Desc:
-	db   "?@"
+CoverFossilDesc:
+	db   "A fossilized"
+	next "#MON shell.@"
 
-TeruSama21Desc:
-	db   "?@"
+HeartScaleDesc:
+	db   "A lovely scale,"
+	next "coveted by some.@"
 
 LeppaBerryDesc:
 	db   "A self-restore"

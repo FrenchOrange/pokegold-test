@@ -199,6 +199,11 @@ DEF NUM_EMOTES EQU const_value
 DEF EMOTE_FROM_MEM EQU -1
 DEF EMOTE_LENGTH EQU 6
 
+; FossilScientist setval arguments
+	const_def 1
+	const REVIVE_PLUME_FOSSIL ; 1
+	const REVIVE_COVER_FOSSIL ; 2
+
 ; ActivateFishingSwarm setval arguments
 	const_def
 	const FISHSWARM_NONE     ; 0

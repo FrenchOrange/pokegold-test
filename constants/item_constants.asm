@@ -119,13 +119,13 @@
 	const BIG_PEARL    ; 6f
 	const EVERSTONE    ; 70
 	const SPELL_TAG    ; 71
-	const RAGECANDYBAR ; (TEMP) 72
-	const ITEM_73      ; (TEMP) 73
-	const ITEM_74      ; (TEMP) 74
+	const RAGECANDYBAR ; 72
+	const SHINY_STONE  ; 73
+	const DUSK_STONE   ; 74
 	const MIRACLE_SEED ; 75
 	const THICK_CLUB   ; (TEMP) 76
 	const FOCUS_BAND   ; (TEMP) 77
-	const ITEM_78      ; (TEMP) 78
+	const EVIOLITE     ; 78
 	const ENERGYPOWDER ; 79
 	const ENERGY_ROOT  ; 7a
 	const HEAL_POWDER  ; 7b
@@ -152,9 +152,9 @@
 	const DRAGON_FANG  ; 90
 	const ITEM_91      ; (TEMP) 91
 	const LEFTOVERS    ; 92
-	const ITEM_93      ; (TEMP) 93
-	const ITEM_94      ; (TEMP) 94
-	const ITEM_95      ; (TEMP) 95
+	const PLUME_FOSSIL ; 93
+	const COVER_FOSSIL ; 94
+	const HEART_SCALE  ; 95
 	const LEPPA_BERRY  ; 96
 	const DRAGON_SCALE ; (TEMP) 97
 	const BERSERK_GENE ; (TEMP) 98

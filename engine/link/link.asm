@@ -1079,8 +1079,6 @@ TimeCapsule_ReplaceTeruSama:
 	ld a, b
 	and a
 	ret z
-	push hl
-	ld hl, TimeCapsule_CatchRateItems
 .loop
 	ld a, [hli]
 	and a
@@ -1096,8 +1094,6 @@ TimeCapsule_ReplaceTeruSama:
 .end
 	pop hl
 	ret
-
-INCLUDE "data/items/catch_rate_items.asm"
 
 Link_CopyOTData:
 .loop
