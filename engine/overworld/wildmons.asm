@@ -35,7 +35,6 @@ FindNest:
 	call ByteFill
 	ld a, e
 	and a
-	jr nz, .kanto
 	decoord 0, 0
 	ld hl, JohtoGrassWildMons
 	call .FindGrass
@@ -45,13 +44,6 @@ FindNest:
 	call .RoamMon2
 	call .RoamMon3
 	ret
-
-.kanto
-	decoord 0, 0
-	ld hl, KantoGrassWildMons
-	call .FindGrass
-	ld hl, KantoWaterWildMons
-	jp .FindWater
 
 .FindGrass:
 	ld a, [hl]
@@ -412,7 +404,6 @@ _GrassWildmonLookup:
 	call _SwarmWildmonCheck
 	ret c
 	ld hl, JohtoGrassWildMons
-	ld de, KantoGrassWildMons
 	call _JohtoWildmonCheck
 	ld bc, GRASS_WILDDATA_LENGTH
 	jr _NormalWildmonOK
@@ -423,7 +414,6 @@ _WaterWildmonLookup:
 	call _SwarmWildmonCheck
 	ret c
 	ld hl, JohtoWaterWildMons
-	ld de, KantoWaterWildMons
 	call _JohtoWildmonCheck
 	ld bc, WATER_WILDDATA_LENGTH
 	jr _NormalWildmonOK
@@ -789,9 +779,6 @@ RandomUnseenWildMon:
 	ld bc, GRASS_WILDDATA_LENGTH
 	call LookUpWildmonsForMapDE
 	jr c, .GetGrassmon
-	ld hl, KantoGrassWildMons
-	call LookUpWildmonsForMapDE
-	jr nc, .done
 
 .GetGrassmon:
 	ld a, [wTimeOfDay]
@@ -859,11 +846,6 @@ RandomPhoneWildMon:
 	ld hl, JohtoGrassWildMons
 	ld bc, GRASS_WILDDATA_LENGTH
 	call LookUpWildmonsForMapDE
-	jr c, .ok
-	ld hl, KantoGrassWildMons
-	call LookUpWildmonsForMapDE
-
-.ok
 	ld bc, 5 + 0 * 2
 	add hl, bc
 	ld a, [wTimeOfDay]
@@ -974,9 +956,7 @@ RandomPhoneMon:
 	ld bc, MON_NAME_LENGTH
 	jp CopyBytes
 
-INCLUDE "data/wild/johto_grass.asm"
-INCLUDE "data/wild/johto_water.asm"
-INCLUDE "data/wild/kanto_grass.asm"
-INCLUDE "data/wild/kanto_water.asm"
+INCLUDE "data/wild/grass.asm"
+INCLUDE "data/wild/water.asm"
 INCLUDE "data/wild/swarm_grass.asm"
 INCLUDE "data/wild/swarm_water.asm"
