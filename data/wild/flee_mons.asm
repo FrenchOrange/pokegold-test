@@ -1,5 +1,5 @@
 FleeMons:
-; referenced by TryEnemyFlee and FastBallMultiplier
+; referenced by TryEnemyFlee
 
 SometimesFleeMons:
 	db MAGNEMITE

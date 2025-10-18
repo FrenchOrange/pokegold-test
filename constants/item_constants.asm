@@ -5,12 +5,12 @@
 ; - ItemAttributes (see data/items/attributes.asm)
 ; - ItemEffects (see engine/items/item_effects.asm)
 	const_def
-	const NO_ITEM      ; (TEMP) 00
-	const MASTER_BALL  ; (TEMP) 01
-	const ULTRA_BALL   ; (TEMP) 02
+	const NO_ITEM      ; 00
+	const MASTER_BALL  ; 01
+	const ULTRA_BALL   ; 02
 	const BRIGHTPOWDER ; (TEMP) 03
-	const GREAT_BALL   ; (TEMP) 04
-	const POKE_BALL    ; (TEMP) 05
+	const GREAT_BALL   ; 04
+	const POKE_BALL    ; 05
 	const TOWN_MAP     ; (TEMP) 06
 	const BICYCLE      ; (TEMP) 07
 	const MOON_STONE   ; (TEMP) 08
@@ -166,7 +166,7 @@
 	const MAIL         ; (TEMP) 9e
 	const LEVEL_BALL   ; (TEMP) 9f
 	const LURE_BALL    ; (TEMP) a0
-	const FAST_BALL    ; (TEMP) a1
+	const QUICK_BALL   ; a1
 	const ITEM_A2      ; (TEMP) a2
 	const LIGHT_BALL   ; (TEMP) a3
 	const FRIEND_BALL  ; (TEMP) a4

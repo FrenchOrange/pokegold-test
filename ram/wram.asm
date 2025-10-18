@@ -1599,9 +1599,9 @@ wMenuItemsList:: ds 16
 wMenuItemsListEnd::
 
 NEXTU
-; fruit tree data
+; ball data
 wCurFruitTree:: db
-wCurFruit:: db
+wTotalBattleTurns:: db
 
 NEXTU
 ; item ball data

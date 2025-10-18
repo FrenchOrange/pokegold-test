@@ -160,7 +160,7 @@ ItemNames::
 	li "MAIL"
 	li "LEVEL BALL"
 	li "LURE BALL"
-	li "FAST BALL"
+	li "QUICK BALL"
 	li "TERU-SAMA"
 	li "LIGHT BALL"
 	li "FRIEND BALL"

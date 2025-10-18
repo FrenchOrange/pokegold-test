@@ -431,7 +431,7 @@ BattleAnimFunction_PokeBallBlocked:
 	ret
 
 GetBallAnimPal:
-	ld hl, BallColors
+	ld hl, wOBPals2 palette PAL_BATTLE_OB_GRAY
 	ld a, [wCurItem]
 	ld e, a
 .IsInArray:
@@ -449,8 +449,6 @@ GetBallAnimPal:
 	add hl, bc
 	ld [hl], a
 	ret
-
-INCLUDE "data/battle_anims/ball_colors.asm"
 
 BattleAnimFunction_Ember:
 	call BattleAnim_AnonJumptable

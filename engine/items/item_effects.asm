@@ -174,7 +174,7 @@ ItemEffects:
 	dw NoEffect            ; MAIL
 	dw PokeBallEffect      ; LEVEL_BALL
 	dw PokeBallEffect      ; LURE_BALL
-	dw PokeBallEffect      ; FAST_BALL
+	dw PokeBallEffect      ; QUICK_BALL
 	dw NoEffect            ; ITEM_A2
 	dw NoEffect            ; LIGHT_BALL
 	dw PokeBallEffect      ; FRIEND_BALL
@@ -707,7 +707,7 @@ BallMultiplierFunctionTable:
 	dbw HEAVY_BALL,  HeavyBallMultiplier
 	dbw LEVEL_BALL,  LevelBallMultiplier
 	dbw LURE_BALL,   LureBallMultiplier
-	dbw FAST_BALL,   FastBallMultiplier
+	dbw QUICK_BALL,  QuickBallMultiplier
 	dbw MOON_BALL,   MoonBallMultiplier
 	dbw LOVE_BALL,   LoveBallMultiplier
 	dbw PARK_BALL,   ParkBallMultiplier
@@ -954,35 +954,14 @@ LoveBallMultiplier:
 	pop bc
 	ret
 
-FastBallMultiplier:
-	ld a, [wTempEnemyMonSpecies]
-	ld c, a
-	ld hl, FleeMons
-	ld d, 3
+QuickBallMultiplier:
+; multiply catch rate by 5 on first turn
+	ld a, [wTotalBattleTurns]
+	dec a
+	ret nz
 
-.loop
-	ld a, BANK(FleeMons)
-	call GetFarByte
-
-	inc hl
-	cp -1
-	jr z, .next
-	cp c
-	jr nz, .loop
-	sla b
-	jr c, .max
-
-	sla b
-	ret nc
-
-.max
-	ld b, $ff
-	ret
-
-.next
-	dec d
-	jr nz, .loop
-	ret
+	ln a, 5, 1 ; x5
+	jp MultiplyAndDivide
 
 LevelBallMultiplier:
 ; multiply catch rate by 8 if player mon level / 4 > enemy mon level

@@ -161,7 +161,7 @@ ItemDescriptions:
 	dw MailDesc
 	dw LevelBallDesc
 	dw LureBallDesc
-	dw FastBallDesc
+	dw QuickBallDesc
 	dw TeruSama25Desc
 	dw LightBallDesc
 	dw FriendBallDesc
@@ -870,9 +870,9 @@ LureBallDesc:
 	db   "A BALL for #MON"
 	next "hooked by a ROD.@"
 
-FastBallDesc:
-	db   "A BALL for catch-"
-	next "ing fast #MON.@"
+QuickBallDesc:
+	db   "A BALL for early"
+	next "in a battle.@"
 
 TeruSama25Desc:
 	db   "?@"

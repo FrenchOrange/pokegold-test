@@ -99,7 +99,6 @@ SpecialsPointers::
 	add_special CheckLuckyNumberShowFlag
 	add_special ResetLuckyNumberShowFlag
 	add_special PrintTodaysLuckyNumber
-	add_special SelectApricornForKurt
 	add_special NameRater
 	add_special DisplayLinkRecord
 	add_special GetFirstPokemonHappiness

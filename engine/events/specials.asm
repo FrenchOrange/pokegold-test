@@ -342,19 +342,6 @@ CountUnown:
 	jr c, .loop
 	ret
 
-SelectApricornForKurt:
-	farcall Kurt_SelectApricorn
-	ld a, c
-	ld [wScriptVar], a
-	and a
-	ret z
-	ld [wCurItem], a
-	ld a, 1
-	ld [wItemQuantityChange], a
-	ld hl, wNumItems
-	call TossItem
-	ret
-
 SnorlaxAwake:
 ; Check if the Poké Flute channel is playing, and if the player is standing
 ; next to Snorlax.

@@ -225,24 +225,6 @@ StartMenu_PrintBugContestStatus:
 .LevelString:
 	db "LEVEL@"
 
-Kurt_SelectApricorn:
-	call FindApricornsInBag
-	jr c, .nope
-	ld hl, .MenuHeader
-	call LoadMenuHeader
-	call DoNthMenu
-	call CloseWindow
-	jr c, .nope
-	ld a, [wMenuSelection]
-	jr .done
-
-.nope
-	xor a ; FALSE
-
-.done
-	ld c, a
-	ret
-
 .MenuHeader:
 	db MENU_BACKUP_TILES ; flags
 	menu_coords 0, 0, 14, 17
@@ -268,52 +250,4 @@ Kurt_SelectApricorn:
 .Cancel
 	db "CANCEL@"
 
-FindApricornsInBag:
-; Checks the bag for Apricorns.
-	ld hl, wKurtApricornCount
-	xor a
-	ld [hli], a
-	assert wKurtApricornCount + 1 == wKurtApricornItems
-	dec a
-	ld bc, 10
-	call ByteFill
 
-	ld hl, ApricornBalls
-.loop
-	ld a, [hl]
-	cp -1
-	jr z, .done
-	push hl
-	ld [wCurItem], a
-	ld hl, wNumItems
-	call CheckItem
-	pop hl
-	jr nc, .nope
-	ld a, [hl]
-	call .addtobuffer
-.nope
-	inc hl
-	inc hl
-	jr .loop
-
-.done
-	xor a
-	call .addtobuffer
-	ld a, [wKurtApricornCount]
-	cp 1
-	ret nz
-	scf
-	ret
-
-.addtobuffer:
-	push hl
-	ld hl, wKurtApricornCount
-	inc [hl]
-	ld e, [hl]
-	ld d, 0
-	add hl, de
-	ld [hl], a
-	pop hl
-	ret
-
-INCLUDE "data/items/apricorn_balls.asm"
