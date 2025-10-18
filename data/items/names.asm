@@ -97,7 +97,7 @@ ItemNames::
 	li "MYSTIC WATER"
 	li "TWISTEDSPOON"
 	li "WHT APRICORN"
-	li "BLACKBELT"
+	li "BLACK BELT"
 	li "BLK APRICORN"
 	li "TERU-SAMA"
 	li "PNK APRICORN"

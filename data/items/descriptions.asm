@@ -98,7 +98,7 @@ ItemDescriptions:
 	dw MysticWaterDesc
 	dw TwistedSpoonDesc
 	dw WhtApricornDesc
-	dw BlackbeltDesc
+	dw BlackBeltDesc
 	dw BlkApricornDesc
 	dw TeruSama8Desc
 	dw PnkApricornDesc
@@ -636,7 +636,7 @@ TwistedSpoonDesc:
 WhtApricornDesc:
 	db   "A white APRICORN.@"
 
-BlackbeltDesc:
+BlackBeltDesc:
 	db   "Boosts fighting-"
 	next "type moves. (HOLD)@"
 
