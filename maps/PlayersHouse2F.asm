@@ -26,6 +26,8 @@ PlayersHousePCScript:
 	end
 
 DebugSign:
+	setflag ENGINE_POKEGEAR
+	setflag ENGINE_PHONE_CARD
 	setflag ENGINE_POKEDEX
 	setflag ENGINE_FLYPOINT_NEW_BARK
 	setflag ENGINE_FLYPOINT_CHERRYGROVE
@@ -46,10 +48,7 @@ DebugSign:
 	giveitem MAX_REPEL, 99
 	giveitem ESCAPE_ROPE, 99
 	giveitem MAIL, 5
-	giveitem TOWN_MAP
 	giveitem BICYCLE
-	giveitem OLD_ROD
-	giveitem GOOD_ROD
 	giveitem SUPER_ROD
 	giveitem HM_CUT
 	giveitem HM_FLY
