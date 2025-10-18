@@ -236,9 +236,9 @@ Route36Officer_ContestHasConcluded:
 	checkevent EVENT_CONTEST_OFFICER_HAS_EVERSTONE
 	iftrue .Everstone
 	checkevent EVENT_CONTEST_OFFICER_HAS_GOLD_BERRY
-	iftrue .GoldBerry
+	iftrue .SitrusBerry
 	checkevent EVENT_CONTEST_OFFICER_HAS_BERRY
-	iftrue .Berry
+	iftrue .OranBerry
 	writetext Route36NationalParkGateOfficer1ContestIsOverText
 	waitbutton
 	closetext
@@ -262,19 +262,19 @@ Route36Officer_ContestHasConcluded:
 	closetext
 	end
 
-.GoldBerry:
+.SitrusBerry:
 	writetext Route36NationalParkGateOfficer1HeresThePrizeText
 	promptbutton
-	verbosegiveitem GOLD_BERRY
+	verbosegiveitem SITRUS_BERRY
 	iffalse .BagFull
 	clearevent EVENT_CONTEST_OFFICER_HAS_GOLD_BERRY
 	closetext
 	end
 
-.Berry:
+.OranBerry:
 	writetext Route36NationalParkGateOfficer1HeresThePrizeText
 	promptbutton
-	verbosegiveitem BERRY
+	verbosegiveitem ORAN_BERRY
 	iffalse .BagFull
 	clearevent EVENT_CONTEST_OFFICER_HAS_BERRY
 	closetext

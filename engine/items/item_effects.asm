@@ -87,17 +87,17 @@ ItemEffects:
 	dw NoEffect            ; SILVER_WING
 	dw RestoreHPEffect     ; MOOMOO_MILK
 	dw NoEffect            ; QUICK_CLAW
-	dw StatusHealingEffect ; PSNCUREBERRY
+	dw StatusHealingEffect ; PECHA_BERRY
 	dw NoEffect            ; GOLD_LEAF
 	dw NoEffect            ; SOFT_SAND
 	dw NoEffect            ; SHARP_BEAK
 	dw StatusHealingEffect ; PRZCUREBERRY
-	dw StatusHealingEffect ; BURNT_BERRY
-	dw StatusHealingEffect ; ICE_BERRY
+	dw StatusHealingEffect ; ASPEAR_BERRY
+	dw StatusHealingEffect ; RAWST_BERRY
 	dw NoEffect            ; POISON_BARB
 	dw NoEffect            ; KINGS_ROCK
-	dw BitterBerryEffect   ; BITTER_BERRY
-	dw StatusHealingEffect ; MINT_BERRY
+	dw BitterBerryEffect   ; PERSIM_BERRY
+	dw StatusHealingEffect ; CHESTO_BERRY
 	dw NoEffect            ; RED_APRICORN
 	dw NoEffect            ; TINYMUSHROOM
 	dw NoEffect            ; BIG_MUSHROOM
@@ -122,7 +122,7 @@ ItemEffects:
 	dw NoEffect            ; SMOKE_BALL
 	dw NoEffect            ; NEVERMELTICE
 	dw NoEffect            ; MAGNET
-	dw StatusHealingEffect ; MIRACLEBERRY
+	dw StatusHealingEffect ; LUM_BERRY
 	dw NoEffect            ; PEARL
 	dw NoEffect            ; BIG_PEARL
 	dw NoEffect            ; EVERSTONE
@@ -163,7 +163,7 @@ ItemEffects:
 	dw NoEffect            ; ITEM_93
 	dw NoEffect            ; ITEM_94
 	dw NoEffect            ; ITEM_95
-	dw RestorePPEffect     ; MYSTERYBERRY
+	dw RestorePPEffect     ; LEPPA_BERRY
 	dw NoEffect            ; DRAGON_SCALE
 	dw NoEffect            ; BERSERK_GENE
 	dw NoEffect            ; ITEM_99
@@ -186,8 +186,8 @@ ItemEffects:
 	dw NoEffect            ; POLKADOT_BOW
 	dw NoEffect            ; ITEM_AB
 	dw NoEffect            ; UP_GRADE
-	dw RestoreHPEffect     ; BERRY
-	dw RestoreHPEffect     ; GOLD_BERRY
+	dw RestoreHPEffect     ; ORAN_BERRY
+	dw RestoreHPEffect     ; SITRUS_BERRY
 	dw SquirtbottleEffect  ; SQUIRTBOTTLE
 	dw NoEffect            ; ITEM_B0
 	dw PokeBallEffect      ; PARK_BALL
@@ -2438,16 +2438,10 @@ RestorePP:
 	cp MAX_ETHER
 	jr z, .restore_all
 
-	ld c, 5
-	cp MYSTERYBERRY
-	jr z, .restore_some
-
-	ld c, 10
-
-.restore_some
+; restore up to 10 PP for ETHER, ELIXIR, and LEPPA_BERRY
 	ld a, [hl]
 	and PP_MASK
-	add c
+	add 10
 	cp b
 	jr nc, .restore_all
 	ld b, a
@@ -2852,4 +2846,75 @@ GetMthMoveOfCurrentMon:
 	ld c, a
 	ld b, 0
 	add hl, bc
+	ret
+
+SimpleGetMaxPPOfMove:
+	ld a, [wStringBuffer1 + 0]
+	push af
+	ld a, [wStringBuffer1 + 1]
+	push af
+
+	ld a, [wMonType]
+	and a
+
+	push bc
+	ld hl, wPartyMon1Moves
+	ld bc, PARTYMON_STRUCT_LENGTH
+	jr z, .got_partymon ; PARTYMON
+
+	ld hl, wOTPartyMon1Moves
+	dec a
+	jr z, .got_partymon ; OTPARTYMON
+
+	pop bc
+	ld hl, wWildMonMoves ; WILDMON
+	jr .gotdatmove
+
+.got_partymon ; PARTYMON, OTPARTYMON
+	ld a, [wCurBattleMon]
+	call AddNTimes
+	pop bc
+
+.gotdatmove
+	ld b, 0
+	add hl, bc
+
+	ld a, [hl]
+	push hl
+	ld hl, (Moves + MOVE_PP) - MOVE_LENGTH
+	ld bc, MOVE_LENGTH
+	call AddNTimes
+	ld a, BANK(Moves)
+	call GetFarByte
+	ld b, a
+	ld de, wStringBuffer1
+	ld [de], a
+	pop hl
+
+	push bc
+	ld bc, MON_PP - MON_MOVES
+	ld a, [wMonType]
+	cp WILDMON
+	jr nz, .notwild
+	ld bc, wWildMonPP - wWildMonMoves
+.notwild
+	add hl, bc
+	ld a, [hl]
+	and PP_UP_MASK
+	pop bc
+
+	or b
+	ld hl, wStringBuffer1 + 1
+	ld [hl], a
+	xor a
+	ld [wTempPP], a
+	call ComputeMaxPP
+	ld a, [hl]
+	and PP_MASK
+	ld [wTempPP], a
+
+	pop af
+	ld [wStringBuffer1 + 1], a
+	pop af
+	ld [wStringBuffer1 + 0], a
 	ret

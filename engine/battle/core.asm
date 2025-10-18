@@ -239,7 +239,7 @@ HandleBetweenTurnEffects:
 
 .NoMoreFaintingConditions:
 	call HandleLeftovers
-	call HandleMysteryberry
+	call HandleLeppaBerry
 	call HandleDefrost
 	call HandleSafeguard
 	call HandleScreens
@@ -1268,7 +1268,7 @@ HandleLeftovers:
 	ld hl, BattleText_TargetRecoveredWithItem
 	jp StdBattleTextbox
 
-HandleMysteryberry:
+HandleLeppaBerry:
 	ldh a, [hSerialConnectionStatus]
 	cp USING_EXTERNAL_CLOCK
 	jr z, .DoEnemyFirst
@@ -1286,7 +1286,7 @@ HandleMysteryberry:
 	callfar GetUserItem
 	ld a, b
 	cp HELD_RESTORE_PP
-	jr nz, .quit
+	ret nz
 	ld hl, wPartyMon1PP
 	ld a, [wCurBattleMon]
 	call GetPartyLocation
@@ -1295,14 +1295,20 @@ HandleMysteryberry:
 	ld hl, wPartyMon1Moves
 	ld a, [wCurBattleMon]
 	call GetPartyLocation
+	xor a ; PARTYMON
+	ld [wMonType], a
 	ldh a, [hBattleTurn]
 	and a
 	jr z, .wild
+
 	ld de, wWildMonPP
 	ld hl, wWildMonMoves
+	ld a, WILDMON
+	ld [wMonType], a
 	ld a, [wBattleMode]
 	dec a
 	jr z, .wild
+
 	ld hl, wOTPartyMon1PP
 	ld a, [wCurOTMon]
 	call GetPartyLocation
@@ -1311,37 +1317,51 @@ HandleMysteryberry:
 	ld hl, wOTPartyMon1Moves
 	ld a, [wCurOTMon]
 	call GetPartyLocation
+	ld a, OTPARTYMON
+	ld [wMonType], a
 
 .wild
 	ld c, $0
 .loop
 	ld a, [hl]
 	and a
-	jr z, .quit
+	ret z
 	ld a, [de]
 	and PP_MASK
-	jr z, .restore
+	jr z, .start_restore
 	inc hl
 	inc de
 	inc c
 	ld a, c
 	cp NUM_MOVES
 	jr nz, .loop
-
-.quit
 	ret
 
-.restore
-	; lousy hack
-	ld a, [hl]
-	cp SKETCH
-	ld b, 1
-	jr z, .sketch
-	ld b, 5
-.sketch
+.start_restore
+	push bc
+	push de
+	push hl
+	farcall SimpleGetMaxPPOfMove
+	pop hl
+	pop de
+	pop bc
+
+	ld a, [wTempPP]
+	ld b, a
 	ld a, [de]
-	add b
+	and PP_MASK
+	add 10
+	cp b
+	jr nc, .restore_all
+	ld b, a
+.restore_all
+	ld a, [de]
+	and PP_UP_MASK
+	or b
 	ld [de], a
+	and PP_MASK
+	ld b, a
+
 	push bc
 	push bc
 	ld a, [hl]
