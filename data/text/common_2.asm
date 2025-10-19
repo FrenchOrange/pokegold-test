@@ -297,9 +297,12 @@ _ThrewAwayText::
 	prompt
 
 _OakThisIsntTheTimeText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that!"
+	text "JUNIPER's words"
+	line "echoed…"
+
+	para "There's a time and"
+	line "place for everyth-"
+	cont "ing! But not now."
 	prompt
 
 _YouDontHaveAMonText::
