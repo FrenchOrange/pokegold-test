@@ -28,6 +28,8 @@ PlayersHousePCScript:
 DebugSign:
 	setflag ENGINE_POKEGEAR
 	setflag ENGINE_PHONE_CARD
+	setflag ENGINE_MAP_CARD
+	setflag ENGINE_RADIO_CARD
 	setflag ENGINE_POKEDEX
 	setflag ENGINE_FLYPOINT_NEW_BARK
 	setflag ENGINE_FLYPOINT_CHERRYGROVE
