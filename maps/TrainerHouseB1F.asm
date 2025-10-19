@@ -171,7 +171,7 @@ TrainerHouseB1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  9,  4, TRAINER_HOUSE_1F, 3
+	warp_event  9,  4, TRAINER_HOUSE_1F, 1
 
 	def_coord_events
 	coord_event  7,  3, SCENE_TRAINERHOUSEB1F_ASK_BATTLE, TrainerHouseReceptionistScript

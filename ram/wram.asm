@@ -2464,14 +2464,14 @@ wPokecenter2FSceneID::                            db
 wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
 wTimeCapsuleSceneID::                             db
-wPowerPlantSceneID::                              db
-wCeruleanGymSceneID::                             db
+wRoute24SceneID::                                 db
 wRoute25SceneID::                                 db
+wRoute26SceneID::                                 db
 wTrainerHouseB1FSceneID::                         db
-wVictoryRoadGateSceneID::                         db
-wSaffronMagnetTrainStationSceneID::               db
-wRoute16GateSceneID::                             db
-wRoute17Route18GateSceneID::                      db
+wRoute28SceneID::                                 db
+wRoute30SceneID::                                 db
+wRoute31SceneID::                                 db
+wRoute33SceneID::                                 db
 wIndigoPlateauPokecenter1FSceneID::               db
 wWillsRoomSceneID::                               db
 wKogasRoomSceneID::                               db
@@ -2485,10 +2485,10 @@ wElmsLabSceneID::                                 db
 wPlayersHouse1FSceneID::                          db
 wRoute29SceneID::                                 db
 wCherrygroveCitySceneID::                         db
-wMrPokemonsHouseSceneID::                         db
+wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
-wRoute35NationalParkGateSceneID::                 db
-wRoute36NationalParkGateSceneID::                 db
+wRoute36SceneID::                                 db
+wRoute37SceneID::                                 db
 wAzaleaTownSceneID::                              db
 wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db
@@ -2497,8 +2497,8 @@ wRoute34SceneID::                                 db
 wEcruteakTinTowerEntranceSceneID::                db
 wEcruteakPokecenter1FSceneID::                    db
 wMahoganyTownSceneID::                            db
-wRoute43GateSceneID::                             db
-wMountMoonSceneID::                               db
+wRoute38SceneID::                                 db
+wRoute39SceneID::                                 db
 wSproutTower3FSceneID::                           db
 wBurnedTower1FSceneID::                           db
 wBurnedTowerB1FSceneID::                          db
@@ -2511,14 +2511,14 @@ wTeamRocketBaseB1FSceneID::                       db
 wTeamRocketBaseB2FSceneID::                       db
 wTeamRocketBaseB3FSceneID::                       db
 wGoldenrodUndergroundSwitchRoomEntrancesSceneID:: db
-wSilverCaveRoom3SceneID::                         db
+wRoute40SceneID::                                 db
 wVictoryRoadSceneID::                             db
 wDragonsDenB1FSceneID::                           db
 wOlivinePortSceneID::                             db
-wVermilionPortSceneID::                           db
+wRoute41SceneID::                                 db
 wFastShip1FSceneID::                              db
 wFastShipB1FSceneID::                             db
-wMountMoonSquareSceneID::                         db
+wRoute42SceneID::                                 db
 
 	ds 197
 

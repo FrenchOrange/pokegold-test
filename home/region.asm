@@ -7,9 +7,6 @@ IsInJohto::
 	ld c, a
 	call GetWorldMapLocation
 
-	cp LANDMARK_FAST_SHIP
-	jr z, .Johto
-
 	cp LANDMARK_SPECIAL
 	jr nz, .CheckRegion
 
@@ -20,15 +17,7 @@ IsInJohto::
 	call GetWorldMapLocation
 
 .CheckRegion:
-	cp KANTO_LANDMARK
-	jr nc, .Kanto
-
-.Johto:
 	xor a ; JOHTO_REGION
-	ret
-
-.Kanto:
-	ld a, KANTO_REGION
 	ret
 
 SetXYCompareFlags::

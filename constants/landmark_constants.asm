@@ -1,7 +1,6 @@
 ; Landmarks indexes (see data/maps/landmarks.asm)
 	const_def
 	const LANDMARK_SPECIAL           ; 00
-; Johto landmarks
 	const LANDMARK_NEW_BARK_TOWN     ; 01
 	const LANDMARK_ROUTE_29          ; 02
 	const LANDMARK_CHERRYGROVE_CITY  ; 03
@@ -46,34 +45,18 @@
 	const LANDMARK_ROUTE_45          ; 2a
 	const LANDMARK_DARK_CAVE         ; 2b
 	const LANDMARK_ROUTE_46          ; 2c
-	const LANDMARK_SILVER_CAVE       ; 2d
-DEF KANTO_LANDMARK EQU const_value
-	const LANDMARK_PALLET_TOWN       ; 2e
 	const LANDMARK_ROUTE_1           ; 2f
-	const LANDMARK_VIRIDIAN_CITY     ; 30
 	const LANDMARK_ROUTE_2           ; 31
-	const LANDMARK_PEWTER_CITY       ; 32
 	const LANDMARK_ROUTE_3           ; 33
-	const LANDMARK_MT_MOON           ; 34
 	const LANDMARK_ROUTE_4           ; 35
-	const LANDMARK_CERULEAN_CITY     ; 36
 	const LANDMARK_ROUTE_24          ; 37
 	const LANDMARK_ROUTE_25          ; 38
 	const LANDMARK_ROUTE_5           ; 39
-	const LANDMARK_UNDERGROUND_PATH  ; 3a
 	const LANDMARK_ROUTE_6           ; 3b
-	const LANDMARK_VERMILION_CITY    ; 3c
-	const LANDMARK_DIGLETTS_CAVE     ; 3d
 	const LANDMARK_ROUTE_7           ; 3e
 	const LANDMARK_ROUTE_8           ; 3f
 	const LANDMARK_ROUTE_9           ; 40
-	const LANDMARK_ROCK_TUNNEL       ; 41
 	const LANDMARK_ROUTE_10          ; 42
-	const LANDMARK_POWER_PLANT       ; 43
-	const LANDMARK_LAVENDER_TOWN     ; 44
-	const LANDMARK_LAV_RADIO_TOWER   ; 45
-	const LANDMARK_CELADON_CITY      ; 46
-	const LANDMARK_SAFFRON_CITY      ; 47
 	const LANDMARK_ROUTE_11          ; 48
 	const LANDMARK_ROUTE_12          ; 49
 	const LANDMARK_ROUTE_13          ; 4a
@@ -82,11 +65,8 @@ DEF KANTO_LANDMARK EQU const_value
 	const LANDMARK_ROUTE_16          ; 4d
 	const LANDMARK_ROUTE_17          ; 4e
 	const LANDMARK_ROUTE_18          ; 4f
-	const LANDMARK_FUCHSIA_CITY      ; 50
 	const LANDMARK_ROUTE_19          ; 51
 	const LANDMARK_ROUTE_20          ; 52
-	const LANDMARK_SEAFOAM_ISLANDS   ; 53
-	const LANDMARK_CINNABAR_ISLAND   ; 54
 	const LANDMARK_ROUTE_21          ; 55
 	const LANDMARK_ROUTE_22          ; 56
 	const LANDMARK_VICTORY_ROAD      ; 57

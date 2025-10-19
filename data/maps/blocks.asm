@@ -15,12 +15,6 @@ Route44_Blocks:
 Route28_Blocks:
 	INCBIN "maps/Route28.blk"
 
-CeladonCity_Blocks:
-	INCBIN "maps/CeladonCity.blk"
-
-SaffronCity_Blocks:
-	INCBIN "maps/SaffronCity.blk"
-
 Route2_Blocks:
 	INCBIN "maps/Route2.blk"
 
@@ -40,16 +34,6 @@ Route10South_Blocks:
 	INCBIN "maps/Route10South.blk"
 
 Pokecenter2F_Blocks:
-CinnabarPokecenter2FBeta_Blocks:
-CeruleanPokecenter2FBeta_Blocks:
-Route10Pokecenter2FBeta_Blocks:
-VermilionPokecenter2FBeta_Blocks:
-PewterPokecenter2FBeta_Blocks:
-FuchsiaPokecenter2FBeta_Blocks:
-LavenderPokecenter2FBeta_Blocks:
-CeladonPokecenter2FBeta_Blocks:
-ViridianPokecenter2FBeta_Blocks:
-SaffronPokecenter2FBeta_Blocks:
 	INCBIN "maps/Pokecenter2F.blk"
 
 Route41_Blocks:
@@ -67,12 +51,6 @@ Route29_Blocks:
 Route37_Blocks:
 	INCBIN "maps/Route37.blk"
 
-LavenderTown_Blocks:
-	INCBIN "maps/LavenderTown.blk"
-
-PalletTown_Blocks:
-	INCBIN "maps/PalletTown.blk"
-
 Route25_Blocks:
 	INCBIN "maps/Route25.blk"
 
@@ -81,9 +59,6 @@ Route24_Blocks:
 
 Route3_Blocks:
 	INCBIN "maps/Route3.blk"
-
-PewterCity_Blocks:
-	INCBIN "maps/PewterCity.blk"
 
 Route12_Blocks:
 	INCBIN "maps/Route12.blk"
@@ -106,9 +81,6 @@ Route34_Blocks:
 Route46_Blocks:
 	INCBIN "maps/Route46.blk"
 
-FuchsiaCity_Blocks:
-	INCBIN "maps/FuchsiaCity.blk"
-
 Route38_Blocks:
 	INCBIN "maps/Route38.blk"
 
@@ -116,79 +88,35 @@ OlivineTimsHouse_Blocks:
 OlivineHouseBeta_Blocks:
 OlivinePunishmentSpeechHouse_Blocks:
 OlivineGoodRodHouse_Blocks:
-Route39Farmhouse_Blocks:
 MahoganyRedGyaradosSpeechHouse_Blocks:
 BlackthornDragonSpeechHouse_Blocks:
 BlackthornEmysHouse_Blocks:
 MoveDeletersHouse_Blocks:
-CeruleanGymBadgeSpeechHouse_Blocks:
-CeruleanPoliceStation_Blocks:
-CeruleanTradeSpeechHouse_Blocks:
-BillsHouse_Blocks:
 CharcoalKiln_Blocks:
 LakeOfRageHiddenPowerHouse_Blocks:
 LakeOfRageMagikarpHouse_Blocks:
 GoldenrodHappinessRater_Blocks:
-BillsFamilysHouse_Blocks:
 GoldenrodPPSpeechHouse_Blocks:
 GoldenrodNameRater_Blocks:
-VermilionFishingSpeechHouse_Blocks:
-VermilionMagnetTrainSpeechHouse_Blocks:
-VermilionDiglettsCaveSpeechHouse_Blocks:
-BluesHouse_Blocks:
-PewterNidoranSpeechHouse_Blocks:
-PewterSnoozeSpeechHouse_Blocks:
-BillsOlderSistersHouse_Blocks:
-LavenderSpeechHouse_Blocks:
-LavenderNameRater_Blocks:
-Route12SuperRodHouse_Blocks:
-Route28SteelWingHouse_Blocks:
-CeladonMansionRoofHouse_Blocks:
-Route16FuchsiaSpeechHouse_Blocks:
 ManiasHouse_Blocks:
 CianwoodPharmacy_Blocks:
 CianwoodPhotoStudio_Blocks:
 CianwoodLugiaSpeechHouse_Blocks:
 PokeSeersHouse_Blocks:
-ViridianNicknameSpeechHouse_Blocks:
-Route2NuggetHouse_Blocks:
 PlayersNeighborsHouse_Blocks:
-Route26HealHouse_Blocks:
-DayOfWeekSiblingsHouse_Blocks:
-Route27SandstormHouse_Blocks:
-MrPsychicsHouse_Blocks:
-Route5CleanseTagHouse_Blocks:
 CherrygroveGymSpeechHouse_Blocks:
 GuideGentsHouse_Blocks:
 CherrygroveEvolutionSpeechHouse_Blocks:
-Route30BerryHouse_Blocks:
 	INCBIN "maps/House1.blk"
 
-SafariZoneFuchsiaGateBeta_Blocks:
-Route19FuchsiaGate_Blocks:
-Route43MahoganyGate_Blocks:
-Route43Gate_Blocks:
-Route35GoldenrodGate_Blocks:
-Route36RuinsOfAlphGate_Blocks:
-Route34IlexForestGate_Blocks:
-Route6SaffronGate_Blocks:
-Route40BattleTowerGate_Blocks:
-Route2Gate_Blocks:
-Route29Route46Gate_Blocks:
-Route5SaffronGate_Blocks:
+NorthSouthGate_Blocks:
 	INCBIN "maps/NorthSouthGate.blk"
-
-CinnabarIsland_Blocks:
-	INCBIN "maps/CinnabarIsland.blk"
 
 Route4_Blocks:
 	INCBIN "maps/Route4.blk"
 
 Route8_Blocks:
 	INCBIN "maps/Route8.blk"
-
-ViridianCity_Blocks:
-	INCBIN "maps/ViridianCity.blk"
 
 Route13_Blocks:
 	INCBIN "maps/Route13.blk"
@@ -217,26 +145,11 @@ Route39_Blocks:
 PlayersHouse1F_Blocks:
 	INCBIN "maps/PlayersHouse1F.blk"
 
-Route38EcruteakGate_Blocks:
-Route42EcruteakGate_Blocks:
-Route32RuinsOfAlphGate_Blocks:
-IlexForestAzaleaGate_Blocks:
-Route15FuchsiaGate_Blocks:
-Route8SaffronGate_Blocks:
-Route16Gate_Blocks:
-Route7SaffronGate_Blocks:
-Route17Route18Gate_Blocks:
-Route31VioletGate_Blocks:
+EastWestGate_Blocks:
 	INCBIN "maps/EastWestGate.blk"
-
-VermilionCity_Blocks:
-	INCBIN "maps/VermilionCity.blk"
 
 ElmsLab_Blocks:
 	INCBIN "maps/ElmsLab.blk"
-
-CeruleanCity_Blocks:
-	INCBIN "maps/CeruleanCity.blk"
 
 Route1_Blocks:
 	INCBIN "maps/Route1.blk"
@@ -259,16 +172,10 @@ Route14_Blocks:
 OlivineMart_Blocks:
 EcruteakMart_Blocks:
 BlackthornMart_Blocks:
-CeruleanMart_Blocks:
 AzaleaMart_Blocks:
 VioletMart_Blocks:
-VermilionMart_Blocks:
-PewterMart_Blocks:
-FuchsiaMart_Blocks:
-LavenderMart_Blocks:
-ViridianMart_Blocks:
-SaffronMart_Blocks:
 CherrygroveMart_Blocks:
+MahoganyMart1F_Blocks:
 	INCBIN "maps/Mart.blk"
 
 Route10North_Blocks:
@@ -278,22 +185,10 @@ OlivinePokecenter1F_Blocks:
 MahoganyPokecenter1F_Blocks:
 EcruteakPokecenter1F_Blocks:
 BlackthornPokecenter1F_Blocks:
-CinnabarPokecenter1F_Blocks:
-CeruleanPokecenter1F_Blocks:
-Route10Pokecenter1F_Blocks:
 AzaleaPokecenter1F_Blocks:
 VioletPokecenter1F_Blocks:
-Route32Pokecenter1F_Blocks:
 GoldenrodPokecenter1F_Blocks:
-VermilionPokecenter1F_Blocks:
-PewterPokecenter1F_Blocks:
-FuchsiaPokecenter1F_Blocks:
-LavenderPokecenter1F_Blocks:
-SilverCavePokecenter1F_Blocks:
-CeladonPokecenter1F_Blocks:
 CianwoodPokecenter1F_Blocks:
-ViridianPokecenter1F_Blocks:
-SaffronPokecenter1F_Blocks:
 CherrygrovePokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.blk"
 
@@ -301,50 +196,25 @@ EarlsPokemonAcademy_Blocks:
 	INCBIN "maps/EarlsPokemonAcademy.blk"
 
 GoldenrodDeptStore1F_Blocks:
-CeladonDeptStore1F_Blocks:
 	INCBIN "maps/DeptStore1F.blk"
 
 GoldenrodDeptStore2F_Blocks:
-CeladonDeptStore2F_Blocks:
 	INCBIN "maps/DeptStore2F.blk"
 
 GoldenrodDeptStore3F_Blocks:
-CeladonDeptStore3F_Blocks:
 	INCBIN "maps/DeptStore3F.blk"
 
 GoldenrodDeptStore4F_Blocks:
-CeladonDeptStore4F_Blocks:
 	INCBIN "maps/DeptStore4F.blk"
 
 GoldenrodDeptStore5F_Blocks:
-CeladonDeptStore5F_Blocks:
 	INCBIN "maps/DeptStore5F.blk"
 
 GoldenrodDeptStore6F_Blocks:
-CeladonDeptStore6F_Blocks:
 	INCBIN "maps/DeptStore6F.blk"
 
 GoldenrodDeptStoreElevator_Blocks:
-CeladonDeptStoreElevator_Blocks:
 	INCBIN "maps/DeptStoreElevator.blk"
-
-CeladonMansion1F_Blocks:
-	INCBIN "maps/CeladonMansion1F.blk"
-
-CeladonMansion2F_Blocks:
-	INCBIN "maps/CeladonMansion2F.blk"
-
-CeladonMansion3F_Blocks:
-	INCBIN "maps/CeladonMansion3F.blk"
-
-CeladonMansionRoof_Blocks:
-	INCBIN "maps/CeladonMansionRoof.blk"
-
-CeladonGameCorner_Blocks:
-	INCBIN "maps/CeladonGameCorner.blk"
-
-CeladonGameCornerPrizeRoom_Blocks:
-	INCBIN "maps/CeladonGameCornerPrizeRoom.blk"
 
 Colosseum_Blocks:
 	INCBIN "maps/Colosseum.blk"
@@ -371,10 +241,6 @@ UnionCave1F_Blocks:
 NationalPark_Blocks:
 NationalParkBugContest_Blocks:
 	INCBIN "maps/NationalPark.blk"
-
-Route5UndergroundPathEntrance_Blocks:
-Route6UndergroundPathEntrance_Blocks:
-	INCBIN "maps/UndergroundPathEntrance.blk"
 
 KurtsHouse_Blocks:
 	INCBIN "maps/KurtsHouse.blk"
@@ -450,9 +316,6 @@ LakeOfRage_Blocks:
 
 BlackthornCity_Blocks:
 	INCBIN "maps/BlackthornCity.blk"
-
-SilverCaveOutside_Blocks:
-	INCBIN "maps/SilverCaveOutside.blk"
 
 Route6_Blocks:
 	INCBIN "maps/Route6.blk"
@@ -565,19 +428,6 @@ WhirlIslandB2F_Blocks:
 WhirlIslandLugiaChamber_Blocks:
 	INCBIN "maps/WhirlIslandLugiaChamber.blk"
 
-SilverCaveRoom1_Blocks:
-	INCBIN "maps/SilverCaveRoom1.blk"
-
-SilverCaveRoom2_Blocks:
-	INCBIN "maps/SilverCaveRoom2.blk"
-
-SilverCaveRoom3_Blocks:
-	INCBIN "maps/SilverCaveRoom3.blk"
-
-MahoganyMart1F_Blocks:
-MountMoonGiftShop_Blocks:
-	INCBIN "maps/GiftShop.blk"
-
 TeamRocketBaseB1F_Blocks:
 	INCBIN "maps/TeamRocketBaseB1F.blk"
 
@@ -680,12 +530,6 @@ EcruteakTinTowerEntrance_Blocks:
 GoldenrodGameCorner_Blocks:
 	INCBIN "maps/GoldenrodGameCorner.blk"
 
-Route35NationalParkGate_Blocks:
-	INCBIN "maps/Route35NationalParkGate.blk"
-
-Route36NationalParkGate_Blocks:
-	INCBIN "maps/Route36NationalParkGate.blk"
-
 FastShip1F_Blocks:
 	INCBIN "maps/FastShip1F.blk"
 
@@ -704,43 +548,14 @@ FastShipCabins_SE_SSE_CaptainsCabin_Blocks:
 OlivinePort_Blocks:
 	INCBIN "maps/OlivinePort.blk"
 
-VermilionPort_Blocks:
-	INCBIN "maps/VermilionPort.blk"
-
 OlivineCafe_Blocks:
-SafariZoneMainOffice_Blocks:
 	INCBIN "maps/OlivineCafe.blk"
 
 PlayersHouse2F_Blocks:
 	INCBIN "maps/PlayersHouse2F.blk"
 
-SaffronMagnetTrainStation_Blocks:
-	INCBIN "maps/SaffronMagnetTrainStation.blk"
-
-CeruleanGym_Blocks:
-	INCBIN "maps/CeruleanGym.blk"
-
-VermilionGym_Blocks:
-	INCBIN "maps/VermilionGym.blk"
-
-SaffronGym_Blocks:
-	INCBIN "maps/SaffronGym.blk"
-
-PowerPlant_Blocks:
-	INCBIN "maps/PowerPlant.blk"
-
-PokemonFanClub_Blocks:
-SafariZoneWardensHome_Blocks:
-	INCBIN "maps/PokemonFanClub.blk"
-
-FightingDojo_Blocks:
-	INCBIN "maps/FightingDojo.blk"
-
 SilphCo1F_Blocks:
 	INCBIN "maps/SilphCo1F.blk"
-
-ViridianGym_Blocks:
-	INCBIN "maps/ViridianGym.blk"
 
 TrainerHouse1F_Blocks:
 	INCBIN "maps/TrainerHouse1F.blk"
@@ -748,75 +563,14 @@ TrainerHouse1F_Blocks:
 TrainerHouseB1F_Blocks:
 	INCBIN "maps/TrainerHouseB1F.blk"
 
-RedsHouse1F_Blocks:
-	INCBIN "maps/RedsHouse1F.blk"
-
-RedsHouse2F_Blocks:
-	INCBIN "maps/RedsHouse2F.blk"
-
-OaksLab_Blocks:
-	INCBIN "maps/OaksLab.blk"
-
-MrFujisHouse_Blocks:
-	INCBIN "maps/MrFujisHouse.blk"
-
-LavRadioTower1F_Blocks:
-	INCBIN "maps/LavRadioTower1F.blk"
-
-SilverCaveItemRooms_Blocks:
-	INCBIN "maps/SilverCaveItemRooms.blk"
-
 DayCare_Blocks:
 	INCBIN "maps/DayCare.blk"
-
-SoulHouse_Blocks:
-	INCBIN "maps/SoulHouse.blk"
-
-PewterGym_Blocks:
-	INCBIN "maps/PewterGym.blk"
-
-CeladonGym_Blocks:
-	INCBIN "maps/CeladonGym.blk"
-
-CeladonCafe_Blocks:
-	INCBIN "maps/CeladonCafe.blk"
-
-RockTunnel1F_Blocks:
-	INCBIN "maps/RockTunnel1F.blk"
-
-RockTunnelB1F_Blocks:
-	INCBIN "maps/RockTunnelB1F.blk"
-
-DiglettsCave_Blocks:
-	INCBIN "maps/DiglettsCave.blk"
-
-MountMoon_Blocks:
-	INCBIN "maps/MountMoon.blk"
-
-SeafoamGym_Blocks:
-	INCBIN "maps/SeafoamGym.blk"
 
 MrPokemonsHouse_Blocks:
 	INCBIN "maps/MrPokemonsHouse.blk"
 
-VictoryRoadGate_Blocks:
-	INCBIN "maps/VictoryRoadGate.blk"
-
 OlivinePortPassage_Blocks:
-VermilionPortPassage_Blocks:
 	INCBIN "maps/PortPassage.blk"
-
-FuchsiaGym_Blocks:
-	INCBIN "maps/FuchsiaGym.blk"
-
-SafariZoneBeta_Blocks:
-	INCBIN "maps/SafariZoneBeta.blk"
-
-UndergroundPath_Blocks:
-	INCBIN "maps/UndergroundPath.blk"
-
-Route39Barn_Blocks:
-	INCBIN "maps/Route39Barn.blk"
 
 VictoryRoad_Blocks:
 	INCBIN "maps/VictoryRoad.blk"
@@ -830,17 +584,8 @@ LancesRoom_Blocks:
 HallOfFame_Blocks:
 	INCBIN "maps/HallOfFame.blk"
 
-CopycatsHouse1F_Blocks:
-	INCBIN "maps/CopycatsHouse1F.blk"
-
-CopycatsHouse2F_Blocks:
-	INCBIN "maps/CopycatsHouse2F.blk"
-
 GoldenrodFlowerShop_Blocks:
 	INCBIN "maps/GoldenrodFlowerShop.blk"
-
-MountMoonSquare_Blocks:
-	INCBIN "maps/MountMoonSquare.blk"
 
 EcruteakTinTowerBackEntrance_Blocks:
 	INCBIN "maps/EcruteakTinTowerBackEntrance.blk"

@@ -1161,14 +1161,6 @@ LoadMapPals:
 	cp ROUTE
 	ret nz
 .outside
-	ld a, [wMapGroup]
-	ld l, a
-	ld h, 0
-	add hl, hl
-	add hl, hl
-	add hl, hl
-	ld de, RoofPals
-	add hl, de
 	ld a, [wTimeOfDayPal]
 	maskbits NUM_DAYTIMES
 	cp NITE_F
@@ -1189,11 +1181,6 @@ INCLUDE "gfx/tilesets/bg_tiles.pal"
 
 MapObjectPals::
 INCLUDE "gfx/overworld/npc_sprites.pal"
-
-RoofPals:
-	table_width COLOR_SIZE * 2 * 2
-INCLUDE "gfx/tilesets/roofs.pal"
-	assert_table_length NUM_MAP_GROUPS + 1
 
 DiplomaPalettes:
 INCLUDE "gfx/diploma/diploma.pal"
