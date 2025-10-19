@@ -1,0 +1,16 @@
+Burgh used this warehouse until\xfffetwo years ago!\xf000븁\x0000\xfffeWhen Burgh gets artist's block,\xfffehe comes back here to Nacrene City!
+Burgh is an artist, and also the\xfffeGym Leader in Castelia City.\xf000븀\x0000\xfffeWe want to be like him!
+That thing you have is a Pokédex,\xfffeisn't it?\xf000븁\x0000\xfffeWow! Coooooool! You collect Pokémon!\xfffeOK! I'll help you.\xf000븁\x0000\xfffeWhich Pokémon did you choose at the\xfffebeginning of your journey?
+You have Snivy! Then I will give you this!\xf000븁\x0000\xfffeWhen you let your Pokémon hold it, it can\xffferaise the power of Grass-type moves!\xf000븁\x0000
+You have Oshawott! Then I will give\xfffeyou this!\xf000븁\x0000\xfffeWhen you let your Pokémon hold it, it can\xffferaise the power of Water-type moves!\xf000븁\x0000
+You have Tepig! Then I will give you this!\xf000븁\x0000\xfffeWhen you let your Pokémon hold it, it can\xffferaise the power of Fire-type moves!\xf000븁\x0000
+A lot of items have effects when Pokémon\xfffehold them, so try to find them!\xf000븁\x0000\xfffeWell, work hard to fill up your Pokédex!\xfffeGood luck!
+Snivy
+Oshawott
+Tepig
+Quit
+Do you have Snivy?
+Do you have Oshawott?
+Do you have Tepig?
+Then, what is the Pokémon you chose\xfffeat the beginning of your journey?
+If you want to tell me, please speak\xfffeto me!

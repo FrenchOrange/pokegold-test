@@ -1,0 +1,20 @@
+\xf000Ă\x0001\x0000 seems to want to get out of\xfffethe Poké Ball!\xf000븁\x0000\xfffeWill you let it out?
+The Poké Ball has stopped moving...
+\xf000Ă\x0001\x0000 came jumping out!\xf000븁\x0000
+Ooh! That Pokémon! It couldn't be...\xf000븁\x0000\xfffeA bright red mane...and a lush tail...and\xfffea single, noble horn!\xf000븁\x0000\xfffeIt's exactly like the old legend!\xf000븁\x0000
+Long ago, when a war between people\xfffestarted an intense fire in this forest,\xf000븀\x0000\xfffea single young Pokémon was separated\xf000븀\x0000\xfffefrom its parents.\xf000븁\x0000\xfffeCobalion, Terrakion, and Virizion\xfffeteamed up to take care of this Pokémon.\xf000븁\x0000
+The three acted as its parents and\xfffetaught it the knowledge and the moves\xf000븀\x0000\xfffeit needed to survive...\xf000븁\x0000
+The young Pokémon grew rapidly, and\xfffedeveloped a power that surpassed its\xf000븀\x0000\xfffethree caretakers.\xf000븁\x0000\xfffeHowever... One day, that Pokémon\xfffedisappeared from the forest.\xf000븁\x0000\xfffeNo one knows why. But when I think about\xfffeit... Young ones are always reckless and\xf000븀\x0000\xfffedrawn to adventure...\xf000븁\x0000
+It looks like they are all happy to see\xfffeone another again!\xf000븁\x0000\xfffeI wonder if those three are trying to\xfffeteach Keldeo something?\xf000븁\x0000
+Cobalion, Terrakion, and Virizion are\xfffetrying to teach \xf000Ă\x0001\x0000 the new move\xf000븀\x0000\xfffeSecret Sword!\xf000븁\x0000\xfffeTeach Secret Sword to \xf000Ă\x0001\x0000?
+
+
+
+If it weren't for you, these Pokémon\xfffenever would have been able to meet again\xf000븀\x0000\xfffehere in this forest that holds so many\xf000븀\x0000\xfffememories for them.\xf000븁\x0000\xfffeI'm sure they are very happy that they\xfffewere able to meet a Trainer like you.\xf000븁\x0000
+It seems like it's looking for the three\xfffelegendary Pokémon that raised it:\xf000븀\x0000\xfffeCobalion, Terrakion, and Virizion.\xf000븁\x0000\xfffeMaybe something will happen if you bring\xfffethem here, too...\xf000븁\x0000
+How you raise Keldeo is up to you...\xf000븁\x0000\xfffeSometimes it's necessary to think about\xfffethings carefully rather than acting on\xf000븀\x0000\xfffethe spur of the moment.\xf000븁\x0000
+For Keldeo and the three legendary\xfffePokémon of the Unova region--Cobalion,\xf000븀\x0000\xfffeTerrakion, and Virizion--this forest\xf000븀\x0000\xfffehas a special meaning.\xf000븁\x0000\xfffeIt seems like it would be best if you knew\xfffethis story, as well.\xf000븁\x0000\xfffeWould you mind listening to an old man's\xfffestory for a moment?\xf000븁\x0000
+When you want to teach Keldeo this move,\xfffeyou must bring Cobalion, Terrakion,\xf000븀\x0000\xfffeand Virizion.\xf000븁\x0000
+A verdant forest and clear water... For\xfffePokémon, this forest is like a paradise.\xf000븁\x0000\xfffeIt's also very important for people,\xfffeso I want to take good care of it!
+Would you like to teach Keldeo this\xfffemove again?
+If you don't get to do something you\xfffewanted to do, it sure stays with you.\xf000븁\x0000

@@ -1,0 +1,38 @@
+Cheren: When a Pokémon is poisoned,\xfffeits HP decreases while it is battling.\xf000븁\x0000
+Hey, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeHave you come looking for the\xfffeGym Leader?
+He was here talking about Pokémon\xfffetypes until just a few moments ago...\xf000븁\x0000\xfffeMaybe you walked right past him?\xf000븁\x0000
+Nothing improves your skill as a Trainer\xfffelike real battles.\xf000븁\x0000\xfffeThat's why challenging Gym Leaders is\xfffegreat practice.\xf000븁\x0000
+By the way, \xf000Ā\x0001\x0000, will you have a\xfffebattle with me?\xf000븁\x0000\xfffeI want to test how important items are\xfffein battles.
+Cheren: \xf000Ā\x0001\x0000, will you have a\xfffebattle with me?\xf000븁\x0000\xfffeI want to test how important items are\xfffein battles.
+Really? I really want to try out my\xfffeitems, so I'll just wait here until you\xf000븀\x0000\xfffedecide you're ready.
+Cheren: Well, let's see how effective\xfffemy items are...\xf000븁\x0000\xfffeOr maybe I should test how well I can\xfffebattle without items...?\xf000븁\x0000\xfffeAnyway, this is an indoor match, so let's\xfffebattle without getting too rough!\xf000븁\x0000
+Cheren: So learning to use items well is\xfffedefinitely important, then.\xf000븁\x0000\xfffeOh, here. \xf000Ā\x0001\x0000, I'll give you\xfffethese Berries.\xf000븁\x0000
+Cheren: If you give a Pokémon this kind\xfffeof Berry to hold, it will eat it to heal up\xf000븀\x0000\xfffewhen its HP goes down in battle.\xf000븁\x0000\xfffeBut if you give Pokémon man-made items\xfffelike Potions to hold, they can't\xf000븀\x0000\xfffeuse them.\xf000븁\x0000\xfffeWell, good luck, then.\xf000븁\x0000
+This Trainers' School exists to meet the\xfffedemands of Trainers who want to know\xf000븀\x0000\xfffemore about Pokémon because they\xf000븀\x0000\xfffelove them!
+Pokémon have mysterious powers\xfffecalled Abilities.\xf000븁\x0000\xfffeAbilities have a variety of effects, and\xfffemany of those effects are activated when\xf000븀\x0000\xfffePokémon are in battle!
+There is a technique that lets you\xfffecancel evolution!\xf000븁\x0000\xfffeI'll read the book about it to you.\xfffeAre you ready?\xf000븁\x0000\xfffe“You can surprise a Pokémon and stop its\xfffeevolution by pressing the B Button when\xf000븀\x0000\xfffea Pokémon is evolving."
+Some moves can only be taught with TMs.\xf000븁\x0000\xfffeTMs can be used over and over, so you\xfffemight want to use them a lot.\xf000븁\x0000\xfffeIf you don't like the move you taught,\xfffeyou can always use a different TM.
+Would you like to take a quiz about\xfffestatus conditions?
+So here is the question:\xf000븁\x0000\xfffeWhich of the following items\xfffecures poison?
+Antidote
+Parlyz Heal
+Awakening
+Ding ding ding!\xf000븁\x0000\xfffeRight answer!\xfffeNow for the next question.\xf000븁\x0000
+The item that cures paralysis is\xfffeParlyz Heal, but...\xf000븁\x0000\xfffeWhich of the following items\xfffewakes up a sleeping Pokémon?
+Ding ding ding! We have a winner!\xfffeFantastic answer!\xf000븁\x0000\xfffeSince you know so much about status\xfffeconditions, I'll give you this!\xf000븁\x0000
+Full Heal does exactly what the name\xfffesuggests--it heals all status conditions!
+Come talk to me if you want\xfffeto take a quiz.
+Buzzzzz!\xf000븁\x0000\xfffeToo bad... That's incorrect.\xfffePlease try again sometime!
+The blackboard explains Pokémon\xfffestatus changes in battle.\xf000븁\x0000
+What do you want to read about?
+If poisoned, a Pokémon steadily loses HP\xfffewhen battling.\xf000븁\x0000\xfffeThe poison lingers after the battle.\xfffeTo cure it, use an Antidote.\xf000븁\x0000
+Paralysis reduces the Speed stat\xfffeand may prevent movement.\xf000븁\x0000\xfffeIt remains after battle, so use a\xfffeParlyz Heal.\xf000븁\x0000
+If a Pokémon falls asleep, it will be\xfffeunable to attack.\xf000븁\x0000\xfffeThe Pokémon may wake up on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffesleeping, it will stay asleep.\xf000븁\x0000\xfffeWake it up using an Awakening.\xf000븁\x0000
+A burn reduces the Attack stat and\xfffesteadily reduces the victim's HP.\xf000븁\x0000\xfffeA burn lingers after battle.\xfffeCure a burn using a Burn Heal.\xf000븁\x0000
+If a Pokémon is frozen, it becomes\xfffecompletely helpless.\xf000븁\x0000\xfffeThe Pokémon may thaw out on its own,\xfffebut if a battle ends while it is\xf000븀\x0000\xfffefrozen, it will stay frozen.\xf000븁\x0000\xfffeThaw it out using an Ice Heal.\xf000븁\x0000
+Poison
+Paralysis
+Sleep
+Burn
+Frozen
+Cancel

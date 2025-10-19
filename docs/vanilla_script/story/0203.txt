@@ -1,0 +1,40 @@
+...\xf000븁\x0000\xfffe...Come.\xf000븁\x0000
+...\xf000븁\x0000\xfffeMy lord N, we brought the one\xfffeyou wanted.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Ah, yes.\xf000븁\x0000\xfffeThat was the Shadow Triad, just now.\xfffeGhetsis enlisted them in Team Plasma.\xf000븁\x0000\xfffeApparently, they were the ones who\xfffeprepared the Galvantula nest\xf000븀\x0000\xfffeat the cave entrance.\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Chargestone Cave...\xfffeI like this place.\xf000븁\x0000\xfffeFormulas express electricity and\xfffeits connection to Pokémon...\xf000븁\x0000\xfffeIf people did not exist,\xfffethis would be an ideal place.\xf000븁\x0000\xfffeYou have been chosen, you know.\xfffeDoes it surprise you I said that?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Of course.\xfffeSuch news should be a surprise.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001Hmph.\xf000븁\x0000\xfffeIf you don't understand what that\xfffemeans, it's not likely to surprise you.\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001I told Ghetsis about you\xfffeand your friends.\xf000븁\x0000\xfffeAfter I did, he apparently used the\xfffeShadow Triad to find out about you.\xf000븁\x0000\xfffeCheren is pursuing the ideal of strength.\xf000븁\x0000\xfffePoor Bianca has faced the sad truth that\xfffenot everyone can become stronger.\xf000븁\x0000\xfffeAnd you are not swayed either way--\xfffemore of a neutral presence.\xf000븀\x0000\xfffeWhich is apparently a good thing.\xf000븁\x0000\xfffeTeam Plasma will be waiting for you ahead.\xf000븁\x0000\xfffeGhetsis wants to see what kind of\xfffePokémon Trainer you really are.\xf000븉\x0001\x0000\xf000븁\x0000
+Heeey!\xf000븁\x0000
+Guess what!\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000, did you know this?\xf000븁\x0000\xfffeThe floating stones move\xfffewhen you touch them!\xf000븁\x0000
+Right, Professor?\xf000븁\x0000
+Professor Juniper: Hi there!\xfffeHow are you, \xf000Ā\x0001\x0000?\xf000븁\x0000
+This place is always charged with\xfffelots of electricity that Pokémon like!\xf000븁\x0000\xfffeThe electric charges react from one\xfffestone to another, and that's why\xf000븀\x0000\xfffesome of the stones are floating!\xf000븁\x0000\xfffeBut not all of the stones can be pushed.\xf000븁\x0000
+My father asked me to research Klink,\xfffewhich is a Pokémon that looks like a gear,\xf000븀\x0000\xfffebecause I'm researching the origins\xf000븀\x0000\xfffeof Pokémon and the era they appeared.\xf000븁\x0000\xfffeHe knows how to get what he wants from\xfffepeople, but I was already interested in\xf000븀\x0000\xfffethis anyway, so it's a lot of fun!\xf000븁\x0000\xfffeOh, yeah! \xf000Ā\x0001\x0000, this is for you!\xf000븁\x0000
+Professor Juniper: Giving that Lucky Egg\xfffeto a Pokémon to hold increases the\xf000븀\x0000\xfffeamount of Exp. Points received in\xf000븀\x0000\xfffebattle by a lot!\xf000븁\x0000\xfffeHaving strong Pokémon will make\xfffeit easier to fill your Pokédex pages!
+Professor Juniper: \xf000Ā\x0001\x0000!\xfffeAre you working on your Pokédex?\xf000븁\x0000\xfffeKeep encountering lots of Pokémon,\xfffeso you can keep filling in those pages!
+Bianca: I'm the professor's bodyguard!\xf000븁\x0000\xfffeWell, that's probably not necessary, but\xfffeyou have to protect important things!
+Professor Juniper: Hi there!\xfffeDid you find something?\xf000븁\x0000\xfffeI think we're just about\xfffedone collecting data.\xf000븁\x0000
+This cave has been around since the\xfffedistant past, but...\xf000븁\x0000\xfffeData to prove that Klink existed more\xfffethan a hundred years ago can't be found.\xf000븁\x0000\xfffeSo that must mean...\xf000븁\x0000\xfffeKlink suddenly appeared a hundred\xfffeyears ago!\xf000븁\x0000
+Where Pokémon came from\xfffeand where they are going...\xf000븁\x0000\xfffeIf we can learn that, I believe\xfffewe can get along even better!\xf000븁\x0000
+Bianca: Know what, \xf000Ā\x0001\x0000?\xfffePokémon are mysterious!\xf000븁\x0000\xfffeI wonder why these amazing\xfffelittle guys stay by our sides.
+Where Pokémon came from\xfffeand where they are going...\xf000븁\x0000\xfffeIf we can learn that, I believe\xfffewe can get along even better!
+Bianca: I plan on staying here\xfffeand catching Pokémon!\xf000븀\x0000\xfffeTraveling is about encounters, you know!
+...\xf000븁\x0000\xfffe...Come.\xf000븁\x0000
+...\xf000븁\x0000\xfffeThere are stairs going down ahead.\xfffeTeam Plasma is waiting for you there.\xf000븁\x0000
+N: \xf000븉\x0001\x0001Many different values mix together,\xfffeand the world becomes gray...\xf000븀\x0000\xfffeThat is unforgivable!\xf000븁\x0000\xfffeI will separate Pokémon and people, and\xfffeblack and white will be clearly distinct!\xf000븁\x0000\xfffeOnly then will Pokémon become\xfffeperfect beings!\xf000븁\x0000\xfffeYes, that is my dream!\xfffeThat is the dream I must fulfill!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, do you have a dream\xfffeof your own?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001You have a dream...\xfffeThat's wonderful.\xf000븁\x0000\xfffeI'll learn just what kind of dream\xfffeyou have--in battle!\xf000븉\x0001\x0000\xf000븁\x0000
+\xf000븉\x0001\x0001As if a person without a dream\xfffecould ever understand me!\xf000븁\x0000\xfffeEh... I guess...\xfffeI have to crush your will here!\xf000븉\x0001\x0000\xf000븁\x0000
+
+N: \xf000븉\x0001\x0001Tsk! Why?\xf000븁\x0000\xfffeIs it impossible for me to win while\xfffefeeling bad about being a Trainer?\xf000븁\x0000\xfffeAs if I could pursue the truth with\xfffesomething as meaningless as a battle!\xf000븁\x0000\xfffeAs if that could make me worthy to become\xfffefriends with the legendary Pokémon!\xf000븉\x0001\x0000\xf000븁\x0000
+N: \xf000븉\x0001\x0001Tsk! Why?\xf000븁\x0000\xfffeIs it impossible for me to win while\xfffefeeling bad about being a Trainer?\xf000븁\x0000\xfffeAs if I could pursue my ideals with\xfffesomething as meaningless as a battle!\xf000븁\x0000\xfffeAs if that could make me worthy to become\xfffefriends with the legendary Pokémon!\xf000븉\x0001\x0000\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000!\xf000븁\x0000
+Just a little further to Mistralton City!\xf000븁\x0000
+Professor Juniper: Bianca,\xfffeyou have good ears.\xf000븁\x0000\xfffeI can't believe you heard\xfffe\xf000Ā\x0001\x0000's voice from that far away.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, who is this Trainer?\xf000븁\x0000
+N: \xf000븉\x0001\x0001Professor Juniper,\xfffewhat are you thinking?\xf000븁\x0000\xfffeYou appear to have no qualms about the\xffferelationship between Pokémon and people.\xf000븁\x0000\xfffeYou put Pokémon into categories using\xfffearbitrary rules and think you can\xf000븀\x0000\xfffeunderstand them like that...\xf000븀\x0000\xfffeThe very idea of a Pokédex revolts me.\xf000븁\x0000\xfffeWhat do you have to say for yourself?\xf000븉\x0001\x0000\xf000븁\x0000
+Professor Juniper: Oh, my.\xfffeLooks like you're not my biggest fan.\xf000븁\x0000\xfffeYour opinion is understandable.\xfffeIt happens to be different from mine,\xf000븀\x0000\xfffewhich is equally understandable.\xf000븁\x0000\xfffeHow about if all people get to decide for\xfffethemselves how to relate to Pokémon?\xf000븁\x0000
+N: \xf000븉\x0001\x0001You're saying I should just allow\xfffepeople to think whatever they want and\xf000븀\x0000\xfffetreat Pokémon however they want,\xf000븀\x0000\xfffeno matter whether the Pokémon suffer?\xf000븁\x0000\xfffeI refuse to tolerate the existence\xfffeof a world like that!\xf000븉\x0001\x0000\xf000븁\x0000
+Professor Juniper: Well, I didn't expect\xfffehim to change his mind right away.\xf000븁\x0000\xfffeBut I hope he'll spend a little time\xfffetrying to understand how others feel.\xf000븁\x0000
+Now, then...\xfffeI think I'll go collect a little more data.\xf000븁\x0000\xfffeFor Pokémon and people to get\xfffealong better, we need to take steps\xf000븀\x0000\xfffeto learn more about them!\xf000븁\x0000
+Bianca: Umm, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeI'm gonna go with Professor Juniper\xfffenow 'cause I'm her bodyguard!\xf000븁\x0000

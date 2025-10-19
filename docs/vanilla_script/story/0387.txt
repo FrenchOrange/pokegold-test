@@ -1,0 +1,20 @@
+Cheren: Stop!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xf000븁\x0000
+Drayden and Professor Juniper told me.\xfffeYou're heading for the\xf000븀\x0000\xfffePokémon League, right?
+Cheren: Since it's Alder...\xfffeSince it's the Champion,\xf000븀\x0000\xfffeI think it will be all right.\xf000븁\x0000\xfffeWorst-case scenario...\xfffeyou'll be battling Team Plasma's boss, N.\xf000븁\x0000\xfffeI need to know if you can handle it!\xf000븁\x0000
+Cheren: Now is not the time for modesty.\xf000븁\x0000\xfffeWorst-case scenario, you'll be battling\xfffeTeam Plasma's boss, N!\xf000븁\x0000\xfffeI need proof you can handle it!\xf000븁\x0000
+Cheren: Yep, you are something else.\xfffeAnd I mean that sincerely.\xf000븁\x0000\xfffeRight. Now, I have to make\xfffeyour Pokémon healthy.\xf000븁\x0000
+Cheren fully healed\xfffe\xf000Ā\x0001\x0000's Pokémon!
+Cheren: Right now, there's no way\xfffeI can compete with you, \xf000Ā\x0001\x0000.\xf000븁\x0000\xfffeIf there is anything I can do to help in\xfffethe battle with N, just say so...\xf000븁\x0000
+Bianca: \xf000Ā\x0001\x0000...\xf000븁\x0000\xfffeThere's not much I can do to help you,\xfffebut I want you to have these!\xf000븁\x0000
+Bianca: Still, it's kind of funny.\xfffeEveryone's so different.\xf000븁\x0000
+Cheren: Funny?\xfffeAt a time like this...\xf000븁\x0000
+Bianca: Come on, Cheren.\xfffeCould you smile just for once?\xf000븁\x0000\xfffeTaking everything so seriously all the\xfffetime isn't going to change anything.\xf000븁\x0000\xfffeYou know... Since we've met our Pokémon\xfffeand walked the same roads together,\xf000븀\x0000\xfffea lot has happened...\xf000븀\x0000\xfffeWe've all changed a lot!\xf000븁\x0000\xfffeWe found out that the things we want\xfffeto do and the things we can do\xf000븀\x0000\xfffeare different for each of us, right?\xf000븁\x0000\xfffeThat's what's made our journey\xfffeso worth it.\xf000븀\x0000\xfffeSomehow, all this just makes me happy.\xf000븁\x0000
+Cheren: ...So that's what you mean.\xf000븁\x0000\xfffe...You are right that we're all different\xfffeand we should do the things\xf000븀\x0000\xfffethat we can do.\xf000븁\x0000
+
+Cheren: There are as many\xfffetruths and ideals as there\xf000븀\x0000\xfffeare people and Pokémon.\xf000븁\x0000\xfffeThe most important thing is\xfffethat we help one another out.\xf000븁\x0000\xfffeThat's why people and Pokémon\xfffeare always by each other's side.\xf000븀\x0000\xfffeThat's what I've come to think lately...\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000!\xfffeIf anything happens to you or Alder,\xf000븀\x0000\xfffeI will do everything I can to help you.\xf000븁\x0000\xfffeThat's why I have to keep training and\xfffegetting stronger.\xf000븀\x0000\xfffeJust...don't be reckless, OK?\xf000븁\x0000
+Bianca: He's gone.\xf000븁\x0000
+\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeMe, too! I'll do my best to help if I can!\xf000븁\x0000\xfffeSo...\xfffeUmm...\xf000븁\x0000\xfffeI wish I could say something, like,\xfffetotally inspiring, you know?\xf000븁\x0000\xfffeUmm...\xfffeOK... Best foot forward!\xf000븁\x0000
+You made it this far. Well done.\xfffeThat's an impressive accomplishment.\xf000븁\x0000\xfffeTo show the respect I feel for you,\xfffeI would like to present you with this gift.\xf000븁\x0000
+It's a Dusk Stone.\xfffeThis item makes certain Pokémon evolve.\xf000븁\x0000\xfffeI used one to evolve a Lampent\xfffefrom the Celestial Tower.
+Route 10
+Badge Check Gates\xfffeOpen the gates and change history!

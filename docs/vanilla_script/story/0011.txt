@@ -1,0 +1,26 @@
+Hey there!\xfffeI'm Fennel.\xf000븁\x0000\xfffeProfessor Juniper asked me\xfffeto give you something.\xf000븀\x0000\xfffePlease, follow me!\xf000븁\x0000
+Are you looking for the Gym Leader?\xf000븁\x0000\xfffeHe is not here.\xfffeHe could be in the Trainers' School.\xf000븁\x0000\xfffeIf you want to challenge him,\xfffeplease go find him.\xf000븁\x0000\xfffeThe Trainers' School is not far from\xfffethis Gym.
+Yes? Yes, I am a Gym Leader of this town.\xfffeYou are...?\xf000븁\x0000\xfffeRight. You want to challenge the Gym.\xf000븁\x0000\xfffeIn that case...\xfffeWhat was the first Pokémon you chose?\xf000븁\x0000\xfffe\xf000ā\x0001\x0000... I see. It's weak against\xfffe\xf000ă\x0001\x0001-type Pokémon.\xf000븁\x0000\xfffeI think you need to prepare to face\xfffethat type.\xf000븁\x0000\xfffeI'll be waiting for you inside.\xf000븁\x0000
+Yes? Yes, I am a Gym Leader\xfffeof this town.\xf000븀\x0000\xfffeYou are...?\xf000븁\x0000\xfffeRight. You want to challenge the Gym.\xf000븁\x0000\xfffeIn that case...\xfffeWhat was the first Pokémon you chose?\xf000븁\x0000\xfffe\xf000ā\x0001\x0000... I see. It's weak against\xfffe\xf000ă\x0001\x0001-type Pokémon.\xf000븁\x0000\xfffeI think you need to prepare to face\xfffethat type.\xf000븁\x0000\xfffeFor example, try training your Pokémon\xfffein the Dreamyard.\xf000븁\x0000\xfffePlease excuse me now.\xf000븁\x0000
+You don't seem to have any Gym Badges,\xfffeso I can't let you by.\xf000븁\x0000\xfffeWith your lack of training, you'll have\xfffea hard job making any progress.\xf000븁\x0000\xfffeLet me give you some friendly advice.\xf000븁\x0000\xfffeChallenge a Gym Leader in this town,\xfffeand test your ability!
+You don't seem to have\xfffeany Gym Badges.\xf000븁\x0000\xfffeWith your lack of experience,\xfffeyou'll have a hard time in the future.\xf000븁\x0000\xfffeHere's some friendly advice.\xfffeChallenge a Gym Leader in this town,\xf000븀\x0000\xfffeand test your ability!\xf000븁\x0000
+The scientist Fennel was looking for you\xfffea little while ago!
+The scientist Fennel was looking for you\xfffea little while ago!\xf000븁\x0000
+Wow!\xfffeIt's a shiny Gym Badge!\xf000븁\x0000\xfffeGetting that Badge proved you have skill\xfffeenough to handle whatever comes next!
+The Striaton City Gym Leader.\xf000븁\x0000\xfffeNo matter how often I challenge him,\xfffehe always uses Pokémon\xf000븀\x0000\xfffethat I don't like...
+If a Pokémon type and a move type are\xfffethe same, the move's power will increase!\xf000븀\x0000\xfffeThe Gym Leader told me!
+At the site of an old factory,\xfffeat a place we call the Dreamyard,\xf000븀\x0000\xfffethere's an unusual Pokémon\xf000븀\x0000\xfffethat can make dreams appear!
+I too studied at the Trainers' School\xfffewhen I was a beginner.
+Do you know how Technical Machines work?\xf000븁\x0000\xfffeA TM can instantly teach a move to a\xfffePokémon. You can use it over and over\xf000븀\x0000\xfffewith different Pokémon. How cool is that?
+Er... Um...\xf000븁\x0000\xfffeGrass-type Pokémon are\xfffeweak against Fire-type moves.\xf000븁\x0000\xfffeI know more stuff!
+Er... Um...\xf000븁\x0000\xfffeWater-type Pokémon are\xfffeweak against Grass-type moves.\xf000븁\x0000\xfffeI know more stuff!
+Um... Er...\xf000븁\x0000\xfffeFire-type Pokémon are\xfffeweak against Water-type moves.\xf000븁\x0000\xfffeI know more stuff!
+Some Trainers train themselves and\xfffetheir Pokémon in the Dreamyard.\xf000븁\x0000\xfffeYou might think about going there...\xfffeCould be you'll find something...
+I'm so glad you came.\xfffeI'd like to give you this!\xf000븁\x0000
+To live quietly and do a lot of fishing...\xfffeI truly live my ideal existence!
+Pokémon can be found in dark places, too.\xfffeThat's when a Dusk Ball can do the trick!\xf000븀\x0000\xfffeHere's one for you.\xf000븁\x0000
+A Dusk Ball works well at night\xfffeor in a cave.\xf000븁\x0000\xfffePlus, its name is excellent!\xfffeThe Dusk Ball. Dusk!
+Striaton City\xfffeThree Stand Together as One!
+Dreamyard ahead.\xfffeA place for novice Trainers.
+Trainers' School\xfffeBrush up on Pokémon knowledge!
+Striaton City Pokémon Gym\xfffeLeader: ---\xf000븀\x0000\xfffeTriple Trouble!
