@@ -67,7 +67,7 @@ DEF NUM_FISHGROUPS EQU const_value - 1
 ; SpawnPoints indexes (see data/maps/spawn_points.asm)
 	const_def
 	const SPAWN_HOME
-	const SPAWN_NEW_BARK
+	const SPAWN_NUVEMA
 	const SPAWN_CHERRYGROVE
 	const SPAWN_VIOLET
 	const SPAWN_UNION_CAVE
@@ -88,7 +88,7 @@ DEF SPAWN_N_A EQU -1
 	const_def
 ; johto
 DEF JOHTO_FLYPOINT EQU const_value
-	const FLY_NEW_BARK
+	const FLY_NUVEMA
 	const FLY_CHERRYGROVE
 	const FLY_VIOLET
 	const FLY_AZALEA

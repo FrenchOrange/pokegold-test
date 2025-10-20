@@ -97,7 +97,7 @@ MACRO connection
 ENDM
 
 
-	map_attributes NewBarkTown, NEW_BARK_TOWN, $0f, 0
+	map_attributes NuvemaTown, NUVEMA_TOWN, $43, 0
 
 	map_attributes CherrygroveCity, CHERRYGROVE_CITY, $0f, 0
 

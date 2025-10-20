@@ -10,7 +10,7 @@ SpawnPoints:
 
 	spawn PLAYERS_HOUSE_2F,            3,  3
 
-	spawn NEW_BARK_TOWN,              13,  6
+	spawn NUVEMA_TOWN,                 9, 10
 	spawn CHERRYGROVE_CITY,           29,  4
 	spawn VIOLET_CITY,                31, 26
 	spawn ROUTE_32,                   11, 74

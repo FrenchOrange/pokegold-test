@@ -218,7 +218,7 @@ TownMap_InitCursorAndPlayerIconPositions:
 
 .FastShip:
 	ld [wPokegearMapPlayerIconLandmark], a
-	ld a, LANDMARK_NEW_BARK_TOWN
+	ld a, LANDMARK_NUVEMA_TOWN
 	ld [wPokegearMapCursorLandmark], a
 	ret
 
@@ -549,7 +549,7 @@ PokegearMap_KantoMap:
 
 PokegearMap_JohtoMap:
 	ld d, LANDMARK_INDIGO_PLATEAU
-	ld e, LANDMARK_NEW_BARK_TOWN
+	ld e, LANDMARK_NUVEMA_TOWN
 PokegearMap_ContinueMap:
 	ld hl, hJoyLast
 	ld a, [hl]
@@ -2181,7 +2181,7 @@ FlyMap:
 ; Johto fly map
 ; Note that .NoKanto should be modified in tandem with this branch
 	push af
-	ld a, FLY_NEW_BARK
+	ld a, FLY_NUVEMA
 	ld [wTownMapPlayerIconLandmark], a
 ; Flypoints starts in New Bark Town
 	ld [wStartFlypoint], a

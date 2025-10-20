@@ -284,8 +284,8 @@ RadioTower4F_Blocks:
 RadioTower5F_Blocks:
 	INCBIN "maps/RadioTower5F.blk"
 
-NewBarkTown_Blocks:
-	INCBIN "maps/NewBarkTown.blk"
+NuvemaTown_Blocks:
+	INCBIN "maps/NuvemaTown.blk"
 
 CherrygroveCity_Blocks:
 	INCBIN "maps/CherrygroveCity.blk"

@@ -9,6 +9,8 @@ ElmsLab_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
+	warp_event  2,  7, NUVEMA_TOWN, 1
+	warp_event  3,  7, NUVEMA_TOWN, 1
 
 	def_coord_events
 

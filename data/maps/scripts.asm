@@ -95,7 +95,7 @@ INCLUDE "maps/TohjoFalls.asm"
 
 SECTION "Map Scripts 7", ROMX
 
-INCLUDE "maps/NewBarkTown.asm"
+INCLUDE "maps/NuvemaTown.asm"
 INCLUDE "maps/CherrygroveCity.asm"
 INCLUDE "maps/VioletCity.asm"
 INCLUDE "maps/AzaleaTown.asm"
