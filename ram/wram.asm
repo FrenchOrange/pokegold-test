@@ -2506,7 +2506,7 @@ wRadioTower5FSceneID::                            db
 wRuinsOfAlphOutsideSceneID::                      db
 wRuinsOfAlphResearchCenterSceneID::               db
 wRuinsOfAlphInnerChamberSceneID::                 db
-wMahoganyMart1FSceneID::                          db
+wSproutTower2fSceneID::                           db
 wTeamRocketBaseB1FSceneID::                       db
 wTeamRocketBaseB2FSceneID::                       db
 wTeamRocketBaseB3FSceneID::                       db

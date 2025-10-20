@@ -16,7 +16,6 @@ OlivineCity_MapEvents:
 	def_warp_events
 	warp_event 13, 21, OLIVINE_POKECENTER_1F, 1
 	warp_event 10, 11, OLIVINE_GYM, 1
-	warp_event 19, 17, OLIVINE_MART, 2
 
 	def_coord_events
 

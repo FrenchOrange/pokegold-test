@@ -169,15 +169,6 @@ SECTION "Map Blocks 2", ROMX
 Route14_Blocks:
 	INCBIN "maps/Route14.blk"
 
-OlivineMart_Blocks:
-EcruteakMart_Blocks:
-BlackthornMart_Blocks:
-AzaleaMart_Blocks:
-VioletMart_Blocks:
-CherrygroveMart_Blocks:
-MahoganyMart1F_Blocks:
-	INCBIN "maps/Mart.blk"
-
 Route10North_Blocks:
 	INCBIN "maps/Route10North.blk"
 

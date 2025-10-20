@@ -51,7 +51,7 @@ MapScenes::
 	scene_var RUINS_OF_ALPH_OUTSIDE,                       wRuinsOfAlphOutsideSceneID
 	scene_var RUINS_OF_ALPH_RESEARCH_CENTER,               wRuinsOfAlphResearchCenterSceneID
 	scene_var RUINS_OF_ALPH_INNER_CHAMBER,                 wRuinsOfAlphInnerChamberSceneID
-	scene_var MAHOGANY_MART_1F,                            wMahoganyMart1FSceneID
+	scene_var SPROUT_TOWER_2F,                             wSproutTower2fSceneID
 	scene_var TEAM_ROCKET_BASE_B1F,                        wTeamRocketBaseB1FSceneID
 	scene_var TEAM_ROCKET_BASE_B2F,                        wTeamRocketBaseB2FSceneID
 	scene_var TEAM_ROCKET_BASE_B3F,                        wTeamRocketBaseB3FSceneID

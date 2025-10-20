@@ -101,7 +101,8 @@ ENDM
 	connection north, Route1, ROUTE_1, 0
 	connection west, Route1West, ROUTE_1_WEST, -9
 
-	map_attributes AccumulaTown, ACCUMULA_TOWN, $0f, 0
+	map_attributes AccumulaTown, ACCUMULA_TOWN, $0f, SOUTH
+	connection south, Route1, ROUTE_1, -1
 
 	map_attributes VioletCity, VIOLET_CITY, $0f, 0
 
@@ -121,7 +122,8 @@ ENDM
 
 	map_attributes BlackthornCity, BLACKTHORN_CITY, $0f, 0
 
-	map_attributes Route1, ROUTE_1, $0f, SOUTH | WEST
+	map_attributes Route1, ROUTE_1, $0f, NORTH | SOUTH | WEST
+	connection north, AccumulaTown, ACCUMULA_TOWN, 1
 	connection south, NuvemaTown, NUVEMA_TOWN, 0
 	connection west, Route1West, ROUTE_1_WEST, 9
 
@@ -257,7 +259,6 @@ ENDM
 	map_attributes OlivineLighthouse4F, OLIVINE_LIGHTHOUSE_4F, $00, 0
 	map_attributes OlivineLighthouse5F, OLIVINE_LIGHTHOUSE_5F, $00, 0
 	map_attributes OlivineLighthouse6F, OLIVINE_LIGHTHOUSE_6F, $00, 0
-	map_attributes MahoganyMart1F, MAHOGANY_MART_1F, $00, 0
 	map_attributes TeamRocketBaseB1F, TEAM_ROCKET_BASE_B1F, $00, 0
 	map_attributes TeamRocketBaseB2F, TEAM_ROCKET_BASE_B2F, $00, 0
 	map_attributes TeamRocketBaseB3F, TEAM_ROCKET_BASE_B3F, $00, 0
@@ -295,7 +296,6 @@ ENDM
 	map_attributes OlivinePunishmentSpeechHouse, OLIVINE_PUNISHMENT_SPEECH_HOUSE, $00, 0
 	map_attributes OlivineGoodRodHouse, OLIVINE_GOOD_ROD_HOUSE, $00, 0
 	map_attributes OlivineCafe, OLIVINE_CAFE, $00, 0
-	map_attributes OlivineMart, OLIVINE_MART, $00, 0
 	map_attributes MahoganyRedGyaradosSpeechHouse, MAHOGANY_RED_GYARADOS_SPEECH_HOUSE, $00, 0
 	map_attributes MahoganyGym, MAHOGANY_GYM, $00, 0
 	map_attributes MahoganyPokecenter1F, MAHOGANY_POKECENTER_1F, $00, 0
@@ -305,24 +305,20 @@ ENDM
 	map_attributes EcruteakPokecenter1F, ECRUTEAK_POKECENTER_1F, $00, 0
 	map_attributes EcruteakLugiaSpeechHouse, ECRUTEAK_LUGIA_SPEECH_HOUSE, $00, 0
 	map_attributes DanceTheater, DANCE_THEATER, $00, 0
-	map_attributes EcruteakMart, ECRUTEAK_MART, $00, 0
 	map_attributes EcruteakGym, ECRUTEAK_GYM, $00, 0
 	map_attributes EcruteakItemfinderHouse, ECRUTEAK_ITEMFINDER_HOUSE, $00, 0
 	map_attributes BlackthornGym1F, BLACKTHORN_GYM_1F, $00, 0
 	map_attributes BlackthornGym2F, BLACKTHORN_GYM_2F, $00, 0
 	map_attributes BlackthornDragonSpeechHouse, BLACKTHORN_DRAGON_SPEECH_HOUSE, $00, 0
 	map_attributes BlackthornEmysHouse, BLACKTHORN_EMYS_HOUSE, $00, 0
-	map_attributes BlackthornMart, BLACKTHORN_MART, $00, 0
 	map_attributes BlackthornPokecenter1F, BLACKTHORN_POKECENTER_1F, $00, 0
 	map_attributes MoveDeletersHouse, MOVE_DELETERS_HOUSE, $00, 0
 	map_attributes AzaleaPokecenter1F, AZALEA_POKECENTER_1F, $00, 0
 	map_attributes CharcoalKiln, CHARCOAL_KILN, $00, 0
-	map_attributes AzaleaMart, AZALEA_MART, $00, 0
 	map_attributes KurtsHouse, KURTS_HOUSE, $00, 0
 	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
 	map_attributes LakeOfRageHiddenPowerHouse, LAKE_OF_RAGE_HIDDEN_POWER_HOUSE, $00, 0
 	map_attributes LakeOfRageMagikarpHouse, LAKE_OF_RAGE_MAGIKARP_HOUSE, $00, 0
-	map_attributes VioletMart, VIOLET_MART, $00, 0
 	map_attributes VioletGym, VIOLET_GYM, $00, 0
 	map_attributes EarlsPokemonAcademy, EARLS_POKEMON_ACADEMY, $00, 0
 	map_attributes VioletNicknameSpeechHouse, VIOLET_NICKNAME_SPEECH_HOUSE, $00, 0
@@ -378,7 +374,6 @@ ENDM
 	map_attributes PlayersNeighborsHouse, PLAYERS_NEIGHBORS_HOUSE, $00, 0
 	map_attributes ElmsHouse, ELMS_HOUSE, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0
-	map_attributes CherrygroveMart, CHERRYGROVE_MART, $00, 0
 	map_attributes CherrygrovePokecenter1F, CHERRYGROVE_POKECENTER_1F, $00, 0
 	map_attributes CherrygroveGymSpeechHouse, CHERRYGROVE_GYM_SPEECH_HOUSE, $00, 0
 	map_attributes GuideGentsHouse, GUIDE_GENTS_HOUSE, $00, 0

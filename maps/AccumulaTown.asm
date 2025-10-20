@@ -14,7 +14,6 @@ AccumulaTown_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  0,  0, CHERRYGROVE_MART, 2
 	warp_event 13, 13, CHERRYGROVE_POKECENTER_1F, 1
 
 	def_coord_events

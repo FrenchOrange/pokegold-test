@@ -11,7 +11,7 @@ SpawnPoints:
 	spawn PLAYERS_HOUSE_2F,            3,  3
 
 	spawn NUVEMA_TOWN,                 9, 10
-	spawn ACCUMULA_TOWN,              29,  4
+	spawn ACCUMULA_TOWN,              13, 14
 	spawn VIOLET_CITY,                31, 26
 	spawn ROUTE_32,                   11, 74
 	spawn AZALEA_TOWN,                15, 10

@@ -576,7 +576,7 @@ Pokecenter2F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  0,  7, POKECENTER_2F, -1
+	warp_event 14,  0, POKECENTER_2F, -1
 	warp_event  5,  0, TRADE_CENTER, 1
 	warp_event  9,  0, COLOSSEUM, 1
 	warp_event 13,  2, TIME_CAPSULE, 1

@@ -52,7 +52,6 @@ INCLUDE "maps/OlivineLighthouse6F.asm"
 
 SECTION "Map Scripts 4", ROMX
 
-INCLUDE "maps/MahoganyMart1F.asm"
 INCLUDE "maps/TeamRocketBaseB1F.asm"
 INCLUDE "maps/TeamRocketBaseB2F.asm"
 INCLUDE "maps/TeamRocketBaseB3F.asm"
@@ -196,7 +195,6 @@ INCLUDE "maps/OlivineHouseBeta.asm"
 INCLUDE "maps/OlivinePunishmentSpeechHouse.asm"
 INCLUDE "maps/OlivineGoodRodHouse.asm"
 INCLUDE "maps/OlivineCafe.asm"
-INCLUDE "maps/OlivineMart.asm"
 INCLUDE "maps/MahoganyRedGyaradosSpeechHouse.asm"
 INCLUDE "maps/MahoganyGym.asm"
 INCLUDE "maps/MahoganyPokecenter1F.asm"
@@ -209,7 +207,6 @@ INCLUDE "maps/EcruteakTinTowerBackEntrance.asm"
 INCLUDE "maps/EcruteakPokecenter1F.asm"
 INCLUDE "maps/EcruteakLugiaSpeechHouse.asm"
 INCLUDE "maps/DanceTheater.asm"
-INCLUDE "maps/EcruteakMart.asm"
 INCLUDE "maps/EcruteakGym.asm"
 INCLUDE "maps/EcruteakItemfinderHouse.asm"
 
@@ -220,7 +217,6 @@ INCLUDE "maps/BlackthornGym1F.asm"
 INCLUDE "maps/BlackthornGym2F.asm"
 INCLUDE "maps/BlackthornDragonSpeechHouse.asm"
 INCLUDE "maps/BlackthornEmysHouse.asm"
-INCLUDE "maps/BlackthornMart.asm"
 INCLUDE "maps/BlackthornPokecenter1F.asm"
 INCLUDE "maps/LakeOfRageHiddenPowerHouse.asm"
 INCLUDE "maps/LakeOfRageMagikarpHouse.asm"
@@ -235,14 +231,12 @@ SECTION "Map Scripts 20", ROMX
 
 INCLUDE "maps/AzaleaPokecenter1F.asm"
 INCLUDE "maps/CharcoalKiln.asm"
-INCLUDE "maps/AzaleaMart.asm"
 INCLUDE "maps/KurtsHouse.asm"
 INCLUDE "maps/AzaleaGym.asm"
 
 
 SECTION "Map Scripts 21", ROMX
 
-INCLUDE "maps/VioletMart.asm"
 INCLUDE "maps/VioletGym.asm"
 INCLUDE "maps/EarlsPokemonAcademy.asm"
 INCLUDE "maps/VioletNicknameSpeechHouse.asm"
@@ -342,7 +336,6 @@ INCLUDE "maps/SilphCo1F.asm"
 
 SECTION "Map Scripts 32", ROMX
 
-INCLUDE "maps/CherrygroveMart.asm"
 INCLUDE "maps/CherrygrovePokecenter1F.asm"
 INCLUDE "maps/CherrygroveGymSpeechHouse.asm"
 INCLUDE "maps/GuideGentsHouse.asm"

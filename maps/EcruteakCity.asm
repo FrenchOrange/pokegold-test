@@ -15,8 +15,6 @@ EcruteakCity_MapEvents:
 
 	def_warp_events
 	warp_event 23, 27, ECRUTEAK_POKECENTER_1F, 1
-	warp_event 23, 21, DANCE_THEATER, 1
-	warp_event 29, 21, ECRUTEAK_MART, 2
 	warp_event  6, 27, ECRUTEAK_GYM, 1
 
 	def_coord_events
