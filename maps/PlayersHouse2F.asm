@@ -33,7 +33,7 @@ DebugSign:
 	setflag ENGINE_POKEDEX
 	setflag ENGINE_FLYPOINT_NUVEMA
 	setflag ENGINE_FLYPOINT_ACCUMULA
-	setflag ENGINE_FLYPOINT_VIOLET
+	setflag ENGINE_FLYPOINT_STRIATON
 	setflag ENGINE_FLYPOINT_AZALEA
 	setflag ENGINE_FLYPOINT_GOLDENROD
 	setflag ENGINE_FLYPOINT_ECRUTEAK
@@ -83,7 +83,7 @@ DebugSign:
 	playsound SFX_WARP_TO
 	special FadeOutToBlack
 	waitsfx
-	warp VIOLET_CITY, 31, 26
+	warp STRIATON_CITY, 15, 4
 	end
 
 PlayersHouse2F_MapEvents:

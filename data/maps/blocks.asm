@@ -279,8 +279,8 @@ NuvemaTown_Blocks:
 AccumulaTown_Blocks:
 	INCBIN "maps/AccumulaTown.blk"
 
-VioletCity_Blocks:
-	INCBIN "maps/VioletCity.blk"
+StriatonCity_Blocks:
+	INCBIN "maps/StriatonCity.blk"
 
 AzaleaTown_Blocks:
 	INCBIN "maps/AzaleaTown.blk"
@@ -489,8 +489,8 @@ OlivineLighthouse6F_Blocks:
 
 SECTION "Map Blocks 3", ROMX
 
-SlowpokeWellB1F_Blocks:
-	INCBIN "maps/SlowpokeWellB1F.blk"
+DreamyardOutside_Blocks:
+	INCBIN "maps/DreamyardOutside.blk"
 
 SlowpokeWellB2F_Blocks:
 	INCBIN "maps/SlowpokeWellB2F.blk"

@@ -12,7 +12,7 @@ SpawnPoints:
 
 	spawn NUVEMA_TOWN,                 9, 10
 	spawn ACCUMULA_TOWN,              13, 14
-	spawn VIOLET_CITY,                31, 26
+	spawn STRIATON_CITY,              15,  4
 	spawn ROUTE_32,                   11, 74
 	spawn AZALEA_TOWN,                15, 10
 	spawn CIANWOOD_CITY,              23, 44

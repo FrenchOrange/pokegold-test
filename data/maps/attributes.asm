@@ -106,7 +106,9 @@ ENDM
 	connection south, Route1, ROUTE_1, -1
 	connection west, Route2, ROUTE_2, -9
 
-	map_attributes VioletCity, VIOLET_CITY, $0f, 0
+	map_attributes StriatonCity, STRIATON_CITY, $0f, SOUTH | WEST
+	connection south, Route2East, ROUTE_2_EAST, 6
+	connection west, Route3, ROUTE_3, -9
 
 	map_attributes AzaleaTown, AZALEA_TOWN, $0f, 0
 
@@ -135,9 +137,13 @@ ENDM
 	map_attributes Route2, ROUTE_2, $0f, EAST
 	connection east, Route2East, ROUTE_2_EAST, 0
 
-	map_attributes Route2East, ROUTE_2_EAST, $0f, SOUTH | WEST
+	map_attributes Route2East, ROUTE_2_EAST, $0f, NORTH | SOUTH | WEST
+	connection north, StriatonCity, STRIATON_CITY, -6
 	connection south, AccumulaTown, ACCUMULA_TOWN, 0
 	connection west, Route2, ROUTE_2, 0
+
+	map_attributes Route3, ROUTE_3, $0f, EAST
+	connection east, StriatonCity, STRIATON_CITY, 9
 
 	map_attributes Route26, ROUTE_26, $0f, 0
 
@@ -213,8 +219,6 @@ ENDM
 
 	map_attributes Route25, ROUTE_25, $0f, 0
 
-	map_attributes Route3, ROUTE_3, $0f, 0
-
 	map_attributes Route4, ROUTE_4, $0f, 0
 
 	map_attributes Route8, ROUTE_8, $0f, 0
@@ -226,6 +230,8 @@ ENDM
 	map_attributes Route23, ROUTE_23, $0f, 0
 
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
+	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
+	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
 	map_attributes SproutTower2F, SPROUT_TOWER_2F, $00, 0
 	map_attributes SproutTower3F, SPROUT_TOWER_3F, $00, 0
@@ -257,8 +263,6 @@ ENDM
 	map_attributes UnionCave1F, UNION_CAVE_1F, $09, 0
 	map_attributes UnionCaveB1F, UNION_CAVE_B1F, $09, 0
 	map_attributes UnionCaveB2F, UNION_CAVE_B2F, $09, 0
-	map_attributes SlowpokeWellB1F, SLOWPOKE_WELL_B1F, $09, 0
-	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0
 	map_attributes OlivineLighthouse1F, OLIVINE_LIGHTHOUSE_1F, $00, 0
 	map_attributes OlivineLighthouse2F, OLIVINE_LIGHTHOUSE_2F, $00, 0
 	map_attributes OlivineLighthouse3F, OLIVINE_LIGHTHOUSE_3F, $00, 0

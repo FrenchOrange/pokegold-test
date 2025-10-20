@@ -58,6 +58,10 @@ ENDM
 	endgroup
 
 	newgroup DUNGEONS                                             ;  3
+	map_const DREAMYARD_OUTSIDE,                           22, 22 ;  1
+	map_const SLOWPOKE_WELL_B2F,                           10,  9 ; 33
+	map_const BURNED_TOWER_1F,                             10,  9 ; 13
+	map_const BURNED_TOWER_B1F,                            10,  9 ; 14
 	map_const SPROUT_TOWER_1F,                             10,  8 ;  1
 	map_const SPROUT_TOWER_2F,                             10,  8 ;  2
 	map_const SPROUT_TOWER_3F,                             10,  8 ;  3
@@ -70,8 +74,6 @@ ENDM
 	map_const TIN_TOWER_7F,                                10,  9 ; 10
 	map_const TIN_TOWER_8F,                                10,  9 ; 11
 	map_const TIN_TOWER_9F,                                10,  9 ; 12
-	map_const BURNED_TOWER_1F,                             10,  9 ; 13
-	map_const BURNED_TOWER_B1F,                            10,  9 ; 14
 	map_const NATIONAL_PARK,                               20, 27 ; 15
 	map_const NATIONAL_PARK_BUG_CONTEST,                   20, 27 ; 16
 	map_const RADIO_TOWER_1F,                               9,  4 ; 17
@@ -89,8 +91,6 @@ ENDM
 	map_const UNION_CAVE_1F,                               10, 18 ; 29
 	map_const UNION_CAVE_B1F,                              10, 18 ; 30
 	map_const UNION_CAVE_B2F,                              10, 18 ; 31
-	map_const SLOWPOKE_WELL_B1F,                           10,  9 ; 32
-	map_const SLOWPOKE_WELL_B2F,                           10,  9 ; 33
 	map_const OLIVINE_LIGHTHOUSE_1F,                       10,  9 ; 34
 	map_const OLIVINE_LIGHTHOUSE_2F,                       10,  9 ; 35
 	map_const OLIVINE_LIGHTHOUSE_3F,                       10,  9 ; 36
@@ -186,7 +186,7 @@ ENDM
 	map_const ROUTE_35,                                    10, 18 ;  2
 	map_const ROUTE_36,                                    30,  9 ;  3
 	map_const ROUTE_37,                                    10,  9 ;  4
-	map_const VIOLET_CITY,                                 20, 18 ;  5
+	map_const STRIATON_CITY,                               16,  9 ;  5
 	map_const VIOLET_GYM,                                   5,  8 ;  7
 	map_const EARLS_POKEMON_ACADEMY,                        4,  8 ;  8
 	map_const VIOLET_NICKNAME_SPEECH_HOUSE,                 4,  4 ;  9
@@ -233,7 +233,7 @@ ENDM
 	endgroup
 
 	newgroup PEWTER                                               ; 14
-	map_const ROUTE_3,                                     30,  9 ;  1
+	map_const ROUTE_3,                                     31, 18 ;  1
 	endgroup
 
 	newgroup FAST_SHIP                                            ; 15

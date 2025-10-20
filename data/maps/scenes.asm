@@ -63,5 +63,5 @@ MapScenes::
 	scene_var ROUTE_41,                                    wRoute41SceneID
 	scene_var FAST_SHIP_1F,                                wFastShip1FSceneID
 	scene_var FAST_SHIP_B1F,                               wFastShipB1FSceneID
-	scene_var ROUTE_42,                                    wRoute42SceneID
+	scene_var DREAMYARD_OUTSIDE,                           wDreamyardOutsideSceneID
 	db -1 ; end

@@ -2518,7 +2518,7 @@ wOlivinePortSceneID::                             db
 wRoute41SceneID::                                 db
 wFastShip1FSceneID::                              db
 wFastShipB1FSceneID::                             db
-wRoute42SceneID::                                 db
+wDreamyardOutsideSceneID::                        db
 
 	ds 197
 

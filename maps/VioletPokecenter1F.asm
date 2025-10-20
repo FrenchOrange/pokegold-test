@@ -20,8 +20,8 @@ VioletPokecenter1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  3,  7, VIOLET_CITY, 5
-	warp_event  4,  7, VIOLET_CITY, 5
+	warp_event  3,  7, STRIATON_CITY, 5
+	warp_event  4,  7, STRIATON_CITY, 5
 	warp_event 12,  0, POKECENTER_2F, 1
 
 	def_coord_events

@@ -6,14 +6,14 @@
 	const LANDMARK_ACCUMULA_TOWN     ; 03
 	const LANDMARK_ROUTE_30          ; 04
 	const LANDMARK_ROUTE_31          ; 05
-	const LANDMARK_VIOLET_CITY       ; 06
+	const LANDMARK_STRIATON_CITY     ; 06
 	const LANDMARK_SPROUT_TOWER      ; 07
 	const LANDMARK_ROUTE_32          ; 08
 	const LANDMARK_RUINS_OF_ALPH     ; 09
 	const LANDMARK_UNION_CAVE        ; 0a
 	const LANDMARK_ROUTE_33          ; 0b
 	const LANDMARK_AZALEA_TOWN       ; 0c
-	const LANDMARK_SLOWPOKE_WELL     ; 0d
+	const LANDMARK_DREAMYARD         ; 0d
 	const LANDMARK_ILEX_FOREST       ; 0e
 	const LANDMARK_ROUTE_34          ; 0f
 	const LANDMARK_GOLDENROD_CITY    ; 10

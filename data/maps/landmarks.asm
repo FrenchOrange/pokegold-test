@@ -13,14 +13,14 @@ Landmarks:
 	landmark 100, 100, AccumulaTownName
 	landmark 100,  80, Route30Name
 	landmark  96,  60, Route31Name
-	landmark  84,  60, VioletCityName
+	landmark  84,  60, StriatonCityName
 	landmark  85,  58, SproutTowerName
 	landmark  84,  92, Route32Name
 	landmark  76,  76, RuinsOfAlphName
 	landmark  84, 124, UnionCaveName
 	landmark  82, 124, Route33Name
 	landmark  68, 124, AzaleaTownName
-	landmark  70, 122, SlowpokeWellName
+	landmark  70, 122, DreamyardName
 	landmark  52, 120, IlexForestName
 	landmark  52, 112, Route34Name
 	landmark  52,  92, GoldenrodCityName
@@ -87,7 +87,7 @@ Landmarks:
 
 NuvemaTownName:      db "NUVEMA TOWN@"
 AccumulaTownName:    db "ACCUMULA<BSP>TOWN@"
-VioletCityName:      db "VIOLET CITY@"
+StriatonCityName:    db "STRIATON<BSP>CITY@"
 AzaleaTownName:      db "AZALEA TOWN@"
 GoldenrodCityName:   db "GOLDENROD<BSP>CITY@"
 EcruteakCityName:    db "ECRUTEAK<BSP>CITY@"
@@ -99,7 +99,7 @@ LakeOfRageName:      db "LAKE OF<BSP>RAGE@"
 SproutTowerName:     db "SPROUT<BSP>TOWER@"
 RuinsOfAlphName:     db "RUINS<BSP>OF ALPH@"
 UnionCaveName:       db "UNION CAVE@"
-SlowpokeWellName:    db "SLOWPOKE<BSP>WELL@"
+DreamyardName:       db "DREAMYARD@"
 RadioTowerName:      db "RADIO TOWER@"
 NationalParkName:    db "NATIONAL<BSP>PARK@"
 TinTowerName:        db "TIN TOWER@"
