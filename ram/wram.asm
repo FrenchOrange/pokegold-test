@@ -2484,7 +2484,7 @@ wNuvemaTownSceneID::                              db
 wElmsLabSceneID::                                 db
 wPlayersHouse1FSceneID::                          db
 wRoute29SceneID::                                 db
-wCherrygroveCitySceneID::                         db
+wAccumulaTownSceneID::                            db
 wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
 wRoute36SceneID::                                 db

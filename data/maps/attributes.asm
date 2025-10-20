@@ -101,7 +101,7 @@ ENDM
 	connection north, Route1, ROUTE_1, 0
 	connection west, Route1West, ROUTE_1_WEST, -9
 
-	map_attributes CherrygroveCity, CHERRYGROVE_CITY, $0f, 0
+	map_attributes AccumulaTown, ACCUMULA_TOWN, $0f, 0
 
 	map_attributes VioletCity, VIOLET_CITY, $0f, 0
 

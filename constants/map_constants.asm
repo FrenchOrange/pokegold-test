@@ -287,6 +287,8 @@ ENDM
 	map_const TRADE_CENTER,                                 5,  4 ;  2
 	map_const COLOSSEUM,                                    5,  4 ;  3
 	map_const TIME_CAPSULE,                                 5,  4 ;  4
+	map_const TRAINER_HOUSE_1F,                             5,  7 ;  5
+	map_const TRAINER_HOUSE_B1F,                            5,  8 ;  6
 	endgroup
 
 	newgroup CELADON                                              ; 21
@@ -308,16 +310,15 @@ ENDM
 	endgroup
 
 	newgroup VIRIDIAN                                             ; 23
-	map_const ROUTE_2,                                     10, 27 ;  1
-	map_const ROUTE_22,                                    20,  9 ;  2
-	map_const TRAINER_HOUSE_1F,                             5,  7 ;  6
-	map_const TRAINER_HOUSE_B1F,                            5,  8 ;  7
+	map_const ACCUMULA_TOWN,                                9, 10 ;  1
 	endgroup
 
 	newgroup NEW_BARK                                             ; 24
 	map_const ROUTE_26,                                    10, 54 ;  1
 	map_const ROUTE_27,                                    40,  9 ;  2
 	map_const ROUTE_29,                                    30,  9 ;  3
+	map_const ROUTE_2,                                     10, 27 ;  1
+	map_const ROUTE_22,                                    20,  9 ;  2
 	endgroup
 
 	newgroup SAFFRON                                              ; 25
@@ -328,7 +329,6 @@ ENDM
 	newgroup CHERRYGROVE                                          ; 26
 	map_const ROUTE_30,                                    10, 27 ;  1
 	map_const ROUTE_31,                                    20,  9 ;  2
-	map_const CHERRYGROVE_CITY,                            20,  9 ;  3
 	map_const CHERRYGROVE_MART,                             6,  4 ;  4
 	map_const CHERRYGROVE_POKECENTER_1F,                    5,  4 ;  5
 	map_const CHERRYGROVE_GYM_SPEECH_HOUSE,                 4,  4 ;  6

@@ -13,7 +13,7 @@ NuvemaTownNoop2Scene:
 	end
 
 NuvemaTownFlypointCallback:
-	setflag ENGINE_FLYPOINT_NEW_BARK
+	setflag ENGINE_FLYPOINT_NUVEMA
 	endcallback
 
 NuvemaTown_MapEvents:

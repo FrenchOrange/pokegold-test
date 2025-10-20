@@ -68,7 +68,7 @@ DEF NUM_FISHGROUPS EQU const_value - 1
 	const_def
 	const SPAWN_HOME
 	const SPAWN_NUVEMA
-	const SPAWN_CHERRYGROVE
+	const SPAWN_ACCUMULA
 	const SPAWN_VIOLET
 	const SPAWN_UNION_CAVE
 	const SPAWN_AZALEA
@@ -89,7 +89,7 @@ DEF SPAWN_N_A EQU -1
 ; johto
 DEF JOHTO_FLYPOINT EQU const_value
 	const FLY_NUVEMA
-	const FLY_CHERRYGROVE
+	const FLY_ACCUMULA
 	const FLY_VIOLET
 	const FLY_AZALEA
 	const FLY_GOLDENROD

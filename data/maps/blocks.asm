@@ -287,8 +287,8 @@ RadioTower5F_Blocks:
 NuvemaTown_Blocks:
 	INCBIN "maps/NuvemaTown.blk"
 
-CherrygroveCity_Blocks:
-	INCBIN "maps/CherrygroveCity.blk"
+AccumulaTown_Blocks:
+	INCBIN "maps/AccumulaTown.blk"
 
 VioletCity_Blocks:
 	INCBIN "maps/VioletCity.blk"

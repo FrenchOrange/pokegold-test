@@ -29,7 +29,7 @@ MapScenes::
 	scene_var ELMS_LAB,                                    wElmsLabSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
 	scene_var ROUTE_29,                                    wRoute29SceneID
-	scene_var CHERRYGROVE_CITY,                            wCherrygroveCitySceneID
+	scene_var ACCUMULA_TOWN,                               wAccumulaTownSceneID
 	scene_var ROUTE_35,                                    wRoute35SceneID
 	scene_var ROUTE_32,                                    wRoute32SceneID
 	scene_var ROUTE_36,                                    wRoute36SceneID

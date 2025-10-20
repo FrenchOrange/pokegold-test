@@ -74,7 +74,7 @@ EngineFlags:
 	; fly
 	engine_flag wVisitedSpawns, SPAWN_HOME
 	engine_flag wVisitedSpawns, SPAWN_NUVEMA
-	engine_flag wVisitedSpawns, SPAWN_CHERRYGROVE
+	engine_flag wVisitedSpawns, SPAWN_ACCUMULA
 	engine_flag wVisitedSpawns, SPAWN_VIOLET
 	engine_flag wVisitedSpawns, SPAWN_AZALEA
 	engine_flag wVisitedSpawns, SPAWN_CIANWOOD

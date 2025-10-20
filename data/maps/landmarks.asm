@@ -10,7 +10,7 @@ Landmarks:
 	landmark  -8, -16, SpecialMapName
 	landmark 140, 100, NuvemaTownName
 	landmark 128, 100, Route29Name
-	landmark 100, 100, CherrygroveCityName
+	landmark 100, 100, AccumulaTownName
 	landmark 100,  80, Route30Name
 	landmark  96,  60, Route31Name
 	landmark  84,  60, VioletCityName
@@ -86,7 +86,7 @@ Landmarks:
 	assert_table_length NUM_LANDMARKS
 
 NuvemaTownName:      db "NUVEMA TOWN@"
-CherrygroveCityName: db "CHERRYGROVE<BSP>CITY@"
+AccumulaTownName:    db "ACCUMULA<BSP>TOWN@"
 VioletCityName:      db "VIOLET CITY@"
 AzaleaTownName:      db "AZALEA TOWN@"
 GoldenrodCityName:   db "GOLDENROD<BSP>CITY@"
