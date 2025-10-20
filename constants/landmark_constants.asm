@@ -44,7 +44,6 @@
 	const LANDMARK_DRAGONS_DEN       ; 29
 	const LANDMARK_ROUTE_45          ; 2a
 	const LANDMARK_DARK_CAVE         ; 2b
-	const LANDMARK_ROUTE_46          ; 2c
 	const LANDMARK_ROUTE_1           ; 2f
 	const LANDMARK_ROUTE_2           ; 31
 	const LANDMARK_ROUTE_3           ; 33

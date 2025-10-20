@@ -97,7 +97,9 @@ MACRO connection
 ENDM
 
 
-	map_attributes NuvemaTown, NUVEMA_TOWN, $43, 0
+	map_attributes NuvemaTown, NUVEMA_TOWN, $43, NORTH | WEST
+	connection north, Route1, ROUTE_1, 0
+	connection west, Route1West, ROUTE_1_WEST, -9
 
 	map_attributes CherrygroveCity, CHERRYGROVE_CITY, $0f, 0
 
@@ -118,6 +120,13 @@ ENDM
 	map_attributes LakeOfRage, LAKE_OF_RAGE, $0f, 0
 
 	map_attributes BlackthornCity, BLACKTHORN_CITY, $0f, 0
+
+	map_attributes Route1, ROUTE_1, $0f, SOUTH | WEST
+	connection south, NuvemaTown, NUVEMA_TOWN, 0
+	connection west, Route1West, ROUTE_1_WEST, 9
+
+	map_attributes Route1West, ROUTE_1_WEST, $43, EAST
+	connection east, Route1, ROUTE_1, -9
 
 	map_attributes Route26, ROUTE_26, $0f, 0
 
@@ -159,13 +168,9 @@ ENDM
 
 	map_attributes Route45, ROUTE_45, $0f, 0
 
-	map_attributes Route46, ROUTE_46, $0f, 0
-
 	map_attributes Route2, ROUTE_2, $0f, 0
 
 	map_attributes Route22, ROUTE_22, $0f, 0
-
-	map_attributes Route1, ROUTE_1, $0f, 0
 
 	map_attributes Route21, ROUTE_21, $0f, 0
 
@@ -212,6 +217,7 @@ ENDM
 	map_attributes Route10South, ROUTE_10_SOUTH, $0f, 0
 
 	map_attributes Route23, ROUTE_23, $0f, 0
+
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
 	map_attributes SproutTower2F, SPROUT_TOWER_2F, $00, 0
 	map_attributes SproutTower3F, SPROUT_TOWER_3F, $00, 0

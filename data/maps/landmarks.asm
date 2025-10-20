@@ -51,7 +51,6 @@ Landmarks:
 	landmark 132,  36, DragonsDenName
 	landmark 132,  64, Route45Name
 	landmark 112,  72, DarkCaveName
-	landmark 124,  88, Route46Name
 	landmark  52,  92, Route1Name
 	landmark  52,  64, Route2Name
 	landmark  64,  52, Route3Name
@@ -156,7 +155,6 @@ Route42Name:         db "ROUTE 42@"
 Route43Name:         db "ROUTE 43@"
 Route44Name:         db "ROUTE 44@"
 Route45Name:         db "ROUTE 45@"
-Route46Name:         db "ROUTE 46@"
 DarkCaveName:        db "DARK CAVE@"
 IlexForestName:      db "ILEX<BSP>FOREST@"
 BurnedTowerName:     db "BURNED<BSP>TOWER@"

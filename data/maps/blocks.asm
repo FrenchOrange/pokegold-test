@@ -78,8 +78,8 @@ Route42_Blocks:
 Route34_Blocks:
 	INCBIN "maps/Route34.blk"
 
-Route46_Blocks:
-	INCBIN "maps/Route46.blk"
+Route1West_Blocks:
+	INCBIN "maps/Route1West.blk"
 
 Route38_Blocks:
 	INCBIN "maps/Route38.blk"
