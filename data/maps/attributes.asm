@@ -101,8 +101,10 @@ ENDM
 	connection north, Route1, ROUTE_1, 0
 	connection west, Route1West, ROUTE_1_WEST, -9
 
-	map_attributes AccumulaTown, ACCUMULA_TOWN, $0f, SOUTH
+	map_attributes AccumulaTown, ACCUMULA_TOWN, $0f, NORTH | SOUTH | WEST
+	connection north, Route2East, ROUTE_2_EAST, 0
 	connection south, Route1, ROUTE_1, -1
+	connection west, Route2, ROUTE_2, -9
 
 	map_attributes VioletCity, VIOLET_CITY, $0f, 0
 
@@ -129,6 +131,13 @@ ENDM
 
 	map_attributes Route1West, ROUTE_1_WEST, $43, EAST
 	connection east, Route1, ROUTE_1, -9
+
+	map_attributes Route2, ROUTE_2, $0f, EAST
+	connection east, Route2East, ROUTE_2_EAST, 0
+
+	map_attributes Route2East, ROUTE_2_EAST, $0f, SOUTH | WEST
+	connection south, AccumulaTown, ACCUMULA_TOWN, 0
+	connection west, Route2, ROUTE_2, 0
 
 	map_attributes Route26, ROUTE_26, $0f, 0
 
@@ -167,10 +176,6 @@ ENDM
 	map_attributes Route43, ROUTE_43, $0f, 0
 
 	map_attributes Route44, ROUTE_44, $0f, 0
-
-	map_attributes Route45, ROUTE_45, $0f, 0
-
-	map_attributes Route2, ROUTE_2, $0f, 0
 
 	map_attributes Route22, ROUTE_22, $0f, 0
 
@@ -220,6 +225,7 @@ ENDM
 
 	map_attributes Route23, ROUTE_23, $0f, 0
 
+	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
 	map_attributes SproutTower2F, SPROUT_TOWER_2F, $00, 0
 	map_attributes SproutTower3F, SPROUT_TOWER_3F, $00, 0

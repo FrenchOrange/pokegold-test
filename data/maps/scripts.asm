@@ -144,7 +144,8 @@ SECTION "Map Scripts 12", ROMX
 
 INCLUDE "maps/Route43.asm"
 INCLUDE "maps/Route44.asm"
-INCLUDE "maps/Route45.asm"
+INCLUDE "maps/Route2Gate.asm"
+INCLUDE "maps/Route2East.asm"
 INCLUDE "maps/Route1West.asm"
 INCLUDE "maps/Route2.asm"
 

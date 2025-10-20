@@ -148,7 +148,6 @@ ENDM
 	map_const BLACKTHORN_EMYS_HOUSE,                        4,  4 ;  4
 	map_const BLACKTHORN_POKECENTER_1F,                     7,  4 ;  6
 	map_const MOVE_DELETERS_HOUSE,                          4,  4 ;  7
-	map_const ROUTE_45,                                    10, 45 ;  8
 	map_const BLACKTHORN_CITY,                             20, 18 ; 10
 	endgroup
 
@@ -305,13 +304,19 @@ ENDM
 
 	newgroup VIRIDIAN                                             ; 23
 	map_const ACCUMULA_TOWN,                                9, 10 ;  1
+	map_const CHERRYGROVE_POKECENTER_1F,                    7,  4 ;  2
+	map_const CHERRYGROVE_GYM_SPEECH_HOUSE,                 4,  4 ;  3
+	map_const GUIDE_GENTS_HOUSE,                            4,  4 ;  4
+	map_const CHERRYGROVE_EVOLUTION_SPEECH_HOUSE,           4,  4 ;  5
 	endgroup
 
 	newgroup NEW_BARK                                             ; 24
 	map_const ROUTE_26,                                    10, 54 ;  1
 	map_const ROUTE_27,                                    40,  9 ;  2
 	map_const ROUTE_29,                                    30,  9 ;  3
-	map_const ROUTE_2,                                     10, 27 ;  1
+	map_const ROUTE_2_GATE,                                 5,  4 ;  4
+	map_const ROUTE_2,                                     11, 19 ;  1
+	map_const ROUTE_2_EAST,                                10,  9 ;  8
 	map_const ROUTE_22,                                    20,  9 ;  2
 	endgroup
 
@@ -323,10 +328,6 @@ ENDM
 	newgroup CHERRYGROVE                                          ; 26
 	map_const ROUTE_30,                                    10, 27 ;  1
 	map_const ROUTE_31,                                    20,  9 ;  2
-	map_const CHERRYGROVE_POKECENTER_1F,                    7,  4 ;  5
-	map_const CHERRYGROVE_GYM_SPEECH_HOUSE,                 4,  4 ;  6
-	map_const GUIDE_GENTS_HOUSE,                            4,  4 ;  7
-	map_const CHERRYGROVE_EVOLUTION_SPEECH_HOUSE,           4,  4 ;  8
 	endgroup
 
 DEF NUM_MAP_GROUPS EQU const_value ; 26

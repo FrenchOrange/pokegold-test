@@ -18,9 +18,6 @@ Route28_Blocks:
 Route2_Blocks:
 	INCBIN "maps/Route2.blk"
 
-ElmsHouse_Blocks:
-	INCBIN "maps/ElmsHouse.blk"
-
 Route11_Blocks:
 	INCBIN "maps/Route11.blk"
 
@@ -42,8 +39,8 @@ Route41_Blocks:
 Route33_Blocks:
 	INCBIN "maps/Route33.blk"
 
-Route45_Blocks:
-	INCBIN "maps/Route45.blk"
+Route2East_Blocks:
+	INCBIN "maps/Route2East.blk"
 
 Route29_Blocks:
 	INCBIN "maps/Route29.blk"
@@ -104,6 +101,7 @@ CianwoodPhotoStudio_Blocks:
 CianwoodLugiaSpeechHouse_Blocks:
 PokeSeersHouse_Blocks:
 PlayersNeighborsHouse_Blocks:
+ElmsHouse_Blocks:
 CherrygroveGymSpeechHouse_Blocks:
 GuideGentsHouse_Blocks:
 CherrygroveEvolutionSpeechHouse_Blocks:
@@ -145,7 +143,7 @@ Route39_Blocks:
 PlayersHouse1F_Blocks:
 	INCBIN "maps/PlayersHouse1F.blk"
 
-EastWestGate_Blocks:
+Route2Gate_Blocks:
 	INCBIN "maps/EastWestGate.blk"
 
 ElmsLab_Blocks:
