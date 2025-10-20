@@ -66,7 +66,7 @@ DEF COLL_VIRTUAL_BOY       EQU $61 ; garbage
 DEF COLL_63                EQU $63 ; garbage
 DEF COLL_64                EQU $64 ; garbage
 DEF COLL_65                EQU $65 ; garbage
-DEF COLL_PIT_68            EQU $68 ; unused
+DEF COLL_STRENGTH_PIT      EQU $68
 DEF COLL_WARP_CARPET_DOWN  EQU $70
 DEF COLL_DOOR              EQU $71
 DEF COLL_LADDER            EQU $72

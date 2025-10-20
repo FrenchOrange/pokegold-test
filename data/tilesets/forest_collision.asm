@@ -39,7 +39,7 @@
 	tilecoll FLOOR, FLOOR, WALL, WALL ; 26
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 27
 	tilecoll WALL, FLOOR, FLOOR, CUT_TREE ; 28
-	tilecoll FLOOR, WALL, PIT, WALL ; 29
+	tilecoll FLOOR, WALL, STRENGTH_PIT, WALL ; 29
 	tilecoll WALL, FLOOR, WALL, FLOOR ; 2a
 	tilecoll FLOOR, WALL, FLOOR, WALL ; 2b
 	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 2c
