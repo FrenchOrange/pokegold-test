@@ -19,7 +19,7 @@ Landmarks:
 	landmark  76,  76, RuinsOfAlphName
 	landmark  84, 124, UnionCaveName
 	landmark  82, 124, Route33Name
-	landmark  68, 124, AzaleaTownName
+	landmark  68, 124, NacreneCityName
 	landmark  70, 122, DreamyardName
 	landmark  52, 120, IlexForestName
 	landmark  52, 112, Route34Name
@@ -88,7 +88,7 @@ Landmarks:
 NuvemaTownName:      db "NUVEMA TOWN@"
 AccumulaTownName:    db "ACCUMULA<BSP>TOWN@"
 StriatonCityName:    db "STRIATON<BSP>CITY@"
-AzaleaTownName:      db "AZALEA TOWN@"
+NacreneCityName:     db "NACRENE<BSP>CITY@"
 GoldenrodCityName:   db "GOLDENROD<BSP>CITY@"
 EcruteakCityName:    db "ECRUTEAK<BSP>CITY@"
 OlivineCityName:     db "OLIVINE<BSP>CITY@"

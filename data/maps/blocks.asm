@@ -144,6 +144,7 @@ PlayersHouse1F_Blocks:
 	INCBIN "maps/PlayersHouse1F.blk"
 
 Route2Gate_Blocks:
+Route3Gate_Blocks:
 	INCBIN "maps/EastWestGate.blk"
 
 ElmsLab_Blocks:
@@ -282,8 +283,8 @@ AccumulaTown_Blocks:
 StriatonCity_Blocks:
 	INCBIN "maps/StriatonCity.blk"
 
-AzaleaTown_Blocks:
-	INCBIN "maps/AzaleaTown.blk"
+NacreneCity_Blocks:
+	INCBIN "maps/NacreneCity.blk"
 
 CianwoodCity_Blocks:
 	INCBIN "maps/CianwoodCity.blk"
@@ -554,9 +555,6 @@ TrainerHouseB1F_Blocks:
 
 DayCare_Blocks:
 	INCBIN "maps/DayCare.blk"
-
-MrPokemonsHouse_Blocks:
-	INCBIN "maps/MrPokemonsHouse.blk"
 
 OlivinePortPassage_Blocks:
 	INCBIN "maps/PortPassage.blk"

@@ -97,7 +97,7 @@ SECTION "Map Scripts 7", ROMX
 INCLUDE "maps/NuvemaTown.asm"
 INCLUDE "maps/AccumulaTown.asm"
 INCLUDE "maps/StriatonCity.asm"
-INCLUDE "maps/AzaleaTown.asm"
+INCLUDE "maps/NacreneCity.asm"
 INCLUDE "maps/CianwoodCity.asm"
 INCLUDE "maps/GoldenrodCity.asm"
 
@@ -145,6 +145,7 @@ SECTION "Map Scripts 12", ROMX
 INCLUDE "maps/Route43.asm"
 INCLUDE "maps/Route44.asm"
 INCLUDE "maps/Route2Gate.asm"
+INCLUDE "maps/Route3Gate.asm"
 INCLUDE "maps/Route2East.asm"
 INCLUDE "maps/Route1West.asm"
 INCLUDE "maps/Route2.asm"

@@ -14,7 +14,7 @@ SpawnPoints:
 	spawn ACCUMULA_TOWN,              13, 14
 	spawn STRIATON_CITY,              15,  4
 	spawn ROUTE_32,                   11, 74
-	spawn AZALEA_TOWN,                15, 10
+	spawn NACRENE_CITY,               17, 12
 	spawn CIANWOOD_CITY,              23, 44
 	spawn GOLDENROD_CITY,             15, 28
 	spawn OLIVINE_CITY,               13, 22

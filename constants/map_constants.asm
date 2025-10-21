@@ -171,7 +171,7 @@ ENDM
 	map_const KURTS_HOUSE,                                  8,  4 ;  4
 	map_const AZALEA_GYM,                                   5,  8 ;  5
 	map_const ROUTE_33,                                    10,  9 ;  6
-	map_const AZALEA_TOWN,                                 20,  9 ;  7
+	map_const NACRENE_CITY,                                20,  9 ;  7
 	endgroup
 
 	newgroup LAKE_OF_RAGE                                         ;  9
@@ -234,6 +234,7 @@ ENDM
 
 	newgroup PEWTER                                               ; 14
 	map_const ROUTE_3,                                     31, 18 ;  1
+	map_const ROUTE_3_GATE,                                 5,  4 ;  4
 	endgroup
 
 	newgroup FAST_SHIP                                            ; 15

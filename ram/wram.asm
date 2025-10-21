@@ -2489,7 +2489,7 @@ wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
 wRoute36SceneID::                                 db
 wRoute37SceneID::                                 db
-wAzaleaTownSceneID::                              db
+wIlexForestSceneID::                              db
 wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db
 wOlivineCitySceneID::                             db

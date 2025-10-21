@@ -34,7 +34,7 @@ MapScenes::
 	scene_var ROUTE_32,                                    wRoute32SceneID
 	scene_var ROUTE_36,                                    wRoute36SceneID
 	scene_var ROUTE_37,                                    wRoute37SceneID
-	scene_var AZALEA_TOWN,                                 wAzaleaTownSceneID
+	scene_var ILEX_FOREST,                                 wIlexForestSceneID
 	scene_var GOLDENROD_GYM,                               wGoldenrodGymSceneID
 	scene_var GOLDENROD_MAGNET_TRAIN_STATION,              wGoldenrodMagnetTrainStationSceneID
 	scene_var OLIVINE_CITY,                                wOlivineCitySceneID

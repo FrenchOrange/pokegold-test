@@ -110,7 +110,8 @@ ENDM
 	connection south, Route2East, ROUTE_2_EAST, 6
 	connection west, Route3, ROUTE_3, -9
 
-	map_attributes AzaleaTown, AZALEA_TOWN, $0f, 0
+	map_attributes NacreneCity, NACRENE_CITY, $0f, EAST
+	connection east, Route3, ROUTE_3, -9
 
 	map_attributes CianwoodCity, CIANWOOD_CITY, $0f, 0
 
@@ -142,7 +143,8 @@ ENDM
 	connection south, AccumulaTown, ACCUMULA_TOWN, 0
 	connection west, Route2, ROUTE_2, 0
 
-	map_attributes Route3, ROUTE_3, $0f, EAST
+	map_attributes Route3, ROUTE_3, $0f, WEST | EAST
+	connection west, NacreneCity, NACRENE_CITY, 9
 	connection east, StriatonCity, STRIATON_CITY, 9
 
 	map_attributes Route26, ROUTE_26, $0f, 0
@@ -230,6 +232,7 @@ ENDM
 	map_attributes Route23, ROUTE_23, $0f, 0
 
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
+	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
 	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
