@@ -263,7 +263,7 @@ ENDM
 	map_const ROUTE_13,                                    30,  9 ;  1
 	map_const ROUTE_14,                                    10, 18 ;  2
 	map_const ROUTE_15,                                    20,  9 ;  3
-	map_const ROUTE_18,                                    10,  9 ;  4
+	map_const ROUTE_18,                                    23, 20 ;  4
 	endgroup
 
 	newgroup LAVENDER                                             ; 18
@@ -288,7 +288,8 @@ ENDM
 	newgroup CELADON                                              ; 21
 	map_const ROUTE_7,                                     10,  9 ;  1
 	map_const ROUTE_16,                                    10,  9 ;  2
-	map_const ROUTE_17,                                    10, 45 ;  3
+	map_const ROUTE_17,                                    25, 20 ;  3
+	map_const ROUTE_17_GATE,                                5,  4 ;  4
 	endgroup
 
 	newgroup CIANWOOD                                             ; 22

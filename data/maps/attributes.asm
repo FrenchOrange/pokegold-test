@@ -133,8 +133,16 @@ ENDM
 	connection south, NuvemaTown, NUVEMA_TOWN, 0
 	connection west, Route1West, ROUTE_1_WEST, 9
 
-	map_attributes Route1West, ROUTE_1_WEST, $43, EAST
+	map_attributes Route1West, ROUTE_1_WEST, $43, WEST | EAST
+	connection west, Route17, ROUTE_17, -1
 	connection east, Route1, ROUTE_1, -9
+
+	map_attributes Route17, ROUTE_17, $43, WEST | EAST
+	connection west, Route18, ROUTE_18, 0
+	connection east, Route1West, ROUTE_1_WEST, 1
+
+	map_attributes Route18, ROUTE_18, $0f, EAST
+	connection east, Route17, ROUTE_17, 0
 
 	map_attributes Route2, ROUTE_2, $0f, EAST
 	connection east, Route2East, ROUTE_2_EAST, 0
@@ -201,10 +209,6 @@ ENDM
 
 	map_attributes Route19, ROUTE_19, $0f, 0
 
-	map_attributes Route18, ROUTE_18, $0f, 0
-
-	map_attributes Route17, ROUTE_17, $0f, 0
-
 	map_attributes Route16, ROUTE_16, $0f, 0
 
 	map_attributes Route7, ROUTE_7, $0f, 0
@@ -241,6 +245,7 @@ ENDM
 
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
+	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
 	map_attributes PinwheelForest, PINWHEEL_FOREST, $02, 0
 	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0

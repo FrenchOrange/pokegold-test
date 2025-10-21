@@ -145,6 +145,7 @@ PlayersHouse1F_Blocks:
 
 Route2Gate_Blocks:
 Route3Gate_Blocks:
+Route17Gate_Blocks:
 	INCBIN "maps/EastWestGate.blk"
 
 ElmsLab_Blocks:
