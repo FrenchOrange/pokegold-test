@@ -1,4 +1,4 @@
-Hello there!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000,\xfffedo you have a second?\xf000븁\x0000
-Professor Juniper,\xfffedo you need something?\xf000븁\x0000
-I called Bianca too, but I guess\xfffeshe didn't hear the call.\xf000븁\x0000\xfffeI wonder what she's caught up in.\xfffeWell, I suppose I'll just have\xf000븀\x0000\xfffeto call her again later.\xf000븁\x0000\xfffeOK! I'll be waiting for you two\xfffein front of the gate to Nimbasa City!\xf000븁\x0000
-...Um, hello?!\xf000븁\x0000
+Hello there!<LINE><PLAYER>,<LINE>do you have a second?
+Professor Juniper,<LINE>do you need something?
+I called Bianca too, but I guess<LINE>she didn't hear the call.<LINE>I wonder what she's caught up in.<LINE>Well, I suppose I'll just have<LINE><LINE>to call her again later.<LINE>OK! I'll be waiting for you two<LINE>in front of the gate to Nimbasa City!
+...Um, hello?!

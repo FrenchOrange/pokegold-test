@@ -1,23 +1,23 @@
-What am I doing?\xfffeI'm hunting for TREASURE!\xf000븁\x0000\xfffeTreasure hunting is fun. Sometimes things\xfffeare buried in the sand dunes.\xf000븁\x0000\xfffeActually, I just found something!\xf000븁\x0000\xfffeBut it's the same one as I found before,\xfffeso I will give this to you.\xf000븁\x0000
-I just found a treasure.\xf000븁\x0000\xfffeBut it's the same one as I found before,\xfffeso I'll give you this one.\xf000븁\x0000
-I'll be hunting for treasure here\xfffetomorrow, too.\xf000븁\x0000\xfffeI may find something, so if you have\xfffetime, stop by.
+What am I doing?<LINE>I'm hunting for TREASURE!<LINE>Treasure hunting is fun. Sometimes things<LINE>are buried in the sand dunes.<LINE>Actually, I just found something!<LINE>But it's the same one as I found before,<LINE>so I will give this to you.
+I just found a treasure.<LINE>But it's the same one as I found before,<LINE>so I'll give you this one.
+I'll be hunting for treasure here<LINE>tomorrow, too.<LINE>I may find something, so if you have<LINE>time, stop by.
 Route 13
 Route 13
-Trainer Tips!\xf000븁\x0000\xfffe\xfffeWhile you are using the Xtransceiver,\xfffeif you press left, right, up, or down\xf000븀\x0000\xfffeon the +Control Pad, the appearance\xf000븀\x0000\xfffeof the screen changes in varied ways!
+Trainer Tips!<LINE><LINE>While you are using the Xtransceiver,<LINE>if you press left, right, up, or down<LINE><LINE>on the +Control Pad, the appearance<LINE><LINE>of the screen changes in varied ways!
 Wreek... Wree...
 Wreek!
 Wree wreek!
-Wingull flew away looking happy!\xfffe...Oh? Something is on the ground.\xf000븁\x0000
-This Wingull looks like it lost three Grams\xfffeon Route 13. I wish I could help it...
+Wingull flew away looking happy!<LINE>...Oh? Something is on the ground.
+This Wingull looks like it lost three Grams<LINE>on Route 13. I wish I could help it...
 
-Oh, great! Could that be the Gram?\xfffeLet's show it to Wingull!\xf000븁\x0000
-Two more!\xfffeWingull looks happy.
-One more!\xfffeWingull looks happy.
-We've got them all!\xfffeThis helps Wingull a lot!\xf000븁\x0000
-Thank you, Trainer!\xf000븁\x0000\xfffeWhen we see happy Pokémon faces,\xfffewe feel happy, don't we?
-Eh? What's that?\xfffeA letter fell from the sky?
-Looking for a Gram, are you?\xf000븁\x0000\xfffeWell, could this be it? It fell on my head\xfffejust now.\xf000븁\x0000\xfffeHere, give this to Wingull.\xf000븁\x0000
-I see. That Wingull was working hard\xfffefor us, too!
-Why did the letter I mailed\xfffefall from the sky...?
-Why did the letter I mailed\xfffefall from the sky...?\xf000븁\x0000\xfffe...I got it!\xfffeWingull dropped it.\xf000븁\x0000\xfffeHere it is! Please give this to Wingull!\xfffeTell Wingull not to drop it this time!\xf000븁\x0000
-I'm not so good at talking, so I write\xfffeMail instead. I can write all about my trip\xf000븀\x0000\xfffeand how it made me feel.
+Oh, great! Could that be the Gram?<LINE>Let's show it to Wingull!
+Two more!<LINE>Wingull looks happy.
+One more!<LINE>Wingull looks happy.
+We've got them all!<LINE>This helps Wingull a lot!
+Thank you, Trainer!<LINE>When we see happy Pokémon faces,<LINE>we feel happy, don't we?
+Eh? What's that?<LINE>A letter fell from the sky?
+Looking for a Gram, are you?<LINE>Well, could this be it? It fell on my head<LINE>just now.<LINE>Here, give this to Wingull.
+I see. That Wingull was working hard<LINE>for us, too!
+Why did the letter I mailed<LINE>fall from the sky...?
+Why did the letter I mailed<LINE>fall from the sky...?<LINE>...I got it!<LINE>Wingull dropped it.<LINE>Here it is! Please give this to Wingull!<LINE>Tell Wingull not to drop it this time!
+I'm not so good at talking, so I write<LINE>Mail instead. I can write all about my trip<LINE><LINE>and how it made me feel.

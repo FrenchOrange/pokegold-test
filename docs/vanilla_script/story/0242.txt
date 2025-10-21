@@ -1,2 +1,2 @@
 Haaahraaan!
-The Pokémon disappeared\xfffeinto the darkness of the cave.
+The Pokémon disappeared<LINE>into the darkness of the cave.

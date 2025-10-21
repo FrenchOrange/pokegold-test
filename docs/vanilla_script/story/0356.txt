@@ -1,17 +1,17 @@
-Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeThis bothersome bunch doesn't\xfffereally listen to reason.\xf000븁\x0000
-Team Plasma: That child cannot use\xfffea Pokémon to its full potential.\xf000븁\x0000\xfffeDoesn't that make the Pokémon sad?\xf000븁\x0000\xfffeIt's the same thing for all your Pokémon,\xfffeso hand them over to us now!\xf000븁\x0000\xfffeBetter yet...\xfffeWe'll just take them!\xf000븁\x0000
-Team Plasma: Wha...? How could we lose\xfffewhen we have right on our side?!\xf000븁\x0000
-Cheren: Not bad, \xf000Ā\x0001\x0000.\xfffeOK, go return the Pokémon to that girl.\xf000븁\x0000
-You don't need to return it!\xf000븁\x0000
-Team Plasma: How troublesome.\xf000븁\x0000\xfffeNot only do you fail to understand, but\xfffeyou actually got in our way, to boot.\xf000븁\x0000
-Team Plasma: There's two of you\xfffeand two of us.\xf000븁\x0000\xfffeWe'll show you our combined power\xfffeand teach you that we are right!\xf000븁\x0000
-Cheren: So, there were more of them...\xf000븁\x0000\xfffeStill, why are Pokémon robbers\xfffeacting so self-righteous?\xf000븁\x0000
-\xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeWe've been friends our whole lives.\xfffeWe've got each other's back when it\xf000븀\x0000\xfffecounts. Let's show them how it's done!\xf000븁\x0000
-Team Plasma: In order to liberate\xfffePokémon from foolish people,\xf000븀\x0000\xfffewe will take their Pokémon!\xf000븁\x0000
-Cheren: Whatever...\xfffeWhat a waste of time.\xf000븁\x0000\xfffeCome on, what reason could possibly\xfffejustify stealing Pokémon from people?\xf000븁\x0000
-Team Plasma: Pokémon Trainers\xfffelike you are making Pokémon suffer...\xf000븁\x0000
-Cheren: What do you mean, Trainers are\xfffemaking Pokémon suffer?\xf000븀\x0000\xfffeI don't get that at all!\xf000븁\x0000
-Team Plasma: We'll give you back\xfffethe Pokémon...\xf000븁\x0000\xfffeBut be aware of how this Pokémon suffers\xfffefrom being used by people.\xf000븁\x0000
-Team Plasma: Someday, open your eyes\xfffeto your own complicity.\xf000븁\x0000
-Cheren: Trainers bring out\xfffetheir Pokémon's strength.\xf000븁\x0000\xfffePokémon believe in their\xfffeTrainers and respond to that.\xf000븁\x0000\xfffeI don't understand what about\xfffethat makes Pokémon suffer!\xf000븁\x0000
-OK, \xf000Ā\x0001\x0000,\xfffeI'll return the Pokémon.\xf000븁\x0000
+Cheren: <PLAYER>!<LINE>This bothersome bunch doesn't<LINE>really listen to reason.
+Team Plasma: That child cannot use<LINE>a Pokémon to its full potential.<LINE>Doesn't that make the Pokémon sad?<LINE>It's the same thing for all your Pokémon,<LINE>so hand them over to us now!<LINE>Better yet...<LINE>We'll just take them!
+Team Plasma: Wha...? How could we lose<LINE>when we have right on our side?!
+Cheren: Not bad, <PLAYER>.<LINE>OK, go return the Pokémon to that girl.
+You don't need to return it!
+Team Plasma: How troublesome.<LINE>Not only do you fail to understand, but<LINE>you actually got in our way, to boot.
+Team Plasma: There's two of you<LINE>and two of us.<LINE>We'll show you our combined power<LINE>and teach you that we are right!
+Cheren: So, there were more of them...<LINE>Still, why are Pokémon robbers<LINE>acting so self-righteous?
+<PLAYER>!<LINE>We've been friends our whole lives.<LINE>We've got each other's back when it<LINE><LINE>counts. Let's show them how it's done!
+Team Plasma: In order to liberate<LINE>Pokémon from foolish people,<LINE><LINE>we will take their Pokémon!
+Cheren: Whatever...<LINE>What a waste of time.<LINE>Come on, what reason could possibly<LINE>justify stealing Pokémon from people?
+Team Plasma: Pokémon Trainers<LINE>like you are making Pokémon suffer...
+Cheren: What do you mean, Trainers are<LINE>making Pokémon suffer?<LINE><LINE>I don't get that at all!
+Team Plasma: We'll give you back<LINE>the Pokémon...<LINE>But be aware of how this Pokémon suffers<LINE>from being used by people.
+Team Plasma: Someday, open your eyes<LINE>to your own complicity.
+Cheren: Trainers bring out<LINE>their Pokémon's strength.<LINE>Pokémon believe in their<LINE>Trainers and respond to that.<LINE>I don't understand what about<LINE>that makes Pokémon suffer!
+OK, <PLAYER>,<LINE>I'll return the Pokémon.

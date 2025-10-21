@@ -1,14 +1,14 @@
 Hi! Would you like to go to Unity Tower?
-People are quite different,\xfffedepending on where they live.\xf000븁\x0000\xfffeIt's a bit surprising that rules and ways\xfffeof thinking are different just because\xf000븀\x0000\xfffethe places we live are different!
-One person will be on board!\xfffePlease get on board!\xf000븁\x0000
-Unity Tower is a place where Trainers\xfffegather from all over the world!\xf000븁\x0000\xfffeIf you have friends who live far away,\xfffeyou may be able to have a merry reunion!\xf000븁\x0000
+People are quite different,<LINE>depending on where they live.<LINE>It's a bit surprising that rules and ways<LINE>of thinking are different just because<LINE><LINE>the places we live are different!
+One person will be on board!<LINE>Please get on board!
+Unity Tower is a place where Trainers<LINE>gather from all over the world!<LINE>If you have friends who live far away,<LINE>you may be able to have a merry reunion!
 Please come again!
 Yes
 No
 What is it?
-Both Pokémon and people will meet their\xfffedestined partner someday!\xf000븁\x0000\xfffeI believe it because my sister who got\xfffemarried said so!
-I've come to Castelia City to have a\xfffedance lesson!
-What do you want?\xf000븁\x0000\xfffeOh! The dance team! You're going to\xfffeintroduce me to the team!\xf000븁\x0000\xfffeOh! Then, before that, let's have a\xfffePokémon battle!
-I was great in Pokémon lessons!\xf000븁\x0000
-If you want me to join your dance team,\xfffeyou've got to be strong!
-What was that?\xf000븁\x0000\xfffeOh! The dance team!\xfffeI will join the team!\xf000븁\x0000
+Both Pokémon and people will meet their<LINE>destined partner someday!<LINE>I believe it because my sister who got<LINE>married said so!
+I've come to Castelia City to have a<LINE>dance lesson!
+What do you want?<LINE>Oh! The dance team! You're going to<LINE>introduce me to the team!<LINE>Oh! Then, before that, let's have a<LINE>Pokémon battle!
+I was great in Pokémon lessons!
+If you want me to join your dance team,<LINE>you've got to be strong!
+What was that?<LINE>Oh! The dance team!<LINE>I will join the team!

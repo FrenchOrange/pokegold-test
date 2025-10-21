@@ -1,2 +1,2 @@
-Hello! If you cross the Skyarrow Bridge\xfffefrom this side, you will reach\xf000븀\x0000\xfffePinwheel Forest and Nacrene City.
-I walked so far! My legs are sore!\xfffe...Um, you don't have to look.
+Hello! If you cross the Skyarrow Bridge<LINE>from this side, you will reach<LINE><LINE>Pinwheel Forest and Nacrene City.
+I walked so far! My legs are sore!<LINE>...Um, you don't have to look.

@@ -1,6 +1,6 @@
-IRSPE③HIXEIJIH\xfffeKRMO
-CEHERM\xfffeKRMOHIRMSN④
-WKRMIF⑤HIPPEG\xfffeKRMO
-IVYXYJHREITSL\xfffeWMKRMO
+IRSPE③HIXEIJIH<LINE>KRMO
+CEHERM<LINE>KRMOHIRMSN④
+WKRMIF⑤HIPPEG<LINE>KRMO
+IVYXYJHREITSL<LINE>WMKRMO
 ⑥KRMOXEIVKILX
-It looks like you can climb down here!\xf000븁\x0000\xfffeWill you return to the lower floor?
+It looks like you can climb down here!<LINE>Will you return to the lower floor?

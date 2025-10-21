@@ -1,16 +1,16 @@
-If you wreck Great Landorus's little\xfffeshrine, it'll cause a bad bad storm!\xf000븁\x0000
-That's not true!\xf000븁\x0000\xfffeThe Pokémon that brings bad\xfffethunderstorms is a different Pokémon!\xf000븁\x0000
-That's not true!\xf000븁\x0000\xfffeThe Pokémon that brings bad windstorms\xfffeis a different Pokémon!\xf000븁\x0000
-No, silly, you've got it wrong!\xf000븁\x0000
-This is a shrine for Great Landorus. It\xfffepunished a Pokémon that did a bad thing!\xf000븁\x0000\xfffeIf you wreck the shrine, it can't punish\xfffethat stormy Pokémon if it comes back!\xf000븁\x0000
-But that doesn't make any sense!\xf000븁\x0000\xfffeIf a Pokémon does a bad thing,\xfffeGreat Landorus will come to help us,\xf000븀\x0000\xfffewhether it has a shrine or not!\xf000븁\x0000\xfffeYou're the silly one!\xf000븁\x0000
-No, YOU'RE silly! Hey, wait!\xf000븁\x0000
-This little shrine is dedicated to a\xfffePokémon called Landorus.\xf000븁\x0000\xfffeThey say that when Tornadus and\xfffeThundurus were whipping up storms that\xf000븀\x0000\xfffedamaged houses and fields all over the\xf000븀\x0000\xfffeUnova region, Landorus made them stop.\xf000븁\x0000
-That's a story from way long ago, when\xfffemy grandpa was a little boy.\xf000븁\x0000
-So if Tornadus and Thundurus come here\xfffeagain, Great Landorus may come back.\xf000븁\x0000
+If you wreck Great Landorus's little<LINE>shrine, it'll cause a bad bad storm!
+That's not true!<LINE>The Pokémon that brings bad<LINE>thunderstorms is a different Pokémon!
+That's not true!<LINE>The Pokémon that brings bad windstorms<LINE>is a different Pokémon!
+No, silly, you've got it wrong!
+This is a shrine for Great Landorus. It<LINE>punished a Pokémon that did a bad thing!<LINE>If you wreck the shrine, it can't punish<LINE>that stormy Pokémon if it comes back!
+But that doesn't make any sense!<LINE>If a Pokémon does a bad thing,<LINE>Great Landorus will come to help us,<LINE><LINE>whether it has a shrine or not!<LINE>You're the silly one!
+No, YOU'RE silly! Hey, wait!
+This little shrine is dedicated to a<LINE>Pokémon called Landorus.<LINE>They say that when Tornadus and<LINE>Thundurus were whipping up storms that<LINE><LINE>damaged houses and fields all over the<LINE><LINE>Unova region, Landorus made them stop.
+That's a story from way long ago, when<LINE>my grandpa was a little boy.
+So if Tornadus and Thundurus come here<LINE>again, Great Landorus may come back.
 That's what my grandpa told me!
 It's a small, weathered shrine.
-It's a small, weathered shrine.\xf000븁\x0000
-Tornadus and Thundurus are struggling\xfffeinside their Poké Balls!\xf000븁\x0000
+It's a small, weathered shrine.
+Tornadus and Thundurus are struggling<LINE>inside their Poké Balls!
 Karamukukuk!
 Landorus flew far away into the sky...

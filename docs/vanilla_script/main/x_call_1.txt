@@ -1,5 +1,5 @@
-Hello!\xfffeHow is everybody doing?\xf000븁\x0000\xfffeYou and your Pokémon are getting\xfffealong great now, right?\xf000븁\x0000
-Oh! Professor!\xf000븁\x0000
-Right now, I'm in front of Accumula Town's\xfffePokémon Center!\xf000븁\x0000\xfffeI'd like to show you around, \xfffeso hurry on over, everyone!\xf000븁\x0000
-OK!\xfffeThe Pokémon Center, right!\xf000븁\x0000
-OK!\xfffeSee you!\xf000븁\x0000
+Hello!<LINE>How is everybody doing?<LINE>You and your Pokémon are getting<LINE>along great now, right?
+Oh! Professor!
+Right now, I'm in front of Accumula Town's<LINE>Pokémon Center!<LINE>I'd like to show you around, <LINE>so hurry on over, everyone!
+OK!<LINE>The Pokémon Center, right!
+OK!<LINE>See you!

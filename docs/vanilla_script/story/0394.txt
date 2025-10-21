@@ -1,4 +1,4 @@
-Halt! The key to open this gate\xfffeis the Freeze Badge!\xf000븁\x0000
+Halt! The key to open this gate<LINE>is the Freeze Badge!
 
-Oh, holder of the Freeze Badge!\xfffeShow the sharp edge of an icicle!
-First, obtain the Freeze Badge\xfffefrom the Icirrus Pokémon Gym!
+Oh, holder of the Freeze Badge!<LINE>Show the sharp edge of an icicle!
+First, obtain the Freeze Badge<LINE>from the Icirrus Pokémon Gym!

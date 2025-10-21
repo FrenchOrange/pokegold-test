@@ -1,2 +1,2 @@
-The country, huh?\xf000븁\x0000\xfffeI'm amazed anyone can live in a place\xfffethat's so inconvenient.
-Nature and slow-paced living?\xfffeI don't need a boring life like that!
+The country, huh?<LINE>I'm amazed anyone can live in a place<LINE>that's so inconvenient.
+Nature and slow-paced living?<LINE>I don't need a boring life like that!

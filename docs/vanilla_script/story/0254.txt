@@ -1,10 +1,10 @@
 GFWVKVCTIUKGHKN
-GHKNIPKXKGEGT\xfffeUKIPKVCG
-NNCVPUK\xfffeNKXGTQFQQI
+GHKNIPKXKGEGT<LINE>UKIPKVCG
+NNCVPUK<LINE>NKXGTQFQQI
 EKTCDTCDGDVQPQF
 GVUCYVQPVUWOGPQ
 UWQKEGTRUKNNC
 UTCGVGVCGTEUTCY
 FGGTICHKGPKJU
-It looks like you can climb up here!\xf000븁\x0000\xfffeWill you proceed to the upper floor?
-It looks like you can climb down here!\xf000븁\x0000\xfffeWill you return to the lower floor?
+It looks like you can climb up here!<LINE>Will you proceed to the upper floor?
+It looks like you can climb down here!<LINE>Will you return to the lower floor?

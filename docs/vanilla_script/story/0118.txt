@@ -1,40 +1,40 @@
-Cedric: Hello, \xf000Ā\x0001\x0000!\xfffeHow is \xf000ā\x0001\x0001?\xf000븁\x0000
-Ah! This \xf000ā\x0001\x0001 has really taken\xfffea shine to you.\xf000븁\x0000
-I can tell you're paying a lot of\xfffeattention to training \xf000ā\x0001\x0001.\xf000븀\x0000\xfffeCareful not to be too strict!\xf000븁\x0000
-The Pokédex is important, but time spent\xfffehaving fun together is also important.\xf000븁\x0000\xfffeSay, I just had a thought--\xfffehave you heard of Dragonspiral Tower?
-Really?\xfffeQuite impressive.\xf000븁\x0000
-Eh... I'm not surprised you haven't\xfffeheard of it.\xf000븁\x0000
-OK. Give this story a listen.\xf000븁\x0000\xfffeDragonspiral Tower is said to be\xfffethe Unova region's oldest building.\xf000븁\x0000\xfffeStories say it's the place where\xfffelegendary Pokémon came to life or\xf000븀\x0000\xfffewhere they remain in deep slumber.\xf000븁\x0000
-OK. Give this story a listen.\xf000븁\x0000\xfffeDragonspiral Tower is said to be\xfffethe Unova region's oldest building.\xf000븁\x0000\xfffeStories say it's the place where\xfffelegendary Pokémon came to life or\xf000븀\x0000\xfffewhere they remain in deep slumber.\xf000븁\x0000
-I know it's just past Icirrus City,\xfffebut that's all I know about it.\xf000븁\x0000\xfffeThat's all anyone knows,\xfffebecause no one has ever been inside.\xf000븁\x0000
-My daughter has wanted to investigate\xfffethat tower for a long time.\xf000븁\x0000\xfffe“What! There's something I don't know?!"\xfffeThat kind of feeling is pure adventure.\xf000븁\x0000\xfffeAnd I'm not too old for some adventuring.\xfffeAway I go to have a look at\xf000븀\x0000\xfffeDragonspiral Tower!\xf000븀\x0000\xfffeCatch you later!\xf000븁\x0000
-Cheren: \xf000Ā\x0001\x0000, I've been talking\xfffewith Bianca, and I'm wondering...\xf000븁\x0000\xfffeSince we left Nuvema Town, has\xfffesomething about me...changed?\xf000븁\x0000\xfffeThinking about what I want to do...\xfffeThinking about what I should do...\xf000븁\x0000\xfffeIt felt like there was nothing...\xf000븁\x0000\xfffeHave I really become stronger?\xfffeOr is it just my Pokémon that have?\xf000븁\x0000\xfffeI don't know anymore!\xf000븁\x0000
-Bianca: Hey, hey. Cheer up, Cheren...\xfffeIsn't it nice to see everyone?!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! Know what? This time,\xfffeI'll go to the Pokémon Fan Club.\xf000븁\x0000\xfffeI'm really searching...\xfffefor what I want to do and what I can do!\xf000븁\x0000
-Brycen: Who are you?\xf000븁\x0000
-Bianca: Who? Us?\xf000븁\x0000\xfffeI'm Bianca, and this is Cheren...\xf000븁\x0000
-Brycen: I know you are there!\xfffeWhy don't you show yourselves?\xf000븁\x0000
-... \xf000븁\x0000\xfffeImpressive, Gym Leader of Icirrus City.\xf000븁\x0000\xfffeWe, the Shadow Triad, are beings of the\xfffeshadows...and not easily noticed.\xf000븁\x0000
-Our mission was to speak only\xfffewith \xf000Ā\x0001\x0000, but so be it.\xf000븁\x0000\xfffeGhetsis has a message for you:\xfffecome to Dragonspiral Tower.\xf000븁\x0000
-It is there that our lord N\xfffewaits for you.\xf000븁\x0000\xfffe...Now, our mission is complete.\xf000븁\x0000
-Brycen: Dragonspiral Tower?!\xfffeWhat's going on?\xf000븁\x0000\xfffeHey! Tell me...\xf000븁\x0000
-Brycen: Now, hang on.\xf000븁\x0000\xfffeYoung man, if you're here for\xfffea Gym challenge, hang on for a bit.\xf000븁\x0000\xfffeI've got to head to Dragonspiral Tower!\xf000븁\x0000
-Cheren: I'm going, too.\xf000븁\x0000\xfffeDragonspiral Tower is to the north\xfffeof here, right?\xf000븁\x0000
-Bianca: Whoooooa! Whoa.\xfffeWh-what should I do?\xf000븁\x0000\xfffeF-for now, I have to go to\xfffeDragonspiral Tower...\xf000븀\x0000\xfffeOK! I'm heading north!\xf000븁\x0000
-Bianca: Whoa, whoa, whoa!\xfffeWh-what should I do?\xf000븁\x0000\xfffeF-for now, I have to go to\xfffeDragonspiral Tower...\xf000븀\x0000\xfffeOK! I'm heading north!
+Cedric: Hello, <PLAYER>!<LINE>How is <POKEMON>?
+Ah! This <POKEMON> has really taken<LINE>a shine to you.
+I can tell you're paying a lot of<LINE>attention to training <POKEMON>.<LINE><LINE>Careful not to be too strict!
+The Pokédex is important, but time spent<LINE>having fun together is also important.<LINE>Say, I just had a thought--<LINE>have you heard of Dragonspiral Tower?
+Really?<LINE>Quite impressive.
+Eh... I'm not surprised you haven't<LINE>heard of it.
+OK. Give this story a listen.<LINE>Dragonspiral Tower is said to be<LINE>the Unova region's oldest building.<LINE>Stories say it's the place where<LINE>legendary Pokémon came to life or<LINE><LINE>where they remain in deep slumber.
+OK. Give this story a listen.<LINE>Dragonspiral Tower is said to be<LINE>the Unova region's oldest building.<LINE>Stories say it's the place where<LINE>legendary Pokémon came to life or<LINE><LINE>where they remain in deep slumber.
+I know it's just past Icirrus City,<LINE>but that's all I know about it.<LINE>That's all anyone knows,<LINE>because no one has ever been inside.
+My daughter has wanted to investigate<LINE>that tower for a long time.<LINE>“What! There's something I don't know?!"<LINE>That kind of feeling is pure adventure.<LINE>And I'm not too old for some adventuring.<LINE>Away I go to have a look at<LINE><LINE>Dragonspiral Tower!<LINE><LINE>Catch you later!
+Cheren: <PLAYER>, I've been talking<LINE>with Bianca, and I'm wondering...<LINE>Since we left Nuvema Town, has<LINE>something about me...changed?<LINE>Thinking about what I want to do...<LINE>Thinking about what I should do...<LINE>It felt like there was nothing...<LINE>Have I really become stronger?<LINE>Or is it just my Pokémon that have?<LINE>I don't know anymore!
+Bianca: Hey, hey. Cheer up, Cheren...<LINE>Isn't it nice to see everyone?!<LINE><PLAYER>! Know what? This time,<LINE>I'll go to the Pokémon Fan Club.<LINE>I'm really searching...<LINE>for what I want to do and what I can do!
+Brycen: Who are you?
+Bianca: Who? Us?<LINE>I'm Bianca, and this is Cheren...
+Brycen: I know you are there!<LINE>Why don't you show yourselves?
+... <LINE>Impressive, Gym Leader of Icirrus City.<LINE>We, the Shadow Triad, are beings of the<LINE>shadows...and not easily noticed.
+Our mission was to speak only<LINE>with <PLAYER>, but so be it.<LINE>Ghetsis has a message for you:<LINE>come to Dragonspiral Tower.
+It is there that our lord N<LINE>waits for you.<LINE>...Now, our mission is complete.
+Brycen: Dragonspiral Tower?!<LINE>What's going on?<LINE>Hey! Tell me...
+Brycen: Now, hang on.<LINE>Young man, if you're here for<LINE>a Gym challenge, hang on for a bit.<LINE>I've got to head to Dragonspiral Tower!
+Cheren: I'm going, too.<LINE>Dragonspiral Tower is to the north<LINE>of here, right?
+Bianca: Whoooooa! Whoa.<LINE>Wh-what should I do?<LINE>F-for now, I have to go to<LINE>Dragonspiral Tower...<LINE><LINE>OK! I'm heading north!
+Bianca: Whoa, whoa, whoa!<LINE>Wh-what should I do?<LINE>F-for now, I have to go to<LINE>Dragonspiral Tower...<LINE><LINE>OK! I'm heading north!
 
-The legendary Pokémon Reshiram\xfffeshared its wisdom with the hero\xf000븀\x0000\xfffeand defied foes with columns of fire.\xf000븁\x0000\xfffeThe hero and that Pokémon were as\xfffeclose as a parent and child.\xf000븁\x0000\xfffePeople were filled with awe and looked up\xfffeto them, and that is said to be the\xf000븀\x0000\xfffebeginning of what became ancient Unova.
-The legendary Pokémon Zekrom\xfffeshared its wisdom with the hero\xf000븀\x0000\xfffeand defied foes with fierce lightning.\xf000븁\x0000\xfffeThe hero and that Pokémon were as\xfffeclose as a parent and child.\xf000븁\x0000\xfffePeople were filled with awe and looked up\xfffeto them, and that is said to be the\xf000븀\x0000\xfffebeginning of what became ancient Unova.
-Always, the tower looms,\xfffedisdainful of the wind and snow.\xf000븁\x0000\xfffePerhaps its presence has\xfffea special meaning for people.
-The legendary Pokémon gave help to\xfffethe hero who sought truth.\xf000븀\x0000\xfffeBecause of that, a region was created.\xf000븁\x0000\xfffeThen, when its physical form was lost,\xfffethe Pokémon became the Light Stone,\xf000븀\x0000\xfffewaiting patiently for a new hero.\xf000븁\x0000\xfffeI heard that story when I was little.
-The legendary Pokémon gave help to\xfffethe hero who sought ideals.\xf000븀\x0000\xfffeBecause of that, a region was created.\xf000븁\x0000\xfffeThen, when its physical form was lost,\xfffethe Pokémon became the Dark Stone,\xf000븀\x0000\xfffewaiting patiently for a new hero.\xf000븁\x0000\xfffeI've heard that story since I was little.
-The Gym Leader Brycen\xfffeis the strong and silent type.\xf000븁\x0000\xfffeI can understand why some people\xfffecall him a fighting machine.
-Dance, dance!\xfffeTwo dragons!
-Spin! ♪ Spin! ♪\xfffeTurn and spin! ♪
-Spin apart!\xfffeMix and twirl!
-Mix it up, day and night!\xfffe'Cause today, everything's all right! ♪
-If you walk in the wetlands, you might\xfffesurprise wild Pokémon into popping out!
-When the wetlands freeze, it's slippery.\xfffeI wonder how wetland Pokémon manage?
-Icirrus City\xfffeSky Glittering with Flowers of Snow
-Fans of Everything Pokémon\xfffeThe Pokémon Fan Club
+The legendary Pokémon Reshiram<LINE>shared its wisdom with the hero<LINE><LINE>and defied foes with columns of fire.<LINE>The hero and that Pokémon were as<LINE>close as a parent and child.<LINE>People were filled with awe and looked up<LINE>to them, and that is said to be the<LINE><LINE>beginning of what became ancient Unova.
+The legendary Pokémon Zekrom<LINE>shared its wisdom with the hero<LINE><LINE>and defied foes with fierce lightning.<LINE>The hero and that Pokémon were as<LINE>close as a parent and child.<LINE>People were filled with awe and looked up<LINE>to them, and that is said to be the<LINE><LINE>beginning of what became ancient Unova.
+Always, the tower looms,<LINE>disdainful of the wind and snow.<LINE>Perhaps its presence has<LINE>a special meaning for people.
+The legendary Pokémon gave help to<LINE>the hero who sought truth.<LINE><LINE>Because of that, a region was created.<LINE>Then, when its physical form was lost,<LINE>the Pokémon became the Light Stone,<LINE><LINE>waiting patiently for a new hero.<LINE>I heard that story when I was little.
+The legendary Pokémon gave help to<LINE>the hero who sought ideals.<LINE><LINE>Because of that, a region was created.<LINE>Then, when its physical form was lost,<LINE>the Pokémon became the Dark Stone,<LINE><LINE>waiting patiently for a new hero.<LINE>I've heard that story since I was little.
+The Gym Leader Brycen<LINE>is the strong and silent type.<LINE>I can understand why some people<LINE>call him a fighting machine.
+Dance, dance!<LINE>Two dragons!
+Spin! ♪ Spin! ♪<LINE>Turn and spin! ♪
+Spin apart!<LINE>Mix and twirl!
+Mix it up, day and night!<LINE>'Cause today, everything's all right! ♪
+If you walk in the wetlands, you might<LINE>surprise wild Pokémon into popping out!
+When the wetlands freeze, it's slippery.<LINE>I wonder how wetland Pokémon manage?
+Icirrus City<LINE>Sky Glittering with Flowers of Snow
+Fans of Everything Pokémon<LINE>The Pokémon Fan Club
 
-Icirrus City Pokémon Gym\xfffeLeader: Brycen\xf000븀\x0000\xfffeIce Mask
+Icirrus City Pokémon Gym<LINE>Leader: Brycen<LINE><LINE>Ice Mask

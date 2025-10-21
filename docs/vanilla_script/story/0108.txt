@@ -1,2 +1,2 @@
-I work... ♪\xfffein the Cold Storage... ♪\xf000븁\x0000\xfffeHm? The Cold Storage is in the\xfffesouthernmost part of the city.
-A terrific Trainer!\xfffeLet me share a training tip with you.\xf000븁\x0000\xfffeDuring a battle with a Trainer, even if\xfffeyour Pokémon's items are taken away,\xf000븀\x0000\xfffedon't worry.\xf000븁\x0000\xfffeThey will be returned to you safely\xfffeafter the battle.\xf000븁\x0000\xfffe...But disposable items seem\xfffeto disappear.
+I work... ♪<LINE>in the Cold Storage... ♪<LINE>Hm? The Cold Storage is in the<LINE>southernmost part of the city.
+A terrific Trainer!<LINE>Let me share a training tip with you.<LINE>During a battle with a Trainer, even if<LINE>your Pokémon's items are taken away,<LINE><LINE>don't worry.<LINE>They will be returned to you safely<LINE>after the battle.<LINE>...But disposable items seem<LINE>to disappear.

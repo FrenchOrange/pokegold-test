@@ -1,3 +1,3 @@
-It is the Great Landorus that protects\xfffethis land.\xf000븁\x0000\xfffeWith its help, we are assured of rich soil\xfffeand a prosperous harvest.\xf000븁\x0000\xfffeYou should visit Great Landorus's little\xfffeshrine and pay your respects.
-Tornadus brings howling windstorms.\xfffeThundurus pelts us with lightning.\xf000븁\x0000\xfffeWhen these two are together in the same\xfffeplace, Great Landorus will come again.
-People and Pokémon should work together\xfffeto protect this bounteous land.
+It is the Great Landorus that protects<LINE>this land.<LINE>With its help, we are assured of rich soil<LINE>and a prosperous harvest.<LINE>You should visit Great Landorus's little<LINE>shrine and pay your respects.
+Tornadus brings howling windstorms.<LINE>Thundurus pelts us with lightning.<LINE>When these two are together in the same<LINE>place, Great Landorus will come again.
+People and Pokémon should work together<LINE>to protect this bounteous land.

@@ -1,33 +1,33 @@
-This tree looks like it can be\xfffecut down! Would you like to cut it?
-\xf000Ă\x0001\x0000 used Cut!\xf000븁\x0000
-This tree looks like it can be\xfffecut down!
+This tree looks like it can be<LINE>cut down! Would you like to cut it?
+\xf000Ă\x0001\x0000 used Cut!
+This tree looks like it can be<LINE>cut down!
 
 
 
-It's a big boulder, but a Pokémon\xfffemay be able to push it aside.\xf000븁\x0000\xfffeWould you like to use Strength?
+It's a big boulder, but a Pokémon<LINE>may be able to push it aside.<LINE>Would you like to use Strength?
 
-It's a big boulder, but a Pokémon\xfffemay be able to push it aside.
-Strength made it possible to move\xfffeboulders around.
-\xf000Ă\x0001\x0000 used Strength!\xf000븁\x0000
-\xf000Ă\x0001\x0000's Strength made it\xfffepossible to move boulders around!
+It's a big boulder, but a Pokémon<LINE>may be able to push it aside.
+Strength made it possible to move<LINE>boulders around.
+\xf000Ă\x0001\x0000 used Strength!
+\xf000Ă\x0001\x0000's Strength made it<LINE>possible to move boulders around!
 
-The water is a deep blue...\xfffeWould you like to surf on it?
-\xf000Ă\x0001\x0000 used Surf!\xf000븁\x0000
-Surf can't be used if you have\xfffesomeone with you.
-
-
+The water is a deep blue...<LINE>Would you like to surf on it?
+\xf000Ă\x0001\x0000 used Surf!
+Surf can't be used if you have<LINE>someone with you.
 
 
 
 
 
-It's a large waterfall.\xfffeWould you like to use Waterfall?
-\xf000Ă\x0001\x0000 used Waterfall!\xf000븁\x0000
-A wall of water is crashing down with\xfffea mighty roar.
 
-\xf000Ă\x0001\x0000 used Flash!\xf000븁\x0000
-\xf000Ă\x0001\x0000 used Teleport!\xf000븁\x0000
-\xf000Ă\x0001\x0000 used Dig!\xf000븁\x0000
-It's a deep part of the sea, but a\xfffePokémon may be able to dive down.
-It's a deep part of the sea.\xfffeWould you like to use Dive?
-\xf000Ă\x0001\x0000 used Dive!\xf000븁\x0000
+
+It's a large waterfall.<LINE>Would you like to use Waterfall?
+\xf000Ă\x0001\x0000 used Waterfall!
+A wall of water is crashing down with<LINE>a mighty roar.
+
+\xf000Ă\x0001\x0000 used Flash!
+\xf000Ă\x0001\x0000 used Teleport!
+\xf000Ă\x0001\x0000 used Dig!
+It's a deep part of the sea, but a<LINE>Pokémon may be able to dive down.
+It's a deep part of the sea.<LINE>Would you like to use Dive?
+\xf000Ă\x0001\x0000 used Dive!

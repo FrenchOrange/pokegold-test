@@ -1,10 +1,10 @@
-Welcome!\xfffeMay I help you?
-Welcome to the Technical Machine\xfffedepartment! May I help you?
-Is there anything else I may do\xfffefor you?
+Welcome!<LINE>May I help you?
+Welcome to the Technical Machine<LINE>department! May I help you?
+Is there anything else I may do<LINE>for you?
 Please come again!
-Hello!\xf000븁\x0000
+Hello!
 Buy
 Sell
 No thanks!
-Welcome to the\xfffeExchange Service Corner!\xf000븁\x0000\xfffeWould you like to trade in your BP\xfffefor some fabulous prizes?
-Please save some BP\xfffeand come see us again.
+Welcome to the<LINE>Exchange Service Corner!<LINE>Would you like to trade in your BP<LINE>for some fabulous prizes?
+Please save some BP<LINE>and come see us again.

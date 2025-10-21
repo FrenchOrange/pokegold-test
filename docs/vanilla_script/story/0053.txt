@@ -1,17 +1,17 @@
-Hi there!\xfffeI am the Game Director.\xf000븁\x0000\xfffeOh! You are working on your Pokédex!\xfffeIf you fill it up a lot, please let me see!
-Hi there!\xfffeI am the Game Director.\xf000븁\x0000\xfffeOh! You've caught every kind of\xfffePokémon in Unova!\xf000븁\x0000\xfffeWow! Excellent!\xfffeWe'll give you an award!!\xf000븁\x0000
-I will send this award certificate\xfffeto your house!
-Hi there!\xfffeI am the Game Director.\xf000븁\x0000\xfffeOh! Excellent! You've finally collected\xfffeall the Pokémon and completed\xf000븀\x0000\xfffeyour Pokédex!\xf000븁\x0000\xfffeTo honor the efforts you have made in\xfffecompleting this Pokédex...\xf000븁\x0000\xfffeAllow me to present you with this award!\xf000븁\x0000
-How did you meet all the Pokémon\xfffeto fill up your Pokédex?\xf000븁\x0000\xfffeDid you work long and hard to catch\xfffeand raise them?\xf000븁\x0000\xfffeDid you receive them as gifts from\xfffefriends?\xf000븁\x0000\xfffeMaybe you got some in trades from\xfffearound the world?\xf000븁\x0000\xfffeThough everyone's Pokédex may look the\xfffesame, the stories they contain are\xf000븀\x0000\xfffeall unique!
-I will send this award certificate\xfffeto your house, too!
-Beware of spoilers! What I'm working on\xfffeis the ending of the game.\xf000븁\x0000\xfffeDon't look at it here! You'll have\xfffeto play it for yourself.
-I am the Graphic Designer. I am devoting\xfffeall my energy to every dot!\xf000븁\x0000\xfffeHup! I should put one dot here as if I'm\xfffemaking this part hollow!
-A tip for getting strong\xfffein Pokémon battles...\xf000븁\x0000\xfffeLet me see.\xfffeI guess the most important thing is...\xf000븀\x0000\xfffehaving a lot of battles!\xf000븁\x0000\xfffeIf you become very strong, come back\xfffeand have a Pokémon battle with me!
-Oh! You've become strong! I can tell.\xfffeDo you want to have a battle with me?
-Well, let's begin!\xf000븁\x0000
-You think about battles very thoroughly.\xf000븁\x0000\xfffeI lost, but I learned a lot from you.\xfffeBesides, it was fun!\xf000븁\x0000\xfffeCome back again tomorrow.
-No?\xf000븁\x0000\xfffeI've been raising Pokémon, thinking about\xfffetheir Abilities and just the right\xf000븀\x0000\xfffecombination of held items.\xf000븁\x0000\xfffeWhat a pity...\xfffe
-I'm Snorlax.\xf000븁\x0000\xfffeNo, no. I'm the Planner!\xf000븁\x0000\xfffeI don't mean to butt in, but the\xfffeLeftovers item is important, isn't it?
-I am the Sound Designer!\xf000븁\x0000\xfffeI put in a lot of wonderful mechanisms\xfffeto change the game's music!\xf000븁\x0000\xfffeHow many of them have you noticed?
-I can tell you take the sound seriously,\xfffeso here's a treat for you!\xf000븁\x0000\xfffeWhat do you think about this\xfffedramatic sound?\xf000븁\x0000
-Were you surprised?\xf000븁\x0000\xfffeWell, for a strong Trainer like you,\xfffewinning against Team Rocket\xf000븀\x0000\xfffewould be a piece of cake!
+Hi there!<LINE>I am the Game Director.<LINE>Oh! You are working on your Pokédex!<LINE>If you fill it up a lot, please let me see!
+Hi there!<LINE>I am the Game Director.<LINE>Oh! You've caught every kind of<LINE>Pokémon in Unova!<LINE>Wow! Excellent!<LINE>We'll give you an award!!
+I will send this award certificate<LINE>to your house!
+Hi there!<LINE>I am the Game Director.<LINE>Oh! Excellent! You've finally collected<LINE>all the Pokémon and completed<LINE><LINE>your Pokédex!<LINE>To honor the efforts you have made in<LINE>completing this Pokédex...<LINE>Allow me to present you with this award!
+How did you meet all the Pokémon<LINE>to fill up your Pokédex?<LINE>Did you work long and hard to catch<LINE>and raise them?<LINE>Did you receive them as gifts from<LINE>friends?<LINE>Maybe you got some in trades from<LINE>around the world?<LINE>Though everyone's Pokédex may look the<LINE>same, the stories they contain are<LINE><LINE>all unique!
+I will send this award certificate<LINE>to your house, too!
+Beware of spoilers! What I'm working on<LINE>is the ending of the game.<LINE>Don't look at it here! You'll have<LINE>to play it for yourself.
+I am the Graphic Designer. I am devoting<LINE>all my energy to every dot!<LINE>Hup! I should put one dot here as if I'm<LINE>making this part hollow!
+A tip for getting strong<LINE>in Pokémon battles...<LINE>Let me see.<LINE>I guess the most important thing is...<LINE><LINE>having a lot of battles!<LINE>If you become very strong, come back<LINE>and have a Pokémon battle with me!
+Oh! You've become strong! I can tell.<LINE>Do you want to have a battle with me?
+Well, let's begin!
+You think about battles very thoroughly.<LINE>I lost, but I learned a lot from you.<LINE>Besides, it was fun!<LINE>Come back again tomorrow.
+No?<LINE>I've been raising Pokémon, thinking about<LINE>their Abilities and just the right<LINE><LINE>combination of held items.<LINE>What a pity...<LINE>
+I'm Snorlax.<LINE>No, no. I'm the Planner!<LINE>I don't mean to butt in, but the<LINE>Leftovers item is important, isn't it?
+I am the Sound Designer!<LINE>I put in a lot of wonderful mechanisms<LINE>to change the game's music!<LINE>How many of them have you noticed?
+I can tell you take the sound seriously,<LINE>so here's a treat for you!<LINE>What do you think about this<LINE>dramatic sound?
+Were you surprised?<LINE>Well, for a strong Trainer like you,<LINE>winning against Team Rocket<LINE><LINE>would be a piece of cake!

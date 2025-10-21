@@ -1,12 +1,12 @@
-Cheren: \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeSince we both hold the Jet Badge now,\xfffelet's see which of us is stronger!\xf000븁\x0000
-Alder: That was a fine Pokémon battle!\xf000븁\x0000\xfffeI'm happy to see you are both growing\xfffeas Trainers!\xf000븁\x0000
-Cheren: If it isn't the Champion, Alder.\xfffeI'm weak, so I lost!\xf000븁\x0000\xfffe...And, honestly, it bothers me when you\xfffecall it a fine battle despite that.\xf000븁\x0000
-Alder: Oh, honestly, Cheren.\xf000븁\x0000\xfffeJust accept the compliment without the\xfffestinging remark.\xf000븁\x0000\xfffeI've asked you this before, but what do\xfffeyou plan to do after becoming strong?\xf000븁\x0000
-Cheren: If I get strong and become a\xfffeChampion, that will be the reason for\xf000븀\x0000\xfffemy existence.\xf000븀\x0000\xfffeI want to prove that I'm really living.\xf000븁\x0000
-Alder: Hmmm...\xfffeYou remind me of Marshal.\xf000븁\x0000\xfffeOf course, having something you want\xfffeto become is important.\xf000븁\x0000\xfffeBut what is even more important is\xfffewhat you do with your newfound power.\xf000븁\x0000\xfffeAnyway, take this!\xf000븁\x0000
-Here--you, too.\xf000븁\x0000
-Alder: If you use the move Surf, you can\xfffetravel over water.\xf000븁\x0000\xfffeI shall see you again, young Trainers.\xf000븁\x0000\xfffeDon't forget about the needs of the\xfffePokémon at your side!\xf000븁\x0000
-Cheren: What I do with my power...\xf000븁\x0000\xfffeI don't know that answer yet. First, I\xfffewant to become a strong Trainer so\xf000븀\x0000\xfffeeveryone will acknowledge that power!\xf000븁\x0000
-\xf000Ā\x0001\x0000...\xfffeNext time, I will win!\xf000븁\x0000
-You are \xf000Ā\x0001\x0000, aren't you?\xf000븁\x0000\xfffeAre you surprised that I know?\xfffeClay told me.\xf000븁\x0000\xfffeUh-oh! To go inside Twist Mountain,\xfffeyou need to have a Gym Badge from the\xf000븀\x0000\xfffeMistralton Gym!\xf000븁\x0000\xfffeThe wild Pokémon here are tougher, and\xfffewe want to be sure you're ready!
-Twist Mountain ahead.\xfffeWatch out for wild Pokémon.
+Cheren: <PLAYER>!<LINE>Since we both hold the Jet Badge now,<LINE>let's see which of us is stronger!
+Alder: That was a fine Pokémon battle!<LINE>I'm happy to see you are both growing<LINE>as Trainers!
+Cheren: If it isn't the Champion, Alder.<LINE>I'm weak, so I lost!<LINE>...And, honestly, it bothers me when you<LINE>call it a fine battle despite that.
+Alder: Oh, honestly, Cheren.<LINE>Just accept the compliment without the<LINE>stinging remark.<LINE>I've asked you this before, but what do<LINE>you plan to do after becoming strong?
+Cheren: If I get strong and become a<LINE>Champion, that will be the reason for<LINE><LINE>my existence.<LINE><LINE>I want to prove that I'm really living.
+Alder: Hmmm...<LINE>You remind me of Marshal.<LINE>Of course, having something you want<LINE>to become is important.<LINE>But what is even more important is<LINE>what you do with your newfound power.<LINE>Anyway, take this!
+Here--you, too.
+Alder: If you use the move Surf, you can<LINE>travel over water.<LINE>I shall see you again, young Trainers.<LINE>Don't forget about the needs of the<LINE>Pokémon at your side!
+Cheren: What I do with my power...<LINE>I don't know that answer yet. First, I<LINE>want to become a strong Trainer so<LINE><LINE>everyone will acknowledge that power!
+<PLAYER>...<LINE>Next time, I will win!
+You are <PLAYER>, aren't you?<LINE>Are you surprised that I know?<LINE>Clay told me.<LINE>Uh-oh! To go inside Twist Mountain,<LINE>you need to have a Gym Badge from the<LINE><LINE>Mistralton Gym!<LINE>The wild Pokémon here are tougher, and<LINE>we want to be sure you're ready!
+Twist Mountain ahead.<LINE>Watch out for wild Pokémon.

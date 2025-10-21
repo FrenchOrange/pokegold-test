@@ -1,51 +1,51 @@
-How is your Pokédex coming along?\xfffeCan I see it?
-Let me see...\xf000븁\x0000\xfffeOh, you've seen \xf000Ȃ\x0001\x0000 Pokémon in the\xfffeUnova region!
-Let me see...\xf000븁\x0000\xfffeOh, you've caught \xf000Ȃ\x0001\x0000 Pokémon in the\xfffeUnova region!
-This Pokédex is full of memories from your\xfffejourney. It's a treasure you can cherish\xf000븀\x0000\xfffefor your entire life.
-If you want to meet more Pokémon, you\xfffeshould try walking through tall grass!\xf000븁\x0000
-It seems a little more like a Pokédex now!\xfffeYou're getting off to a good start!\xf000븁\x0000
-Some Pokémon are hard to find, but don't\xfffegive up! Keep checking the tall grass.\xf000븁\x0000
-Some Pokémon are only found in\xfffecertain caves!\xf000븁\x0000\xfffeYou might want to go back and search\xfffecaves you've already passed through.\xf000븁\x0000
-Trainers have a lot of different Pokémon.\xf000븁\x0000\xfffeSo battling them is a great way to fill up\xfffeyour Pokédex, too!\xf000븁\x0000
-Wow, it's getting really full!\xf000븁\x0000\xfffeI'm sure looking over your Pokédex will\xfffebring back memories of your journey.\xf000븁\x0000
-Over 100 Pokémon...\xf000븁\x0000\xfffeIt's so much fun looking over all their\xfffedifferent characteristics!\xf000븁\x0000
-That is an excellent Pokédex!\xfffeJust a little more and it will be full!\xf000븁\x0000
-What a wonderful Pokédex!\xfffeA little more work, and it'll be complete!\xf000븁\x0000\xfffeI'm really glad I asked you to do this!\xf000븁\x0000
-Amazing! Truly amazing!\xf000븁\x0000\xfffeYou've met all of the Pokémon in the\xfffeUnova region!\xf000븁\x0000\xfffeCongratulations!\xf000븁\x0000\xfffeNow here's your next challenge: see how\xfffemany of those Pokémon you can catch!\xf000븀\x0000\xfffeI'll keep evaluating for you!\xf000븁\x0000
-It seems like you are meeting Pokémon at\xfffea good clip!\xf000븁\x0000\xfffeI have something I want to give you!\xfffePlease come to the lab when you can.
-It seems like you are meeting Pokémon at\xfffea good clip!\xf000븁\x0000\xfffeHere! This is a gift to thank you for all\xfffeyour hard work!\xf000븁\x0000
-False Swipe is a move that is very helpful\xfffefor catching Pokémon, because it keeps\xf000븀\x0000\xfffethe target from fainting!\xf000븁\x0000
-Protect is a move that completely\xfffeprevents an attack from hitting!\xf000븁\x0000\xfffeWell, there are a few exceptions. Some\xfffemoves, like Feint, can still hit even if\xf000븀\x0000\xfffeProtect is used.\xf000븁\x0000
-Hidden Power is a mysterious move. Its\xfffetype and power change depending on the\xf000븀\x0000\xfffePokémon that learns it!\xf000븁\x0000
-Try using this, too!\xf000븁\x0000
+How is your Pokédex coming along?<LINE>Can I see it?
+Let me see...<LINE>Oh, you've seen \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
+Let me see...<LINE>Oh, you've caught \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
+This Pokédex is full of memories from your<LINE>journey. It's a treasure you can cherish<LINE><LINE>for your entire life.
+If you want to meet more Pokémon, you<LINE>should try walking through tall grass!
+It seems a little more like a Pokédex now!<LINE>You're getting off to a good start!
+Some Pokémon are hard to find, but don't<LINE>give up! Keep checking the tall grass.
+Some Pokémon are only found in<LINE>certain caves!<LINE>You might want to go back and search<LINE>caves you've already passed through.
+Trainers have a lot of different Pokémon.<LINE>So battling them is a great way to fill up<LINE>your Pokédex, too!
+Wow, it's getting really full!<LINE>I'm sure looking over your Pokédex will<LINE>bring back memories of your journey.
+Over 100 Pokémon...<LINE>It's so much fun looking over all their<LINE>different characteristics!
+That is an excellent Pokédex!<LINE>Just a little more and it will be full!
+What a wonderful Pokédex!<LINE>A little more work, and it'll be complete!<LINE>I'm really glad I asked you to do this!
+Amazing! Truly amazing!<LINE>You've met all of the Pokémon in the<LINE>Unova region!<LINE>Congratulations!<LINE>Now here's your next challenge: see how<LINE>many of those Pokémon you can catch!<LINE><LINE>I'll keep evaluating for you!
+It seems like you are meeting Pokémon at<LINE>a good clip!<LINE>I have something I want to give you!<LINE>Please come to the lab when you can.
+It seems like you are meeting Pokémon at<LINE>a good clip!<LINE>Here! This is a gift to thank you for all<LINE>your hard work!
+False Swipe is a move that is very helpful<LINE>for catching Pokémon, because it keeps<LINE><LINE>the target from fainting!
+Protect is a move that completely<LINE>prevents an attack from hitting!<LINE>Well, there are a few exceptions. Some<LINE>moves, like Feint, can still hit even if<LINE><LINE>Protect is used.
+Hidden Power is a mysterious move. Its<LINE>type and power change depending on the<LINE><LINE>Pokémon that learns it!
+Try using this, too!
 Keep up the good work!
-Little by little, more detailed information\xfffeis being entered into the Pokédex!\xf000븀\x0000\xfffeDo your best!\xf000븁\x0000
-Are you trying out different kinds of\xfffePoké Balls for your captures?\xf000븁\x0000\xfffeThey come in lots of varieties, so be sure\xfffeto use the right one at the right time!\xf000븁\x0000
-If you read the Pokédex descriptions,\xfffeyou can learn a lot of unexpected facts\xf000븀\x0000\xfffeabout Pokémon! It's fun!\xf000븁\x0000
-Evolving Pokémon is another important\xfffeway to fill up your Pokédex. It's not\xf000븀\x0000\xfffejust about catching them!\xf000븁\x0000
-Trading Pokémon with friends also\xfffecounts as catching them!\xf000븁\x0000
-When you've met this many Pokémon, do\xfffeyou have trouble picking which ones to\xf000븀\x0000\xfffetravel with?\xf000븁\x0000
-This is a very thorough Pokédex.\xfffeIt will help my research, too!\xf000븁\x0000
-You've caught so many Pokémon.\xfffeYou might know more than me now!\xf000븁\x0000\xfffeI'm rooting for you to complete\xfffeyour Pokédex!\xf000븁\x0000
-With just a little more effort, you will\xfffecomplete a perfect Pokédex!\xf000븀\x0000\xfffeYou've come this far, so do your best!\xf000븁\x0000
-Amazing! Absolutely amazing!\xf000븁\x0000\xfffeYou've caught every Pokémon\xfffein the Unova region!\xf000븁\x0000\xfffeCongratulations!!\xf000븁\x0000
-So you're here to show me how your\xfffePokédex is coming along, right?
-I see!\xf000븁\x0000\xfffeYou've caught \xf000Ȃ\x0001\x0000 Pokémon, then...
-Oh, really...\xf000븁\x0000\xfffeIf you want me to have a look at\xfffeyour Pokédex, come here again!
-Nationally, there are more than\xfffe600 Pokémon!\xf000븁\x0000\xfffeYou'll have to be persistent and\xfffecatch them at your own pace.
-First, you might want to revisit places\xfffeyou've already been.\xf000븁\x0000\xfffeRetrace your steps in the Unova region\xfffeand see what new Pokémon turn up!
-Remember Rule No. 1! To catch a Pokémon,\xfffeyou first have to reduce its HP.\xf000븁\x0000\xfffeYou're pretty good at this now,\xfffebut don't forget the basics!
-Are you going to the Day Care?\xf000븁\x0000\xfffeI've heard that some Pokémon can only be\xfffecaught if they are hatched from Eggs.
-Do you have a fishing rod?\xf000븁\x0000\xfffeThere are many Pokémon that live in the\xfffewater. Try searching rivers and oceans!
-Do you know the move False Swipe?\xf000븁\x0000\xfffeFalse Swipe always leaves a tiny bit of\xfffethe targeted Pokémon's HP.\xf000븁\x0000\xfffeIt's great for catching, because it\xfffedoesn't make them faint!
-Do you know the move Mean Look?\xf000븁\x0000\xfffeIf you use Mean Look on a Pokémon,\xfffeit can't run away!
-There are several ways for Pokémon to\xfffeevolve. Some Pokémon even evolve\xf000븀\x0000\xfffethrough friendship!
-Have you heard of mass outbreaks?\xf000븁\x0000\xfffeBig groups of Pokémon appear during a\xfffemass outbreak. It's a great chance to\xf000븀\x0000\xfffecatch them!
-You've caught more than 400\xfffedifferent Pokémon?!\xf000븁\x0000\xfffeThat's incredible!\xfffeYou're an amazing Trainer!
-Apparently, some Pokémon\xfffeevolve when they are leveled up\xf000븀\x0000\xfffein a certain area.
-You've caught 500 different Pokémon...\xf000븁\x0000\xfffeMy, the variation of these beings called\xfffePokémon certainly is surprising!\xf000븁\x0000\xfffeAnd the fact that you've caught so many\xfffedifferent kinds... That's pretty\xf000븀\x0000\xfffesurprising, too!
-Have you been to the Poké Transfer Lab\xfffeon Route 15?\xf000븁\x0000\xfffeMastering a facility like that is an\xfffeaccomplishment for a Pokémon Trainer.
-Just a little more until you complete\xfffeyour Pokédex, huh?\xf000븁\x0000\xfffeCatching this many Pokémon must mean...\xfffeYou really like Pokémon, don't you!
-Oh! That's a wonderful Pokédex.\xf000븁\x0000\xfffeHow about it? Would you research Pokémon\xfffewith me?
-Oh! Just a little more until your\xfffePokédex is complete!\xf000븁\x0000\xfffeMake sure you go after the roaming\xfffePokémon and trade with friends to get\xf000븀\x0000\xfffethe ones you're missing!
-...\xfffe...\xf000븁\x0000\xfffeThis blows me away! It's so wonderful,\xfffeI'm at a loss for words.\xf000븁\x0000\xfffeYou... You've accomplished something\xfffetruly outstanding.\xf000븁\x0000\xfffeFilling up the National Pokédex makes you\xfffea Trainer among Trainers!\xf000븁\x0000\xfffeI'm so happy I was able to meet a\xfffefantastic Trainer like you!\xf000븀\x0000\xfffeI thank you from the bottom of my heart.
+Little by little, more detailed information<LINE>is being entered into the Pokédex!<LINE><LINE>Do your best!
+Are you trying out different kinds of<LINE>Poké Balls for your captures?<LINE>They come in lots of varieties, so be sure<LINE>to use the right one at the right time!
+If you read the Pokédex descriptions,<LINE>you can learn a lot of unexpected facts<LINE><LINE>about Pokémon! It's fun!
+Evolving Pokémon is another important<LINE>way to fill up your Pokédex. It's not<LINE><LINE>just about catching them!
+Trading Pokémon with friends also<LINE>counts as catching them!
+When you've met this many Pokémon, do<LINE>you have trouble picking which ones to<LINE><LINE>travel with?
+This is a very thorough Pokédex.<LINE>It will help my research, too!
+You've caught so many Pokémon.<LINE>You might know more than me now!<LINE>I'm rooting for you to complete<LINE>your Pokédex!
+With just a little more effort, you will<LINE>complete a perfect Pokédex!<LINE><LINE>You've come this far, so do your best!
+Amazing! Absolutely amazing!<LINE>You've caught every Pokémon<LINE>in the Unova region!<LINE>Congratulations!!
+So you're here to show me how your<LINE>Pokédex is coming along, right?
+I see!<LINE>You've caught \xf000Ȃ\x0001\x0000 Pokémon, then...
+Oh, really...<LINE>If you want me to have a look at<LINE>your Pokédex, come here again!
+Nationally, there are more than<LINE>600 Pokémon!<LINE>You'll have to be persistent and<LINE>catch them at your own pace.
+First, you might want to revisit places<LINE>you've already been.<LINE>Retrace your steps in the Unova region<LINE>and see what new Pokémon turn up!
+Remember Rule No. 1! To catch a Pokémon,<LINE>you first have to reduce its HP.<LINE>You're pretty good at this now,<LINE>but don't forget the basics!
+Are you going to the Day Care?<LINE>I've heard that some Pokémon can only be<LINE>caught if they are hatched from Eggs.
+Do you have a fishing rod?<LINE>There are many Pokémon that live in the<LINE>water. Try searching rivers and oceans!
+Do you know the move False Swipe?<LINE>False Swipe always leaves a tiny bit of<LINE>the targeted Pokémon's HP.<LINE>It's great for catching, because it<LINE>doesn't make them faint!
+Do you know the move Mean Look?<LINE>If you use Mean Look on a Pokémon,<LINE>it can't run away!
+There are several ways for Pokémon to<LINE>evolve. Some Pokémon even evolve<LINE><LINE>through friendship!
+Have you heard of mass outbreaks?<LINE>Big groups of Pokémon appear during a<LINE>mass outbreak. It's a great chance to<LINE><LINE>catch them!
+You've caught more than 400<LINE>different Pokémon?!<LINE>That's incredible!<LINE>You're an amazing Trainer!
+Apparently, some Pokémon<LINE>evolve when they are leveled up<LINE><LINE>in a certain area.
+You've caught 500 different Pokémon...<LINE>My, the variation of these beings called<LINE>Pokémon certainly is surprising!<LINE>And the fact that you've caught so many<LINE>different kinds... That's pretty<LINE><LINE>surprising, too!
+Have you been to the Poké Transfer Lab<LINE>on Route 15?<LINE>Mastering a facility like that is an<LINE>accomplishment for a Pokémon Trainer.
+Just a little more until you complete<LINE>your Pokédex, huh?<LINE>Catching this many Pokémon must mean...<LINE>You really like Pokémon, don't you!
+Oh! That's a wonderful Pokédex.<LINE>How about it? Would you research Pokémon<LINE>with me?
+Oh! Just a little more until your<LINE>Pokédex is complete!<LINE>Make sure you go after the roaming<LINE>Pokémon and trade with friends to get<LINE><LINE>the ones you're missing!
+...<LINE>...<LINE>This blows me away! It's so wonderful,<LINE>I'm at a loss for words.<LINE>You... You've accomplished something<LINE>truly outstanding.<LINE>Filling up the National Pokédex makes you<LINE>a Trainer among Trainers!<LINE>I'm so happy I was able to meet a<LINE>fantastic Trainer like you!<LINE><LINE>I thank you from the bottom of my heart.

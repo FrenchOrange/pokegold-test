@@ -1,9 +1,9 @@
-Bianca: Heeey, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYou remember the promise you\xfffemade on the Xtransceiver, right?\xf000븁\x0000\xfffeSo, let's get right to our\xfffePokémon battle!\xf000븁\x0000
-Bianca: Hello, \xf000Ā\x0001\x0000!\xf000븁\x0000\xfffeYou remember the promise you\xfffemade on the Xtransceiver, right?\xf000븁\x0000\xfffeSo, let's get right to our\xfffePokémon battle!\xf000븁\x0000
-But, before that...\xf000븁\x0000
-They said we can have a Pokémon battle\xfffein the gate as long as we're careful not\xf000븀\x0000\xfffeto break the electric bulletin board.\xf000븁\x0000\xfffeI'm the new-and-improved version of me!\xfffeIt's gonna go great this time!\xf000븁\x0000\xfffeLet's start up our Pokémon battle again!\xf000븁\x0000
-Bianca: I'll never be a strong Trainer\xfffelike you or Cheren or Iris, but...\xf000븁\x0000\xfffeYou know, since we left Nuvema Town,\xfffeI've met a lot of people and I've been\xf000븀\x0000\xfffethinking about what I want to do in life!\xf000븁\x0000\xfffeWhen you look at it that way, Pokémon\xfffehave given me a lot of new experiences.\xf000븁\x0000
-Having my Pokémon stolen was just\xfffereally hard, and I felt really unsure...\xf000븁\x0000\xfffeStill, I gotta say I'm really glad I went!\xf000븁\x0000\xfffeI've learned so much on this journey.\xfffeAnd I also learned that being with\xf000븀\x0000\xfffePokémon is really, really important!\xf000븁\x0000\xfffeOK, well, I hope to see you again soon!\xfffeBye-bye, \xf000Ā\x0001\x0000!\xf000븁\x0000
-Maybe I should try to find a\xfffePokémon on Route 4 to catch!
-Route 4 is long!\xfffeBe careful if you plan to follow it!
-Nimbasa City is at the end\xfffeof Route 4.
+Bianca: Heeey, <PLAYER>!<LINE>You remember the promise you<LINE>made on the Xtransceiver, right?<LINE>So, let's get right to our<LINE>Pokémon battle!
+Bianca: Hello, <PLAYER>!<LINE>You remember the promise you<LINE>made on the Xtransceiver, right?<LINE>So, let's get right to our<LINE>Pokémon battle!
+But, before that...
+They said we can have a Pokémon battle<LINE>in the gate as long as we're careful not<LINE><LINE>to break the electric bulletin board.<LINE>I'm the new-and-improved version of me!<LINE>It's gonna go great this time!<LINE>Let's start up our Pokémon battle again!
+Bianca: I'll never be a strong Trainer<LINE>like you or Cheren or Iris, but...<LINE>You know, since we left Nuvema Town,<LINE>I've met a lot of people and I've been<LINE><LINE>thinking about what I want to do in life!<LINE>When you look at it that way, Pokémon<LINE>have given me a lot of new experiences.
+Having my Pokémon stolen was just<LINE>really hard, and I felt really unsure...<LINE>Still, I gotta say I'm really glad I went!<LINE>I've learned so much on this journey.<LINE>And I also learned that being with<LINE><LINE>Pokémon is really, really important!<LINE>OK, well, I hope to see you again soon!<LINE>Bye-bye, <PLAYER>!
+Maybe I should try to find a<LINE>Pokémon on Route 4 to catch!
+Route 4 is long!<LINE>Be careful if you plan to follow it!
+Nimbasa City is at the end<LINE>of Route 4.

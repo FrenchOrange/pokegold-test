@@ -1,11 +1,11 @@
-Hello!\xf000븁\x0000\xfffeIf you'd like, I will massage\xfffeyour Pokémon.
-Oh, I see.\xfffePlease see me if you change your mind.
-All right! Let me get started.\xf000븁\x0000
-Massage the Egg?\xfffeIt may be a bit too early for that.
-There. All done!\xf000븁\x0000\xfffeThe massage has made your Pokémon\xfffemuch more friendly to you!
-There. All done!\xf000븁\x0000\xfffeThe massage has made your Pokémon\xfffemore friendly to you!
-There. All done!\xf000븁\x0000\xfffeThe massage has made your Pokémon\xfffea little bit more friendly to you!
-Sorry!\xfffeI am exhausted from the massage earlier.\xf000븁\x0000\xfffePlease come back again tomorrow!
-When Pokémon are happy, I am happy,\xfffeand I laugh!\xf000븁\x0000\xfffeWhen Pokémon see me laughing,\xfffethey will be happy, too!
+Hello!<LINE>If you'd like, I will massage<LINE>your Pokémon.
+Oh, I see.<LINE>Please see me if you change your mind.
+All right! Let me get started.
+Massage the Egg?<LINE>It may be a bit too early for that.
+There. All done!<LINE>The massage has made your Pokémon<LINE>much more friendly to you!
+There. All done!<LINE>The massage has made your Pokémon<LINE>more friendly to you!
+There. All done!<LINE>The massage has made your Pokémon<LINE>a little bit more friendly to you!
+Sorry!<LINE>I am exhausted from the massage earlier.<LINE>Please come back again tomorrow!
+When Pokémon are happy, I am happy,<LINE>and I laugh!<LINE>When Pokémon see me laughing,<LINE>they will be happy, too!
 Gahoohoo!
-It's difficult to watch TV from here.\xfffeIt's not your concern, though.
+It's difficult to watch TV from here.<LINE>It's not your concern, though.

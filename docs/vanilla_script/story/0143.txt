@@ -1,1 +1,1 @@
-Nothing happens!\xfffeIt seems you can't go back until you win.
+Nothing happens!<LINE>It seems you can't go back until you win.

@@ -1,19 +1,19 @@
-Skyla: Oh, you came. Thank you!\xf000븁\x0000\xfffeI was right.\xfffeWhat I saw was a hurt Pokémon.\xf000븁\x0000\xfffeDon't worry, though!\xfffeIt's fine now!\xf000븁\x0000\xfffeI gave it a Max Revive,\xfffethen it felt better and flew away!\xf000븁\x0000
-Hee hee!\xfffeDon't I have great eyesight?\xf000븁\x0000\xfffeNo matter how far away things are,\xfffea Pilot's eyes can see them!\xf000븁\x0000
-Oh, that's right! Since you've come\xfffethis far, why don't you ring the bell?\xf000븁\x0000\xfffeCelestial Tower's bell is for soothing\xfffethe spirits of Pokémon.\xf000븁\x0000\xfffeAlso, the character of the person ringing\xfffethe bell is reflected in its sound.\xf000븁\x0000
+Skyla: Oh, you came. Thank you!<LINE>I was right.<LINE>What I saw was a hurt Pokémon.<LINE>Don't worry, though!<LINE>It's fine now!<LINE>I gave it a Max Revive,<LINE>then it felt better and flew away!
+Hee hee!<LINE>Don't I have great eyesight?<LINE>No matter how far away things are,<LINE>a Pilot's eyes can see them!
+Oh, that's right! Since you've come<LINE>this far, why don't you ring the bell?<LINE>Celestial Tower's bell is for soothing<LINE>the spirits of Pokémon.<LINE>Also, the character of the person ringing<LINE>the bell is reflected in its sound.
 Skyla: Come on, don't be shy!
-What a pretty sound.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, you are\xfffea kind and strong person.\xf000븀\x0000\xfffeIt's that kind of sound.\xf000븁\x0000
-What a pretty sound.\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000, you are\xfffea kind and strong person.\xf000븀\x0000\xfffeIt's that kind of sound.\xf000븁\x0000
-I'd like to introduce myself again!\xf000븁\x0000\xfffeI'm Skyla, the Leader of\xfffeMistralton's Pokémon Gym.\xf000븀\x0000\xfffeI use Flying-type Pokémon.\xf000븁\x0000\xfffeWhen you are ready, please\xfffecome to the Gym.\xf000븀\x0000\xfffeI'll give you a big welcome!\xf000븁\x0000
-It's the Celestial Tower bell...\xfffeWill you ring the bell?
-\xf000Ā\x0001\x0000 rang the bell...
-The sound of the bell\xfffereverberates through the area...
-The sound of the bell\xfffereverberates through the area...\xf000븁\x0000
+What a pretty sound.<LINE><PLAYER>, you are<LINE>a kind and strong person.<LINE><LINE>It's that kind of sound.
+What a pretty sound.<LINE><PLAYER>, you are<LINE>a kind and strong person.<LINE><LINE>It's that kind of sound.
+I'd like to introduce myself again!<LINE>I'm Skyla, the Leader of<LINE>Mistralton's Pokémon Gym.<LINE><LINE>I use Flying-type Pokémon.<LINE>When you are ready, please<LINE>come to the Gym.<LINE><LINE>I'll give you a big welcome!
+It's the Celestial Tower bell...<LINE>Will you ring the bell?
+<PLAYER> rang the bell...
+The sound of the bell<LINE>reverberates through the area...
+The sound of the bell<LINE>reverberates through the area...
 The bell was left untouched...
-Alder: ...\xf000븁\x0000
-My old partner is resting\xfffehere in the Celestial Tower.\xf000븁\x0000\xfffeIt was the first Pokémon\xfffeI received when I became a Trainer.\xf000븁\x0000\xfffeI come here to ring the bell\xfffeand comfort its spirit.\xf000븁\x0000
-It was a strong Pokémon.\xfffeIt was courageous, noble, and kind...\xf000븁\x0000\xfffeTogether, we madly pursued strength...\xfffeWithout even knowing the meaning\xf000븀\x0000\xfffeof strength.\xf000븁\x0000
-But, in the same way that all stories\xfffehave a beginning and an end,\xf000븀\x0000\xfffeall lives have an end, as well...\xf000븁\x0000\xfffeIt was then that I understood that\xfffestrength isn't something that\xf000븀\x0000\xffferemains unchanged forever.\xf000븁\x0000
-However, the joy one feels in being with\xfffePokémon--that is the real thing.\xf000븁\x0000\xfffeIn order to spread the word, I left\xfffethe Pokémon League and kept traveling...\xf000븁\x0000\xfffeThat's right! Traveling is wonderful.\xf000븁\x0000\xfffeI've met many different Pokémon,\xfffemany different Trainers,\xf000븀\x0000\xfffeand now I've met all of you.\xf000븁\x0000
-There are many more Trainers and\xfffePokémon to encounter in the world!\xf000븁\x0000\xfffe\xf000Ā\x0001\x0000! Go out and meet\xfffeas many of them as you can!\xf000븁\x0000
-Well, \xf000Ā\x0001\x0000, I'll be waiting\xfffefor you at the Pokémon League!\xf000븁\x0000
+Alder: ...
+My old partner is resting<LINE>here in the Celestial Tower.<LINE>It was the first Pokémon<LINE>I received when I became a Trainer.<LINE>I come here to ring the bell<LINE>and comfort its spirit.
+It was a strong Pokémon.<LINE>It was courageous, noble, and kind...<LINE>Together, we madly pursued strength...<LINE>Without even knowing the meaning<LINE><LINE>of strength.
+But, in the same way that all stories<LINE>have a beginning and an end,<LINE><LINE>all lives have an end, as well...<LINE>It was then that I understood that<LINE>strength isn't something that<LINE><LINE>remains unchanged forever.
+However, the joy one feels in being with<LINE>Pokémon--that is the real thing.<LINE>In order to spread the word, I left<LINE>the Pokémon League and kept traveling...<LINE>That's right! Traveling is wonderful.<LINE>I've met many different Pokémon,<LINE>many different Trainers,<LINE><LINE>and now I've met all of you.
+There are many more Trainers and<LINE>Pokémon to encounter in the world!<LINE><PLAYER>! Go out and meet<LINE>as many of them as you can!
+Well, <PLAYER>, I'll be waiting<LINE>for you at the Pokémon League!

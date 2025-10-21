@@ -1,13 +1,13 @@
-Welcome to the Union Room.\xf000븁\x0000\xfffeIf there is anything you need help\xfffewith, please let me know! \xf000븁\x0000
+Welcome to the Union Room.<LINE>If there is anything you need help<LINE>with, please let me know! 
 
-Which topic would you\xfffelike me to explain?
-There are five Battle Formats.\xf000븁\x0000\xfffeSingle Battle is for two Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000\xfffeDouble Battle is for two Trainers\xfffewith two or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out two\xfffePokémon to battle at a time.\xf000븁\x0000\xfffeTriple Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer will send out three\xfffePokémon to battle at a time.\xf000븁\x0000
-Rotation Battle is for two Trainers\xfffewith three or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer sends out three Pokémon at\xfffea time, one in front and two in the back.\xf000븁\x0000\xfffeMulti Battle is for four Trainers\xfffewith one or more Pokémon each.\xf000븁\x0000\xfffeEach Trainer can have one Pokémon\xfffein battle at a time.\xf000븁\x0000
-You may trade your Pokémon with\xfffeother players.\xf000븁\x0000\xfffeMeeting new people could be a\xfffeshortcut to meeting rare Pokémon!\xf000븁\x0000
+Which topic would you<LINE>like me to explain?
+There are five Battle Formats.<LINE>Single Battle is for two Trainers<LINE>with one or more Pokémon each.<LINE>Each Trainer can have one Pokémon<LINE>in battle at a time.<LINE>Double Battle is for two Trainers<LINE>with two or more Pokémon each.<LINE>Each Trainer will send out two<LINE>Pokémon to battle at a time.<LINE>Triple Battle is for two Trainers<LINE>with three or more Pokémon each.<LINE>Each Trainer will send out three<LINE>Pokémon to battle at a time.
+Rotation Battle is for two Trainers<LINE>with three or more Pokémon each.<LINE>Each Trainer sends out three Pokémon at<LINE>a time, one in front and two in the back.<LINE>Multi Battle is for four Trainers<LINE>with one or more Pokémon each.<LINE>Each Trainer can have one Pokémon<LINE>in battle at a time.
+You may trade your Pokémon with<LINE>other players.<LINE>Meeting new people could be a<LINE>shortcut to meeting rare Pokémon!
 
-In a Spin Trade, participants each bring\xfffean Egg for trading with others.\xf000븁\x0000\xfffeWhich Egg will you end up with?\xfffeWhat kind of Pokémon is in that Egg?\xf000븀\x0000\xfffeIt's quite exciting and fun!\xf000븁\x0000\xfffeUp to five players can take part, so\xfffetry it with your friends!\xf000븁\x0000
-You may get together with others\xfffeand draw a picture.\xf000븁\x0000\xfffeYou all get to work on one sheet\xfffeof paper at the same time.\xf000븁\x0000\xfffeI'm sure a drawing made by friends\xfffewill be a memorable masterpiece!\xf000븁\x0000\xfffeUp to five players can take part,\xfffeso try it with your friends!\xf000븁\x0000
-If you touch an icon on the bar\xfffeon the Touch Screen below,\xf000븀\x0000\xfffeyou can choose words for chatting\xf000븀\x0000\xfffeor tell others what you want to do,\xf000븀\x0000\xfffesuch as battles or trades.\xf000븁\x0000\xfffeAlso, players who have chosen the same\xfffeicon as you will jump up and down\xf000븀\x0000\xfffeso you can spot them easily.\xf000븁\x0000\xfffeTouch any icon to find a person you want\xfffeto play with.\xf000븁\x0000
+In a Spin Trade, participants each bring<LINE>an Egg for trading with others.<LINE>Which Egg will you end up with?<LINE>What kind of Pokémon is in that Egg?<LINE><LINE>It's quite exciting and fun!<LINE>Up to five players can take part, so<LINE>try it with your friends!
+You may get together with others<LINE>and draw a picture.<LINE>You all get to work on one sheet<LINE>of paper at the same time.<LINE>I'm sure a drawing made by friends<LINE>will be a memorable masterpiece!<LINE>Up to five players can take part,<LINE>so try it with your friends!
+If you touch an icon on the bar<LINE>on the Touch Screen below,<LINE><LINE>you can choose words for chatting<LINE><LINE>or tell others what you want to do,<LINE><LINE>such as battles or trades.<LINE>Also, players who have chosen the same<LINE>icon as you will jump up and down<LINE><LINE>so you can spot them easily.<LINE>Touch any icon to find a person you want<LINE>to play with.
 
 
 

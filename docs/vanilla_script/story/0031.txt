@@ -1,9 +1,9 @@
-Welcome to Café Warehouse,\xfffea stylish café in a rural area!
-Welcome to Café Warehouse,\xfffea stylish café in a rural area!\xf000븁\x0000\xfffeOur café has a special on Wednesdays!\xfffeHere, have a Soda Pop!\xf000븁\x0000\xfffeEnjoy the taste of our specialty!\xf000븁\x0000
+Welcome to Café Warehouse,<LINE>a stylish café in a rural area!
+Welcome to Café Warehouse,<LINE>a stylish café in a rural area!<LINE>Our café has a special on Wednesdays!<LINE>Here, have a Soda Pop!<LINE>Enjoy the taste of our specialty!
 Enjoy the taste of our specialty!
 This café has a special on Wednesdays!
-As far as I'm concerned, it doesn't\xfffematter that the café is in a rural area\xf000븀\x0000\xfffethat nobody knows.
-Do you know about the Battle Box?\xf000븁\x0000\xfffeI heard it is a useful function you can\xfffeuse at the Pokémon Center.
-The Striaton City Gym Leaders are a\xfffegreat triplet combo!\xf000븁\x0000\xfffeThe Grass-type Pokémon user, Cilan,\xfffechooses great tea leaves.\xf000븁\x0000\xfffeThe Water-type Pokémon user, Cress,\xfffeprepares the best water.\xf000븁\x0000\xfffeAnd the Fire-type Pokémon user, Chili,\xfffepours hot water at the right heat.\xf000븁\x0000\xfffeNo wonder their tea is the best!
-When you battle with a friend using\xfffewireless communications, you can use\xf000븀\x0000\xfffeitems using a Wonder Launcher!
-Yes, I know!\xf000븁\x0000\xfffeIf you have a Wonder Launcher, energy\xfffewill be charged, and you can use\xf000븀\x0000\xfffevarious items.
+As far as I'm concerned, it doesn't<LINE>matter that the café is in a rural area<LINE><LINE>that nobody knows.
+Do you know about the Battle Box?<LINE>I heard it is a useful function you can<LINE>use at the Pokémon Center.
+The Striaton City Gym Leaders are a<LINE>great triplet combo!<LINE>The Grass-type Pokémon user, Cilan,<LINE>chooses great tea leaves.<LINE>The Water-type Pokémon user, Cress,<LINE>prepares the best water.<LINE>And the Fire-type Pokémon user, Chili,<LINE>pours hot water at the right heat.<LINE>No wonder their tea is the best!
+When you battle with a friend using<LINE>wireless communications, you can use<LINE><LINE>items using a Wonder Launcher!
+Yes, I know!<LINE>If you have a Wonder Launcher, energy<LINE>will be charged, and you can use<LINE><LINE>various items.

@@ -1,9 +1,9 @@
 Do you want to go up?
-I need to check you.\xf000븁\x0000\xfffeFrisk, frisk...\xfffeFrisk, frisk... And one more frisk...\xf000븁\x0000
-You don't seem to have\xfffeanything suspicious.\xf000븁\x0000\xfffeOK! You can go.\xf000븁\x0000
+I need to check you.<LINE>Frisk, frisk...<LINE>Frisk, frisk... And one more frisk...
+You don't seem to have<LINE>anything suspicious.<LINE>OK! You can go.
 OK! You can go.
 ...OK. That's fine, then.
-...OK. That's fine, then.\xf000븁\x0000
-I'm invited to a party, but the person\xfffein front of the elevator wants\xf000븀\x0000\xfffeto pat me down.\xf000븁\x0000\xfffeOr is it just my imagination?
-I talked with a lot of people upstairs.\xfffeIt was fun!
-Where are you from?\xf000븁\x0000\xfffeReally? You're from Nuvema Town?\xfffeIt's a great place!
+...OK. That's fine, then.
+I'm invited to a party, but the person<LINE>in front of the elevator wants<LINE><LINE>to pat me down.<LINE>Or is it just my imagination?
+I talked with a lot of people upstairs.<LINE>It was fun!
+Where are you from?<LINE>Really? You're from Nuvema Town?<LINE>It's a great place!
