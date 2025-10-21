@@ -1,4 +1,7 @@
 	object_const_def
+	const PLAYERSHOUSE2F_POKEBALL1
+	const PLAYERSHOUSE2F_POKEBALL2
+	const PLAYERSHOUSE2F_POKEBALL3
 
 PlayersHouse2F_MapScripts:
 	def_scene_scripts
@@ -16,14 +19,59 @@ PlayersHouse2FInitializeRoomCallback:
 	endcallback
 
 PlayersHousePCScript:
-	opentext
-	special PlayersHousePC
-	iftrue .Warp
-	closetext
-	end
-.Warp:
-	warp NONE, 0, 0
-	end
+	jumptext PlayersHouse2FPCText
+
+;	opentext
+;	special PlayersHousePC
+;	iftrue .Warp
+;	closetext
+;	end
+;.Warp:
+;	warp NONE, 0, 0
+;	end
+
+PlayersHouse2FTV:
+	jumptext PlayersHouse2FTVText
+
+PlayersHouse2FBed:
+	jumptext PlayersHouse2FBedText
+
+PlayersHouse2FConsole:
+	jumptext PlayersHouse2FConsoleText
+
+PlayersHouse2FTVText:
+	text "It's a television"
+	line "that Dad bought!"
+	done
+
+PlayersHouse2FBedText:
+	text "It's a bed."
+
+	para "The sheets smell"
+	line "great because Mom"
+	cont "just washed them!"
+	done
+
+PlayersHouse2FConsoleText:
+	text "It's a SUPER NES!"
+	line "It has a MULTITAP!"
+	done
+
+PlayersHouse2FPCText:
+	text "<PLAYER> checked"
+	line "the PC."
+
+	para "#MON Basics..."
+
+	para "People live"
+	line "alongside #MON"
+	cont "in this world."
+
+	para "The people who"
+	line "battle with"
+	cont "#MON are called"
+	cont "#MON Trainers."
+	done
 
 DebugSign:
 	setflag ENGINE_POKEGEAR
@@ -88,12 +136,19 @@ PlayersHouse2F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  7,  1, PLAYERS_HOUSE_1F, 3
+	warp_event  9,  1, PLAYERS_HOUSE_1F, 3
 
 	def_coord_events
 
 	def_bg_events
-	bg_event  0,  1, BGEVENT_UP, PlayersHousePCScript
-	bg_event  3,  0, BGEVENT_READ, DebugSign
+	bg_event  0,  6, BGEVENT_READ, PlayersHousePCScript
+	bg_event  3,  1, BGEVENT_READ, PlayersHouse2FTV
+	bg_event  3,  2, BGEVENT_READ, PlayersHouse2FConsole
+	bg_event  9,  6, BGEVENT_READ, PlayersHouse2FBed
+	bg_event  9,  7, BGEVENT_READ, PlayersHouse2FBed
+	bg_event  8,  0, BGEVENT_READ, DebugSign
 
 	def_object_events
+	object_event  5,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, -1
+	object_event  4,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, -1
+	object_event  3,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, ObjectEvent, -1

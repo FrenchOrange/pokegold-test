@@ -1,35 +1,28 @@
 	tilecoll WALL, WALL, WALL, WALL ; 00
 	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 01
 	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 02
-	tilecoll WALL, WALL, FLOOR, FLOOR ; 03
+	tilecoll FLOOR, FLOOR, WARP_CARPET_DOWN, WARP_CARPET_DOWN ; 03
 	tilecoll WALL, WALL, BOOKSHELF, BOOKSHELF ; 04
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 05
 	tilecoll WALL, FLOOR, WALL, FLOOR ; 06
 	tilecoll FLOOR, WALL, FLOOR, WALL ; 07
-	tilecoll WALL, WALL, FLOOR, FLOOR ; 08
+	tilecoll WALL, WALL, LADDER, FLOOR ; 08
 	tilecoll WALL, WALL, FLOOR, BOOKSHELF ; 09
-	tilecoll WALL, WALL, WALL, WALL ; 0a
-	tilecoll FLOOR, FLOOR, WARP_CARPET_DOWN, WARP_CARPET_DOWN ; 0b
+	tilecoll FLOOR, WALL, FLOOR, WALL ; 0a
+	tilecoll WALL, FLOOR, WALL, FLOOR ; 0b
 	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 0c
 	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 0d
 	tilecoll WALL, TOWN_MAP, FLOOR, FLOOR ; 0e
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 0f
-	tilecoll WALL, WALL, PC, WALL ; 10
-	tilecoll WALL, WALL, WALL, FLOOR ; 11
+	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 10
+	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 11
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 12
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 13
-	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 14
-	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 15
+	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 14
+	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 15
 	tilecoll WALL, WALL, FLOOR, FLOOR ; 16
-	tilecoll WALL, WALL, FLOOR, FLOOR ; 17
-	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 18
-	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 19
-	tilecoll WALL, WALL, BOOKSHELF, BOOKSHELF ; 1a
-	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 1b
-	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 1c
-	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 1d
-	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 1e
-	tilecoll WALL, CAVE, FLOOR, FLOOR ; 1f
-	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 20
-	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 21
-	tilecoll FLOOR, FLOOR, WALL, WALL ; 22
+	tilecoll WALL, WALL, BOOKSHELF, BOOKSHELF ; 17
+	tilecoll FLOOR, FLOOR, WARP_CARPET_DOWN, WARP_CARPET_DOWN ; 18
+	tilecoll WALL, WALL, FLOOR, WALL ; 19
+	tilecoll WALL, WALL, WALL, WALL ; 1a
+	tilecoll WALL, WALL, FLOOR, TV ; 1b
