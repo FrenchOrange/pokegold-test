@@ -55,7 +55,7 @@ SECTION "Map Scripts 4", ROMX
 INCLUDE "maps/TeamRocketBaseB1F.asm"
 INCLUDE "maps/TeamRocketBaseB2F.asm"
 INCLUDE "maps/TeamRocketBaseB3F.asm"
-INCLUDE "maps/IlexForest.asm"
+INCLUDE "maps/PinwheelForest.asm"
 
 
 SECTION "Map Scripts 5", ROMX
@@ -87,8 +87,8 @@ INCLUDE "maps/WhirlIslandB2F.asm"
 INCLUDE "maps/WhirlIslandLugiaChamber.asm"
 INCLUDE "maps/DarkCaveVioletEntrance.asm"
 INCLUDE "maps/DarkCaveBlackthornEntrance.asm"
-INCLUDE "maps/DragonsDen1F.asm"
-INCLUDE "maps/DragonsDenB1F.asm"
+INCLUDE "maps/PinwheelForestOutside.asm"
+INCLUDE "maps/PinwheelForestOutsideSouth.asm"
 INCLUDE "maps/TohjoFalls.asm"
 
 

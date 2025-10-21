@@ -21,7 +21,7 @@ Landmarks:
 	landmark  82, 124, Route33Name
 	landmark  68, 124, NacreneCityName
 	landmark  70, 122, DreamyardName
-	landmark  52, 120, IlexForestName
+	landmark  52, 120, PinwheelForestName
 	landmark  52, 112, Route34Name
 	landmark  52,  92, GoldenrodCityName
 	landmark  50,  92, RadioTowerName
@@ -156,7 +156,7 @@ Route43Name:         db "ROUTE 43@"
 Route44Name:         db "ROUTE 44@"
 Route45Name:         db "ROUTE 45@"
 DarkCaveName:        db "DARK CAVE@"
-IlexForestName:      db "ILEX<BSP>FOREST@"
+PinwheelForestName:  db "PINWHEEL<BSP>FOREST@"
 BurnedTowerName:     db "BURNED<BSP>TOWER@"
 FastShipName:        db "FAST SHIP@"
 TohjoFallsName:      db "TOHJO FALLS@"

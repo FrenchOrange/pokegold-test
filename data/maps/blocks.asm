@@ -496,8 +496,8 @@ DreamyardOutside_Blocks:
 SlowpokeWellB2F_Blocks:
 	INCBIN "maps/SlowpokeWellB2F.blk"
 
-IlexForest_Blocks:
-	INCBIN "maps/IlexForest.blk"
+PinwheelForest_Blocks:
+	INCBIN "maps/PinwheelForest.blk"
 
 DarkCaveVioletEntrance_Blocks:
 	INCBIN "maps/DarkCaveVioletEntrance.blk"
@@ -577,11 +577,11 @@ GoldenrodFlowerShop_Blocks:
 EcruteakTinTowerBackEntrance_Blocks:
 	INCBIN "maps/EcruteakTinTowerBackEntrance.blk"
 
-DragonsDen1F_Blocks:
-	INCBIN "maps/DragonsDen1F.blk"
+PinwheelForestOutside_Blocks:
+	INCBIN "maps/PinwheelForestOutside.blk"
 
-DragonsDenB1F_Blocks:
-	INCBIN "maps/DragonsDenB1F.blk"
+PinwheelForestOutsideSouth_Blocks:
+	INCBIN "maps/PinwheelForestOutsideSouth.blk"
 
 TohjoFalls_Blocks:
 	INCBIN "maps/TohjoFalls.blk"

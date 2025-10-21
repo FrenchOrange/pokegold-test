@@ -2489,7 +2489,7 @@ wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
 wRoute36SceneID::                                 db
 wRoute37SceneID::                                 db
-wIlexForestSceneID::                              db
+wPinwheelForestSceneID::                          db
 wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db
 wOlivineCitySceneID::                             db
@@ -2513,7 +2513,7 @@ wTeamRocketBaseB3FSceneID::                       db
 wGoldenrodUndergroundSwitchRoomEntrancesSceneID:: db
 wRoute40SceneID::                                 db
 wVictoryRoadSceneID::                             db
-wDragonsDenB1FSceneID::                           db
+wGoldenrodCitySceneID::                           db
 wOlivinePortSceneID::                             db
 wRoute41SceneID::                                 db
 wFastShip1FSceneID::                              db

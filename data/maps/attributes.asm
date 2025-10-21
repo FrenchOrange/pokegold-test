@@ -110,7 +110,8 @@ ENDM
 	connection south, Route2East, ROUTE_2_EAST, 6
 	connection west, Route3, ROUTE_3, -9
 
-	map_attributes NacreneCity, NACRENE_CITY, $0f, EAST
+	map_attributes NacreneCity, NACRENE_CITY, $0f, WEST | EAST
+	connection west, PinwheelForestOutside, PINWHEEL_FOREST_OUTSIDE, 0
 	connection east, Route3, ROUTE_3, -9
 
 	map_attributes CianwoodCity, CIANWOOD_CITY, $0f, 0
@@ -146,6 +147,13 @@ ENDM
 	map_attributes Route3, ROUTE_3, $0f, WEST | EAST
 	connection west, NacreneCity, NACRENE_CITY, 9
 	connection east, StriatonCity, STRIATON_CITY, 9
+
+	map_attributes PinwheelForestOutside, PINWHEEL_FOREST_OUTSIDE, $0f, SOUTH | EAST
+	connection south, PinwheelForestOutsideSouth, PINWHEEL_FOREST_OUTSIDE_SOUTH, 0
+	connection east, NacreneCity, NACRENE_CITY, 0
+
+	map_attributes PinwheelForestOutsideSouth, PINWHEEL_FOREST_OUTSIDE_SOUTH, $0f, NORTH
+	connection north, PinwheelForestOutside, PINWHEEL_FOREST_OUTSIDE, 0
 
 	map_attributes Route26, ROUTE_26, $0f, 0
 
@@ -234,6 +242,7 @@ ENDM
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
+	map_attributes PinwheelForest, PINWHEEL_FOREST, $02, 0
 	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
 	map_attributes SproutTower2F, SPROUT_TOWER_2F, $00, 0
@@ -275,7 +284,6 @@ ENDM
 	map_attributes TeamRocketBaseB1F, TEAM_ROCKET_BASE_B1F, $00, 0
 	map_attributes TeamRocketBaseB2F, TEAM_ROCKET_BASE_B2F, $00, 0
 	map_attributes TeamRocketBaseB3F, TEAM_ROCKET_BASE_B3F, $00, 0
-	map_attributes IlexForest, ILEX_FOREST, $05, 0
 	map_attributes GoldenrodUnderground, GOLDENROD_UNDERGROUND, $00, 0
 	map_attributes GoldenrodUndergroundSwitchRoomEntrances, GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES, $00, 0
 	map_attributes GoldenrodDeptStoreB1F, GOLDENROD_DEPT_STORE_B1F, $00, 0
@@ -299,8 +307,6 @@ ENDM
 	map_attributes WhirlIslandLugiaChamber, WHIRL_ISLAND_LUGIA_CHAMBER, $0f, 0
 	map_attributes DarkCaveVioletEntrance, DARK_CAVE_VIOLET_ENTRANCE, $09, 0
 	map_attributes DarkCaveBlackthornEntrance, DARK_CAVE_BLACKTHORN_ENTRANCE, $09, 0
-	map_attributes DragonsDen1F, DRAGONS_DEN_1F, $09, 0
-	map_attributes DragonsDenB1F, DRAGONS_DEN_B1F, $71, 0
 	map_attributes TohjoFalls, TOHJO_FALLS, $09, 0
 	map_attributes OlivinePokecenter1F, OLIVINE_POKECENTER_1F, $00, 0
 	map_attributes OlivineGym, OLIVINE_GYM, $00, 0

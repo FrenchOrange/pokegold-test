@@ -14,7 +14,7 @@
 	const LANDMARK_ROUTE_33          ; 0b
 	const LANDMARK_NACRENE_CITY      ; 0c
 	const LANDMARK_DREAMYARD         ; 0d
-	const LANDMARK_ILEX_FOREST       ; 0e
+	const LANDMARK_PINWHEEL_FOREST   ; 0e
 	const LANDMARK_ROUTE_34          ; 0f
 	const LANDMARK_GOLDENROD_CITY    ; 10
 	const LANDMARK_RADIO_TOWER       ; 11

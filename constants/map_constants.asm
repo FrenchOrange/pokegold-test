@@ -59,6 +59,7 @@ ENDM
 
 	newgroup DUNGEONS                                             ;  3
 	map_const DREAMYARD_OUTSIDE,                           22, 22 ;  1
+	map_const PINWHEEL_FOREST,                             25, 18 ; 44
 	map_const SLOWPOKE_WELL_B2F,                           10,  9 ; 33
 	map_const BURNED_TOWER_1F,                             10,  9 ; 13
 	map_const BURNED_TOWER_B1F,                            10,  9 ; 14
@@ -100,7 +101,6 @@ ENDM
 	map_const TEAM_ROCKET_BASE_B1F,                        15,  9 ; 41
 	map_const TEAM_ROCKET_BASE_B2F,                        15,  9 ; 42
 	map_const TEAM_ROCKET_BASE_B3F,                        15,  9 ; 43
-	map_const ILEX_FOREST,                                 15, 27 ; 44
 	map_const GOLDENROD_UNDERGROUND,                       15, 18 ; 45
 	map_const GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES, 15, 18 ; 46
 	map_const GOLDENROD_DEPT_STORE_B1F,                    10,  9 ; 47
@@ -124,8 +124,6 @@ ENDM
 	map_const WHIRL_ISLAND_LUGIA_CHAMBER,                  10,  9 ; 65
 	map_const DARK_CAVE_VIOLET_ENTRANCE,                   20, 18 ; 70
 	map_const DARK_CAVE_BLACKTHORN_ENTRANCE,               15, 18 ; 71
-	map_const DRAGONS_DEN_1F,                               5,  9 ; 72
-	map_const DRAGONS_DEN_B1F,                             20, 18 ; 73
 	map_const TOHJO_FALLS,                                 15,  9 ; 74
 	map_const VICTORY_ROAD,                                10, 36 ; 82
 	endgroup
@@ -172,6 +170,8 @@ ENDM
 	map_const AZALEA_GYM,                                   5,  8 ;  5
 	map_const ROUTE_33,                                    10,  9 ;  6
 	map_const NACRENE_CITY,                                20,  9 ;  7
+	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 72
+	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 73
 	endgroup
 
 	newgroup LAKE_OF_RAGE                                         ;  9
