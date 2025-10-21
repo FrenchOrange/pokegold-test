@@ -141,7 +141,7 @@ ENDM
 	connection west, Route18, ROUTE_18, 0
 	connection east, Route1West, ROUTE_1_WEST, 1
 
-	map_attributes Route18, ROUTE_18, $0f, EAST
+	map_attributes Route18, ROUTE_18, $43, EAST
 	connection east, Route17, ROUTE_17, 0
 
 	map_attributes Route2, ROUTE_2, $0f, EAST

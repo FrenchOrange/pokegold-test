@@ -9,8 +9,8 @@ Route1West_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4, 28, ROUTE_17_GATE, 1
-	warp_event  4, 29, ROUTE_17_GATE, 2
+	warp_event  4, 28, ROUTE_17_GATE, 3
+	warp_event  4, 29, ROUTE_17_GATE, 4
 
 	def_coord_events
 
