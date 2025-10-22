@@ -90,7 +90,7 @@ ItemDescriptions:
 	dw BigMushroomDesc
 	dw SilverPowderDesc
 	dw RelicSilverDesc
-	dw TeruSama7Desc
+	dw RedShardDesc
 	dw AmuletCoinDesc
 	dw RelicGoldDesc
 	dw RelicVaseDesc
@@ -100,7 +100,7 @@ ItemDescriptions:
 	dw RelicBandDesc
 	dw BlackBeltDesc
 	dw RelicStatueDesc
-	dw TeruSama8Desc
+	dw BlueShardDesc
 	dw RelicCrownDesc
 	dw BlackGlassesDesc
 	dw SlowpokeTailDesc
@@ -130,7 +130,7 @@ ItemDescriptions:
 	dw CardKeyDesc
 	dw MachinePartDesc
 	dw TeruSama12Desc
-	dw LostItemDesc
+	dw DragonSkullDesc
 	dw StardustDesc
 	dw StarPieceDesc
 	dw BasementKeyDesc
@@ -141,8 +141,8 @@ ItemDescriptions:
 	dw CharcoalDesc
 	dw BerryJuiceDesc
 	dw ScopeLensDesc
-	dw TeruSama16Desc
-	dw TeruSama17Desc
+	dw YellowShardDesc
+	dw GreenShardDesc
 	dw MetalCoatDesc
 	dw DragonFangDesc
 	dw TeruSama18Desc
@@ -152,7 +152,7 @@ ItemDescriptions:
 	dw HeartScaleDesc
 	dw LeppaBerryDesc
 	dw DragonScaleDesc
-	dw BerserkGeneDesc
+	dw CasteliaConeDesc
 	dw TeruSama22Desc
 	dw TeruSama23Desc
 	dw TeruSama24Desc
@@ -610,8 +610,9 @@ RelicSilverDesc:
 	db   "An ancient silver"
 	next "coin. Sell high.@"
 
-TeruSama7Desc:
-	db   "?@"
+RedShardDesc:
+	db   "A small red shard."
+	next "Sell low.@"
 
 AmuletCoinDesc:
 	db   "Doubles monetary"
@@ -649,8 +650,9 @@ RelicStatueDesc:
 	db   "An ancient statue."
 	next "Sell high.@"
 
-TeruSama8Desc:
-	db   "?@"
+BlueShardDesc:
+	db   "A small blue"
+	next "shard. Sell low.@"
 
 RelicCrownDesc:
 	db   "An ancient crown."
@@ -705,8 +707,9 @@ SpellTagDesc:
 	next "type moves. (HOLD)@"
 
 RageCandyBarDesc:
-	db   "Restores #MON"
-	next "HP by 20.@"
+CasteliaConeDesc:
+	db   "Cures all status"
+	next "problems.@"
 
 ShinyStoneDesc:
 	db   "Evolves certain"
@@ -768,9 +771,9 @@ MachinePartDesc:
 TeruSama12Desc:
 	db   "?@"
 
-LostItemDesc:
-	db   "The # DOLL lost"
-	next "by the COPYCAT.@"
+DragonSkullDesc:
+	db   "A skull of a brave"
+	next "#MON.@"
 
 StardustDesc:
 	db   "Pretty, red sand."
@@ -808,11 +811,13 @@ ScopeLensDesc:
 	db   "Raises critical"
 	next "hit ratio. (HOLD)@"
 
-TeruSama16Desc:
-	db   "?@"
+YellowShardDesc:
+	db   "A small yellow"
+	next "shard. Sell low.@"
 
-TeruSama17Desc:
-	db   "?@"
+GreenShardDesc:
+	db   "A small green"
+	next "shard. Sell low.@"
 
 MetalCoatDesc:
 	db   "Powers up steel-"
@@ -848,10 +853,6 @@ LeppaBerryDesc:
 DragonScaleDesc:
 	db   "A rare dragon-type"
 	next "item.@"
-
-BerserkGeneDesc:
-	db   "Boosts ATTACK but"
-	next "causes confusion.@"
 
 TeruSama22Desc:
 	db   "?@"

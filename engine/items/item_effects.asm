@@ -103,7 +103,7 @@ ItemEffects:
 	dw NoEffect            ; BIG_MUSHROOM
 	dw NoEffect            ; SILVERPOWDER
 	dw NoEffect            ; RELIC_SILVER
-	dw NoEffect            ; ITEM_5A
+	dw NoEffect            ; RED_SHARD
 	dw NoEffect            ; AMULET_COIN
 	dw NoEffect            ; RELIC_GOLD
 	dw NoEffect            ; RELIC_VASE
@@ -113,7 +113,7 @@ ItemEffects:
 	dw NoEffect            ; RELIC_BAND
 	dw NoEffect            ; BLACK_BELT_I
 	dw NoEffect            ; RELIC_STATUE
-	dw NoEffect            ; ITEM_64
+	dw NoEffect            ; BLUE_SHARD
 	dw NoEffect            ; RELIC_CROWN
 	dw NoEffect            ; BLACKGLASSES
 	dw NoEffect            ; SLOWPOKETAIL
@@ -127,7 +127,7 @@ ItemEffects:
 	dw NoEffect            ; BIG_PEARL
 	dw NoEffect            ; EVERSTONE
 	dw NoEffect            ; SPELL_TAG
-	dw RestoreHPEffect     ; RAGECANDYBAR
+	dw StatusHealingEffect ; RAGECANDYBAR
 	dw EvoStoneEffect      ; SHINY_STONE
 	dw EvoStoneEffect      ; DUSK_STONE
 	dw NoEffect            ; MIRACLE_SEED
@@ -143,7 +143,7 @@ ItemEffects:
 	dw CardKeyEffect       ; CARD_KEY
 	dw NoEffect            ; MACHINE_PART
 	dw NoEffect            ; ITEM_81
-	dw NoEffect            ; LOST_ITEM
+	dw NoEffect            ; DRAGON_SKULL
 	dw NoEffect            ; STARDUST
 	dw NoEffect            ; STAR_PIECE
 	dw BasementKeyEffect   ; BASEMENT_KEY
@@ -154,8 +154,8 @@ ItemEffects:
 	dw NoEffect            ; CHARCOAL
 	dw RestoreHPEffect     ; BERRY_JUICE
 	dw NoEffect            ; SCOPE_LENS
-	dw NoEffect            ; ITEM_8D
-	dw NoEffect            ; ITEM_8E
+	dw NoEffect            ; YELLOW_SHARD
+	dw NoEffect            ; GREEN_SHARD
 	dw NoEffect            ; METAL_COAT
 	dw NoEffect            ; DRAGON_FANG
 	dw NoEffect            ; ITEM_91
@@ -165,7 +165,7 @@ ItemEffects:
 	dw NoEffect            ; HEART_SCALE
 	dw RestorePPEffect     ; LEPPA_BERRY
 	dw NoEffect            ; DRAGON_SCALE
-	dw NoEffect            ; BERSERK_GENE
+	dw StatusHealingEffect ; CASTELIACONE
 	dw NoEffect            ; ITEM_99
 	dw NoEffect            ; ITEM_9A
 	dw NoEffect            ; ITEM_9B

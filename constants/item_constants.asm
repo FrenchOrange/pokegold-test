@@ -95,7 +95,7 @@
 	const BIG_MUSHROOM ; 57
 	const SILVERPOWDER ; 58
 	const RELIC_SILVER ; 59
-	const ITEM_5A      ; (TEMP) 5a
+	const RED_SHARD    ; 5a
 	const AMULET_COIN  ; 5b
 	const RELIC_GOLD   ; 5c
 	const RELIC_VASE   ; 5d
@@ -105,7 +105,7 @@
 	const RELIC_BAND   ; 61
 	const BLACK_BELT_I ; 62
 	const RELIC_STATUE ; 63
-	const ITEM_64      ; (TEMP) 64
+	const BLUE_SHARD   ; 64
 	const RELIC_CROWN  ; 65
 	const BLACKGLASSES ; 66
 	const SLOWPOKETAIL ; (TEMP) 67
@@ -135,7 +135,7 @@
 	const CARD_KEY     ; (TEMP) 7f
 	const MACHINE_PART ; (TEMP) 80
 	const ITEM_81      ; (TEMP) 81
-	const LOST_ITEM    ; (TEMP) 82
+	const DRAGON_SKULL ; 82
 	const STARDUST     ; 83
 	const STAR_PIECE   ; 84
 	const BASEMENT_KEY ; (TEMP) 85
@@ -146,8 +146,8 @@
 	const CHARCOAL     ; 8a
 	const BERRY_JUICE  ; 8b
 	const SCOPE_LENS   ; (TEMP) 8c
-	const ITEM_8D      ; (TEMP) 8d
-	const ITEM_8E      ; (TEMP) 8e
+	const YELLOW_SHARD ; 8d
+	const GREEN_SHARD  ; 8e
 	const METAL_COAT   ; (TEMP) 8f
 	const DRAGON_FANG  ; 90
 	const ITEM_91      ; (TEMP) 91
@@ -157,7 +157,7 @@
 	const HEART_SCALE  ; 95
 	const LEPPA_BERRY  ; 96
 	const DRAGON_SCALE ; (TEMP) 97
-	const BERSERK_GENE ; (TEMP) 98
+	const CASTELIACONE ; 98
 	const ITEM_99      ; (TEMP) 99
 	const ITEM_9A      ; (TEMP) 9a
 	const ITEM_9B      ; (TEMP) 9b

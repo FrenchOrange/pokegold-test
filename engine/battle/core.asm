@@ -156,7 +156,6 @@ BattleTurn:
 	ld [wCurDamage], a
 	ld [wCurDamage + 1], a
 
-	call HandleBerserkGene
 	call UpdateBattleMonInParty
 	farcall AIChooseMove
 	call CheckPlayerLockedIn
@@ -296,82 +295,6 @@ CheckFaint_EnemyThenPlayer:
 .BattleIsOver:
 	scf
 	ret
-
-HandleBerserkGene:
-	ldh a, [hSerialConnectionStatus]
-	cp USING_EXTERNAL_CLOCK
-	jr z, .reverse
-
-	call .player
-	jr .enemy
-
-.reverse
-	call .enemy
-	; fallthrough
-
-.player
-	call SetPlayerTurn
-	ld de, wPartyMon1Item
-	ld a, [wCurBattleMon]
-	ld b, a
-	jr .go
-
-.enemy
-	call SetEnemyTurn
-	ld de, wOTPartyMon1Item
-	ld a, [wCurOTMon]
-	ld b, a
-	; fallthrough
-
-.go
-	push de
-	push bc
-	callfar GetUserItem
-	ld a, [hl]
-	ld [wNamedObjectIndex], a
-	sub BERSERK_GENE
-	pop bc
-	pop de
-	ret nz
-
-	ld [hl], a
-
-	ld h, d
-	ld l, e
-	ld a, b
-	call GetPartyLocation
-	xor a
-	ld [hl], a
-	ld a, BATTLE_VARS_SUBSTATUS3
-	call GetBattleVarAddr
-	push af
-	set SUBSTATUS_CONFUSED, [hl]
-	ld a, BATTLE_VARS_MOVE_ANIM
-	call GetBattleVarAddr
-	push hl
-	push af
-	xor a
-	ld [hl], a
-	ld [wAttackMissed], a
-	ld [wEffectFailed], a
-	farcall BattleCommand_AttackUp2
-	pop af
-	pop hl
-	ld [hl], a
-	call GetItemName
-	ld hl, BattleText_UsersStringBuffer1Activated
-	call StdBattleTextbox
-	callfar BattleCommand_StatUpMessage
-	pop af
-	bit SUBSTATUS_CONFUSED, a
-	ret nz
-	xor a
-	ld [wBattleAfterAnim], a
-	ld de, ANIM_CONFUSED
-	call Call_PlayBattleAnim_OnlyIfVisible
-	call SwitchTurnCore
-	ld hl, BecameConfusedText
-	jp StdBattleTextbox
 
 EnemyTriesToFlee:
 	ld a, [wLinkMode]
