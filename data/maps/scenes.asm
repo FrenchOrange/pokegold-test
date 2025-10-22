@@ -28,7 +28,7 @@ MapScenes::
 	scene_var HALL_OF_FAME,                                wHallOfFameSceneID ; unused
 	scene_var ROUTE_27,                                    wRoute27SceneID ; unused
 	scene_var NUVEMA_TOWN,                                 wNuvemaTownSceneID ; unused
-	scene_var ELMS_LAB,                                    wElmsLabSceneID ; unused
+	scene_var JUNIPERS_LAB,                                wJunipersLabSceneID ; unused
 	scene_var ROUTE_29,                                    wRoute29SceneID ; unused
 	scene_var ACCUMULA_TOWN,                               wAccumulaTownSceneID ; unused
 	scene_var ROUTE_35,                                    wRoute35SceneID ; unused

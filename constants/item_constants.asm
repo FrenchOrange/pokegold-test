@@ -90,23 +90,23 @@
 	const KINGS_ROCK   ; (TEMP) 52
 	const PERSIM_BERRY ; 53
 	const CHESTO_BERRY ; 54
-	const RED_APRICORN ; (TEMP) 55
+	const RELIC_COPPER ; 55
 	const TINYMUSHROOM ; 56
 	const BIG_MUSHROOM ; 57
 	const SILVERPOWDER ; 58
-	const BLU_APRICORN ; (TEMP) 59
+	const RELIC_SILVER ; 59
 	const ITEM_5A      ; (TEMP) 5a
 	const AMULET_COIN  ; 5b
-	const YLW_APRICORN ; (TEMP) 5c
-	const GRN_APRICORN ; (TEMP) 5d
+	const RELIC_GOLD   ; 5c
+	const RELIC_VASE   ; 5d
 	const CLEANSE_TAG  ; 5e
 	const MYSTIC_WATER ; 5f
 	const TWISTEDSPOON ; 60
-	const WHT_APRICORN ; (TEMP) 61
+	const RELIC_BAND   ; 61
 	const BLACK_BELT_I ; 62
-	const BLK_APRICORN ; (TEMP) 63
+	const RELIC_STATUE ; 63
 	const ITEM_64      ; (TEMP) 64
-	const PNK_APRICORN ; (TEMP) 65
+	const RELIC_CROWN  ; 65
 	const BLACKGLASSES ; 66
 	const SLOWPOKETAIL ; (TEMP) 67
 	const SILK_SCARF   ; 68

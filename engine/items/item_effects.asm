@@ -98,23 +98,23 @@ ItemEffects:
 	dw NoEffect            ; KINGS_ROCK
 	dw BitterBerryEffect   ; PERSIM_BERRY
 	dw StatusHealingEffect ; CHESTO_BERRY
-	dw NoEffect            ; RED_APRICORN
+	dw NoEffect            ; RELIC_COPPER
 	dw NoEffect            ; TINYMUSHROOM
 	dw NoEffect            ; BIG_MUSHROOM
 	dw NoEffect            ; SILVERPOWDER
-	dw NoEffect            ; BLU_APRICORN
+	dw NoEffect            ; RELIC_SILVER
 	dw NoEffect            ; ITEM_5A
 	dw NoEffect            ; AMULET_COIN
-	dw NoEffect            ; YLW_APRICORN
-	dw NoEffect            ; GRN_APRICORN
+	dw NoEffect            ; RELIC_GOLD
+	dw NoEffect            ; RELIC_VASE
 	dw NoEffect            ; CLEANSE_TAG
 	dw NoEffect            ; MYSTIC_WATER
 	dw NoEffect            ; TWISTEDSPOON
-	dw NoEffect            ; WHT_APRICORN
+	dw NoEffect            ; RELIC_BAND
 	dw NoEffect            ; BLACK_BELT_I
-	dw NoEffect            ; BLK_APRICORN
+	dw NoEffect            ; RELIC_STATUE
 	dw NoEffect            ; ITEM_64
-	dw NoEffect            ; PNK_APRICORN
+	dw NoEffect            ; RELIC_CROWN
 	dw NoEffect            ; BLACKGLASSES
 	dw NoEffect            ; SLOWPOKETAIL
 	dw NoEffect            ; SILK_SCARF

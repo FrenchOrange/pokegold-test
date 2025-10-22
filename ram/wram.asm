@@ -2483,7 +2483,7 @@ wLancesRoomSceneID::                              db
 wHallOfFameSceneID::                              db
 wRoute27SceneID::                                 db
 wNuvemaTownSceneID::                              db
-wElmsLabSceneID::                                 db
+wJunipersLabSceneID::                             db
 wRoute29SceneID::                                 db
 wAccumulaTownSceneID::                            db
 wRoute35SceneID::                                 db

@@ -85,23 +85,23 @@ ItemDescriptions:
 	dw KingsRockDesc
 	dw PersimBerryDesc
 	dw ChestoBerryDesc
-	dw RedApricornDesc
+	dw RelicCopperDesc
 	dw TinyMushroomDesc
 	dw BigMushroomDesc
 	dw SilverPowderDesc
-	dw BluApricornDesc
+	dw RelicSilverDesc
 	dw TeruSama7Desc
 	dw AmuletCoinDesc
-	dw YlwApricornDesc
-	dw GrnApricornDesc
+	dw RelicGoldDesc
+	dw RelicVaseDesc
 	dw CleanseTagDesc
 	dw MysticWaterDesc
 	dw TwistedSpoonDesc
-	dw WhtApricornDesc
+	dw RelicBandDesc
 	dw BlackBeltDesc
-	dw BlkApricornDesc
+	dw RelicStatueDesc
 	dw TeruSama8Desc
-	dw PnkApricornDesc
+	dw RelicCrownDesc
 	dw BlackGlassesDesc
 	dw SlowpokeTailDesc
 	dw SilkScarfDesc
@@ -590,8 +590,9 @@ ChestoBerryDesc:
 	db   "A self-awakening"
 	next "for sleep. (HOLD)@"
 
-RedApricornDesc:
-	db   "A red APRICORN.@"
+RelicCopperDesc:
+	db   "An ancient copper"
+	next "coin. Sell high.@"
 
 TinyMushroomDesc:
 	db   "An ordinary mush-"
@@ -605,8 +606,9 @@ SilverPowderDesc:
 	db   "Powers up bug-type"
 	next "moves. (HOLD)@"
 
-BluApricornDesc:
-	db   "A blue APRICORN.@"
+RelicSilverDesc:
+	db   "An ancient silver"
+	next "coin. Sell high.@"
 
 TeruSama7Desc:
 	db   "?@"
@@ -615,11 +617,13 @@ AmuletCoinDesc:
 	db   "Doubles monetary"
 	next "earnings. (HOLD)@"
 
-YlwApricornDesc:
-	db   "A yellow APRICORN.@"
+RelicGoldDesc:
+	db   "An ancient gold"
+	next "coin. Sell high.@"
 
-GrnApricornDesc:
-	db   "A green APRICORN.@"
+RelicVaseDesc:
+	db   "An ancient vase."
+	next "Sell high.@"
 
 CleanseTagDesc:
 	db   "Helps repel wild"
@@ -633,23 +637,24 @@ TwistedSpoonDesc:
 	db   "Powers up psychic-"
 	next "type moves. (HOLD)@"
 
-WhtApricornDesc:
-	db   "A white APRICORN.@"
+RelicBandDesc:
+	db   "An ancient brace-"
+	next "let. Sell high.@"
 
 BlackBeltDesc:
 	db   "Boosts fighting-"
 	next "type moves. (HOLD)@"
 
-BlkApricornDesc:
-	db   "A black APRICORN."
-	next "@"
+RelicStatueDesc:
+	db   "An ancient statue."
+	next "Sell high.@"
 
 TeruSama8Desc:
 	db   "?@"
 
-PnkApricornDesc:
-	db   "A pink APRICORN."
-	next "@"
+RelicCrownDesc:
+	db   "An ancient crown."
+	next "Sell high.@"
 
 BlackGlassesDesc:
 	db   "Powers up dark-"
