@@ -5,6 +5,9 @@ PlayersHouse1F_MapScripts:
 
 	def_callbacks
 
+PlayersHouse1FBookshelf:
+	jumpstd PictureBookshelfScript
+
 PlayersHouse1F_MapEvents:
 	db 0, 0 ; filler
 
@@ -16,5 +19,6 @@ PlayersHouse1F_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event  3,  1, BGEVENT_READ, PlayersHouse1FBookshelf
 
 	def_object_events

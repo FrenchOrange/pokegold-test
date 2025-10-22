@@ -2464,6 +2464,8 @@ wPokecenter2FSceneID::                            db
 wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
 wTimeCapsuleSceneID::                             db
+wPlayersHouse2FSceneID::                          db
+wPlayersHouse1FSceneID::                          db
 wRoute24SceneID::                                 db
 wRoute25SceneID::                                 db
 wRoute26SceneID::                                 db
@@ -2482,7 +2484,6 @@ wHallOfFameSceneID::                              db
 wRoute27SceneID::                                 db
 wNuvemaTownSceneID::                              db
 wElmsLabSceneID::                                 db
-wPlayersHouse1FSceneID::                          db
 wRoute29SceneID::                                 db
 wAccumulaTownSceneID::                            db
 wRoute35SceneID::                                 db
@@ -2515,7 +2516,6 @@ wRoute40SceneID::                                 db
 wVictoryRoadSceneID::                             db
 wGoldenrodCitySceneID::                           db
 wOlivinePortSceneID::                             db
-wRoute41SceneID::                                 db
 wFastShip1FSceneID::                              db
 wFastShipB1FSceneID::                             db
 wDreamyardOutsideSceneID::                        db

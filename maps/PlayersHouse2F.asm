@@ -21,15 +21,6 @@ PlayersHouse2FInitializeRoomCallback:
 PlayersHousePCScript:
 	jumptext PlayersHouse2FPCText
 
-;	opentext
-;	special PlayersHousePC
-;	iftrue .Warp
-;	closetext
-;	end
-;.Warp:
-;	warp NONE, 0, 0
-;	end
-
 PlayersHouse2FTV:
 	jumptext PlayersHouse2FTVText
 

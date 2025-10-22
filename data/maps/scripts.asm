@@ -325,11 +325,11 @@ INCLUDE "maps/TrainerHouseB1F.asm"
 
 SECTION "Map Scripts 30", ROMX
 
-INCLUDE "maps/ElmsLab.asm"
+INCLUDE "maps/JunipersLab.asm"
 INCLUDE "maps/PlayersHouse1F.asm"
 INCLUDE "maps/PlayersHouse2F.asm"
-INCLUDE "maps/PlayersNeighborsHouse.asm"
-INCLUDE "maps/ElmsHouse.asm"
+INCLUDE "maps/BiancasHouse.asm"
+INCLUDE "maps/CherensHouse.asm"
 
 
 SECTION "Map Scripts 31", ROMX

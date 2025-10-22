@@ -9,6 +9,8 @@ MapScenes::
 	scene_var TRADE_CENTER,                                wTradeCenterSceneID
 	scene_var COLOSSEUM,                                   wColosseumSceneID
 	scene_var TIME_CAPSULE,                                wTimeCapsuleSceneID
+	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
+	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
 	scene_var ROUTE_24,                                    wRoute24SceneID ; unused
 	scene_var ROUTE_25,                                    wRoute25SceneID ; unused
 	scene_var ROUTE_26,                                    wRoute26SceneID ; unused
@@ -27,7 +29,6 @@ MapScenes::
 	scene_var ROUTE_27,                                    wRoute27SceneID ; unused
 	scene_var NUVEMA_TOWN,                                 wNuvemaTownSceneID ; unused
 	scene_var ELMS_LAB,                                    wElmsLabSceneID ; unused
-	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID ; unused
 	scene_var ROUTE_29,                                    wRoute29SceneID ; unused
 	scene_var ACCUMULA_TOWN,                               wAccumulaTownSceneID ; unused
 	scene_var ROUTE_35,                                    wRoute35SceneID ; unused
@@ -60,7 +61,6 @@ MapScenes::
 	scene_var VICTORY_ROAD,                                wVictoryRoadSceneID ; unused
 	scene_var GOLDENROD_CITY,                              wGoldenrodCitySceneID ; unused
 	scene_var OLIVINE_PORT,                                wOlivinePortSceneID ; unused
-	scene_var ROUTE_41,                                    wRoute41SceneID ; unused
 	scene_var FAST_SHIP_1F,                                wFastShip1FSceneID ; unused
 	scene_var FAST_SHIP_B1F,                               wFastShipB1FSceneID ; unused
 	scene_var DREAMYARD_OUTSIDE,                           wDreamyardOutsideSceneID ; unused

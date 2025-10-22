@@ -100,8 +100,8 @@ CianwoodPharmacy_Blocks:
 CianwoodPhotoStudio_Blocks:
 CianwoodLugiaSpeechHouse_Blocks:
 PokeSeersHouse_Blocks:
-PlayersNeighborsHouse_Blocks:
-ElmsHouse_Blocks:
+BiancasHouse_Blocks:
+CherensHouse_Blocks:
 CherrygroveGymSpeechHouse_Blocks:
 GuideGentsHouse_Blocks:
 CherrygroveEvolutionSpeechHouse_Blocks:
@@ -148,8 +148,8 @@ Route3Gate_Blocks:
 Route17Gate_Blocks:
 	INCBIN "maps/EastWestGate.blk"
 
-ElmsLab_Blocks:
-	INCBIN "maps/ElmsLab.blk"
+JunipersLab_Blocks:
+	INCBIN "maps/JunipersLab.blk"
 
 Route1_Blocks:
 	INCBIN "maps/Route1.blk"

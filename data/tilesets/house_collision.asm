@@ -26,3 +26,4 @@
 	tilecoll WALL, WALL, FLOOR, WALL ; 19
 	tilecoll WALL, WALL, WALL, WALL ; 1a
 	tilecoll WALL, WALL, FLOOR, TV ; 1b
+	tilecoll FLOOR, FLOOR, FLOOR, TRASHCAN ; 1c

@@ -12,9 +12,8 @@ StdScripts::
 	add_stdscript IncenseBurnerScript
 	add_stdscript MerchandiseShelfScript
 	add_stdscript TownMapScript
-	add_stdscript WindowScript
 	add_stdscript TVScript
-	add_stdscript HomepageScript ; unused
+	add_stdscript CrammedBookshelfScript
 	add_stdscript Radio1Script
 	add_stdscript Radio2Script
 	add_stdscript TrashCanScript
@@ -150,9 +149,6 @@ TownMapScript:
 	closetext
 	end
 
-WindowScript:
-	jumptext WindowText
-
 TVScript:
 	opentext
 	writetext TVText
@@ -160,8 +156,8 @@ TVScript:
 	closetext
 	end
 
-HomepageScript:
-	jumptext HomepageText
+CrammedBookshelfScript:
+	jumptext CrammedBookshelfText
 
 Radio1Script:
 	opentext

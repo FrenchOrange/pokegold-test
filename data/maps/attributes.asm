@@ -243,6 +243,10 @@ ENDM
 
 	map_attributes Route23, ROUTE_23, $0f, 0
 
+	map_attributes PlayersHouse1F, PLAYERS_HOUSE_1F, $00, 0
+	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
+	map_attributes BiancasHouse, BIANCAS_HOUSE, $00, 0
+	map_attributes CherensHouse, CHERENS_HOUSE, $00, 0
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
@@ -392,11 +396,7 @@ ENDM
 	map_attributes CianwoodLugiaSpeechHouse, CIANWOOD_LUGIA_SPEECH_HOUSE, $00, 0
 	map_attributes TrainerHouse1F, TRAINER_HOUSE_1F, $00, 0
 	map_attributes TrainerHouseB1F, TRAINER_HOUSE_B1F, $00, 0
-	map_attributes ElmsLab, ELMS_LAB, $00, 0
-	map_attributes PlayersHouse1F, PLAYERS_HOUSE_1F, $00, 0
-	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
-	map_attributes PlayersNeighborsHouse, PLAYERS_NEIGHBORS_HOUSE, $00, 0
-	map_attributes ElmsHouse, ELMS_HOUSE, $00, 0
+	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0
 	map_attributes CherrygrovePokecenter1F, CHERRYGROVE_POKECENTER_1F, $00, 0
 	map_attributes CherrygroveGymSpeechHouse, CHERRYGROVE_GYM_SPEECH_HOUSE, $00, 0

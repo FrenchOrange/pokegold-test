@@ -13,6 +13,6 @@ TileCollisionStdScripts:
 	stdcoll COLL_TOWN_MAP,       TownMapScript
 	stdcoll COLL_MART_SHELF,     MerchandiseShelfScript
 	stdcoll COLL_TV,             TVScript
-	stdcoll COLL_WINDOW,         WindowScript
+	stdcoll COLL_TRASHCAN,       TrashCanScript
 	stdcoll COLL_INCENSE_BURNER, IncenseBurnerScript
 	db -1 ; end

@@ -1,16 +1,16 @@
 	object_const_def
 
-PlayersNeighborsHouse_MapScripts:
+JunipersLab_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-PlayersNeighborsHouse_MapEvents:
+JunipersLab_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  2,  7, NUVEMA_TOWN, 3
-	warp_event  3,  7, NUVEMA_TOWN, 3
+	warp_event  4, 11, NUVEMA_TOWN, 1
+	warp_event  5, 11, NUVEMA_TOWN, 1
 
 	def_coord_events
 
