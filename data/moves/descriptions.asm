@@ -250,7 +250,7 @@ MoveDescriptions::
 	dw ShadowBallDescription
 	dw FutureSightDescription
 	dw RockSmashDescription
-	dw WhirlpoolDescription
+	dw DiveDescription
 	dw BeatUpDescription
 	assert_table_length NUM_ATTACKS
 	dw MoveFCDescription
@@ -1263,9 +1263,9 @@ RockSmashDescription:
 	db   "An attack that may"
 	next "lower DEFENSE.@"
 
-WhirlpoolDescription:
-	db   "Traps the foe for"
-	next "2-5 turns.@"
+DiveDescription:
+	db   "1st turn: Dive"
+	next "2nd turn: Attack@"
 
 BeatUpDescription:
 	db   "Party #MON join"

@@ -164,13 +164,13 @@ CheckMapForSomethingToCut:
 	jr nc, .fail
 	; Save the Cut field move data
 	ld a, l
-	ld [wCutWhirlpoolOverworldBlockAddr], a
+	ld [wCutDiveOverworldBlockAddr], a
 	ld a, h
-	ld [wCutWhirlpoolOverworldBlockAddr + 1], a
+	ld [wCutDiveOverworldBlockAddr + 1], a
 	ld a, b
-	ld [wCutWhirlpoolReplacementBlock], a
+	ld [wCutDiveReplacementBlock], a
 	ld a, c
-	ld [wCutWhirlpoolAnimationType], a
+	ld [wCutDiveAnimationType], a
 	xor a
 	ret
 
@@ -191,18 +191,18 @@ Script_Cut:
 	end
 
 CutDownTreeOrGrass:
-	ld hl, wCutWhirlpoolOverworldBlockAddr
+	ld hl, wCutDiveOverworldBlockAddr
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
-	ld a, [wCutWhirlpoolReplacementBlock]
+	ld a, [wCutDiveReplacementBlock]
 	ld [hl], a
 	xor a
 	ldh [hBGMapMode], a
 	call LoadOverworldTilemapAndAttrmapPals
 	call UpdateSprites
 	call DelayFrame
-	ld a, [wCutWhirlpoolAnimationType]
+	ld a, [wCutDiveAnimationType]
 	ld e, a
 	farcall OWCutAnimation
 	call BufferScreen
@@ -982,7 +982,7 @@ TryStrengthOW:
 	ld [wScriptVar], a
 	ret
 
-WhirlpoolFunction:
+DiveFunction:
 	call FieldMoveJumptableReset
 .loop
 	ld hl, .Jumptable
@@ -993,12 +993,12 @@ WhirlpoolFunction:
 	ret
 
 .Jumptable:
-	dw .TryWhirlpool
-	dw .DoWhirlpool
-	dw .FailWhirlpool
+	dw .TryDive
+	dw .DoDive
+	dw .FailDive
 
-.TryWhirlpool:
-	call TryWhirlpoolMenu
+.TryDive:
+	call TryDiveMenu
 	jr c, .failed
 	ld a, $1
 	ret
@@ -1007,44 +1007,44 @@ WhirlpoolFunction:
 	ld a, $2
 	ret
 
-.DoWhirlpool:
-	ld hl, Script_WhirlpoolFromMenu
+.DoDive:
+	ld hl, Script_DiveFromMenu
 	call QueueScript
 	ld a, JUMPTABLE_EXIT | $1
 	ret
 
-.FailWhirlpool:
+.FailDive:
 	call FieldMoveFailed
 	ld a, JUMPTABLE_EXIT
 	ret
 
-UseWhirlpoolText:
-	text_far _UseWhirlpoolText
+UseDiveText:
+	text_far _UseDiveText
 	text_end
 
-TryWhirlpoolMenu:
+TryDiveMenu:
 	call GetFacingTileCoord
 	ld c, a
 	push de
-	call CheckWhirlpoolTile
+	call CheckDiveTile
 	pop de
 	jr c, .failed
 	call GetBlockLocation
 	ld c, [hl]
 	push hl
-	ld hl, WhirlpoolBlockPointers
+	ld hl, DiveBlockPointers
 	call CheckOverworldTileArrays
 	pop hl
 	jr nc, .failed
-	; Save the Whirlpool field move data
+	; Save the Dive field move data
 	ld a, l
-	ld [wCutWhirlpoolOverworldBlockAddr], a
+	ld [wCutDiveOverworldBlockAddr], a
 	ld a, h
-	ld [wCutWhirlpoolOverworldBlockAddr + 1], a
+	ld [wCutDiveOverworldBlockAddr + 1], a
 	ld a, b
-	ld [wCutWhirlpoolReplacementBlock], a
+	ld [wCutDiveReplacementBlock], a
 	ld a, c
-	ld [wCutWhirlpoolAnimationType], a
+	ld [wCutDiveAnimationType], a
 	xor a
 	ret
 
@@ -1052,71 +1052,71 @@ TryWhirlpoolMenu:
 	scf
 	ret
 
-Script_WhirlpoolFromMenu:
+Script_DiveFromMenu:
 	refreshmap
 	special UpdateTimePals
 
-Script_UsedWhirlpool:
+Script_UsedDive:
 	callasm GetPartyNickname
-	writetext UseWhirlpoolText
+	writetext UseDiveText
 	refreshmap
-	callasm DisappearWhirlpool
+	callasm DisappearDive
 	closetext
 	end
 
-DisappearWhirlpool:
-	ld hl, wCutWhirlpoolOverworldBlockAddr
+DisappearDive:
+	ld hl, wCutDiveOverworldBlockAddr
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
-	ld a, [wCutWhirlpoolReplacementBlock]
+	ld a, [wCutDiveReplacementBlock]
 	ld [hl], a
 	xor a
 	ldh [hBGMapMode], a
 	call LoadOverworldTilemapAndAttrmapPals
-	ld a, [wCutWhirlpoolAnimationType]
+	ld a, [wCutDiveAnimationType]
 	ld e, a
-	farcall PlayWhirlpoolSound
+	farcall PlayDiveSound
 	call BufferScreen
 	call GetMovementPermissions
 	ret
 
-TryWhirlpoolOW::
-	ld d, WHIRLPOOL
+TryDiveOW::
+	ld d, DIVE
 	call CheckPartyMove
 	jr c, .failed
-	call TryWhirlpoolMenu
+	call TryDiveMenu
 	jr c, .failed
-	ld a, BANK(Script_AskWhirlpoolOW)
-	ld hl, Script_AskWhirlpoolOW
+	ld a, BANK(Script_AskDiveOW)
+	ld hl, Script_AskDiveOW
 	call CallScript
 	scf
 	ret
 
 .failed
-	ld a, BANK(Script_MightyWhirlpool)
-	ld hl, Script_MightyWhirlpool
+	ld a, BANK(Script_MightyDive)
+	ld hl, Script_MightyDive
 	call CallScript
 	scf
 	ret
 
-Script_MightyWhirlpool:
-	jumptext .MayPassWhirlpoolText
+Script_MightyDive:
+	jumptext .MayPassDiveText
 
-.MayPassWhirlpoolText:
-	text_far _MayPassWhirlpoolText
+.MayPassDiveText:
+	text_far _MayPassDiveText
 	text_end
 
-Script_AskWhirlpoolOW:
+Script_AskDiveOW:
 	opentext
-	writetext AskWhirlpoolText
+	writetext AskDiveText
 	yesorno
-	iftrue Script_UsedWhirlpool
+	iftrue Script_UsedDive
 	closetext
 	end
 
-AskWhirlpoolText:
-	text_far _AskWhirlpoolText
+AskDiveText:
+	text_far _AskDiveText
 	text_end
 
 HeadbuttFunction:

@@ -2,7 +2,7 @@ DEF FIELDMOVE_GRASS EQU $80
 DEF FIELDMOVE_TREE EQU $84
 DEF FIELDMOVE_FLY EQU $84
 
-PlayWhirlpoolSound:
+PlayDiveSound:
 	call WaitSFX
 	ld de, SFX_SURF
 	call PlaySFX

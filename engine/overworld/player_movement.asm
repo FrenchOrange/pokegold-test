@@ -116,13 +116,13 @@ DoPlayerMovement::
 
 	ld a, [wPlayerTileCollision]
 	ld c, a
-	call CheckWhirlpoolTile
-	jr c, .not_whirlpool
+	call CheckDiveTile
+	jr c, .not_dive
 	ld a, PLAYERMOVEMENT_FORCE_TURN
 	scf
 	ret
 
-.not_whirlpool
+.not_dive
 	and $f0
 	cp HI_NYBBLE_CURRENT
 	jr z, .water

@@ -132,7 +132,7 @@ PokemonActionSubmenu:
 	dbw MONMENUITEM_SURF,       MonMenu_Surf
 	dbw MONMENUITEM_STRENGTH,   MonMenu_Strength
 	dbw MONMENUITEM_FLASH,      MonMenu_Flash
-	dbw MONMENUITEM_WHIRLPOOL,  MonMenu_Whirlpool
+	dbw MONMENUITEM_DIVE,       MonMenu_Dive
 	dbw MONMENUITEM_DIG,        MonMenu_Dig
 	dbw MONMENUITEM_TELEPORT,   MonMenu_Teleport
 	dbw MONMENUITEM_SOFTBOILED, MonMenu_Softboiled_MilkDrink
@@ -655,8 +655,8 @@ MonMenu_Strength:
 	ld a, $3
 	ret
 
-MonMenu_Whirlpool:
-	farcall WhirlpoolFunction
+MonMenu_Dive:
+	farcall DiveFunction
 	ld a, [wFieldMoveSucceeded]
 	cp $1
 	jr nz, .Fail

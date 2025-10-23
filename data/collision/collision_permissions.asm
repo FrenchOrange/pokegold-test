@@ -37,7 +37,7 @@ CollisionPermissionTable::
 	db WATER_TILE        ; COLL_WATER_21
 	db WATER_TILE | TALK ; 22
 	db LAND_TILE         ; COLL_ICE
-	db WATER_TILE | TALK ; COLL_WHIRLPOOL
+	db WATER_TILE | TALK ; COLL_DIVE
 	db WATER_TILE        ; 25
 	db WATER_TILE        ; 26
 	db WALL_TILE         ; COLL_BUOY
@@ -45,7 +45,7 @@ CollisionPermissionTable::
 	db WATER_TILE        ; COLL_WATER
 	db WATER_TILE | TALK ; 2a
 	db LAND_TILE         ; COLL_ICE_2B
-	db WATER_TILE | TALK ; COLL_WHIRLPOOL_2C
+	db WALL_TILE         ; 2C
 	db WATER_TILE        ; 2d
 	db WATER_TILE        ; 2e
 	db WALL_TILE         ; 2f

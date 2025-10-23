@@ -92,26 +92,26 @@ _BouldersMayMoveText::
 	line "able to move this."
 	done
 
-_UseWhirlpoolText::
+_UseDiveText::
 	text_ram wStringBuffer2
 	text " used"
-	line "WHIRLPOOL!"
+	line "DIVE!"
 	prompt
 
-_MayPassWhirlpoolText::
-	text "It's a vicious"
-	line "whirlpool!"
+_MayPassDiveText::
+	text "It's a deep part"
+	line "of the sea."
 
 	para "A #MON may be"
-	line "able to pass it."
+	line "able to dive down."
 	done
 
-_AskWhirlpoolText::
-	text "A whirlpool is in"
-	line "the way."
+_AskDiveText::
+	text "It's a deep part"
+	line "of the sea."
 
 	para "Want to use"
-	line "WHIRLPOOL?"
+	line "DIVE?"
 	done
 
 _UseHeadbuttText::

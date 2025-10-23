@@ -173,11 +173,9 @@ CheckIceTile::
 	scf
 	ret
 
-CheckWhirlpoolTile::
+CheckDiveTile::
 	nop
-	cp COLL_WHIRLPOOL
-	ret z
-	cp COLL_WHIRLPOOL_2C
+	cp COLL_DIVE
 	ret z
 	scf
 	ret

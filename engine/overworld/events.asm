@@ -1090,15 +1090,15 @@ TryTileCollisionEvent::
 	; CheckCutTreeTile expects a == [wFacingTileID], which
 	; it still is after the previous farcall.
 	call CheckCutTreeTile
-	jr nz, .whirlpool
+	jr nz, .dive
 	farcall TryCutOW
 	jr .done
 
-.whirlpool
+.dive
 	ld a, [wFacingTileID]
-	call CheckWhirlpoolTile
+	call CheckDiveTile
 	jr nz, .waterfall
-	farcall TryWhirlpoolOW
+	farcall TryDiveOW
 	jr .done
 
 .waterfall

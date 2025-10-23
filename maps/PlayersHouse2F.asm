@@ -94,7 +94,7 @@ DebugSign:
 	giveitem HM_SURF
 	giveitem HM_STRENGTH
 	giveitem HM_WATERFALL
-	giveitem HM_WHIRLPOOL
+	giveitem HM_DIVE
 	giveitem TM_FLASH
 	giveitem TM_DIG
 	opentext
@@ -111,6 +111,7 @@ DebugSign:
 	loadmem wPartyMon2Moves+0, FLY
 	loadmem wPartyMon2Moves+1, STRENGTH
 	loadmem wPartyMon2Moves+2, CUT
+	loadmem wPartyMon3Moves+1, DIVE
 	loadmem wPartyMon3Moves+2, WATERFALL
 	loadmem wPartyMon4Moves+0, FLASH
 	closetext

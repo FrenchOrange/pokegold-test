@@ -24,12 +24,12 @@ DEF COLL_1E                EQU $1e ; garbage
 DEF COLL_1F                EQU $1f ; garbage
 DEF COLL_WATER_21          EQU $21 ; unused
 DEF COLL_ICE               EQU $23
-DEF COLL_WHIRLPOOL         EQU $24
+DEF COLL_DIVE              EQU $24
 DEF COLL_BUOY              EQU $27
 DEF COLL_CUT_28            EQU $28 ; garbage
 DEF COLL_WATER             EQU $29
 DEF COLL_ICE_2B            EQU $2b ; unused
-DEF COLL_WHIRLPOOL_2C      EQU $2c ; unused
+DEF COLL_2C                EQU $2c ; unused
 DEF COLL_WATERFALL_RIGHT   EQU $30 ; unused
 DEF COLL_WATERFALL_LEFT    EQU $31 ; unused
 DEF COLL_WATERFALL_UP      EQU $32 ; unused

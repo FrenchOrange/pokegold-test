@@ -2004,9 +2004,9 @@ wFieldMoveJumptableIndex:: db
 wEscapeRopeOrDigType::
 wSurfingPlayerState::
 wFishingRodUsed:: db
-wCutWhirlpoolOverworldBlockAddr:: dw
-wCutWhirlpoolReplacementBlock:: db
-wCutWhirlpoolAnimationType::
+wCutDiveOverworldBlockAddr:: dw
+wCutDiveReplacementBlock:: db
+wCutDiveAnimationType::
 wStrengthSpecies::
 wFishingResult:: db
 	ds 1

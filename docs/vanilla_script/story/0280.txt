@@ -1,3 +1,0 @@
-It's a deep part of the sea, but a<LINE>Pokémon may be able to dive down.
-It's a deep part of the sea.<LINE>Would you like to use Dive?
-<PLAYER> used Dive!

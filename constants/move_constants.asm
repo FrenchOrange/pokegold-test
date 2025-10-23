@@ -255,7 +255,7 @@
 	const SHADOW_BALL  ; f7
 	const FUTURE_SIGHT ; f8
 	const ROCK_SMASH   ; f9
-	const WHIRLPOOL    ; fa
+	const DIVE         ; fa
 	const BEAT_UP      ; fb
 DEF NUM_ATTACKS EQU const_value - 1
 

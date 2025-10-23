@@ -251,7 +251,7 @@ BattleAnimations::
 	dw BattleAnim_ShadowBall
 	dw BattleAnim_FutureSight
 	dw BattleAnim_RockSmash
-	dw BattleAnim_Whirlpool
+	dw BattleAnim_Dive
 	dw BattleAnim_BeatUp
 	assert_table_length NUM_ATTACKS + 1
 	dw BattleAnim_Dummy
@@ -4559,7 +4559,7 @@ BattleAnim_RockSmash:
 	anim_wait 32
 	anim_ret
 
-BattleAnim_Whirlpool:
+BattleAnim_Dive:
 	anim_1gfx BATTLE_ANIM_GFX_WIND
 	anim_bgeffect BATTLE_BG_EFFECT_WHIRLPOOL, $0, $0, $0
 	anim_sound 0, 1, SFX_SURF

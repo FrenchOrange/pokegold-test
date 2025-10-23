@@ -20,5 +20,5 @@ IsHMMove::
 	db SURF
 	db STRENGTH
 	db WATERFALL
-	db WHIRLPOOL
+	db DIVE
 	db -1 ; end

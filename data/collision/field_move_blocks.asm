@@ -32,8 +32,8 @@ CutTreeBlockPointers:
 	db -1 ; end
 
 
-; these blocks all use COLL_WHIRLPOOL in one quadrant
-WhirlpoolBlockPointers:
+; these blocks all use COLL_DIVE in one quadrant
+DiveBlockPointers:
 	dbw TILESET_OVERWORLD, .johto
 	db -1 ; end
 

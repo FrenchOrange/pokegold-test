@@ -249,6 +249,6 @@ MoveNames::
 	li "SHADOW BALL"
 	li "FUTURE SIGHT"
 	li "ROCK SMASH"
-	li "WHIRLPOOL"
+	li "DIVE"
 	li "BEAT UP"
 	assert_list_length NUM_ATTACKS
