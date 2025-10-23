@@ -93,9 +93,9 @@ DebugSign:
 	giveitem HM_FLY
 	giveitem HM_SURF
 	giveitem HM_STRENGTH
-	giveitem HM_FLASH
-	giveitem HM_WHIRLPOOL
 	giveitem HM_WATERFALL
+	giveitem HM_WHIRLPOOL
+	giveitem TM_FLASH
 	giveitem TM_DIG
 	opentext
 ; debug team
@@ -113,9 +113,8 @@ DebugSign:
 	loadmem wPartyMon2Moves+2, CUT
 	loadmem wPartyMon3Moves+2, WATERFALL
 	loadmem wPartyMon4Moves+0, FLASH
-	loadmem wPartyMon4Moves+1, HEADBUTT
 	closetext
-;	setevent EVENT_GOT_RUNNING_SHOES
+	setevent EVENT_GOT_RUNNING_SHOES
 ;	setmapscene PLAYERS_HOUSE_1F, SCENE_PLAYERSHOUSE1F_NOOP
 	playsound SFX_WARP_TO
 	special FadeOutToBlack

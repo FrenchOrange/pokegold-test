@@ -73,10 +73,10 @@
 	const ELIXIR       ; 41
 	const RED_SCALE    ; (TEMP) 42
 	const SECRETPOTION ; (TEMP) 43
-	const S_S_TICKET   ; (TEMP) 44
+	const LIBERTY_PASS ; 44
 	const MYSTERY_EGG  ; (TEMP) 45
 	const ITEM_46      ; (TEMP) 46
-	const SILVER_WING  ; (TEMP) 47
+	const LIGHT_STONE  ; 47
 	const MOOMOO_MILK  ; 48
 	const QUICK_CLAW   ; 49
 	const PECHA_BERRY  ; 4a
@@ -180,10 +180,10 @@
 	const UP_GRADE     ; (TEMP) ac
 	const ORAN_BERRY   ; ad
 	const SITRUS_BERRY ; ae
-	const SQUIRTBOTTLE ; (TEMP) af
+	const GRAM         ; af
 	const ITEM_B0      ; (TEMP) b0
 	const DIVE_BALL    ; b1
-	const RAINBOW_WING ; (TEMP) b2
+	const DARK_STONE   ; b2
 	const ITEM_B3      ; (TEMP) b3
 	const BRICK_PIECE  ; (TEMP) b4
 	const ITEM_B5      ; (TEMP) b5
@@ -269,6 +269,7 @@ DEF TM01 EQU const_value
 	add_tm FIRE_PUNCH   ; (TEMP) f0
 	add_tm FURY_CUTTER  ; (TEMP) f1
 	add_tm NIGHTMARE    ; (TEMP) f2
+	add_tm FLASH        ; (TEMP) f7
 DEF NUM_TMS EQU __tmhm_value__ - 1
 
 MACRO add_hm
@@ -283,13 +284,12 @@ MACRO add_hm
 ENDM
 
 DEF HM01 EQU const_value
-	add_hm CUT          ; (TEMP) f3
-	add_hm FLY          ; (TEMP) f4
-	add_hm SURF         ; (TEMP) f5
-	add_hm STRENGTH     ; (TEMP) f6
-	add_hm FLASH        ; (TEMP) f7
+	add_hm CUT          ; f3
+	add_hm FLY          ; f4
+	add_hm SURF         ; f5
+	add_hm STRENGTH     ; f6
+	add_hm WATERFALL    ; f7
 	add_hm WHIRLPOOL    ; (TEMP) f8
-	add_hm WATERFALL    ; (TEMP) f9
 DEF NUM_HMS EQU __tmhm_value__ - NUM_TMS - 1
 
 DEF NUM_TM_HM EQU NUM_TMS + NUM_HMS

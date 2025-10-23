@@ -94,7 +94,7 @@ OlivinePortWalkUpToShipScript:
 	iffalse OlivinePortNotRidingMoveAwayScript
 	writetext OlivinePortAskTicketText
 	promptbutton
-	checkitem S_S_TICKET
+	checkitem LIBERTY_PASS
 	iffalse .NoTicket
 	writetext OlivinePortFlashTicketText
 	waitbutton
@@ -159,7 +159,7 @@ OlivinePortSailorAfterHOFScript:
 	iffalse OlivinePortNotRidingScript
 	writetext OlivinePortAskTicketText
 	promptbutton
-	checkitem S_S_TICKET
+	checkitem LIBERTY_PASS
 	iffalse .NoTicket
 	writetext OlivinePortFlashTicketText
 	waitbutton

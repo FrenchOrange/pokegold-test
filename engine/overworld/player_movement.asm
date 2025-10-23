@@ -334,6 +334,12 @@ DoPlayerMovement::
 	ld a, [wWalkingDirection]
 	cp STANDING
 	jr z, .ensurewalk
+	ld de, EVENT_GOT_RUNNING_SHOES
+	ld b, CHECK_FLAG
+	call EventFlagAction
+	ld a, c
+	and a
+	jr z, .ensurewalk
 	ldh a, [hJoypadDown]
 	and B_BUTTON
 	cp B_BUTTON

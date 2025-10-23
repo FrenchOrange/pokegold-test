@@ -68,10 +68,10 @@ ItemDescriptions:
 	dw ElixirDesc
 	dw RedScaleDesc
 	dw SecretPotionDesc
-	dw SSTicketDesc
+	dw LibertyPassDesc
 	dw MysteryEggDesc
 	dw TeruSama6Desc
-	dw SilverWingDesc
+	dw LightStoneDesc
 	dw MoomooMilkDesc
 	dw QuickClawDesc
 	dw PechaBerryDesc
@@ -175,10 +175,10 @@ ItemDescriptions:
 	dw UpGradeDesc
 	dw OranBerryDesc
 	dw SitrusBerryDesc
-	dw SquirtBottleDesc
+	dw GramDesc
 	dw TeruSama27Desc
 	dw DiveBallDesc
-	dw RainbowWingDesc
+	dw DarkStoneDesc
 	dw TeruSama28Desc
 	dw BrickPieceDesc
 	dw TeruSama29Desc
@@ -523,9 +523,9 @@ SecretPotionDesc:
 	db   "Fully heals any"
 	next "#MON.@"
 
-SSTicketDesc:
-	db   "A ticket for the"
-	next "S.S.AQUA.@"
+LibertyPassDesc:
+	db   "Special pass to go"
+	next "to LIBERTY GARDEN.@"
 
 MysteryEggDesc:
 	db   "An EGG obtained"
@@ -534,9 +534,9 @@ MysteryEggDesc:
 TeruSama6Desc:
 	db   "?@"
 
-SilverWingDesc:
-	db   "A strange, silver-"
-	next "colored feather.@"
+LightStoneDesc:
+	db   "A stone containing"
+	next "RESHIRAM's essence.@"
 
 MoomooMilkDesc:
 	db   "Restores #MON"
@@ -937,9 +937,9 @@ SitrusBerryDesc:
 	db   "A self-restore"
 	next "item. (30HP, HOLD)@"
 
-SquirtBottleDesc:
-	db   "A bottle used for"
-	next "watering plants.@"
+GramDesc:
+	db   "Important letter"
+	next "that WINGULL lost.@"
 
 TeruSama27Desc:
 	db   "?@"
@@ -948,9 +948,9 @@ DiveBallDesc:
 	db   "The Bug-Catching"
 	next "Contest BALL.@"
 
-RainbowWingDesc:
-	db   "A mystical feather"
-	next "of rainbow colors.@"
+DarkStoneDesc:
+	db   "A stone containing"
+	next "ZEKROM's essence.@"
 
 TeruSama28Desc:
 	db   "?@"

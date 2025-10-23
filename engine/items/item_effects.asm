@@ -81,10 +81,10 @@ ItemEffects:
 	dw RestorePPEffect     ; ELIXIR
 	dw NoEffect            ; RED_SCALE
 	dw NoEffect            ; SECRETPOTION
-	dw NoEffect            ; S_S_TICKET
+	dw NoEffect            ; LIBERTY_PASS
 	dw NoEffect            ; MYSTERY_EGG
 	dw NoEffect            ; ITEM_46
-	dw NoEffect            ; SILVER_WING
+	dw NoEffect            ; LIGHT_STONE
 	dw RestoreHPEffect     ; MOOMOO_MILK
 	dw NoEffect            ; QUICK_CLAW
 	dw StatusHealingEffect ; PECHA_BERRY
@@ -188,10 +188,10 @@ ItemEffects:
 	dw NoEffect            ; UP_GRADE
 	dw RestoreHPEffect     ; ORAN_BERRY
 	dw RestoreHPEffect     ; SITRUS_BERRY
-	dw NoEffect            ; SQUIRTBOTTLE
+	dw NoEffect            ; GRAM
 	dw NoEffect            ; ITEM_B0
 	dw PokeBallEffect      ; DIVE_BALL
-	dw NoEffect            ; RAINBOW_WING
+	dw NoEffect            ; DARK_STONE
 	dw NoEffect            ; ITEM_B3
 	dw NoEffect            ; BRICK_PIECE
 	dw NoEffect            ; ITEM_B5
