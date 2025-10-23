@@ -357,12 +357,14 @@ CantMove:
 	ld a, BATTLE_VARS_MOVE_ANIM
 	call GetBattleVar
 	cp FLY
-	jr z, .fly_dig
-
+	jr z, .fly_dig_dive
 	cp DIG
+	jr z, .fly_dig_dive
+	cp DIVE
 	ret nz
 
-.fly_dig
+.fly_dig_dive
+	res SUBSTATUS_UNDERWATER, [hl]
 	res SUBSTATUS_UNDERGROUND, [hl]
 	res SUBSTATUS_FLYING, [hl]
 	jp AppearUserRaiseSub
@@ -521,11 +523,11 @@ CheckEnemyTurn:
 	xor a
 	ld [wBattleAfterAnim], a
 
-	; Flicker the monster pic unless flying or underground.
+	; Flicker the monster pic unless flying, underground, or underwater.
 	ld de, ANIM_HIT_CONFUSION
 	ld a, BATTLE_VARS_SUBSTATUS3_OPP
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND | 1 << SUBSTATUS_UNDERWATER
 	call z, PlayFXAnimID
 
 	ld c, TRUE
@@ -624,11 +626,11 @@ HitConfusion:
 	xor a
 	ld [wBattleAfterAnim], a
 
-	; Flicker the monster pic unless flying or underground.
+	; Flicker the monster pic unless flying, underground, or underwater.
 	ld de, ANIM_HIT_CONFUSION
 	ld a, BATTLE_VARS_SUBSTATUS3_OPP
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND | 1 << SUBSTATUS_UNDERWATER
 	call z, PlayFXAnimID
 
 	ld hl, UpdatePlayerHUD
@@ -1721,17 +1723,25 @@ BattleCommand_CheckHit:
 	ret
 
 .FlyDigMoves:
-; Check for moves that can hit underground/flying opponents.
+; Check for moves that can hit underground/flying/underwater opponents.
 ; Return z if the current move can hit the opponent.
 
 	ld a, BATTLE_VARS_SUBSTATUS3_OPP
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
-	ret z
 
 	bit SUBSTATUS_FLYING, a
-	jr z, .DigMoves
+	jr nz, .FlyMoves
 
+	bit SUBSTATUS_UNDERGROUND, a
+	jr nz, .DigMoves
+
+	bit SUBSTATUS_UNDERWATER, a
+	jr nz, .DiveMoves
+
+	xor a
+	ret
+
+.FlyMoves:
 	ld a, BATTLE_VARS_MOVE_ANIM
 	call GetBattleVar
 
@@ -1753,6 +1763,13 @@ BattleCommand_CheckHit:
 	cp FISSURE
 	ret z
 	cp MAGNITUDE
+	ret
+
+.DiveMoves:
+	ld a, BATTLE_VARS_MOVE_ANIM
+	call GetBattleVar
+
+	cp SURF
 	ret
 
 .ThunderRain:
@@ -2121,6 +2138,7 @@ BattleCommand_FailureText:
 .fly_dig
 	ld a, BATTLE_VARS_SUBSTATUS3
 	call GetBattleVarAddr
+	res SUBSTATUS_UNDERWATER, [hl]
 	res SUBSTATUS_UNDERGROUND, [hl]
 	res SUBSTATUS_FLYING, [hl]
 	call AppearUserRaiseSub
@@ -3398,7 +3416,7 @@ FarPlayBattleAnimation:
 
 	ld a, BATTLE_VARS_SUBSTATUS3
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND | 1 << SUBSTATUS_UNDERWATER
 	ret nz
 
 	; fallthrough
@@ -3568,7 +3586,7 @@ DoSubstituteDamage:
 	call BattleCommand_LowerSubNoAnim
 	ld a, BATTLE_VARS_SUBSTATUS3
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND | 1 << SUBSTATUS_UNDERWATER
 	call z, AppearUserLowerSub
 	call BattleCommand_SwitchTurn
 
@@ -5479,6 +5497,7 @@ BattleCommand_CheckCharge:
 	bit SUBSTATUS_CHARGED, [hl]
 	ret z
 	res SUBSTATUS_CHARGED, [hl]
+	res SUBSTATUS_UNDERWATER, [hl]
 	res SUBSTATUS_UNDERGROUND, [hl]
 	res SUBSTATUS_FLYING, [hl]
 	ld b, charge_command
@@ -5531,9 +5550,15 @@ BattleCommand_Charge:
 	ld b, a
 	cp FLY
 	jr z, .set_flying
+	cp DIVE
+	jr z, .set_diving
 	cp DIG
 	jr nz, .dont_set_digging
 	set SUBSTATUS_UNDERGROUND, [hl]
+	jr .dont_set_digging
+
+.set_diving
+	set SUBSTATUS_UNDERWATER, [hl]
 	jr .dont_set_digging
 
 .set_flying
@@ -5590,6 +5615,9 @@ BattleCommand_Charge:
 	cp DIG
 	ld hl, .BattleDugText
 
+	cp DIVE
+	ld hl, .BattleDiveText
+
 .done
 	ret
 
@@ -5617,9 +5645,9 @@ BattleCommand_Charge:
 	text_far _BattleDugText
 	text_end
 
-BattleCommand_Unused3C:
-; effect0x3c
-	ret
+.BattleDiveText:
+	text_far _BattleDiveText
+	text_end
 
 BattleCommand_TrapTarget:
 	ld a, [wAttackMissed]
@@ -6360,10 +6388,6 @@ INCLUDE "engine/battle/move_effects/sandstorm.asm"
 
 INCLUDE "engine/battle/move_effects/rollout.asm"
 
-BattleCommand_Unused5D:
-; effect0x5d
-	ret
-
 INCLUDE "engine/battle/move_effects/fury_cutter.asm"
 
 INCLUDE "engine/battle/move_effects/attract.asm"
@@ -6507,18 +6531,6 @@ BattleCommand_TimeBasedHealContinue:
 	dw GetHalfMaxHP
 	dw GetMaxHP
 
-INCLUDE "engine/battle/move_effects/hidden_power.asm"
-
-INCLUDE "engine/battle/move_effects/rain_dance.asm"
-
-INCLUDE "engine/battle/move_effects/sunny_day.asm"
-
-INCLUDE "engine/battle/move_effects/belly_drum.asm"
-
-INCLUDE "engine/battle/move_effects/psych_up.asm"
-
-INCLUDE "engine/battle/move_effects/mirror_coat.asm"
-
 BattleCommand_DoubleMinimizeDamage:
 	ld hl, wEnemyMinimized
 	ldh a, [hBattleTurn]
@@ -6552,10 +6564,15 @@ INCLUDE "engine/battle/move_effects/future_sight.asm"
 INCLUDE "engine/battle/move_effects/thunder.asm"
 
 CheckHiddenOpponent:
-; BUG: This routine is completely redundant and introduces a bug, since BattleCommand_CheckHit does these checks properly.
+	ld a, BATTLE_VARS_SUBSTATUS5_OPP
+	call GetBattleVar
+	cpl
+	and 1 << SUBSTATUS_LOCK_ON
+	ret z
+
 	ld a, BATTLE_VARS_SUBSTATUS3_OPP
 	call GetBattleVar
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND | 1 << SUBSTATUS_UNDERWATER
 	ret
 
 GetUserItem:

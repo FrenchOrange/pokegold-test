@@ -1125,15 +1125,19 @@ AI_Smart_SpDefenseUp2:
 	ret
 
 AI_Smart_Fly:
-; Fly, Dig
+; Fly, Dig, Dive
 
 ; Greatly encourage this move if the player is
-; flying or underground, and slower than the enemy.
+; flying, underground, or underwater, and slower than the enemy.
 
 	ld a, [wPlayerSubStatus3]
 	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	jr nz, .player_hidden
+	ld a, [wPlayerSubStatus4]
+	and 1 << SUBSTATUS_UNDERWATER
 	ret z
 
+.player_hidden
 	call AICompareSpeed
 	ret nc
 
@@ -1616,9 +1620,12 @@ AI_Smart_PriorityHit:
 	call AICompareSpeed
 	ret c
 
-; Dismiss this move if the player is flying or underground.
-	ld a, [wPlayerSubStatus3]
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+; Dismiss this move if the player is flying, underground, or underwater.
+ 	ld a, [wPlayerSubStatus3]
+ 	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+ 	jp nz, AIDiscourageMove
+	ld a, [wPlayerSubStatus4]
+	and 1 << SUBSTATUS_UNDERWATER
 	jp nz, AIDiscourageMove
 
 ; Greatly encourage this move if it will KO the player.
@@ -2570,15 +2577,19 @@ AI_Smart_Gust:
 
 AI_Smart_FutureSight:
 ; Greatly encourage this move if the player is
-; flying or underground, and slower than the enemy.
+; flying, underground, or underwater, and slower than the enemy.
 
-	call AICompareSpeed
-	ret nc
+ 	call AICompareSpeed
+ 	ret nc
 
-	ld a, [wPlayerSubStatus3]
-	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
-	ret z
+ 	ld a, [wPlayerSubStatus3]
+ 	and 1 << SUBSTATUS_FLYING | 1 << SUBSTATUS_UNDERGROUND
+	jr nz, .player_hidden
+	ld a, [wPlayerSubStatus4]
+	and 1 << SUBSTATUS_UNDERWATER
+ 	ret z
 
+.player_hidden
 	dec [hl]
 	dec [hl]
 	ret

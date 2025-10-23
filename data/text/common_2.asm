@@ -439,6 +439,11 @@ _BattleDugText::
 	line "dug a hole!"
 	prompt
 
+_BattleDiveText::
+	text_start
+	line "hid underwater!"
+	prompt
+
 Text_BreedHuh::
 	text "Huh?"
 

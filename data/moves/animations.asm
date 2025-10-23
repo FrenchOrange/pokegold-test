@@ -4560,17 +4560,41 @@ BattleAnim_RockSmash:
 	anim_ret
 
 BattleAnim_Dive:
-	anim_1gfx BATTLE_ANIM_GFX_WIND
-	anim_bgeffect BATTLE_BG_EFFECT_WHIRLPOOL, $0, $0, $0
-	anim_sound 0, 1, SFX_SURF
-	anim_wait 16
+	anim_2gfx BATTLE_ANIM_GFX_SAND, BATTLE_ANIM_GFX_WATER
+	anim_if_param_equal $0, .hit
+	anim_if_param_equal $2, .fail
+	anim_call BattleAnim_TargetObj_2Row
+	anim_bgeffect BATTLE_BG_EFFECT_DIG, $0, $1, $1
+	anim_obj BATTLE_ANIM_OBJ_DIG_PILE, 72, 104, $0
+	anim_sound 0, 0, SFX_BUBBLEBEAM
 .loop
-	anim_obj BATTLE_ANIM_OBJ_GUST, 132, 72, $0
-	anim_wait 6
-	anim_loop 9, .loop
-	anim_wait 64
-	anim_incbgeffect BATTLE_BG_EFFECT_WHIRLPOOL
-	anim_wait 1
+	anim_obj BATTLE_ANIM_OBJ_DIG_SAND, 56, 104, $0
+	anim_wait 16
+	anim_loop 6, .loop
+	anim_wait 32
+	anim_bgeffect BATTLE_BG_EFFECT_HIDE_MON, $0, $1, $0
+	anim_wait 8
+	anim_incbgeffect BATTLE_BG_EFFECT_DIG
+	anim_call BattleAnim_ShowMon_0
+	anim_ret
+
+.hit
+	anim_bgeffect BATTLE_BG_EFFECT_START_WATER, $0, $0, $0
+	anim_sound 0, 1, SFX_HYDRO_PUMP
+	anim_obj BATTLE_ANIM_OBJ_HYDRO_PUMP, 124, 72, $0
+	anim_obj BATTLE_ANIM_OBJ_HYDRO_PUMP, 140, 72, $0
+	anim_bgeffect BATTLE_BG_EFFECT_WATER, $30, $0, $0
+	anim_wait 12
+	anim_obj BATTLE_ANIM_OBJ_HYDRO_PUMP, 132, 72, $0
+	anim_bgeffect BATTLE_BG_EFFECT_WATER, $1c, $0, $0
+	anim_wait 24
+	anim_bgeffect BATTLE_BG_EFFECT_WATER, $8, $0, $0
+	anim_wait 24
+	anim_bgeffect BATTLE_BG_EFFECT_END_WATER, $0, $0, $0
+	anim_wait 16
+.fail
+	anim_bgeffect BATTLE_BG_EFFECT_SHOW_MON, $0, $1, $0
+	anim_wait 32
 	anim_ret
 
 BattleAnim_BeatUp:

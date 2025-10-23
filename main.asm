@@ -105,6 +105,7 @@ INCLUDE "engine/rtc/restart_clock.asm"
 SECTION "Catch Tutorial", ROMX
 
 INCLUDE "engine/events/catch_tutorial.asm"
+INCLUDE "engine/battle/effect_commands_2.asm"
 
 
 SECTION "bank9", ROMX
