@@ -71,8 +71,8 @@ ItemEffects:
 	dw ItemfinderEffect    ; ITEMFINDER
 	dw NoEffect            ; ITEM_38
 	dw NoEffect            ; EXP_SHARE
-	dw OldRodEffect        ; OLD_ROD
-	dw GoodRodEffect       ; GOOD_ROD
+	dw NoEffect            ; ITEM_3A
+	dw NoEffect            ; ITEM_3B
 	dw NoEffect            ; SILVER_LEAF
 	dw SuperRodEffect      ; SUPER_ROD
 	dw RestorePPEffect     ; PP_UP
@@ -147,10 +147,10 @@ ItemEffects:
 	dw NoEffect            ; STARDUST
 	dw NoEffect            ; STAR_PIECE
 	dw BasementKeyEffect   ; BASEMENT_KEY
-	dw NoEffect            ; PASS
-	dw NoEffect            ; ITEM_87
-	dw NoEffect            ; ITEM_88
-	dw NoEffect            ; ITEM_89
+	dw NoEffect            ; DOUSE_DRIVE
+	dw NoEffect            ; SHOCK_DRIVE
+	dw NoEffect            ; BURN_DRIVE
+	dw NoEffect            ; CHILL_DRIVE
 	dw NoEffect            ; CHARCOAL
 	dw RestoreHPEffect     ; BERRY_JUICE
 	dw NoEffect            ; SCOPE_LENS
@@ -1935,19 +1935,8 @@ CoinCaseEffect:
 	text_far _CoinCaseCountText
 	text_end
 
-OldRodEffect:
-	ld e, $0
-	jr UseRod
-
-GoodRodEffect:
-	ld e, $1
-	jr UseRod
-
 SuperRodEffect:
 	ld e, $2
-	jr UseRod
-
-UseRod:
 	farcall FishFunction
 	ret
 

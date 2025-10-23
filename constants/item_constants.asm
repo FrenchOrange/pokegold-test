@@ -63,8 +63,8 @@
 	const ITEMFINDER   ; 37
 	const ITEM_38      ; (TEMP) 38
 	const EXP_SHARE    ; 39
-	const OLD_ROD      ; (TEMP) 3a
-	const GOOD_ROD     ; (TEMP) 3b
+	const ITEM_3A      ; (TEMP) 3a
+	const ITEM_3B      ; (TEMP) 3b
 	const SILVER_LEAF  ; (TEMP) 3c
 	const SUPER_ROD    ; 3d
 	const PP_UP        ; 3e
@@ -139,10 +139,10 @@
 	const STARDUST     ; 83
 	const STAR_PIECE   ; 84
 	const BASEMENT_KEY ; (TEMP) 85
-	const PASS         ; (TEMP) 86
-	const ITEM_87      ; (TEMP) 87
-	const ITEM_88      ; (TEMP) 88
-	const ITEM_89      ; (TEMP) 89
+	const DOUSE_DRIVE  ; 86
+	const SHOCK_DRIVE  ; 87
+	const BURN_DRIVE   ; 88
+	const CHILL_DRIVE  ; 89
 	const CHARCOAL     ; 8a
 	const BERRY_JUICE  ; 8b
 	const SCOPE_LENS   ; (TEMP) 8c

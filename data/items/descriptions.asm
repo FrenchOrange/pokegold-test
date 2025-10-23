@@ -58,8 +58,8 @@ ItemDescriptions:
 	dw ItemfinderDesc
 	dw TeruSama5Desc
 	dw ExpShareDesc
-	dw OldRodDesc
-	dw GoodRodDesc
+	dw TeruSama5Desc
+	dw TeruSama5Desc
 	dw SilverLeafDesc
 	dw SuperRodDesc
 	dw PPUpDesc
@@ -134,10 +134,10 @@ ItemDescriptions:
 	dw StardustDesc
 	dw StarPieceDesc
 	dw BasementKeyDesc
-	dw PassDesc
-	dw TeruSama13Desc
-	dw TeruSama14Desc
-	dw TeruSama15Desc
+	dw DouseDriveDesc
+	dw ShockDriveDesc
+	dw BurnDriveDesc
+	dw ChillDriveDesc
 	dw CharcoalDesc
 	dw BerryJuiceDesc
 	dw ScopeLensDesc
@@ -483,20 +483,12 @@ ExpShareDesc:
 	db   "Shares battle EXP."
 	next "points. (HOLD)@"
 
-OldRodDesc:
-	db   "Use by water to"
-	next "fish for #MON.@"
-
-GoodRodDesc:
-	db   "A good ROD for"
-	next "catching #MON.@"
-
 SilverLeafDesc:
 	db   "A strange, silver-"
 	next "colored leaf.@"
 
 SuperRodDesc:
-	db   "The best ROD for"
+	db   "High-tech ROD for"
 	next "catching #MON.@"
 
 PPUpDesc:
@@ -786,18 +778,21 @@ StarPieceDesc:
 BasementKeyDesc:
 	db   "Opens doors.@"
 
-PassDesc:
-	db   "A ticket for the"
-	next "MAGNET TRAIN.@"
+DouseDriveDesc:
+	db   "TECHNO BLAST's type"
+	next "becomes WATER.@"
 
-TeruSama13Desc:
-	db   "?@"
+ShockDriveDesc:
+	db   "TECHNO BLAST's type"
+	next "becomes ELECTRIC.@"
 
-TeruSama14Desc:
-	db   "?@"
+BurnDriveDesc:
+	db   "TECHNO BLAST's type"
+	next "becomes FIRE.@"
 
-TeruSama15Desc:
-	db   "?@"
+ChillDriveDesc:
+	db   "TECHNO BLAST's type"
+	next "becomes ICE.@"
 
 CharcoalDesc:
 	db   "Powers up fire-"

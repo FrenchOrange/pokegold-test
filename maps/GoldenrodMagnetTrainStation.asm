@@ -25,8 +25,6 @@ GoldenrodMagnetTrainStationOfficerScript:
 	writetext GoldenrodMagnetTrainStationOfficerAreYouComingAboardText
 	yesorno
 	iffalse .DecidedNotToRide
-	checkitem PASS
-	iffalse .PassNotInBag
 	writetext GoldenrodMagnetTrainStationOfficerRightThisWayText
 	waitbutton
 	closetext
@@ -36,12 +34,6 @@ GoldenrodMagnetTrainStationOfficerScript:
 	special MagnetTrain
 	warpcheck
 	newloadmap MAPSETUP_TRAIN
-	end
-
-.PassNotInBag:
-	writetext GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText
-	waitbutton
-	closetext
 	end
 
 .DecidedNotToRide:
@@ -122,11 +114,6 @@ GoldenrodMagnetTrainStationOfficerRightThisWayText:
 
 	para "OK. Right this"
 	line "way, sir."
-	done
-
-GoldenrodMagnetTrainStationOfficerYouDontHaveARailPassText:
-	text "Sorry. You don't"
-	line "have a rail PASS."
 	done
 
 GoldenrodMagnetTrainStationOfficerHopeToSeeYouAgainText:
