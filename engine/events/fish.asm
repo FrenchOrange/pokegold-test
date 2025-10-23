@@ -29,10 +29,6 @@ endr
 	cp [hl]
 	jr nc, .no_bite
 
-	; Get encounter data by rod:
-	; 0: Old
-	; 1: Good
-	; 2: Super
 	inc hl
 	ld e, b
 	ld d, 0

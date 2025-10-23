@@ -1936,7 +1936,7 @@ CoinCaseEffect:
 	text_end
 
 SuperRodEffect:
-	ld e, $2
+	ld e, $0
 	farcall FishFunction
 	ret
 
