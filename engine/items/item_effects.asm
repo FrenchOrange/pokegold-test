@@ -180,8 +180,8 @@ ItemEffects:
 	dw PokeBallEffect      ; LUXURY_BALL
 	dw PokeBallEffect      ; DUSK_BALL
 	dw PokeBallEffect      ; REPEAT_BALL
-	dw NoEffect            ; NORMAL_BOX
-	dw NoEffect            ; GORGEOUS_BOX
+	dw NoEffect            ; RAZOR_CLAW
+	dw NoEffect            ; RAZOR_FANG
 	dw EvoStoneEffect      ; SUN_STONE
 	dw NoEffect            ; POLKADOT_BOW
 	dw NoEffect            ; ITEM_AB

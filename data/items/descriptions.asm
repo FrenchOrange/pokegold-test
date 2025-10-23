@@ -167,8 +167,8 @@ ItemDescriptions:
 	dw LuxuryBallDesc
 	dw DuskBallDesc
 	dw RepeatBallDesc
-	dw NormalBoxDesc
-	dw GorgeousBoxDesc
+	dw RazorClawDesc
+	dw RazorFangDesc
 	dw SunStoneDesc
 	dw PolkadotBowDesc
 	dw TeruSama26Desc
@@ -288,6 +288,13 @@ BicycleDesc:
 	next "for fast movement.@"
 
 MoonStoneDesc:
+FireStoneDesc:
+ThunderStoneDesc:
+WaterStoneDesc:
+LeafStoneDesc:
+ShinyStoneDesc:
+DuskStoneDesc:
+SunStoneDesc:
 	db   "Evolves certain"
 	next "kinds of #MON.@"
 
@@ -343,18 +350,6 @@ MaxElixirDesc:
 	db   "Fully restores the"
 	next "PP of one #MON.@"
 
-FireStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
-
-ThunderStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
-
-WaterStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
-
 TeruSama2Desc:
 	db   "?@"
 
@@ -389,10 +384,6 @@ RareCandyDesc:
 XAccuracyDesc:
 	db   "Raises accuracy."
 	next "(1 BTL)@"
-
-LeafStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
 
 MetalPowderDesc:
 	db   "Raises DEFENSE of"
@@ -571,6 +562,7 @@ PoisonBarbDesc:
 	next "type moves. (HOLD)@"
 
 KingsRockDesc:
+RazorFangDesc:
 	db   "May make the foe"
 	next "flinch. (HOLD)@"
 
@@ -703,14 +695,6 @@ CasteliaConeDesc:
 	db   "Cures all status"
 	next "problems.@"
 
-ShinyStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
-
-DuskStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
-
 MiracleSeedDesc:
 	db   "Powers up grass-"
 	next "type moves. (HOLD)@"
@@ -803,6 +787,7 @@ BerryJuiceDesc:
 	next "HP by 20.@"
 
 ScopeLensDesc:
+RazorClawDesc:
 	db   "Raises critical"
 	next "hit ratio. (HOLD)@"
 
@@ -900,18 +885,6 @@ DuskBallDesc:
 RepeatBallDesc:
 	db   "A BALL for #MON"
 	next "caught before.@"
-
-NormalBoxDesc:
-	db   "Open it and see"
-	next "what's inside.@"
-
-GorgeousBoxDesc:
-	db   "Open it and see"
-	next "what's inside.@"
-
-SunStoneDesc:
-	db   "Evolves certain"
-	next "kinds of #MON.@"
 
 PolkadotBowDesc:
 	db   "Powers up normal-"

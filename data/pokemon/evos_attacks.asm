@@ -2766,7 +2766,7 @@ DunsparceEvosAttacks:
 	db 0 ; no more level-up moves
 
 GligarEvosAttacks:
-	db 0 ; no more evolutions
+	db EVOLVE_HOLDING, RAZOR_FANG, 1, VENUSAUR
 	db 1, POISON_STING
 	db 6, SAND_ATTACK
 	db 13, HARDEN
@@ -2868,7 +2868,7 @@ HeracrossEvosAttacks:
 	db 0 ; no more level-up moves
 
 SneaselEvosAttacks:
-	db 0 ; no more evolutions
+	db EVOLVE_HOLDING, RAZOR_CLAW, 1, VENUSAUR
 	db 1, SCRATCH
 	db 1, LEER
 	db 9, QUICK_ATTACK

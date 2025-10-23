@@ -97,14 +97,19 @@ DebugSign:
 	giveitem HM_DIVE
 	giveitem TM_FLASH
 	giveitem TM_DIG
+	giveitem THUNDERSTONE
+	giveitem RAZOR_CLAW
+	giveitem RAZOR_FANG
 	opentext
 ; debug team
 	givepoke FERALIGATR, 100
 	givepoke PIDGEOT, 100
 	givepoke LAPRAS, 100
 	givepoke PIKACHU, 100
-	givepoke DIGLETT, 100
-	givepoke DITTO, 100
+;	givepoke DIGLETT, 100
+;	givepoke DITTO, 100
+	givepoke SNEASEL, 1
+	givepoke GLIGAR, 1
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH

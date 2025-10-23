@@ -172,8 +172,8 @@
 	const LUXURY_BALL  ; a4
 	const DUSK_BALL    ; a5
 	const REPEAT_BALL  ; a6
-	const NORMAL_BOX   ; (TEMP) a7
-	const GORGEOUS_BOX ; (TEMP) a8
+	const RAZOR_CLAW   ; a7
+	const RAZOR_FANG   ; a8
 	const SUN_STONE    ; a9
 	const POLKADOT_BOW ; (TEMP) aa
 	const ITEM_AB      ; (TEMP) ab
