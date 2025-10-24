@@ -105,7 +105,11 @@ CherensHouse_Blocks:
 CherrygroveGymSpeechHouse_Blocks:
 GuideGentsHouse_Blocks:
 CherrygroveEvolutionSpeechHouse_Blocks:
-	INCBIN "maps/House1.blk"
+EcruteakLugiaSpeechHouse_Blocks:
+EcruteakItemfinderHouse_Blocks:
+VioletNicknameSpeechHouse_Blocks:
+VioletKylesHouse_Blocks:
+	INCBIN "maps/House.blk"
 
 NorthSouthGate_Blocks:
 	INCBIN "maps/NorthSouthGate.blk"
@@ -213,12 +217,6 @@ Colosseum_Blocks:
 TradeCenter_Blocks:
 TimeCapsule_Blocks:
 	INCBIN "maps/TradeCenter.blk"
-
-EcruteakLugiaSpeechHouse_Blocks:
-EcruteakItemfinderHouse_Blocks:
-VioletNicknameSpeechHouse_Blocks:
-VioletKylesHouse_Blocks:
-	INCBIN "maps/House2.blk"
 
 UnionCaveB1F_Blocks:
 	INCBIN "maps/UnionCaveB1F.blk"

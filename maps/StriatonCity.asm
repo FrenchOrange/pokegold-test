@@ -18,6 +18,11 @@ StriatonCity_MapEvents:
 	warp_event 15,  3, VIOLET_POKECENTER_1F, 1
 	warp_event 31,  2, DREAMYARD_OUTSIDE, 1
 	warp_event 31,  3, DREAMYARD_OUTSIDE, 2
+	warp_event  9,  3, EARLS_POKEMON_ACADEMY, 1
+	warp_event 21,  8, VIOLET_KYLES_HOUSE, 1
+	warp_event 21,  9, VIOLET_KYLES_HOUSE, 1
+	warp_event 21, 12, VIOLET_NICKNAME_SPEECH_HOUSE, 1
+	warp_event 21, 13, VIOLET_NICKNAME_SPEECH_HOUSE, 1
 
 	def_coord_events
 

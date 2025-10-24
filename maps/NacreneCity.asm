@@ -18,6 +18,8 @@ NacreneCity_MapEvents:
 	warp_event 24,  3, AZALEA_GYM, 1
 	warp_event 37, 14, ROUTE_3_GATE, 1
 	warp_event 37, 15, ROUTE_3_GATE, 2
+	warp_event 26, 11, KURTS_HOUSE, 1
+	warp_event 32, 11, CHARCOAL_KILN, 1
 
 	def_coord_events
 
