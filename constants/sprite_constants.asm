@@ -1,103 +1,93 @@
 ; sprite ids
 ; OverworldSprites indexes (see data/sprites/sprites.asm)
 	const_def
-	const SPRITE_NONE ; 00
-	const SPRITE_CHRIS ; 01
-	const SPRITE_CHRIS_BIKE ; 02
-	const SPRITE_GAMEBOY_KID ; 03
-	const SPRITE_RIVAL ; 04
-	const SPRITE_OAK ; 05
-	const SPRITE_RED ; 06
-	const SPRITE_BLUE ; 07
-	const SPRITE_BILL ; 08
-	const SPRITE_ELDER ; 09
-	const SPRITE_JANINE ; 0a
-	const SPRITE_KURT ; 0b
-	const SPRITE_MOM ; 0c
-	const SPRITE_BLAINE ; 0d
-	const SPRITE_REDS_MOM ; 0e
-	const SPRITE_DAISY ; 0f
-	const SPRITE_ELM ; 10
-	const SPRITE_WILL ; 11
-	const SPRITE_FALKNER ; 12
-	const SPRITE_WHITNEY ; 13
-	const SPRITE_BUGSY ; 14
-	const SPRITE_MORTY ; 15
-	const SPRITE_CHUCK ; 16
-	const SPRITE_JASMINE ; 17
-	const SPRITE_PRYCE ; 18
-	const SPRITE_CLAIR ; 19
-	const SPRITE_BROCK ; 1a
-	const SPRITE_KAREN ; 1b
-	const SPRITE_BRUNO ; 1c
-	const SPRITE_MISTY ; 1d
-	const SPRITE_LANCE ; 1e
-	const SPRITE_SURGE ; 1f
-	const SPRITE_ERIKA ; 20
-	const SPRITE_KOGA ; 21
-	const SPRITE_SABRINA ; 22
-	const SPRITE_COOLTRAINER_M ; 23
-	const SPRITE_COOLTRAINER_F ; 24
-	const SPRITE_BUG_CATCHER ; 25
-	const SPRITE_TWIN ; 26
-	const SPRITE_YOUNGSTER ; 27
-	const SPRITE_LASS ; 28
-	const SPRITE_TEACHER ; 29
-	const SPRITE_BEAUTY ; 2a
-	const SPRITE_SUPER_NERD ; 2b
-	const SPRITE_ROCKER ; 2c
-	const SPRITE_POKEFAN_M ; 2d
-	const SPRITE_POKEFAN_F ; 2e
-	const SPRITE_GRAMPS ; 2f
-	const SPRITE_GRANNY ; 30
-	const SPRITE_SWIMMER_GUY ; 31
-	const SPRITE_SWIMMER_GIRL ; 32
-	const SPRITE_BIG_SNORLAX ; 33
-	const SPRITE_SURFING_PIKACHU ; 34
-	const SPRITE_ROCKET ; 35
-	const SPRITE_ROCKET_GIRL ; 36
-	const SPRITE_NURSE ; 37
+	const SPRITE_NONE              ; 00
+	const SPRITE_CHRIS             ; (TEMP) 01
+	const SPRITE_CHRIS_BIKE        ; (TEMP) 02
+	const SPRITE_GAMEBOY_KID       ; (TEMP) 03
+	const SPRITE_RIVAL             ; (TEMP) 04
+	const SPRITE_OAK               ; (TEMP) 05
+	const SPRITE_RED               ; (TEMP) 06
+	const SPRITE_BLUE              ; (TEMP) 07
+	const SPRITE_BILL              ; (TEMP) 08
+	const SPRITE_ELDER             ; (TEMP) 09
+	const SPRITE_JANINE            ; (TEMP) 0a
+	const SPRITE_KURT              ; (TEMP) 0b
+	const SPRITE_MOM               ; (TEMP) 0c
+	const SPRITE_BLAINE            ; (TEMP) 0d
+	const SPRITE_REDS_MOM          ; (TEMP) 0e
+	const SPRITE_DAISY             ; (TEMP) 0f
+	const SPRITE_ELM               ; (TEMP) 10
+	const SPRITE_WILL              ; (TEMP) 11
+	const SPRITE_FALKNER           ; (TEMP) 12
+	const SPRITE_WHITNEY           ; (TEMP) 13
+	const SPRITE_BUGSY             ; (TEMP) 14
+	const SPRITE_MORTY             ; (TEMP) 15
+	const SPRITE_CHUCK             ; (TEMP) 16
+	const SPRITE_JASMINE           ; (TEMP) 17
+	const SPRITE_PRYCE             ; (TEMP) 18
+	const SPRITE_CLAIR             ; (TEMP) 19
+	const SPRITE_BROCK             ; (TEMP) 1a
+	const SPRITE_KAREN             ; (TEMP) 1b
+	const SPRITE_BRUNO             ; (TEMP) 1c
+	const SPRITE_MISTY             ; (TEMP) 1d
+	const SPRITE_LANCE             ; (TEMP) 1e
+	const SPRITE_SURGE             ; (TEMP) 1f
+	const SPRITE_ERIKA             ; (TEMP) 20
+	const SPRITE_KOGA              ; (TEMP) 21
+	const SPRITE_SABRINA           ; (TEMP) 22
+	const SPRITE_COOLTRAINER_M     ; 23
+	const SPRITE_COOLTRAINER_F     ; 24
+	const SPRITE_LITTLE_BOY        ; 25
+	const SPRITE_LITTLE_GIRL       ; 26
+	const SPRITE_YOUNGSTER         ; 27
+	const SPRITE_LASS              ; 28
+	const SPRITE_GIRL              ; 29
+	const SPRITE_BEAUTY            ; (TEMP) 2a
+	const SPRITE_SUPER_NERD        ; 2b
+	const SPRITE_ROCKER            ; 2c
+	const SPRITE_MIDDLE_M          ; 2d
+	const SPRITE_MIDDLE_F          ; 2e
+	const SPRITE_GRAMPS            ; 2f
+	const SPRITE_GRANNY            ; 30
+	const SPRITE_SWIMMER           ; 31
+	const SPRITE_OFFICE_MAN        ; 32
+	const SPRITE_OFFICE_WOMAN      ; 33
+	const SPRITE_SURFING_PIKACHU   ; (TEMP) 34
+	const SPRITE_GRUNT             ; (TEMP) 35
+	const SPRITE_GRUNT_GIRL        ; (TEMP) 36
+	const SPRITE_NURSE             ; 37
 	const SPRITE_LINK_RECEPTIONIST ; 38
-	const SPRITE_CLERK ; 39
-	const SPRITE_FISHER ; 3a
-	const SPRITE_FISHING_GURU ; 3b
-	const SPRITE_SCIENTIST ; 3c
-	const SPRITE_KIMONO_GIRL ; 3d
-	const SPRITE_SAGE ; 3e
-	const SPRITE_UNUSED_GUY ; 3f
-	const SPRITE_GENTLEMAN ; 40
-	const SPRITE_BLACK_BELT ; 41
-	const SPRITE_RECEPTIONIST ; 42
-	const SPRITE_OFFICER ; 43
-	const SPRITE_CAL ; 44
-	const SPRITE_SLOWPOKE ; 45
-	const SPRITE_CAPTAIN ; 46
-	const SPRITE_BIG_LAPRAS ; 47
-	const SPRITE_GYM_GUIDE ; 48
-	const SPRITE_SAILOR ; 49
-	const SPRITE_BIKER ; 4a
-	const SPRITE_PHARMACIST ; 4b
-	const SPRITE_MONSTER ; 4c
-	const SPRITE_FAIRY ; 4d
-	const SPRITE_BIRD ; 4e
-	const SPRITE_DRAGON ; 4f
-	const SPRITE_BIG_ONIX ; 50
-	const SPRITE_N64 ; 51
-	const SPRITE_SUDOWOODO ; 52
-	const SPRITE_SURF ; 53
-	const SPRITE_POKE_BALL ; 54
-	const SPRITE_POKEDEX ; 55
-	const SPRITE_PAPER ; 56
-	const SPRITE_VIRTUAL_BOY ; 57
-	const SPRITE_OLD_LINK_RECEPTIONIST ; 58
-	const SPRITE_ROCK ; 59
-	const SPRITE_BOULDER ; 5a
-	const SPRITE_SNES ; 5b
-	const SPRITE_FAMICOM ; 5c
-	const SPRITE_FRUIT_TREE ; 5d
-	const SPRITE_GOLD_TROPHY ; 5e
-	const SPRITE_SILVER_TROPHY ; 5f
-	const SPRITE_CHRIS_RUN ; 60
+	const SPRITE_CLERK             ; 39
+	const SPRITE_FISHER            ; 3a
+	const SPRITE_FISHING_GURU      ; (TEMP) 3b
+	const SPRITE_SCIENTIST         ; 3c
+	const SPRITE_KIMONO_GIRL       ; (TEMP) 3d
+	const SPRITE_SAGE              ; 3e
+	const SPRITE_GENTLEMAN         ; 3f
+	const SPRITE_BLACK_BELT        ; (TEMP) 40
+	const SPRITE_RECEPTIONIST      ; (TEMP) 41
+	const SPRITE_OFFICER           ; 42
+	const SPRITE_CAL               ; (TEMP) 43
+	const SPRITE_CAPTAIN           ; (TEMP) 44
+	const SPRITE_GYM_GUIDE         ; 45
+	const SPRITE_HIKER             ; 46
+	const SPRITE_BIKER             ; 47
+	const SPRITE_GUARD             ; 48
+	const SPRITE_MONSTER           ; (TEMP) 49
+	const SPRITE_FAIRY             ; (TEMP) 4a
+	const SPRITE_BIRD              ; (TEMP) 4b
+	const SPRITE_DRAGON            ; (TEMP) 4c
+	const SPRITE_SURF              ; 4d
+	const SPRITE_POKE_BALL         ; 4e
+	const SPRITE_BOOK              ; 4f
+	const SPRITE_PAPER             ; (TEMP) 50
+	const SPRITE_COOK              ; 51
+	const SPRITE_ROCK              ; (TEMP) 52
+	const SPRITE_BOULDER           ; 53
+	const SPRITE_GOLD_TROPHY       ; (TEMP) 54
+	const SPRITE_SILVER_TROPHY     ; (TEMP) 55
+	const SPRITE_CHRIS_RUN         ; (TEMP) 56
 DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)

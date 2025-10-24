@@ -238,8 +238,6 @@ gfx/trainer_card/leaders.2bpp: tools/gfx += --trim-whitespace
 
 gfx/overworld/chris_fish.2bpp: tools/gfx += --trim-whitespace
 
-gfx/sprites/big_onix.2bpp: tools/gfx += --remove-whitespace --remove-xflip
-
 gfx/battle/dude.2bpp: rgbgfx += --columns
 
 gfx/sgb/gold_border.2bpp: tools/gfx += --trim-whitespace
