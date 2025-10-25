@@ -314,8 +314,6 @@ SurfFunction:
 	ld a, [wPlayerState]
 	cp PLAYER_SURF
 	jr z, .alreadyfail
-	cp PLAYER_SURF_PIKA
-	jr z, .alreadyfail
 	call GetFacingTileCoord
 	call GetTilePermission
 	cp WATER_TILE
@@ -334,7 +332,7 @@ SurfFunction:
 	ret
 
 .DoSurf:
-	call GetSurfType
+	ld a, PLAYER_SURF
 	ld [wSurfingPlayerState], a
 	call GetPartyNickname
 	ld hl, SurfFromMenuScript
@@ -382,23 +380,6 @@ AlreadySurfingText:
 	text_far _AlreadySurfingText
 	text_end
 
-GetSurfType:
-; Surfing on Pikachu uses an alternate sprite.
-; This is done by using a separate movement type.
-
-	ld a, [wCurPartyMon]
-	ld e, a
-	ld d, 0
-	ld hl, wPartySpecies
-	add hl, de
-
-	ld a, [hl]
-	cp PIKACHU
-	ld a, PLAYER_SURF_PIKA
-	ret z
-	ld a, PLAYER_SURF
-	ret
-
 CheckDirection:
 ; Return carry if a tile permission prevents you
 ; from moving in the direction you're facing.
@@ -436,8 +417,6 @@ TrySurfOW::
 
 ; Don't ask to surf if already fail.
 	ld a, [wPlayerState]
-	cp PLAYER_SURF_PIKA
-	jr z, .quit
 	cp PLAYER_SURF
 	jr z, .quit
 
@@ -459,7 +438,7 @@ TrySurfOW::
 	bit BIKEFLAGS_ALWAYS_ON_BIKE_F, [hl]
 	jr nz, .quit
 
-	call GetSurfType
+	ld a, PLAYER_SURF
 	ld [wSurfingPlayerState], a
 	call GetPartyNickname
 
@@ -1335,8 +1314,6 @@ FishFunction:
 .TryFish:
 	ld a, [wPlayerState]
 	cp PLAYER_SURF
-	jr z, .fail
-	cp PLAYER_SURF_PIKA
 	jr z, .fail
 	call GetFacingTileCoord
 	call GetTilePermission

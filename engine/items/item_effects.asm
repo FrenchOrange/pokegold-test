@@ -820,8 +820,6 @@ DiveBallMultiplier:
 	ld a, [wPlayerState]
 	cp PLAYER_SURF
 	jr z, .water
-	cp PLAYER_SURF_PIKA
-	jr z, .water
 
 	ld a, [wBattleType]
 	cp BATTLETYPE_FISH
