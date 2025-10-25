@@ -133,7 +133,7 @@ NamingScreenJumptable:
 	db "YOUR NAME?@"
 
 .Rival:
-	ld de, RivalSpriteGFX
+	ld de, NSpriteGFX
 	call .LoadSprite
 	hlcoord 5, 2
 	ld de, .RivalNameString
