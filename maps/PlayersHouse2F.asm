@@ -97,7 +97,14 @@ DebugSign:
 	giveitem HM_DIVE
 	giveitem TM_FLASH
 	giveitem TM_DIG
-	giveitem THUNDERSTONE
+	giveitem FIRE_STONE, 5
+	giveitem WATER_STONE, 5
+	giveitem THUNDERSTONE, 5
+	giveitem LEAF_STONE, 5
+	giveitem MOON_STONE, 5
+	giveitem SUN_STONE, 5
+	giveitem DUSK_STONE, 5
+	giveitem SHINY_STONE, 5
 	giveitem RAZOR_CLAW
 	giveitem RAZOR_FANG
 	opentext

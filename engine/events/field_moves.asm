@@ -2,13 +2,6 @@ DEF FIELDMOVE_GRASS EQU $80
 DEF FIELDMOVE_TREE EQU $84
 DEF FIELDMOVE_FLY EQU $84
 
-PlayDiveSound:
-	call WaitSFX
-	ld de, SFX_SURF
-	call PlaySFX
-	call WaitSFX
-	ret
-
 BlindingFlash:
 	farcall FadeOutToWhite
 	ld hl, wStatusFlags

@@ -1002,28 +1002,9 @@ UseDiveText:
 	text_end
 
 TryDiveMenu:
-	call GetFacingTileCoord
-	ld c, a
-	push de
-	call CheckDiveTile
-	pop de
-	jr c, .failed
-	call GetBlockLocation
-	ld c, [hl]
-	push hl
-	ld hl, DiveBlockPointers
-	call CheckOverworldTileArrays
-	pop hl
-	jr nc, .failed
-	; Save the Dive field move data
-	ld a, l
-	ld [wCutDiveOverworldBlockAddr], a
-	ld a, h
-	ld [wCutDiveOverworldBlockAddr + 1], a
-	ld a, b
-	ld [wCutDiveReplacementBlock], a
-	ld a, c
-	ld [wCutDiveAnimationType], a
+	ld a, [wPlayerTileCollision]
+	cp COLL_DIVE
+	jr nz, .failed
 	xor a
 	ret
 
@@ -1038,27 +1019,13 @@ Script_DiveFromMenu:
 Script_UsedDive:
 	callasm GetPartyNickname
 	writetext UseDiveText
-	refreshmap
-	callasm DisappearDive
 	closetext
+	playsound SFX_WARP_TO
+	special FadeOutToBlack
+	waitsfx
+	warp ROUTE_17, 30, 5 ; WIP
+;	warpcheck
 	end
-
-DisappearDive:
-	ld hl, wCutDiveOverworldBlockAddr
-	ld a, [hli]
-	ld h, [hl]
-	ld l, a
-	ld a, [wCutDiveReplacementBlock]
-	ld [hl], a
-	xor a
-	ldh [hBGMapMode], a
-	call LoadOverworldTilemapAndAttrmapPals
-	ld a, [wCutDiveAnimationType]
-	ld e, a
-	farcall PlayDiveSound
-	call BufferScreen
-	call GetMovementPermissions
-	ret
 
 TryDiveOW::
 	ld d, DIVE

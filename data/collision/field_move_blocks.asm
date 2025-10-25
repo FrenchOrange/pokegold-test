@@ -30,14 +30,3 @@ CutTreeBlockPointers:
 	db $25, $21, 1 ; grass
 	db $28, $2c, 0 ; tree
 	db -1 ; end
-
-
-; these blocks all use COLL_DIVE in one quadrant
-DiveBlockPointers:
-	dbw TILESET_OVERWORLD, .johto
-	db -1 ; end
-
-.johto:
-; facing block, replacement block, animation
-	db $41, $41, 0
-	db -1 ; end
