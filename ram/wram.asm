@@ -2463,7 +2463,6 @@ wUndergroundSwitchPositions:: db
 wPokecenter2FSceneID::                            db
 wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
-wTimeCapsuleSceneID::                             db
 wPlayersHouse2FSceneID::                          db
 wPlayersHouse1FSceneID::                          db
 wRoute24SceneID::                                 db
@@ -2503,6 +2502,7 @@ wRoute39SceneID::                                 db
 wSproutTower3FSceneID::                           db
 wBurnedTower1FSceneID::                           db
 wBurnedTowerB1FSceneID::                          db
+wRadioTower4FSceneID::                            db
 wRadioTower5FSceneID::                            db
 wRuinsOfAlphOutsideSceneID::                      db
 wRuinsOfAlphResearchCenterSceneID::               db

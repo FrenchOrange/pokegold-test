@@ -1,15 +1,14 @@
 	object_const_def
 	const POKECENTER2F_TRADE_RECEPTIONIST
 	const POKECENTER2F_BATTLE_RECEPTIONIST
-	const POKECENTER2F_TIME_CAPSULE_RECEPTIONIST
 	const POKECENTER2F_OFFICER
+	const POKECENTER2F_CLIPBOARD
 
 Pokecenter2F_MapScripts:
 	def_scene_scripts
 	scene_script Pokecenter2FCheckMysteryGiftScene, SCENE_POKECENTER2F_CHECK_MYSTERY_GIFT
 	scene_script Pokecenter2FLeaveTradeCenterScene, SCENE_POKECENTER2F_LEAVE_TRADE_CENTER
 	scene_script Pokecenter2FLeaveColosseumScene,   SCENE_POKECENTER2F_LEAVE_COLOSSEUM
-	scene_script Pokecenter2FLeaveTimeCapsuleScene, SCENE_POKECENTER2F_LEAVE_TIME_CAPSULE
 
 	def_callbacks
 
@@ -29,10 +28,6 @@ Pokecenter2FLeaveTradeCenterScene:
 
 Pokecenter2FLeaveColosseumScene:
 	sdefer Script_LeftCableColosseum
-	end
-
-Pokecenter2FLeaveTimeCapsuleScene:
-	sdefer Script_LeftTimeCapsule
 	end
 
 Pokecenter2F_AppearMysteryGiftDeliveryGuy:
@@ -178,105 +173,6 @@ LinkReceptionistScript_Battle:
 	closetext
 	end
 
-Script_TimeCapsuleClosed:
-	faceplayer
-	opentext
-	writetext Text_TimeCapsuleClosed
-	waitbutton
-	closetext
-	end
-
-LinkReceptionistScript_TimeCapsule:
-	checkevent EVENT_MET_BILL
-	iftrue Script_TimeCapsuleClosed
-	checkflag ENGINE_TIME_CAPSULE
-	iftrue Script_TimeCapsuleClosed
-	special SetBitsForTimeCapsuleRequest
-	faceplayer
-	opentext
-	writetext Text_TimeCapsuleReceptionistIntro
-	yesorno
-	iffalse .Cancel
-	special CheckTimeCapsuleCompatibility
-	ifequal $1, .MonTooNew
-	ifequal $2, .MonMoveTooNew
-	ifequal $3, .MonHasMail
-	writetext Text_PleaseWait
-	special WaitForLinkedFriend
-	iffalse .FriendNotReady
-	writetext Text_MustSaveGame
-	yesorno
-	iffalse .DidNotSave
-	special TryQuickSave
-	iffalse .DidNotSave
-	writetext Text_PleaseWait
-	special CheckLinkTimeout_Receptionist
-	iffalse .LinkTimedOut
-	readmem wOtherPlayerLinkMode
-	iffalse .OK
-	special CheckBothSelectedSameRoom
-	writetext Text_IncompatibleRooms
-	special CloseLink
-	closetext
-	end
-
-.OK:
-	special EnterTimeCapsule
-	writetext Text_PleaseComeIn
-	waitbutton
-	closetext
-	readvar VAR_FACING
-	ifequal LEFT, .FacingLeft
-	ifequal RIGHT, .FacingRight
-	applymovementlasttalked Pokecenter2FMovementData_ReceptionistStepsLeftLooksDown
-	applymovement PLAYER, Pokecenter2FMovementData_PlayerTakesTwoStepsUp
-	warpcheck
-	end
-
-.FriendNotReady:
-	special WaitForOtherPlayerToExit
-	writetext YourFriendIsNotReadyText
-	closetext
-	end
-
-.LinkTimedOut:
-	writetext Text_LinkTimedOut
-	sjump .Cancel
-
-.DidNotSave:
-	writetext Text_PleaseComeAgain
-.Cancel:
-	special WaitForOtherPlayerToExit
-	closetext
-	end
-
-.MonTooNew:
-	writetext Text_RejectNewMon
-	closetext
-	end
-
-.MonMoveTooNew:
-	writetext Text_RejectMonWithNewMove
-	closetext
-	end
-
-.MonHasMail:
-	writetext Text_RejectMonWithMail
-	closetext
-	end
-
-.FacingLeft:
-	applymovementlasttalked Pokecenter2FMovementData_ReceptionistStepsLeftLooksDown
-	applymovement PLAYER, Pokecenter2FMovementData_PlayerWalksLeftAndUp
-	warpcheck
-	end
-
-.FacingRight:
-	applymovementlasttalked Pokecenter2FMovementData_ReceptionistStepsRightLooksDown
-	applymovement PLAYER, Pokecenter2FMovementData_PlayerWalksRightAndUp
-	warpcheck
-	end
-
 Script_LeftCableTradeCenter:
 	special WaitForOtherPlayerToExit
 	applymovement POKECENTER2F_TRADE_RECEPTIONIST, Pokecenter2FMovementData_ReceptionistStepsRightLooksDown_3
@@ -293,15 +189,6 @@ Script_LeftCableColosseum:
 	applymovement POKECENTER2F_BATTLE_RECEPTIONIST, Pokecenter2FMovementData_ReceptionistStepsRightAndDown
 	setscene SCENE_POKECENTER2F_CHECK_MYSTERY_GIFT
 	setmapscene COLOSSEUM, SCENE_COLOSSEUM_INITIALIZE
-	end
-
-Script_LeftTimeCapsule:
-	special WaitForOtherPlayerToExit
-	applymovement POKECENTER2F_TIME_CAPSULE_RECEPTIONIST, Pokecenter2FMovementData_ReceptionistStepsLeftLooksRight
-	applymovement PLAYER, Pokecenter2FMovementData_PlayerTakesTwoStepsDown
-	applymovement POKECENTER2F_TIME_CAPSULE_RECEPTIONIST, Pokecenter2FMovementData_ReceptionistStepsRightLooksDown_2
-	setscene SCENE_POKECENTER2F_CHECK_MYSTERY_GIFT
-	setmapscene TIME_CAPSULE, SCENE_TIMECAPSULE_INITIALIZE
 	end
 
 Pokecenter2FLinkRecordSign:
@@ -427,18 +314,6 @@ Text_TradeReceptionistIntro:
 	line "trade?"
 	done
 
-Text_TimeCapsuleReceptionistIntro:
-	text "Welcome to CABLE"
-	line "CLUB TIME CAPSULE."
-
-	para "You can travel to"
-	line "the past and trade"
-	cont "your #MON."
-
-	para "Would you like to"
-	line "trade across time?"
-	done
-
 YourFriendIsNotReadyText:
 	text "Your friend is not"
 	line "ready."
@@ -468,16 +343,6 @@ Text_PleaseComeAgain:
 	text "Please come again."
 	prompt
 
-Text_PleaseComeInDuplicate: ; unreferenced
-	text "Please come in."
-	prompt
-
-Text_TemporaryStagingInLinkRoom: ; unreferenced
-	text "We'll put you in"
-	line "the link room for"
-	cont "the time being."
-	done
-
 Text_CantLinkToThePast:
 	text "You can't link to"
 	line "the past here."
@@ -490,41 +355,6 @@ Text_IncompatibleRooms:
 
 Text_PleaseComeIn:
 	text "Please come in."
-	done
-
-Text_PleaseEnter: ; unreferenced
-	text "Please enter."
-	prompt
-
-Text_RejectNewMon:
-	text "Sorry--@"
-	text_ram wStringBuffer1
-	text_start
-	line "can't be taken."
-	prompt
-
-Text_RejectMonWithNewMove:
-	text "You can't take the"
-	line "@"
-	text_ram wStringBuffer1
-	text " with a"
-	cont "@"
-	text_ram wStringBuffer2
-	text "."
-	prompt
-
-Text_RejectMonWithMail:
-	text "You can't take the"
-	line "@"
-	text_ram wStringBuffer1
-	text " that"
-	cont "has MAIL with you."
-	prompt
-
-Text_TimeCapsuleClosed:
-	text "I'm sorry--the"
-	line "TIME CAPSULE is"
-	cont "being adjusted."
 	done
 
 Text_TradeRoomClosed:
@@ -576,18 +406,16 @@ Pokecenter2F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 14,  0, POKECENTER_2F, -1
-	warp_event  5,  0, TRADE_CENTER, 1
-	warp_event  9,  0, COLOSSEUM, 1
-	warp_event 13,  2, TIME_CAPSULE, 1
+	warp_event 12,  0, POKECENTER_2F, -1
+	warp_event  4,  0, TRADE_CENTER, 1
+	warp_event  8,  0, COLOSSEUM, 1
 
 	def_coord_events
 
 	def_bg_events
-	bg_event  7,  3, BGEVENT_READ, Pokecenter2FLinkRecordSign
 
 	def_object_events
-	object_event  5,  2, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, LinkReceptionistScript_Trade, -1
-	object_event  9,  2, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, LinkReceptionistScript_Battle, -1
-	object_event 13,  3, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, PAL_NPC_GREEN, OBJECTTYPE_SCRIPT, 0, LinkReceptionistScript_TimeCapsule, -1
+	object_event  4,  2, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, LinkReceptionistScript_Trade, -1
+	object_event  8,  2, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, LinkReceptionistScript_Battle, -1
 	object_event  1,  1, SPRITE_OFFICER, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Pokecenter2FOfficerScript, EVENT_MYSTERY_GIFT_DELIVERY_GUY
+	object_event  6,  2, SPRITE_CLIPBOARD, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Pokecenter2FLinkRecordSign, -1

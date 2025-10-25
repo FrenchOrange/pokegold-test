@@ -9,7 +9,7 @@ OverworldSprites:
 	table_width NUM_SPRITEDATA_FIELDS
 	overworld_sprite ChrisSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	overworld_sprite ChrisBikeSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
-	overworld_sprite GameboyKidSpriteGFX, 12, STANDING_SPRITE, PAL_OW_GREEN
+	overworld_sprite ClipboardSpriteGFX, 12, STILL_SPRITE, PAL_OW_GREEN
 	overworld_sprite CherenSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	overworld_sprite JuniperSpriteGFX, 12, WALKING_SPRITE, PAL_OW_BROWN
 	overworld_sprite GhetsisSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED

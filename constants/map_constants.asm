@@ -277,12 +277,11 @@ ENDM
 	endgroup
 
 	newgroup CABLE_CLUB                                           ; 20
-	map_const POKECENTER_2F,                                8,  4 ;  1
+	map_const POKECENTER_2F,                                7,  4 ;  1
 	map_const TRADE_CENTER,                                 5,  4 ;  2
 	map_const COLOSSEUM,                                    5,  4 ;  3
-	map_const TIME_CAPSULE,                                 5,  4 ;  4
-	map_const TRAINER_HOUSE_1F,                             5,  7 ;  5
-	map_const TRAINER_HOUSE_B1F,                            5,  8 ;  6
+	map_const TRAINER_HOUSE_1F,                             5,  7 ;  4
+	map_const TRAINER_HOUSE_B1F,                            5,  8 ;  5
 	endgroup
 
 	newgroup CELADON                                              ; 21

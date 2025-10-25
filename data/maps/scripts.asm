@@ -314,7 +314,6 @@ SECTION "Map Scripts 28", ROMX
 INCLUDE "maps/Pokecenter2F.asm"
 INCLUDE "maps/TradeCenter.asm"
 INCLUDE "maps/Colosseum.asm"
-INCLUDE "maps/TimeCapsule.asm"
 
 
 SECTION "Map Scripts 29", ROMX

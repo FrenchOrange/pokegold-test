@@ -4,7 +4,7 @@
 	const SPRITE_NONE              ; 00
 	const SPRITE_CHRIS             ; (TEMP) 01
 	const SPRITE_CHRIS_BIKE        ; (TEMP) 02
-	const SPRITE_GAMEBOY_KID       ; (TEMP) 03
+	const SPRITE_CLIPBOARD         ; 03
 	const SPRITE_CHEREN            ; (TEMP) 04
 	const SPRITE_JUNIPER           ; (TEMP) 05
 	const SPRITE_GHETSIS           ; (TEMP) 06

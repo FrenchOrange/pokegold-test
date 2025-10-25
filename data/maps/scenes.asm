@@ -8,7 +8,6 @@ MapScenes::
 	scene_var POKECENTER_2F,                               wPokecenter2FSceneID
 	scene_var TRADE_CENTER,                                wTradeCenterSceneID
 	scene_var COLOSSEUM,                                   wColosseumSceneID
-	scene_var TIME_CAPSULE,                                wTimeCapsuleSceneID
 	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
 	scene_var ROUTE_24,                                    wRoute24SceneID ; unused
@@ -48,6 +47,7 @@ MapScenes::
 	scene_var SPROUT_TOWER_3F,                             wSproutTower3FSceneID ; unused
 	scene_var BURNED_TOWER_1F,                             wBurnedTower1FSceneID ; unused
 	scene_var BURNED_TOWER_B1F,                            wBurnedTowerB1FSceneID ; unused
+	scene_var RADIO_TOWER_4F,                              wRadioTower4FSceneID ; unused
 	scene_var RADIO_TOWER_5F,                              wRadioTower5FSceneID ; unused
 	scene_var RUINS_OF_ALPH_OUTSIDE,                       wRuinsOfAlphOutsideSceneID ; unused
 	scene_var RUINS_OF_ALPH_RESEARCH_CENTER,               wRuinsOfAlphResearchCenterSceneID ; unused

@@ -2,7 +2,7 @@ SECTION "Sprites 1", ROMX
 
 ChrisSpriteGFX::               INCBIN "gfx/sprites/chris.2bpp"
 ChrisBikeSpriteGFX::           INCBIN "gfx/sprites/chris_bike.2bpp"
-GameboyKidSpriteGFX::          INCBIN "gfx/sprites/gameboy_kid.2bpp"
+ClipboardSpriteGFX::           INCBIN "gfx/sprites/clipboard.2bpp"
 CherenSpriteGFX::              INCBIN "gfx/sprites/cheren.2bpp"
 JuniperSpriteGFX::             INCBIN "gfx/sprites/juniper.2bpp"
 GhetsisSpriteGFX::             INCBIN "gfx/sprites/ghetsis.2bpp"
