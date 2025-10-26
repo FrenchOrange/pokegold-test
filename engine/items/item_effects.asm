@@ -91,7 +91,7 @@ ItemEffects:
 	dw NoEffect            ; DEEPSEASCALE
 	dw NoEffect            ; SOFT_SAND
 	dw NoEffect            ; SHARP_BEAK
-	dw StatusHealingEffect ; PRZCUREBERRY
+	dw StatusHealingEffect ; CHERI_BERRY
 	dw StatusHealingEffect ; ASPEAR_BERRY
 	dw StatusHealingEffect ; RAWST_BERRY
 	dw NoEffect            ; POISON_BARB

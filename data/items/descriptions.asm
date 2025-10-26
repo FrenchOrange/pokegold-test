@@ -179,7 +179,7 @@ ItemDescriptions:
 	dw TeruSamaDesc
 	dw DiveBallDesc
 	dw DarkStoneDesc
-	dw TeruSama28Desc
+	dw TeruSamaDesc
 	dw BrickPieceDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
@@ -280,9 +280,6 @@ PokeBallDesc:
 	db   "An item for catch-"
 	next "ing #MON.@"
 
-TeruSama1Desc:
-	db   "?@"
-
 BicycleDesc:
 	db   "A collapsible bike"
 	next "for fast movement.@"
@@ -342,9 +339,6 @@ RepelDesc:
 MaxElixirDesc:
 	db   "Fully restores the"
 	next "PP of one #MON.@"
-
-TeruSama2Desc:
-	db   "?@"
 
 HPUpDesc:
 	db   "Raises the HP of"
@@ -418,9 +412,6 @@ DireHitDesc:
 	db   "Ups critical hit"
 	next "ratio. (1 BTL)@"
 
-TeruSama3Desc:
-	db   "?@"
-
 FreshWaterDesc:
 	db   "Restores #MON"
 	next "HP by 50.@"
@@ -436,9 +427,6 @@ LemonadeDesc:
 XAttackDesc:
 	db   "Raises ATTACK."
 	next "(1 BTL)@"
-
-TeruSama4Desc:
-	db   "?@"
 
 XDefendDesc:
 	db   "Raises DEFENSE."
@@ -459,9 +447,6 @@ CoinCaseDesc:
 ItemfinderDesc:
 	db   "Checks for unseen"
 	next "items in the area.@"
-
-TeruSama5Desc:
-	db   "?@"
 
 ExpShareDesc:
 	db   "Shares battle EXP."
@@ -506,9 +491,6 @@ LibertyPassDesc:
 MysteryEggDesc:
 	db   "An EGG obtained"
 	next "from MR.#MON.@"
-
-TeruSama6Desc:
-	db   "?@"
 
 LightStoneDesc:
 	db   "A stone containing"
@@ -737,9 +719,6 @@ MachinePartDesc:
 	db   "A machine part for"
 	next "the POWER PLANT.@"
 
-TeruSama12Desc:
-	db   "?@"
-
 DragonSkullDesc:
 	db   "A skull of a brave"
 	next "#MON.@"
@@ -796,9 +775,6 @@ DragonFangDesc:
 	db   "Powers up dragon-"
 	next "type moves. (HOLD)@"
 
-TeruSama18Desc:
-	db   "?@"
-
 LeftoversDesc:
 	db   "Restores HP during"
 	next "battle. (HOLD)@"
@@ -822,15 +798,6 @@ LeppaBerryDesc:
 DragonScaleDesc:
 	db   "A rare dragon-type"
 	next "item.@"
-
-TeruSama22Desc:
-	db   "?@"
-
-TeruSama23Desc:
-	db   "?@"
-
-TeruSama24Desc:
-	db   "?@"
 
 SacredAshDesc:
 	db   "Fully revives all"
@@ -856,9 +823,6 @@ QuickBallDesc:
 	db   "A BALL for early"
 	next "in a battle.@"
 
-TeruSama25Desc:
-	db   "?@"
-
 HealBallDesc:
 	db   "A remedial BALL to"
 	next "heal #mon.@"
@@ -879,9 +843,6 @@ PolkadotBowDesc:
 	db   "Powers up normal-"
 	next "type moves. (HOLD)@"
 
-TeruSama26Desc:
-	db   "?@"
-
 UpGradeDesc:
 	db   "A mysterious box"
 	next "made by SILPH CO.@"
@@ -898,9 +859,6 @@ GramDesc:
 	db   "Important letter"
 	next "that WINGULL lost.@"
 
-TeruSama27Desc:
-	db   "?@"
-
 DiveBallDesc:
 	db   "The Bug-Catching"
 	next "Contest BALL.@"
@@ -908,9 +866,6 @@ DiveBallDesc:
 DarkStoneDesc:
 	db   "A stone containing"
 	next "ZEKROM's essence.@"
-
-TeruSama28Desc:
-	db   "?@"
 
 BrickPieceDesc:
 	db   "A rare chunk of"

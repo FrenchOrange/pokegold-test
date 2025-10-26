@@ -7910,7 +7910,7 @@ ExitBattle:
 	xor a
 	ld [wForceEvolution], a
 	predef EvolveAfterBattle
-	farcall GivePokerusAndConvertBerries
+	farcall GivePokerus
 
 .CleanUpBattleRAM:
 	call BattleEnd_HandleRoamMons

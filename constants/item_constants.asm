@@ -75,12 +75,12 @@
 	const SECRETPOTION ; (TEMP) 43
 	const LIBERTY_PASS ; 44
 	const MYSTERY_EGG  ; (TEMP) 45
-	const DEEPSEASCALE ; 46
+	const ITEM_46      ; 46
 	const LIGHT_STONE  ; 47
 	const MOOMOO_MILK  ; 48
 	const QUICK_CLAW   ; 49
 	const PECHA_BERRY  ; 4a
-	const GOLD_LEAF    ; 4b
+	const DEEPSEASCALE ; 4b
 	const SOFT_SAND    ; 4c
 	const SHARP_BEAK   ; 4d
 	const CHERI_BERRY  ; 4e
