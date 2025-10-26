@@ -6,9 +6,9 @@ ItemDescriptions:
 	dw BrightpowderDesc
 	dw GreatBallDesc
 	dw PokeBallDesc
-	dw TeruSama1Desc
+	dw TeruSamaDesc
 	dw BicycleDesc
-	dw MoonStoneDesc
+	dw EvoStoneDesc
 	dw AntidoteDesc
 	dw BurnHealDesc
 	dw IceHealDesc
@@ -22,10 +22,10 @@ ItemDescriptions:
 	dw EscapeRopeDesc
 	dw RepelDesc
 	dw MaxElixirDesc
-	dw FireStoneDesc
-	dw ThunderStoneDesc
-	dw WaterStoneDesc
-	dw TeruSama2Desc
+	dw EvoStoneDesc
+	dw EvoStoneDesc
+	dw EvoStoneDesc
+	dw TeruSamaDesc
 	dw HPUpDesc
 	dw ProteinDesc
 	dw IronDesc
@@ -34,7 +34,7 @@ ItemDescriptions:
 	dw CalciumDesc
 	dw RareCandyDesc
 	dw XAccuracyDesc
-	dw LeafStoneDesc
+	dw EvoStoneDesc
 	dw MetalPowderDesc
 	dw NuggetDesc
 	dw PokeDollDesc
@@ -45,22 +45,22 @@ ItemDescriptions:
 	dw SuperRepelDesc
 	dw MaxRepelDesc
 	dw DireHitDesc
-	dw TeruSama3Desc
+	dw TeruSamaDesc
 	dw FreshWaterDesc
 	dw SodaPopDesc
 	dw LemonadeDesc
 	dw XAttackDesc
-	dw TeruSama4Desc
+	dw TeruSamaDesc
 	dw XDefendDesc
 	dw XSpeedDesc
 	dw XSpecialDesc
 	dw CoinCaseDesc
 	dw ItemfinderDesc
-	dw TeruSama5Desc
+	dw TeruSamaDesc
 	dw ExpShareDesc
-	dw TeruSama5Desc
-	dw TeruSama5Desc
-	dw SilverLeafDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw DeepSeaToothDesc
 	dw SuperRodDesc
 	dw PPUpDesc
 	dw EtherDesc
@@ -70,12 +70,12 @@ ItemDescriptions:
 	dw SecretPotionDesc
 	dw LibertyPassDesc
 	dw MysteryEggDesc
-	dw TeruSama6Desc
+	dw TeruSamaDesc
 	dw LightStoneDesc
 	dw MoomooMilkDesc
 	dw QuickClawDesc
 	dw PechaBerryDesc
-	dw GoldLeafDesc
+	dw DeepSeaScaleDesc
 	dw SoftSandDesc
 	dw SharpBeakDesc
 	dw CheriBerryDesc
@@ -115,8 +115,8 @@ ItemDescriptions:
 	dw EverStoneDesc
 	dw SpellTagDesc
 	dw RageCandyBarDesc
-	dw ShinyStoneDesc
-	dw DuskStoneDesc
+	dw EvoStoneDesc
+	dw EvoStoneDesc
 	dw MiracleSeedDesc
 	dw ThickClubDesc
 	dw FocusBandDesc
@@ -129,15 +129,15 @@ ItemDescriptions:
 	dw LuckyEggDesc
 	dw CardKeyDesc
 	dw MachinePartDesc
-	dw TeruSama12Desc
+	dw TeruSamaDesc
 	dw DragonSkullDesc
 	dw StardustDesc
 	dw StarPieceDesc
 	dw BasementKeyDesc
-	dw DouseDriveDesc
-	dw ShockDriveDesc
-	dw BurnDriveDesc
-	dw ChillDriveDesc
+	dw PlasmaDriveDesc
+	dw MagmarizerDesc
+	dw ElectirizerDesc
+	dw EvoStoneDesc
 	dw CharcoalDesc
 	dw BerryJuiceDesc
 	dw ScopeLensDesc
@@ -145,7 +145,7 @@ ItemDescriptions:
 	dw GreenShardDesc
 	dw MetalCoatDesc
 	dw DragonFangDesc
-	dw TeruSama18Desc
+	dw TeruSamaDesc
 	dw LeftoversDesc
 	dw PlumeFossilDesc
 	dw CoverFossilDesc
@@ -153,111 +153,111 @@ ItemDescriptions:
 	dw LeppaBerryDesc
 	dw DragonScaleDesc
 	dw CasteliaConeDesc
-	dw TeruSama22Desc
-	dw TeruSama23Desc
-	dw TeruSama24Desc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	dw SacredAshDesc
 	dw TimerBallDesc
 	dw MailDesc
 	dw NestBallDesc
 	dw NetBallDesc
 	dw QuickBallDesc
-	dw TeruSama25Desc
+	dw TeruSamaDesc
 	dw HealBallDesc
 	dw LuxuryBallDesc
 	dw DuskBallDesc
 	dw RepeatBallDesc
 	dw RazorClawDesc
 	dw RazorFangDesc
-	dw SunStoneDesc
+	dw EvoStoneDesc
 	dw PolkadotBowDesc
-	dw TeruSama26Desc
+	dw TeruSamaDesc
 	dw UpGradeDesc
 	dw OranBerryDesc
 	dw SitrusBerryDesc
 	dw GramDesc
-	dw TeruSama27Desc
+	dw TeruSamaDesc
 	dw DiveBallDesc
 	dw DarkStoneDesc
 	dw TeruSama28Desc
 	dw BrickPieceDesc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama29Desc
-	dw TeruSama30Desc
-	dw TeruSama30Desc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	assert_table_length NUM_ITEMS
-	dw TeruSama30Desc
-	dw TeruSama30Desc
-	dw TeruSama30Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama31Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama32Desc
-	dw TeruSama33Desc
-	dw TeruSama34Desc
-	dw TeruSama35Desc
-	dw TeruSama36Desc
-	dw TeruSama37Desc
-	dw TeruSama37Desc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	assert_table_length $100
 
 MasterBallDesc:
@@ -287,14 +287,7 @@ BicycleDesc:
 	db   "A collapsible bike"
 	next "for fast movement.@"
 
-MoonStoneDesc:
-FireStoneDesc:
-ThunderStoneDesc:
-WaterStoneDesc:
-LeafStoneDesc:
-ShinyStoneDesc:
-DuskStoneDesc:
-SunStoneDesc:
+EvoStoneDesc:
 	db   "Evolves certain"
 	next "kinds of #MON.@"
 
@@ -474,9 +467,9 @@ ExpShareDesc:
 	db   "Shares battle EXP."
 	next "points. (HOLD)@"
 
-SilverLeafDesc:
-	db   "A strange, silver-"
-	next "colored leaf.@"
+DeepSeaToothDesc:
+	db   "Raises CLAMPERL's"
+	next "SP.ATK. (HOLD)@"
 
 SuperRodDesc:
 	db   "High-tech ROD for"
@@ -533,9 +526,9 @@ PechaBerryDesc:
 	db   "A self-cure for"
 	next "poison. (HOLD)@"
 
-GoldLeafDesc:
-	db   "A strange, gold-"
-	next "colored leaf.@"
+DeepSeaScaleDesc:
+	db   "Raises CLAMPERL's"
+	next "SP.DEF. (HOLD)@"
 
 SoftSandDesc:
 	db   "Powers up ground-"
@@ -762,21 +755,17 @@ StarPieceDesc:
 BasementKeyDesc:
 	db   "Opens doors.@"
 
-DouseDriveDesc:
-	db   "TECHNO BLAST's type"
-	next "becomes WATER.@"
+PlasmaDriveDesc:
+	db   "Boosts ATTACK but"
+	next "causes confusion.@"
 
-ShockDriveDesc:
-	db   "TECHNO BLAST's type"
-	next "becomes ELECTRIC.@"
+MagmarizerDesc:
+	db   "A box packed with"
+	next "magma energy.@"
 
-BurnDriveDesc:
-	db   "TECHNO BLAST's type"
-	next "becomes FIRE.@"
-
-ChillDriveDesc:
-	db   "TECHNO BLAST's type"
-	next "becomes ICE.@"
+ElectirizerDesc:
+	db   "A box packed with"
+	next "electric energy.@"
 
 CharcoalDesc:
 	db   "Powers up fire-"
@@ -927,29 +916,5 @@ BrickPieceDesc:
 	db   "A rare chunk of"
 	next "brick.@"
 
-TeruSama29Desc:
-	db   "?@"
-
-TeruSama30Desc:
-	db   "?@"
-
-TeruSama31Desc:
-	db   "?@"
-
-TeruSama32Desc:
-	db   "?@"
-
-TeruSama33Desc:
-	db   "?@"
-
-TeruSama34Desc:
-	db   "?@"
-
-TeruSama35Desc:
-	db   "?@"
-
-TeruSama36Desc:
-	db   "?@"
-
-TeruSama37Desc:
+TeruSamaDesc:
 	db   "?@"
