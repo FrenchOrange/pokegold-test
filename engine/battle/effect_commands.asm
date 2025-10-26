@@ -2667,9 +2667,14 @@ PlayerAttackDamage:
 
 .special
 	ld hl, wEnemyMonSpclDef
+	call CheckDamageStatsCritical
+	jr c, .deepseascale
+
+	ld hl, wEnemySpAtk
 	ld a, [hli]
 	ld b, a
 	ld c, [hl]
+	ld hl, wPlayerSpDef
 
 	ld a, [wEnemyScreens]
 	bit SCREENS_LIGHT_SCREEN, a
@@ -2688,9 +2693,14 @@ PlayerAttackDamage:
 	ld c, [hl]
 	ld hl, wPlayerSpAtk
 
+.deepseascale
+; Note: Returns player special defense at hl in hl.
+	call DeepSeaScaleBoost
+	jr .done
+
 .deepseatooth
 ; Note: Returns player special attack at hl in hl.
-	call DeepSeaBoost
+	call DeepSeaToothBoost
 	jr .done
 
 .thickclub
@@ -2803,7 +2813,7 @@ ThickClubBoost:
 	pop bc
 	ret
 
-DeepSeaBoost:
+DeepSeaToothBoost:
 ; Return in hl the stat value at hl.
 
 ; If the attacking monster is Clamperl and it's
@@ -2813,6 +2823,22 @@ DeepSeaBoost:
 	ld b, SHELLDER ; CLAMPERL
 	ld c, SHELLDER ; CLAMPERL
 	ld d, DEEPSEATOOTH
+	call SpeciesItemBoost
+	pop de
+	pop bc
+	ret
+	ret
+
+DeepSeaScaleBoost:
+; Return in hl the stat value at hl.
+
+; If the attacking monster is Clamperl and it's
+; holding a DeepSeaTooth/Scale, double it.
+	push bc
+	push de
+	ld b, SHELLDER ; CLAMPERL
+	ld c, SHELLDER ; CLAMPERL
+	ld d, DEEPSEASCALE
 	call SpeciesItemBoost
 	pop de
 	pop bc
@@ -2899,9 +2925,14 @@ EnemyAttackDamage:
 
 .special
 	ld hl, wBattleMonSpclDef
+	call CheckDamageStatsCritical
+	jr c, .deepseascale
+
+	ld hl, wPlayerSpAtk
 	ld a, [hli]
 	ld b, a
 	ld c, [hl]
+	ld hl, wEnemySpDef
 
 	ld a, [wPlayerScreens]
 	bit SCREENS_LIGHT_SCREEN, a
@@ -2920,8 +2951,12 @@ EnemyAttackDamage:
 	ld c, [hl]
 	ld hl, wEnemySpAtk
 
+.deepseascale
+	call DeepSeaScaleBoost
+	jr .done
+
 .deepseatooth
-	call DeepSeaBoost
+	call DeepSeaToothBoost
 	jr .done
 
 .thickclub
