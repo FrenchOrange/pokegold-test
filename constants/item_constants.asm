@@ -35,7 +35,7 @@
 	const PROTEIN      ; 1b
 	const IRON         ; 1c
 	const CARBOS       ; 1d
-	const LUCKY_PUNCH  ; (TEMP) 1e
+	const ITEM_1E      ; (TEMP) 1e
 	const CALCIUM      ; 1f
 	const RARE_CANDY   ; 20
 	const X_ACCURACY   ; 21
@@ -71,10 +71,10 @@
 	const ETHER        ; 3f
 	const MAX_ETHER    ; 40
 	const ELIXIR       ; 41
-	const RED_SCALE    ; (TEMP) 42
-	const SECRETPOTION ; (TEMP) 43
+	const ITEM_42      ; (TEMP) 42
+	const ITEM_43      ; (TEMP) 43
 	const LIBERTY_PASS ; 44
-	const MYSTERY_EGG  ; (TEMP) 45
+	const ITEM_45      ; (TEMP) 45
 	const ITEM_46      ; 46
 	const LIGHT_STONE  ; 47
 	const MOOMOO_MILK  ; 48
@@ -87,7 +87,7 @@
 	const ASPEAR_BERRY ; 4f
 	const RAWST_BERRY  ; 50
 	const POISON_BARB  ; 51
-	const KINGS_ROCK   ; (TEMP) 52
+	const ITEM_52      ; (TEMP) 52
 	const PERSIM_BERRY ; 53
 	const CHESTO_BERRY ; 54
 	const RELIC_COPPER ; 55
@@ -108,9 +108,9 @@
 	const BLUE_SHARD   ; 64
 	const RELIC_CROWN  ; 65
 	const BLACKGLASSES ; 66
-	const SLOWPOKETAIL ; (TEMP) 67
+	const ITEM_67      ; (TEMP) 67
 	const SILK_SCARF   ; 68
-	const STICK        ; (TEMP) 69
+	const ITEM_69      ; (TEMP) 69
 	const SMOKE_BALL   ; 6a
 	const NEVERMELTICE ; 6b
 	const MAGNET       ; 6c
@@ -123,7 +123,7 @@
 	const SHINY_STONE  ; 73
 	const DUSK_STONE   ; 74
 	const MIRACLE_SEED ; 75
-	const THICK_CLUB   ; (TEMP) 76
+	const ITEM_76      ; (TEMP) 76
 	const FOCUS_BAND   ; 77
 	const EVIOLITE     ; 78
 	const ENERGYPOWDER ; 79
@@ -132,13 +132,13 @@
 	const REVIVAL_HERB ; 7c
 	const HARD_STONE   ; 7d
 	const LUCKY_EGG    ; 7e
-	const CARD_KEY     ; (TEMP) 7f
-	const MACHINE_PART ; (TEMP) 80
+	const ITEM_7F      ; (TEMP) 7f
+	const ITEM_80      ; (TEMP) 80
 	const ITEM_81      ; (TEMP) 81
 	const DRAGON_SKULL ; 82
 	const STARDUST     ; 83
 	const STAR_PIECE   ; 84
-	const BASEMENT_KEY ; (TEMP) 85
+	const ITEM_85      ; (TEMP) 85
 	const PLASMA_DRIVE ; 86
 	const MAGMARIZER   ; 87
 	const ELECTIRIZER  ; 88
@@ -148,7 +148,7 @@
 	const SCOPE_LENS   ; (TEMP) 8c
 	const YELLOW_SHARD ; 8d
 	const GREEN_SHARD  ; 8e
-	const METAL_COAT   ; (TEMP) 8f
+	const ITEM_8F      ; (TEMP) 8f
 	const DRAGON_FANG  ; 90
 	const ITEM_91      ; (TEMP) 91
 	const LEFTOVERS    ; 92
@@ -156,12 +156,12 @@
 	const COVER_FOSSIL ; 94
 	const HEART_SCALE  ; 95
 	const LEPPA_BERRY  ; 96
-	const DRAGON_SCALE ; (TEMP) 97
+	const ITEM_97      ; (TEMP) 97
 	const CASTELIACONE ; 98
 	const ITEM_99      ; (TEMP) 99
 	const ITEM_9A      ; (TEMP) 9a
 	const ITEM_9B      ; (TEMP) 9b
-	const SACRED_ASH   ; (TEMP) 9c
+	const ITEM_9C      ; (TEMP) 9c
 	const TIMER_BALL   ; 9d
 	const MAIL         ; 9e
 	const NEST_BALL    ; 9f
@@ -175,9 +175,9 @@
 	const RAZOR_CLAW   ; a7
 	const RAZOR_FANG   ; a8
 	const SUN_STONE    ; a9
-	const POLKADOT_BOW ; (TEMP) aa
+	const ITEM_AA      ; (TEMP) aa
 	const ITEM_AB      ; (TEMP) ab
-	const UP_GRADE     ; (TEMP) ac
+	const ITEM_AC      ; (TEMP) ac
 	const ORAN_BERRY   ; ad
 	const SITRUS_BERRY ; ae
 	const GRAM         ; af
@@ -185,7 +185,7 @@
 	const DIVE_BALL    ; b1
 	const DARK_STONE   ; b2
 	const ITEM_B3      ; (TEMP) b3
-	const BRICK_PIECE  ; (TEMP) b4
+	const ITEM_B4      ; (TEMP) b4
 	const ITEM_B5      ; (TEMP) b5
 	const ITEM_B6      ; (TEMP) b6
 	const ITEM_B7      ; (TEMP) b7

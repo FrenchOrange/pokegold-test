@@ -30,7 +30,7 @@ ItemDescriptions:
 	dw ProteinDesc
 	dw IronDesc
 	dw CarbosDesc
-	dw LuckyPunchDesc
+	dw TeruSamaDesc
 	dw CalciumDesc
 	dw RareCandyDesc
 	dw XAccuracyDesc
@@ -66,10 +66,10 @@ ItemDescriptions:
 	dw EtherDesc
 	dw MaxEtherDesc
 	dw ElixirDesc
-	dw RedScaleDesc
-	dw SecretPotionDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	dw LibertyPassDesc
-	dw MysteryEggDesc
+	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw LightStoneDesc
 	dw MoomooMilkDesc
@@ -82,7 +82,7 @@ ItemDescriptions:
 	dw AspearBerryDesc
 	dw RawstBerryDesc
 	dw PoisonBarbDesc
-	dw KingsRockDesc
+	dw TeruSamaDesc
 	dw PersimBerryDesc
 	dw ChestoBerryDesc
 	dw RelicCopperDesc
@@ -103,9 +103,9 @@ ItemDescriptions:
 	dw BlueShardDesc
 	dw RelicCrownDesc
 	dw BlackGlassesDesc
-	dw SlowpokeTailDesc
+	dw TeruSamaDesc
 	dw SilkScarfDesc
-	dw StickDesc
+	dw TeruSamaDesc
 	dw SmokeBallDesc
 	dw NeverMeltIceDesc
 	dw MagnetDesc
@@ -118,7 +118,7 @@ ItemDescriptions:
 	dw EvoStoneDesc
 	dw EvoStoneDesc
 	dw MiracleSeedDesc
-	dw ThickClubDesc
+	dw TeruSamaDesc
 	dw FocusBandDesc
 	dw EvioliteDesc
 	dw EnergyPowderDesc
@@ -127,13 +127,13 @@ ItemDescriptions:
 	dw RevivalHerbDesc
 	dw HardStoneDesc
 	dw LuckyEggDesc
-	dw CardKeyDesc
-	dw MachinePartDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw DragonSkullDesc
 	dw StardustDesc
 	dw StarPieceDesc
-	dw BasementKeyDesc
+	dw TeruSamaDesc
 	dw PlasmaDriveDesc
 	dw MagmarizerDesc
 	dw ElectirizerDesc
@@ -143,7 +143,7 @@ ItemDescriptions:
 	dw ScopeLensDesc
 	dw YellowShardDesc
 	dw GreenShardDesc
-	dw MetalCoatDesc
+	dw TeruSamaDesc
 	dw DragonFangDesc
 	dw TeruSamaDesc
 	dw LeftoversDesc
@@ -151,12 +151,12 @@ ItemDescriptions:
 	dw CoverFossilDesc
 	dw HeartScaleDesc
 	dw LeppaBerryDesc
-	dw DragonScaleDesc
+	dw TeruSamaDesc
 	dw CasteliaConeDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
-	dw SacredAshDesc
+	dw TeruSamaDesc
 	dw TimerBallDesc
 	dw MailDesc
 	dw NestBallDesc
@@ -170,9 +170,9 @@ ItemDescriptions:
 	dw RazorClawDesc
 	dw RazorFangDesc
 	dw EvoStoneDesc
-	dw PolkadotBowDesc
 	dw TeruSamaDesc
-	dw UpGradeDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	dw OranBerryDesc
 	dw SitrusBerryDesc
 	dw GramDesc
@@ -180,7 +180,7 @@ ItemDescriptions:
 	dw DiveBallDesc
 	dw DarkStoneDesc
 	dw TeruSamaDesc
-	dw BrickPieceDesc
+	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
@@ -356,10 +356,6 @@ CarbosDesc:
 	db   "Raises SPEED of"
 	next "one #MON.@"
 
-LuckyPunchDesc:
-	db   "Ups critical hit"
-	next "ratio of CHANSEY.@"
-
 CalciumDesc:
 	db   "Ups SPECIAL stats"
 	next "of one #MON.@"
@@ -476,21 +472,9 @@ ElixirDesc:
 	db   "Restores PP of all"
 	next "moves by 10.@"
 
-RedScaleDesc:
-	db   "A scale from the"
-	next "red GYARADOS.@"
-
-SecretPotionDesc:
-	db   "Fully heals any"
-	next "#MON.@"
-
 LibertyPassDesc:
 	db   "Special pass to go"
 	next "to LIBERTY GARDEN.@"
-
-MysteryEggDesc:
-	db   "An EGG obtained"
-	next "from MR.#MON.@"
 
 LightStoneDesc:
 	db   "A stone containing"
@@ -536,7 +520,6 @@ PoisonBarbDesc:
 	db   "Powers up poison-"
 	next "type moves. (HOLD)@"
 
-KingsRockDesc:
 RazorFangDesc:
 	db   "May make the foe"
 	next "flinch. (HOLD)@"
@@ -621,17 +604,9 @@ BlackGlassesDesc:
 	db   "Powers up dark-"
 	next "type moves. (HOLD)@"
 
-SlowpokeTailDesc:
-	db   "Very tasty. Sell"
-	next "high.@"
-
 SilkScarfDesc:
 	db   "Powers up normal-"
 	next "type moves. (HOLD)@"
-
-StickDesc:
-	db   "An ordinary stick."
-	next "Sell low.@"
 
 SmokeBallDesc:
 	db   "Escape from wild"
@@ -674,10 +649,6 @@ MiracleSeedDesc:
 	db   "Powers up grass-"
 	next "type moves. (HOLD)@"
 
-ThickClubDesc:
-	db   "A bone of some"
-	next "sort. Sell low.@"
-
 FocusBandDesc:
 	db   "May prevent faint-"
 	next "ing. (HOLD)@"
@@ -711,14 +682,6 @@ LuckyEggDesc:
 	db   "Earns extra EXP."
 	next "points. (HOLD)@"
 
-CardKeyDesc:
-	db   "Opens shutters in"
-	next "the RADIO TOWER.@"
-
-MachinePartDesc:
-	db   "A machine part for"
-	next "the POWER PLANT.@"
-
 DragonSkullDesc:
 	db   "A skull of a brave"
 	next "#MON.@"
@@ -730,9 +693,6 @@ StardustDesc:
 StarPieceDesc:
 	db   "A hunk of red gem."
 	next "Sell very high.@"
-
-BasementKeyDesc:
-	db   "Opens doors.@"
 
 PlasmaDriveDesc:
 	db   "Boosts ATTACK but"
@@ -767,10 +727,6 @@ GreenShardDesc:
 	db   "A small green"
 	next "shard. Sell low.@"
 
-MetalCoatDesc:
-	db   "Powers up steel-"
-	next "type moves. (HOLD)@"
-
 DragonFangDesc:
 	db   "Powers up dragon-"
 	next "type moves. (HOLD)@"
@@ -794,14 +750,6 @@ HeartScaleDesc:
 LeppaBerryDesc:
 	db   "A self-restore"
 	next "item. (10PP, HOLD)@"
-
-DragonScaleDesc:
-	db   "A rare dragon-type"
-	next "item.@"
-
-SacredAshDesc:
-	db   "Fully revives all"
-	next "fainted #MON.@"
 
 TimerBallDesc:
 	db   "A BALL for late"
@@ -839,14 +787,6 @@ RepeatBallDesc:
 	db   "A BALL for #MON"
 	next "caught before.@"
 
-PolkadotBowDesc:
-	db   "Powers up normal-"
-	next "type moves. (HOLD)@"
-
-UpGradeDesc:
-	db   "A mysterious box"
-	next "made by SILPH CO.@"
-
 OranBerryDesc:
 	db   "A self-restore"
 	next "item. (10HP, HOLD)@"
@@ -860,16 +800,12 @@ GramDesc:
 	next "that WINGULL lost.@"
 
 DiveBallDesc:
-	db   "The Bug-Catching"
-	next "Contest BALL.@"
+	db "A BALL for under-"
+	next "water #MON.@"
 
 DarkStoneDesc:
 	db   "A stone containing"
 	next "ZEKROM's essence.@"
-
-BrickPieceDesc:
-	db   "A rare chunk of"
-	next "brick.@"
 
 TeruSamaDesc:
 	db   "?@"

@@ -1155,37 +1155,9 @@ BattleCommand_Critical:
 
 	ldh a, [hBattleTurn]
 	and a
-	ld hl, wEnemyMonItem
-	ld a, [wEnemyMonSpecies]
-	jr nz, .Item
 	ld hl, wBattleMonItem
 	ld a, [wBattleMonSpecies]
 
-.Item:
-	ld c, 0
-
-	cp CHANSEY
-	jr nz, .Farfetchd
-	ld a, [hl]
-	cp LUCKY_PUNCH
-	jr nz, .FocusEnergy
-
-; +2 critical level
-	ld c, 2
-	jr .Tally
-
-.Farfetchd:
-	cp FARFETCH_D
-	jr nz, .FocusEnergy
-	ld a, [hl]
-	cp STICK
-	jr nz, .FocusEnergy
-
-; +2 critical level
-	ld c, 2
-	jr .Tally
-
-.FocusEnergy:
 	ld a, BATTLE_VARS_SUBSTATUS4
 	call GetBattleVar
 	bit SUBSTATUS_FOCUS_ENERGY, a
@@ -2656,14 +2628,11 @@ PlayerAttackDamage:
 .physicalcrit
 	ld hl, wBattleMonAttack
 	call CheckDamageStatsCritical
-	jr c, .thickclub
 
 	ld hl, wEnemyDefense
 	ld a, [hli]
 	ld b, a
 	ld c, [hl]
-	ld hl, wPlayerAttack
-	jr .thickclub
 
 .special
 	ld hl, wEnemyMonSpclDef
@@ -2701,11 +2670,6 @@ PlayerAttackDamage:
 .deepseatooth
 ; Note: Returns player special attack at hl in hl.
 	call DeepSeaToothBoost
-	jr .done
-
-.thickclub
-; Note: Returns player attack at hl in hl.
-	call ThickClubBoost
 
 .done
 	call TruncateHL_BC
@@ -2796,21 +2760,6 @@ CheckDamageStatsCritical:
 	cp b
 	pop bc
 	pop hl
-	ret
-
-ThickClubBoost:
-; Return in hl the stat value at hl.
-
-; If the attacking monster is Cubone or Marowak and
-; it's holding a Thick Club, double it.
-	push bc
-	push de
-	ld b, CUBONE
-	ld c, MAROWAK
-	ld d, THICK_CLUB
-	call SpeciesItemBoost
-	pop de
-	pop bc
 	ret
 
 DeepSeaToothBoost:
@@ -2914,14 +2863,11 @@ EnemyAttackDamage:
 .physicalcrit
 	ld hl, wEnemyMonAttack
 	call CheckDamageStatsCritical
-	jr c, .thickclub
 
 	ld hl, wPlayerDefense
 	ld a, [hli]
 	ld b, a
 	ld c, [hl]
-	ld hl, wEnemyAttack
-	jr .thickclub
 
 .special
 	ld hl, wBattleMonSpclDef
@@ -2957,10 +2903,6 @@ EnemyAttackDamage:
 
 .deepseatooth
 	call DeepSeaToothBoost
-	jr .done
-
-.thickclub
-	call ThickClubBoost
 
 .done
 	call TruncateHL_BC

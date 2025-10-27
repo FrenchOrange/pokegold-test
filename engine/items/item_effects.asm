@@ -43,7 +43,7 @@ ItemEffects:
 	dw VitaminEffect       ; PROTEIN
 	dw VitaminEffect       ; IRON
 	dw VitaminEffect       ; CARBOS
-	dw NoEffect            ; LUCKY_PUNCH
+	dw NoEffect            ; ITEM_1E
 	dw VitaminEffect       ; CALCIUM
 	dw RareCandyEffect     ; RARE_CANDY
 	dw XAccuracyEffect     ; X_ACCURACY
@@ -79,10 +79,10 @@ ItemEffects:
 	dw RestorePPEffect     ; ETHER
 	dw RestorePPEffect     ; MAX_ETHER
 	dw RestorePPEffect     ; ELIXIR
-	dw NoEffect            ; RED_SCALE
-	dw NoEffect            ; SECRETPOTION
+	dw NoEffect            ; ITEM_42
+	dw NoEffect            ; ITEM_43
 	dw NoEffect            ; LIBERTY_PASS
-	dw NoEffect            ; MYSTERY_EGG
+	dw NoEffect            ; ITEM_45
 	dw NoEffect            ; ITEM_46
 	dw NoEffect            ; LIGHT_STONE
 	dw RestoreHPEffect     ; MOOMOO_MILK
@@ -95,7 +95,7 @@ ItemEffects:
 	dw StatusHealingEffect ; ASPEAR_BERRY
 	dw StatusHealingEffect ; RAWST_BERRY
 	dw NoEffect            ; POISON_BARB
-	dw NoEffect            ; KINGS_ROCK
+	dw NoEffect            ; ITEM_52
 	dw BitterBerryEffect   ; PERSIM_BERRY
 	dw StatusHealingEffect ; CHESTO_BERRY
 	dw NoEffect            ; RELIC_COPPER
@@ -116,9 +116,9 @@ ItemEffects:
 	dw NoEffect            ; BLUE_SHARD
 	dw NoEffect            ; RELIC_CROWN
 	dw NoEffect            ; BLACKGLASSES
-	dw NoEffect            ; SLOWPOKETAIL
+	dw NoEffect            ; ITEM_67
 	dw NoEffect            ; SILK_SCARF
-	dw NoEffect            ; STICK
+	dw NoEffect            ; ITEM_69
 	dw NoEffect            ; SMOKE_BALL
 	dw NoEffect            ; NEVERMELTICE
 	dw NoEffect            ; MAGNET
@@ -131,7 +131,7 @@ ItemEffects:
 	dw EvoStoneEffect      ; SHINY_STONE
 	dw EvoStoneEffect      ; DUSK_STONE
 	dw NoEffect            ; MIRACLE_SEED
-	dw NoEffect            ; THICK_CLUB
+	dw NoEffect            ; ITEM_76
 	dw NoEffect            ; FOCUS_BAND
 	dw NoEffect            ; EVIOLITE
 	dw EnergypowderEffect  ; ENERGYPOWDER
@@ -140,13 +140,13 @@ ItemEffects:
 	dw RevivalHerbEffect   ; REVIVAL_HERB
 	dw NoEffect            ; HARD_STONE
 	dw NoEffect            ; LUCKY_EGG
-	dw CardKeyEffect       ; CARD_KEY
-	dw NoEffect            ; MACHINE_PART
+	dw NoEffect            ; ITEM_7F
+	dw NoEffect            ; ITEM_8O
 	dw NoEffect            ; ITEM_81
 	dw NoEffect            ; DRAGON_SKULL
 	dw NoEffect            ; STARDUST
 	dw NoEffect            ; STAR_PIECE
-	dw BasementKeyEffect   ; BASEMENT_KEY
+	dw NoEffect            ; ITEM_85
 	dw NoEffect            ; PLASMA_DRIVE
 	dw NoEffect            ; MAGMARIZER
 	dw NoEffect            ; ELECTIRIZER
@@ -156,7 +156,7 @@ ItemEffects:
 	dw NoEffect            ; SCOPE_LENS
 	dw NoEffect            ; YELLOW_SHARD
 	dw NoEffect            ; GREEN_SHARD
-	dw NoEffect            ; METAL_COAT
+	dw NoEffect            ; ITEM_8F
 	dw NoEffect            ; DRAGON_FANG
 	dw NoEffect            ; ITEM_91
 	dw NoEffect            ; LEFTOVERS
@@ -164,12 +164,12 @@ ItemEffects:
 	dw NoEffect            ; COVER_FOSSIL
 	dw NoEffect            ; HEART_SCALE
 	dw RestorePPEffect     ; LEPPA_BERRY
-	dw NoEffect            ; DRAGON_SCALE
+	dw NoEffect            ; ITEM_97
 	dw StatusHealingEffect ; CASTELIACONE
 	dw NoEffect            ; ITEM_99
 	dw NoEffect            ; ITEM_9A
 	dw NoEffect            ; ITEM_9B
-	dw SacredAshEffect     ; SACRED_ASH
+	dw NoEffect            ; ITEM_9C
 	dw PokeBallEffect      ; TIMER_BALL
 	dw NoEffect            ; MAIL
 	dw PokeBallEffect      ; NEST_BALL
@@ -183,9 +183,9 @@ ItemEffects:
 	dw NoEffect            ; RAZOR_CLAW
 	dw NoEffect            ; RAZOR_FANG
 	dw EvoStoneEffect      ; SUN_STONE
-	dw NoEffect            ; POLKADOT_BOW
+	dw NoEffect            ; ITEM_AA
 	dw NoEffect            ; ITEM_AB
-	dw NoEffect            ; UP_GRADE
+	dw NoEffect            ; ITEM_AC
 	dw RestoreHPEffect     ; ORAN_BERRY
 	dw RestoreHPEffect     ; SITRUS_BERRY
 	dw NoEffect            ; GRAM
@@ -193,7 +193,7 @@ ItemEffects:
 	dw PokeBallEffect      ; DIVE_BALL
 	dw NoEffect            ; DARK_STONE
 	dw NoEffect            ; ITEM_B3
-	dw NoEffect            ; BRICK_PIECE
+	dw NoEffect            ; ITEM_B4
 	dw NoEffect            ; ITEM_B5
 	dw NoEffect            ; ITEM_B6
 	dw NoEffect            ; ITEM_B7
@@ -2184,22 +2184,6 @@ PPsIncreasedText:
 PPRestoredText:
 	text_far _PPRestoredText
 	text_end
-
-CardKeyEffect:
-	farcall _CardKey
-	ret
-
-BasementKeyEffect:
-	farcall _BasementKey
-	ret
-
-SacredAshEffect:
-	farcall _SacredAsh
-	ld a, [wItemEffectSucceeded]
-	cp $1
-	ret nz
-	call UseDisposableItem
-	ret
 
 NoEffect:
 	jp IsntTheTimeMessage
