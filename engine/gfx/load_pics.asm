@@ -52,13 +52,6 @@ GetMonFrontpic:
 	call GetFrontpic
 	jp Load2bppToSRAM
 
-UnusedFrontpicPredef:
-	call GetFrontpic
-	push hl
-	farcall StubbedGetFrontpic
-	pop hl
-	jp Load2bppToSRAM
-
 GetFrontpic:
 	ld a, [wCurPartySpecies]
 	ld [wCurSpecies], a
@@ -78,8 +71,6 @@ GetFrontpic:
 	ld a, BANK(sDecompressBuffer)
 	call OpenSRAM
 
-	; These are assumed to be at the same address in their respective banks.
-	assert PokemonPicPointers == UnownPicPointers
 	ld hl, PokemonPicPointers
 	ld a, [wCurPartySpecies]
 	ld d, BANK(PokemonPicPointers)
@@ -92,6 +83,7 @@ GetFrontpic:
 	jr .ok
 
 .unown
+	ld hl, UnownPicPointers
 	ld a, [wUnownLetter]
 	ld d, BANK(UnownPicPointers)
 
@@ -138,13 +130,12 @@ GetMonBackpic:
 	ld a, BANK(sDecompressBuffer)
 	call OpenSRAM
 
-	; These are assumed to be at the same address in their respective banks.
-	assert PokemonPicPointers == UnownPicPointers
 	ld hl, PokemonPicPointers
 	ld a, [wCurPartySpecies]
 	ld d, BANK(PokemonPicPointers)
 	cp UNOWN
 	jr nz, .ok
+	ld hl, UnownPicPointers
 	ld a, [wUnownLetter]
 	ld d, BANK(UnownPicPointers)
 .ok
