@@ -8,10 +8,9 @@
 	const NO_ITEM      ; 00
 	const MASTER_BALL  ; 01
 	const ULTRA_BALL   ; 02
-	const BRIGHTPOWDER ; (TEMP) 03
+	const BRIGHTPOWDER ; 03
 	const GREAT_BALL   ; 04
 	const POKE_BALL    ; 05
-	const ITEM_O6      ; (TEMP) 06
 	const BICYCLE      ; 07
 	const MOON_STONE   ; 08
 	const ANTIDOTE     ; 09
@@ -30,17 +29,15 @@
 	const FIRE_STONE   ; 16
 	const THUNDERSTONE ; 17
 	const WATER_STONE  ; 18
-	const ITEM_19      ; (TEMP) 19
 	const HP_UP        ; 1a
 	const PROTEIN      ; 1b
 	const IRON         ; 1c
 	const CARBOS       ; 1d
-	const ITEM_1E      ; (TEMP) 1e
 	const CALCIUM      ; 1f
 	const RARE_CANDY   ; 20
 	const X_ACCURACY   ; 21
 	const LEAF_STONE   ; 22
-	const METAL_POWDER ; (TEMP) 23
+	const METAL_POWDER ; 23
 	const NUGGET       ; 24
 	const POKE_DOLL    ; 25
 	const FULL_HEAL    ; 26
@@ -50,32 +47,23 @@
 	const SUPER_REPEL  ; 2a
 	const MAX_REPEL    ; 2b
 	const DIRE_HIT     ; 2c
-	const ITEM_2D      ; (TEMP) 2d
 	const FRESH_WATER  ; 2e
 	const SODA_POP     ; 2f
 	const LEMONADE     ; 30
 	const X_ATTACK     ; 31
-	const ITEM_32      ; (TEMP) 32
 	const X_DEFEND     ; 33
 	const X_SPEED      ; 34
 	const X_SPECIAL    ; 35
 	const COIN_CASE    ; 36
 	const ITEMFINDER   ; 37
-	const ITEM_38      ; (TEMP) 38
 	const EXP_SHARE    ; 39
-	const ITEM_3A      ; (TEMP) 3a
-	const ITEM_3B      ; (TEMP) 3b
 	const DEEPSEATOOTH ; 3c
 	const SUPER_ROD    ; 3d
 	const PP_UP        ; 3e
 	const ETHER        ; 3f
 	const MAX_ETHER    ; 40
 	const ELIXIR       ; 41
-	const ITEM_42      ; (TEMP) 42
-	const ITEM_43      ; (TEMP) 43
 	const LIBERTY_PASS ; 44
-	const ITEM_45      ; (TEMP) 45
-	const ITEM_46      ; 46
 	const LIGHT_STONE  ; 47
 	const MOOMOO_MILK  ; 48
 	const QUICK_CLAW   ; 49
@@ -87,7 +75,6 @@
 	const ASPEAR_BERRY ; 4f
 	const RAWST_BERRY  ; 50
 	const POISON_BARB  ; 51
-	const ITEM_52      ; (TEMP) 52
 	const PERSIM_BERRY ; 53
 	const CHESTO_BERRY ; 54
 	const RELIC_COPPER ; 55
@@ -108,9 +95,7 @@
 	const BLUE_SHARD   ; 64
 	const RELIC_CROWN  ; 65
 	const BLACKGLASSES ; 66
-	const ITEM_67      ; (TEMP) 67
 	const SILK_SCARF   ; 68
-	const ITEM_69      ; (TEMP) 69
 	const SMOKE_BALL   ; 6a
 	const NEVERMELTICE ; 6b
 	const MAGNET       ; 6c
@@ -123,7 +108,6 @@
 	const SHINY_STONE  ; 73
 	const DUSK_STONE   ; 74
 	const MIRACLE_SEED ; 75
-	const ITEM_76      ; (TEMP) 76
 	const FOCUS_BAND   ; 77
 	const EVIOLITE     ; 78
 	const ENERGYPOWDER ; 79
@@ -132,42 +116,30 @@
 	const REVIVAL_HERB ; 7c
 	const HARD_STONE   ; 7d
 	const LUCKY_EGG    ; 7e
-	const ITEM_7F      ; (TEMP) 7f
-	const ITEM_80      ; (TEMP) 80
-	const ITEM_81      ; (TEMP) 81
 	const DRAGON_SKULL ; 82
 	const STARDUST     ; 83
 	const STAR_PIECE   ; 84
-	const ITEM_85      ; (TEMP) 85
 	const PLASMA_DRIVE ; 86
 	const MAGMARIZER   ; 87
 	const ELECTIRIZER  ; 88
 	const ICE_STONE    ; 89
 	const CHARCOAL     ; 8a
 	const BERRY_JUICE  ; 8b
-	const SCOPE_LENS   ; (TEMP) 8c
+	const SCOPE_LENS   ; 8c
 	const YELLOW_SHARD ; 8d
 	const GREEN_SHARD  ; 8e
-	const ITEM_8F      ; (TEMP) 8f
 	const DRAGON_FANG  ; 90
-	const ITEM_91      ; (TEMP) 91
 	const LEFTOVERS    ; 92
 	const PLUME_FOSSIL ; 93
 	const COVER_FOSSIL ; 94
 	const HEART_SCALE  ; 95
 	const LEPPA_BERRY  ; 96
-	const ITEM_97      ; (TEMP) 97
 	const CASTELIACONE ; 98
-	const ITEM_99      ; (TEMP) 99
-	const ITEM_9A      ; (TEMP) 9a
-	const ITEM_9B      ; (TEMP) 9b
-	const ITEM_9C      ; (TEMP) 9c
 	const TIMER_BALL   ; 9d
 	const MAIL         ; 9e
 	const NEST_BALL    ; 9f
 	const NET_BALL     ; a0
 	const QUICK_BALL   ; a1
-	const ITEM_A2      ; (TEMP) a2
 	const HEAL_BALL    ; a3
 	const LUXURY_BALL  ; a4
 	const DUSK_BALL    ; a5
@@ -175,15 +147,43 @@
 	const RAZOR_CLAW   ; a7
 	const RAZOR_FANG   ; a8
 	const SUN_STONE    ; a9
-	const ITEM_AA      ; (TEMP) aa
-	const ITEM_AB      ; (TEMP) ab
-	const ITEM_AC      ; (TEMP) ac
 	const ORAN_BERRY   ; ad
 	const SITRUS_BERRY ; ae
 	const GRAM         ; af
-	const ITEM_B0      ; (TEMP) b0
 	const DIVE_BALL    ; b1
 	const DARK_STONE   ; b2
+	const ITEM_06      ; (TEMP) 06
+	const ITEM_19      ; (TEMP) 19
+	const ITEM_1E      ; (TEMP) 1e
+	const ITEM_2D      ; (TEMP) 2d
+	const ITEM_32      ; (TEMP) 32
+	const ITEM_38      ; (TEMP) 38
+	const ITEM_3A      ; (TEMP) 3a
+	const ITEM_3B      ; (TEMP) 3b
+	const ITEM_42      ; (TEMP) 42
+	const ITEM_43      ; (TEMP) 43
+	const ITEM_45      ; (TEMP) 45
+	const ITEM_46      ; (TEMP) 46
+	const ITEM_52      ; (TEMP) 52
+	const ITEM_67      ; (TEMP) 67
+	const ITEM_69      ; (TEMP) 69
+	const ITEM_76      ; (TEMP) 76
+	const ITEM_7F      ; (TEMP) 7f
+	const ITEM_80      ; (TEMP) 80
+	const ITEM_81      ; (TEMP) 81
+	const ITEM_85      ; (TEMP) 85
+	const ITEM_8F      ; (TEMP) 8f
+	const ITEM_91      ; (TEMP) 91
+	const ITEM_97      ; (TEMP) 97
+	const ITEM_99      ; (TEMP) 99
+	const ITEM_9A      ; (TEMP) 9a
+	const ITEM_9B      ; (TEMP) 9b
+	const ITEM_9C      ; (TEMP) 9c
+	const ITEM_A2      ; (TEMP) a2
+	const ITEM_AA      ; (TEMP) aa
+	const ITEM_AB      ; (TEMP) ab
+	const ITEM_AC      ; (TEMP) ac
+	const ITEM_B0      ; (TEMP) b0
 	const ITEM_B3      ; (TEMP) b3
 	const ITEM_B4      ; (TEMP) b4
 	const ITEM_B5      ; (TEMP) b5
@@ -198,6 +198,7 @@
 	const ITEM_BE      ; (TEMP) be
 	const ITEM_C3      ; (TEMP) c3
 	const ITEM_DC      ; (TEMP) dc
+	const ITEM_FA      ; (TEMP) fa
 DEF NUM_ITEMS EQU const_value - 1
 
 DEF __tmhm_value__ = 1
@@ -293,8 +294,6 @@ DEF HM01 EQU const_value
 DEF NUM_HMS EQU __tmhm_value__ - NUM_TMS - 1
 
 DEF NUM_TM_HM EQU NUM_TMS + NUM_HMS
-
-	const ITEM_FA       ; (TEMP) fa
 
 DEF USE_SCRIPT_VAR EQU $00
 DEF ITEM_FROM_MEM  EQU $ff

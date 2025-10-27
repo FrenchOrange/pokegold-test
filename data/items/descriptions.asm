@@ -6,7 +6,6 @@ ItemDescriptions:
 	dw BrightpowderDesc
 	dw GreatBallDesc
 	dw PokeBallDesc
-	dw TeruSamaDesc
 	dw BicycleDesc
 	dw EvoStoneDesc
 	dw AntidoteDesc
@@ -25,12 +24,10 @@ ItemDescriptions:
 	dw EvoStoneDesc
 	dw EvoStoneDesc
 	dw EvoStoneDesc
-	dw TeruSamaDesc
 	dw HPUpDesc
 	dw ProteinDesc
 	dw IronDesc
 	dw CarbosDesc
-	dw TeruSamaDesc
 	dw CalciumDesc
 	dw RareCandyDesc
 	dw XAccuracyDesc
@@ -45,32 +42,23 @@ ItemDescriptions:
 	dw SuperRepelDesc
 	dw MaxRepelDesc
 	dw DireHitDesc
-	dw TeruSamaDesc
 	dw FreshWaterDesc
 	dw SodaPopDesc
 	dw LemonadeDesc
 	dw XAttackDesc
-	dw TeruSamaDesc
 	dw XDefendDesc
 	dw XSpeedDesc
 	dw XSpecialDesc
 	dw CoinCaseDesc
 	dw ItemfinderDesc
-	dw TeruSamaDesc
 	dw ExpShareDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw DeepSeaToothDesc
 	dw SuperRodDesc
 	dw PPUpDesc
 	dw EtherDesc
 	dw MaxEtherDesc
 	dw ElixirDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw LibertyPassDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw LightStoneDesc
 	dw MoomooMilkDesc
 	dw QuickClawDesc
@@ -82,7 +70,6 @@ ItemDescriptions:
 	dw AspearBerryDesc
 	dw RawstBerryDesc
 	dw PoisonBarbDesc
-	dw TeruSamaDesc
 	dw PersimBerryDesc
 	dw ChestoBerryDesc
 	dw RelicCopperDesc
@@ -103,9 +90,7 @@ ItemDescriptions:
 	dw BlueShardDesc
 	dw RelicCrownDesc
 	dw BlackGlassesDesc
-	dw TeruSamaDesc
 	dw SilkScarfDesc
-	dw TeruSamaDesc
 	dw SmokeBallDesc
 	dw NeverMeltIceDesc
 	dw MagnetDesc
@@ -118,7 +103,6 @@ ItemDescriptions:
 	dw EvoStoneDesc
 	dw EvoStoneDesc
 	dw MiracleSeedDesc
-	dw TeruSamaDesc
 	dw FocusBandDesc
 	dw EvioliteDesc
 	dw EnergyPowderDesc
@@ -127,13 +111,9 @@ ItemDescriptions:
 	dw RevivalHerbDesc
 	dw HardStoneDesc
 	dw LuckyEggDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw DragonSkullDesc
 	dw StardustDesc
 	dw StarPieceDesc
-	dw TeruSamaDesc
 	dw PlasmaDriveDesc
 	dw MagmarizerDesc
 	dw ElectirizerDesc
@@ -143,26 +123,18 @@ ItemDescriptions:
 	dw ScopeLensDesc
 	dw YellowShardDesc
 	dw GreenShardDesc
-	dw TeruSamaDesc
 	dw DragonFangDesc
-	dw TeruSamaDesc
 	dw LeftoversDesc
 	dw PlumeFossilDesc
 	dw CoverFossilDesc
 	dw HeartScaleDesc
 	dw LeppaBerryDesc
-	dw TeruSamaDesc
 	dw CasteliaConeDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw TimerBallDesc
 	dw MailDesc
 	dw NestBallDesc
 	dw NetBallDesc
 	dw QuickBallDesc
-	dw TeruSamaDesc
 	dw HealBallDesc
 	dw LuxuryBallDesc
 	dw DuskBallDesc
@@ -170,13 +142,9 @@ ItemDescriptions:
 	dw RazorClawDesc
 	dw RazorFangDesc
 	dw EvoStoneDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw OranBerryDesc
 	dw SitrusBerryDesc
 	dw GramDesc
-	dw TeruSamaDesc
 	dw DiveBallDesc
 	dw DarkStoneDesc
 	dw TeruSamaDesc
@@ -193,72 +161,40 @@ ItemDescriptions:
 	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
+	dw TeruSamaDesc
 	assert_table_length NUM_ITEMS
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	assert_table_length $100
 
 MasterBallDesc:
 	db   "The best BALL. It"

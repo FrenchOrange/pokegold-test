@@ -19,7 +19,6 @@ ItemEffects:
 	dw NoEffect            ; BRIGHTPOWDER
 	dw PokeBallEffect      ; GREAT_BALL
 	dw PokeBallEffect      ; POKE_BALL
-	dw NoEffect            ; ITEM_O6
 	dw BicycleEffect       ; BICYCLE
 	dw EvoStoneEffect      ; MOON_STONE
 	dw StatusHealingEffect ; ANTIDOTE
@@ -38,12 +37,10 @@ ItemEffects:
 	dw EvoStoneEffect      ; FIRE_STONE
 	dw EvoStoneEffect      ; THUNDERSTONE
 	dw EvoStoneEffect      ; WATER_STONE
-	dw NoEffect            ; ITEM_19
 	dw VitaminEffect       ; HP_UP
 	dw VitaminEffect       ; PROTEIN
 	dw VitaminEffect       ; IRON
 	dw VitaminEffect       ; CARBOS
-	dw NoEffect            ; ITEM_1E
 	dw VitaminEffect       ; CALCIUM
 	dw RareCandyEffect     ; RARE_CANDY
 	dw XAccuracyEffect     ; X_ACCURACY
@@ -58,32 +55,23 @@ ItemEffects:
 	dw SuperRepelEffect    ; SUPER_REPEL
 	dw MaxRepelEffect      ; MAX_REPEL
 	dw DireHitEffect       ; DIRE_HIT
-	dw NoEffect            ; ITEM_2D
 	dw RestoreHPEffect     ; FRESH_WATER
 	dw RestoreHPEffect     ; SODA_POP
 	dw RestoreHPEffect     ; LEMONADE
 	dw XItemEffect         ; X_ATTACK
-	dw NoEffect            ; ITEM_32
 	dw XItemEffect         ; X_DEFEND
 	dw XItemEffect         ; X_SPEED
 	dw XItemEffect         ; X_SPECIAL
 	dw CoinCaseEffect      ; COIN_CASE
 	dw ItemfinderEffect    ; ITEMFINDER
-	dw NoEffect            ; ITEM_38
 	dw NoEffect            ; EXP_SHARE
-	dw NoEffect            ; ITEM_3A
-	dw NoEffect            ; ITEM_3B
 	dw NoEffect            ; DEEPSEATOOTH
 	dw SuperRodEffect      ; SUPER_ROD
 	dw RestorePPEffect     ; PP_UP
 	dw RestorePPEffect     ; ETHER
 	dw RestorePPEffect     ; MAX_ETHER
 	dw RestorePPEffect     ; ELIXIR
-	dw NoEffect            ; ITEM_42
-	dw NoEffect            ; ITEM_43
 	dw NoEffect            ; LIBERTY_PASS
-	dw NoEffect            ; ITEM_45
-	dw NoEffect            ; ITEM_46
 	dw NoEffect            ; LIGHT_STONE
 	dw RestoreHPEffect     ; MOOMOO_MILK
 	dw NoEffect            ; QUICK_CLAW
@@ -95,7 +83,6 @@ ItemEffects:
 	dw StatusHealingEffect ; ASPEAR_BERRY
 	dw StatusHealingEffect ; RAWST_BERRY
 	dw NoEffect            ; POISON_BARB
-	dw NoEffect            ; ITEM_52
 	dw BitterBerryEffect   ; PERSIM_BERRY
 	dw StatusHealingEffect ; CHESTO_BERRY
 	dw NoEffect            ; RELIC_COPPER
@@ -116,9 +103,7 @@ ItemEffects:
 	dw NoEffect            ; BLUE_SHARD
 	dw NoEffect            ; RELIC_CROWN
 	dw NoEffect            ; BLACKGLASSES
-	dw NoEffect            ; ITEM_67
 	dw NoEffect            ; SILK_SCARF
-	dw NoEffect            ; ITEM_69
 	dw NoEffect            ; SMOKE_BALL
 	dw NoEffect            ; NEVERMELTICE
 	dw NoEffect            ; MAGNET
@@ -131,7 +116,6 @@ ItemEffects:
 	dw EvoStoneEffect      ; SHINY_STONE
 	dw EvoStoneEffect      ; DUSK_STONE
 	dw NoEffect            ; MIRACLE_SEED
-	dw NoEffect            ; ITEM_76
 	dw NoEffect            ; FOCUS_BAND
 	dw NoEffect            ; EVIOLITE
 	dw EnergypowderEffect  ; ENERGYPOWDER
@@ -140,13 +124,9 @@ ItemEffects:
 	dw RevivalHerbEffect   ; REVIVAL_HERB
 	dw NoEffect            ; HARD_STONE
 	dw NoEffect            ; LUCKY_EGG
-	dw NoEffect            ; ITEM_7F
-	dw NoEffect            ; ITEM_8O
-	dw NoEffect            ; ITEM_81
 	dw NoEffect            ; DRAGON_SKULL
 	dw NoEffect            ; STARDUST
 	dw NoEffect            ; STAR_PIECE
-	dw NoEffect            ; ITEM_85
 	dw NoEffect            ; PLASMA_DRIVE
 	dw NoEffect            ; MAGMARIZER
 	dw NoEffect            ; ELECTIRIZER
@@ -156,26 +136,18 @@ ItemEffects:
 	dw NoEffect            ; SCOPE_LENS
 	dw NoEffect            ; YELLOW_SHARD
 	dw NoEffect            ; GREEN_SHARD
-	dw NoEffect            ; ITEM_8F
 	dw NoEffect            ; DRAGON_FANG
-	dw NoEffect            ; ITEM_91
 	dw NoEffect            ; LEFTOVERS
 	dw NoEffect            ; PLUME_FOSSIL
 	dw NoEffect            ; COVER_FOSSIL
 	dw NoEffect            ; HEART_SCALE
 	dw RestorePPEffect     ; LEPPA_BERRY
-	dw NoEffect            ; ITEM_97
 	dw StatusHealingEffect ; CASTELIACONE
-	dw NoEffect            ; ITEM_99
-	dw NoEffect            ; ITEM_9A
-	dw NoEffect            ; ITEM_9B
-	dw NoEffect            ; ITEM_9C
 	dw PokeBallEffect      ; TIMER_BALL
 	dw NoEffect            ; MAIL
 	dw PokeBallEffect      ; NEST_BALL
 	dw PokeBallEffect      ; NET_BALL
 	dw PokeBallEffect      ; QUICK_BALL
-	dw NoEffect            ; ITEM_A2
 	dw PokeBallEffect      ; HEAL_BALL
 	dw PokeBallEffect      ; LUXURY_BALL
 	dw PokeBallEffect      ; DUSK_BALL
@@ -183,15 +155,43 @@ ItemEffects:
 	dw NoEffect            ; RAZOR_CLAW
 	dw NoEffect            ; RAZOR_FANG
 	dw EvoStoneEffect      ; SUN_STONE
-	dw NoEffect            ; ITEM_AA
-	dw NoEffect            ; ITEM_AB
-	dw NoEffect            ; ITEM_AC
 	dw RestoreHPEffect     ; ORAN_BERRY
 	dw RestoreHPEffect     ; SITRUS_BERRY
 	dw NoEffect            ; GRAM
-	dw NoEffect            ; ITEM_B0
 	dw PokeBallEffect      ; DIVE_BALL
 	dw NoEffect            ; DARK_STONE
+	dw NoEffect            ; ITEM_06
+	dw NoEffect            ; ITEM_19
+	dw NoEffect            ; ITEM_1E
+	dw NoEffect            ; ITEM_2D
+	dw NoEffect            ; ITEM_32
+	dw NoEffect            ; ITEM_38
+	dw NoEffect            ; ITEM_3A
+	dw NoEffect            ; ITEM_3B
+	dw NoEffect            ; ITEM_42
+	dw NoEffect            ; ITEM_43
+	dw NoEffect            ; ITEM_45
+	dw NoEffect            ; ITEM_46
+	dw NoEffect            ; ITEM_52
+	dw NoEffect            ; ITEM_67
+	dw NoEffect            ; ITEM_69
+	dw NoEffect            ; ITEM_76
+	dw NoEffect            ; ITEM_7F
+	dw NoEffect            ; ITEM_8O
+	dw NoEffect            ; ITEM_81
+	dw NoEffect            ; ITEM_85
+	dw NoEffect            ; ITEM_8F
+	dw NoEffect            ; ITEM_91
+	dw NoEffect            ; ITEM_97
+	dw NoEffect            ; ITEM_99
+	dw NoEffect            ; ITEM_9A
+	dw NoEffect            ; ITEM_9B
+	dw NoEffect            ; ITEM_9C
+	dw NoEffect            ; ITEM_A2
+	dw NoEffect            ; ITEM_AA
+	dw NoEffect            ; ITEM_AB
+	dw NoEffect            ; ITEM_AC
+	dw NoEffect            ; ITEM_B0
 	dw NoEffect            ; ITEM_B3
 	dw NoEffect            ; ITEM_B4
 	dw NoEffect            ; ITEM_B5
@@ -206,6 +206,7 @@ ItemEffects:
 	dw NoEffect            ; ITEM_BE
 	dw NoEffect            ; ITEM_C3
 	dw NoEffect            ; ITEM_DC
+	dw NoEffect            ; ITEM_FA
 	assert_table_length NUM_ITEMS
 
 PokeBallEffect:
