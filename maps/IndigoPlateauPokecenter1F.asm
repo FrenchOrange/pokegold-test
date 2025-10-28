@@ -46,10 +46,10 @@ IndigoPlateauPokecenter1F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  5, 13, ROUTE_23, 1
-	warp_event  6, 13, ROUTE_23, 2
-	warp_event  0, 13, POKECENTER_2F, 1
-	warp_event 14,  3, WILLS_ROOM, 1
+	warp_event  3, 13, ROUTE_23, 1
+	warp_event  4, 13, ROUTE_23, 2
+	warp_event 16, 10, POKECENTER_2F, 1
+	warp_event 14,  6, WILLS_ROOM, 1
 
 	def_coord_events
 
@@ -57,4 +57,4 @@ IndigoPlateauPokecenter1F_MapEvents:
 
 	def_object_events
 	object_event  3,  7, SPRITE_NURSE, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, IndigoPlateauPokecenter1FNurseScript, -1
-	object_event 11,  7, SPRITE_CLERK, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, IndigoPlateauPokecenter1FClerkScript, -1
+	object_event  9,  7, SPRITE_CLERK, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, IndigoPlateauPokecenter1FClerkScript, -1
