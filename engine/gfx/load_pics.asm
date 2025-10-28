@@ -71,23 +71,30 @@ GetFrontpic:
 	ld a, BANK(sDecompressBuffer)
 	call OpenSRAM
 
-	ld hl, PokemonPicPointers
 	ld a, [wCurPartySpecies]
-	ld d, BANK(PokemonPicPointers)
 	cp UNOWN
 	jr z, .unown
 	cp EGG
-	jr nz, .not_egg
-	ld hl, EggPic
-	ld a, BANK(EggPic)
-	jr .ok
+	jr z, .default_male
+
+	call GetGender
+	ld a, [wCurPartySpecies]
+	jr c, .default_male
+
+	ld hl, FemalePokemonPicPointers
+	ld d, BANK(FemalePokemonPicPointers)
+	jr z, .got_pic
+
+.default_male
+	ld hl, PokemonPicPointers
+	ld d, BANK(PokemonPicPointers)
+	jr .got_pic
 
 .unown
 	ld hl, UnownPicPointers
 	ld a, [wUnownLetter]
 	ld d, BANK(UnownPicPointers)
-
-.not_egg
+.got_pic
 	dec a
 	ld bc, 6
 	call AddNTimes
@@ -126,13 +133,25 @@ GetMonBackpic:
 	cp EGG + 1
 	ret nc
 
+	push bc
+	call GetGender
+	pop bc
+
 	push de
 	ld a, BANK(sDecompressBuffer)
 	call OpenSRAM
 
+	jr c, .default_male
+
+	ld hl, FemalePokemonPicPointers
+	ld d, BANK(FemalePokemonPicPointers)
+	jr z, .got_backpic
+
+.default_male
 	ld hl, PokemonPicPointers
-	ld a, [wCurPartySpecies]
 	ld d, BANK(PokemonPicPointers)
+.got_backpic
+	ld a, [wCurPartySpecies]
 	cp UNOWN
 	jr nz, .ok
 	ld hl, UnownPicPointers
