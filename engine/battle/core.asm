@@ -7639,6 +7639,8 @@ DropPlayerSub:
 	ld a, [wBattleMonSpecies]
 	ld [wCurPartySpecies], a
 	ld hl, wBattleMonDVs
+	ld a, BATTLEMON
+	ld [wMonType], a
 	predef GetUnownLetter
 	ld de, vTiles2 tile $31
 	predef GetMonBackpic
@@ -7676,6 +7678,8 @@ DropEnemySub:
 	ld [wCurPartySpecies], a
 	call GetBaseData
 	ld hl, wEnemyMonDVs
+	ld a, WILDMON
+	ld [wMonType], a
 	predef GetUnownLetter
 	ld de, vTiles2
 	predef GetMonFrontpic
@@ -7824,6 +7828,8 @@ InitEnemyWildmon:
 	ld bc, NUM_MOVES
 	call CopyBytes
 	ld hl, wEnemyMonDVs
+	ld a, WILDMON
+	ld [wMonType], a
 	predef GetUnownLetter
 	ld a, [wCurPartySpecies]
 	cp UNOWN

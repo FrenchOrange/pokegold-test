@@ -7,6 +7,11 @@ SECTION "Pic Pointers", ROMX
 INCLUDE "data/pokemon/pic_pointers.asm"
 
 
+SECTION "Female Pic Pointers", ROMX
+
+INCLUDE "data/pokemon/female_pic_pointers.asm"
+
+
 SECTION "Unown Pic Pointers", ROMX
 
 INCLUDE "data/pokemon/unown_pic_pointers.asm"
@@ -691,3 +696,5 @@ Porygon2Frontpic:    INCBIN "gfx/pokemon/porygon2/front.2bpp.lz"
 PolitoedBackpic:     INCBIN "gfx/pokemon/politoed/back.2bpp.lz"
 OctilleryBackpic:    INCBIN "gfx/pokemon/octillery/back.2bpp.lz"
 RaikouBackpic:       INCBIN "gfx/pokemon/raikou/back.2bpp.lz"
+PikachuFrontpic_F:   INCBIN "gfx/pokemon/pikachu_f/front.2bpp.lz"
+PikachuBackpic_F:    INCBIN "gfx/pokemon/pikachu_f/back.2bpp.lz"

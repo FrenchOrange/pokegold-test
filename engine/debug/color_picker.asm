@@ -330,6 +330,10 @@ DebugColor_InitScreen:
 	xor a
 	ld [wBoxAlignment], a
 	hlcoord 2, 3
+
+	ld a, -1
+	ld [wMonType], a
+
 	call _PrepMonFrontpic
 	ld de, vTiles2 tile $31
 	predef GetMonBackpic

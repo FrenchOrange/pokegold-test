@@ -115,8 +115,9 @@ DebugSign:
 	givepoke PIKACHU, 100
 ;	givepoke DIGLETT, 100
 ;	givepoke DITTO, 100
-	givepoke SNEASEL, 1
-	givepoke GLIGAR, 1
+	giveegg PICHU, EGG_LEVEL
+	getstring STRING_BUFFER_4, .eggname
+	scall .AideGivesEgg
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH
@@ -128,11 +129,19 @@ DebugSign:
 	loadmem wPartyMon4Moves+0, FLASH
 	closetext
 	setevent EVENT_GOT_RUNNING_SHOES
+	setevent  EVENT_GAVE_MYSTERY_EGG_TO_ELM
 ;	setmapscene PLAYERS_HOUSE_1F, SCENE_PLAYERSHOUSE1F_NOOP
-	playsound SFX_WARP_TO
-	special FadeOutToBlack
-	waitsfx
-	warp STRIATON_CITY, 15, 4
+;	playsound SFX_WARP_TO
+;	special FadeOutToBlack
+;	waitsfx
+;	warp STRIATON_CITY, 15, 4
+	end
+
+.eggname
+	db "EGG@"
+
+.AideGivesEgg:
+	jumpstd ReceiveTogepiEggScript
 	end
 
 PlayersHouse2F_MapEvents:

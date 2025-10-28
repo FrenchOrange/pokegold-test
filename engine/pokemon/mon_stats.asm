@@ -137,10 +137,16 @@ GetGender:
 
 ; Figure out what type of monster struct we're looking at.
 
+; -1: Invalid entry
+	ld a, [wMonType]
+	inc a
+	jp z, .Genderless
+
+	dec a
+
 ; 0: PartyMon
 	ld hl, wPartyMon1DVs
 	ld bc, PARTYMON_STRUCT_LENGTH
-	ld a, [wMonType]
 	and a
 	jr z, .PartyMon
 
@@ -160,8 +166,23 @@ GetGender:
 	dec a
 	jr z, .DVs
 
-; else: WildMon
+; 4: WildMon
 	ld hl, wEnemyMonDVs
+	dec a
+	jr z, .DVs
+
+; 5: BattleMon
+	ld hl, wBattleMonDVs
+	dec a
+	jr z, .DVs
+
+; 6: PlayerTradeMon
+	ld hl, wPlayerTrademonDVs
+	dec a 
+	jr z, .DVs
+
+; 7: OTTradeMon
+	ld hl, wOTTrademonDVs
 	jr .DVs
 
 ; Get our place in the party/box.

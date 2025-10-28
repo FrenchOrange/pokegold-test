@@ -15,11 +15,14 @@ DEF AUTO_INPUT EQU $ff
 
 ; wMonType::
 	const_def
-	const PARTYMON   ; 0
-	const OTPARTYMON ; 1
-	const BOXMON     ; 2
-	const TEMPMON    ; 3
-	const WILDMON    ; 4
+	const PARTYMON       ; 0
+	const OTPARTYMON     ; 1
+	const BOXMON         ; 2
+	const TEMPMON        ; 3
+	const WILDMON        ; 4
+	const BATTLEMON      ; 5
+	const PLAYERTRADEMON ; 6
+	const OTTRADEMON     ; 7
 
 ; wJumptableIndex::
 DEF JUMPTABLE_INDEX_MASK EQU %01111111

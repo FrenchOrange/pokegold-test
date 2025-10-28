@@ -2362,6 +2362,8 @@ Pokedex_LoadSelectedMonTiles:
 	ld [wCurPartySpecies], a
 	call GetBaseData
 	ld de, vTiles2
+	ld a, -1
+	ld [wMonType], a
 	predef GetMonFrontpic
 	ret
 
@@ -2543,6 +2545,8 @@ _NewPokedexEntry:
 	call WaitBGMap
 	call GetBaseData
 	ld de, vTiles2
+	ld a, -1
+	ld [wMonType], a
 	predef GetMonFrontpic
 	ld a, SCGB_POKEDEX
 	call Pokedex_GetSGBLayout

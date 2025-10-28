@@ -232,6 +232,8 @@ AnimateHOFMonEntrance:
 	ld a, [hli]
 	ld [wTempMonDVs + 1], a
 	ld hl, wTempMonDVs
+	ld a, TEMPMON
+	ld [wMonType], a
 	predef GetUnownLetter
 	hlcoord 0, 0
 	ld bc, SCREEN_AREA

@@ -236,6 +236,9 @@ EvolveAfterBattle_MasterLoop:
 	ldh [hBGMapMode], a
 	call ClearSprites
 
+	ld a, TEMPMON
+	ld [wMonType], a
+
 	call EvolutionAnimation
 
 	push af
