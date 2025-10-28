@@ -1,29 +1,9 @@
 	object_const_def
-	const GUIDEGENTSHOUSE_GRAMPS
 
 GuideGentsHouse_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
-
-GuideGentsHouseGuideGent:
-	jumptextfaceplayer GuideGentsHouseGuideGentText
-
-GuideGentsHouseBookshelf:
-	jumpstd MagazineBookshelfScript
-
-GuideGentsHouseGuideGentText:
-	text "When I was a wee"
-	line "lad, I was a hot-"
-	cont "shot trainer!"
-
-	para "Here's a word of"
-	line "advice: Catch lots"
-	cont "of #MON!"
-
-	para "Treat them all"
-	line "with kindness!"
-	done
 
 GuideGentsHouse_MapEvents:
 	db 0, 0 ; filler
@@ -37,4 +17,3 @@ GuideGentsHouse_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event  2,  3, SPRITE_GRAMPS, SPRITEMOVEDATA_STANDING_RIGHT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, GuideGentsHouseGuideGent, EVENT_GUIDE_GENT_VISIBLE_IN_CHERRYGROVE

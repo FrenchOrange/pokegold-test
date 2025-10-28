@@ -1,13 +1,9 @@
 	object_const_def
-	const TINTOWER7F_POKE_BALL
 
 TinTower7F_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
-
-TinTower7FMaxRevive:
-	itemball MAX_REVIVE
 
 TinTower7F_MapEvents:
 	db 0, 0 ; filler
@@ -24,4 +20,3 @@ TinTower7F_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event 16,  1, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, TinTower7FMaxRevive, EVENT_TIN_TOWER_7F_MAX_REVIVE

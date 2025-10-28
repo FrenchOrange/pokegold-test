@@ -3,14 +3,6 @@ TinTower9F_MapScripts:
 
 	def_callbacks
 
-TinTower9FUnusedHoOhText: ; unreferenced
-	text "HO-OH: Shaoooh!"
-	done
-
-TinTower9FUnusedLugiaText: ; unreferenced
-	text "LUGIA: Gyaaan!"
-	done
-
 TinTower9F_MapEvents:
 	db 0, 0 ; filler
 

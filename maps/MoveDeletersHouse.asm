@@ -14,9 +14,6 @@ MoveDeleter:
 	closetext
 	end
 
-MoveDeletersHouseBookshelf:
-	jumpstd DifficultBookshelfScript
-
 MoveDeletersHouse_MapEvents:
 	db 0, 0 ; filler
 
@@ -27,8 +24,6 @@ MoveDeletersHouse_MapEvents:
 	def_coord_events
 
 	def_bg_events
-	bg_event  0,  1, BGEVENT_READ, MoveDeletersHouseBookshelf
-	bg_event  1,  1, BGEVENT_READ, MoveDeletersHouseBookshelf
 
 	def_object_events
 	object_event  2,  3, SPRITE_SUPER_NERD, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, MoveDeleter, -1

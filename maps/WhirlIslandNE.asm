@@ -1,13 +1,9 @@
 	object_const_def
-	const WHIRLISLANDNE_POKE_BALL
 
 WhirlIslandNE_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
-
-WhirlIslandNEUltraBall:
-	itemball ULTRA_BALL
 
 WhirlIslandNE_MapEvents:
 	db 0, 0 ; filler
@@ -22,4 +18,3 @@ WhirlIslandNE_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event 11, 11, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, WhirlIslandNEUltraBall, EVENT_WHIRL_ISLAND_NE_ULTRA_BALL

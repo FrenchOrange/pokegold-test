@@ -1,21 +1,9 @@
 	object_const_def
-	const TINTOWER8F_POKE_BALL1
-	const TINTOWER8F_POKE_BALL2
-	const TINTOWER8F_POKE_BALL3
 
 TinTower8F_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
-
-TinTower8FNugget:
-	itemball NUGGET
-
-TinTower8FMaxElixir:
-	itemball MAX_ELIXIR
-
-TinTower8FFullRestore:
-	itemball FULL_RESTORE
 
 TinTower8F_MapEvents:
 	db 0, 0 ; filler
@@ -33,6 +21,3 @@ TinTower8F_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event  7, 13, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, TinTower8FNugget, EVENT_TIN_TOWER_8F_NUGGET
-	object_event 11,  6, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, TinTower8FMaxElixir, EVENT_TIN_TOWER_8F_MAX_ELIXIR
-	object_event  3,  1, SPRITE_POKE_BALL, SPRITEMOVEDATA_STILL, 0, 0, -1, -1, 0, OBJECTTYPE_ITEMBALL, 0, TinTower8FFullRestore, EVENT_TIN_TOWER_8F_FULL_RESTORE
