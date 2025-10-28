@@ -70,6 +70,7 @@ ROMX $11
 	"bank11"
 ROMX $12
 	"Pic Pointers"
+ROMX $13
 	"Pics 1"
 ROMX $14
 	"bank14"
