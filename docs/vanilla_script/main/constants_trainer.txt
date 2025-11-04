@@ -1,5 +1,5 @@
-⒆⒇ Trainer
-⒆⒇ Trainer
+(PK)(MN) Trainer
+(PK)(MN) Trainer
 Youngster
 Lass
 School Kid
@@ -15,15 +15,15 @@ Nursery Aide
 Preschooler
 Preschooler
 Twins
-⒆⒇ Breeder
-⒆⒇ Breeder
+(PK)(MN) Breeder
+(PK)(MN) Breeder
 Leader
 Leader
 Leader
 Leader
 Leader
-⒆⒇ Ranger
-⒆⒇ Ranger
+(PK)(MN) Ranger
+(PK)(MN) Ranger
 Worker
 Backpacker
 Backpacker
@@ -35,10 +35,10 @@ Artist
 Baker
 Psychic
 Psychic
-⒆⒇ Trainer
-⒆⒇ Trainer
+(PK)(MN) Trainer
+(PK)(MN) Trainer
 Team Plasma
-⒆⒇ Trainer
+(PK)(MN) Trainer
 Rich Boy
 Lady
 Pilot
@@ -98,8 +98,8 @@ The Riches
 GAME FREAK
 The Riches
 The Riches
-⒆⒇ Trainer
+(PK)(MN) Trainer
 Team Plasma
 Subway Boss
-⒆⒇ Trainer
-⒆⒇ Trainer
+(PK)(MN) Trainer
+(PK)(MN) Trainer
