@@ -37,10 +37,10 @@ FemalePokemonPicPointers::
 	dba PidgeottoBackpic
 	dba PidgeotFrontpic
 	dba PidgeotBackpic
-	dba RattataFrontpic
-	dba RattataBackpic
-	dba RaticateFrontpic
-	dba RaticateBackpic
+	dba RattataFrontpic_F
+	dba RattataBackpic_F
+	dba RaticateFrontpic_F
+	dba RaticateBackpic_F
 	dba SpearowFrontpic
 	dba SpearowBackpic
 	dba FearowFrontpic
@@ -49,8 +49,8 @@ FemalePokemonPicPointers::
 	dba EkansBackpic
 	dba ArbokFrontpic
 	dba ArbokBackpic
-	dba PikachuFrontpic_F
-	dba PikachuBackpic_F
+	dba PikachuFrontpic
+	dba PikachuBackpic
 	dba RaichuFrontpic
 	dba RaichuBackpic
 	dba SandshrewFrontpic
@@ -257,10 +257,10 @@ FemalePokemonPicPointers::
 	dba PinsirBackpic
 	dba TaurosFrontpic
 	dba TaurosBackpic
-	dba MagikarpFrontpic
-	dba MagikarpBackpic
-	dba GyaradosFrontpic
-	dba GyaradosBackpic
+	dba MagikarpFrontpic_F
+	dba MagikarpBackpic_F
+	dba GyaradosFrontpic_F
+	dba GyaradosBackpic_F
 	dba LaprasFrontpic
 	dba LaprasBackpic
 	dba DittoFrontpic
@@ -329,10 +329,10 @@ FemalePokemonPicPointers::
 	dba HoothootBackpic
 	dba NoctowlFrontpic
 	dba NoctowlBackpic
-	dba LedybaFrontpic
-	dba LedybaBackpic
-	dba LedianFrontpic
-	dba LedianBackpic
+	dba LedybaFrontpic_F
+	dba LedybaBackpic_F
+	dba LedianFrontpic_F
+	dba LedianBackpic_F
 	dba SpinarakFrontpic
 	dba SpinarakBackpic
 	dba AriadosFrontpic
@@ -395,8 +395,8 @@ FemalePokemonPicPointers::
 	dba EspeonBackpic
 	dba UmbreonFrontpic
 	dba UmbreonBackpic
-	dba MurkrowFrontpic
-	dba MurkrowBackpic
+	dba MurkrowFrontpic_F
+	dba MurkrowBackpic_F
 	dba SlowkingFrontpic
 	dba SlowkingBackpic
 	dba MisdreavusFrontpic
@@ -416,8 +416,8 @@ FemalePokemonPicPointers::
 	dba ForretressBackpic
 	dba DunsparceFrontpic
 	dba DunsparceBackpic
-	dba GligarFrontpic
-	dba GligarBackpic
+	dba GligarFrontpic_F
+	dba GligarBackpic_F
 	dba SteelixFrontpic
 	dba SteelixBackpic
 	dba SnubbullFrontpic
@@ -432,8 +432,8 @@ FemalePokemonPicPointers::
 	dba ShuckleBackpic
 	dba HeracrossFrontpic
 	dba HeracrossBackpic
-	dba SneaselFrontpic
-	dba SneaselBackpic
+	dba SneaselFrontpic_F
+	dba SneaselBackpic_F
 	dba TeddiursaFrontpic
 	dba TeddiursaBackpic
 	dba UrsaringFrontpic
@@ -444,8 +444,8 @@ FemalePokemonPicPointers::
 	dba MagcargoBackpic
 	dba SwinubFrontpic
 	dba SwinubBackpic
-	dba PiloswineFrontpic
-	dba PiloswineBackpic
+	dba PiloswineFrontpic_F
+	dba PiloswineBackpic_F
 	dba CorsolaFrontpic
 	dba CorsolaBackpic
 	dba RemoraidFrontpic
@@ -460,8 +460,8 @@ FemalePokemonPicPointers::
 	dba SkarmoryBackpic
 	dba HoundourFrontpic
 	dba HoundourBackpic
-	dba HoundoomFrontpic
-	dba HoundoomBackpic
+	dba HoundoomFrontpic_F
+	dba HoundoomBackpic_F
 	dba KingdraFrontpic
 	dba KingdraBackpic
 	dba PhanpyFrontpic
