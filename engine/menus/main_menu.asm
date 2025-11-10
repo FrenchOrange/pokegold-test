@@ -10,9 +10,6 @@
 	const MAINMENUITEM_NEW_GAME     ; 1
 	const MAINMENUITEM_OPTION       ; 2
 	const MAINMENUITEM_MYSTERY_GIFT ; 3
-IF DEF(_DEBUG)
-	const MAINMENUITEM_DEBUG_ROOM   ; 4
-ENDC
 
 MainMenu:
 	ld de, MUSIC_NONE
@@ -49,11 +46,7 @@ MainMenu:
 
 .MenuHeader:
 	db MENU_BACKUP_TILES ; flags
-IF DEF(_DEBUG)
-	menu_coords 0, 0, 14, 9
-ELSE
 	menu_coords 0, 0, 14, 7
-ENDC
 	dw .MenuData
 	db 1 ; default option
 
@@ -70,9 +63,6 @@ ENDC
 	db "NEW GAME@"
 	db "OPTION@"
 	db "MYSTERY GIFT@"
-IF DEF(_DEBUG)
-	db "DEBUG ROOM@"
-ENDC
 
 .Jumptable:
 ; entries correspond to MAINMENUITEM_* constants
@@ -80,9 +70,6 @@ ENDC
 	dw NewGame
 	dw Option
 	dw MysteryGift
-IF DEF(_DEBUG)
-	dw DebugRoom
-ENDC
 
 MainMenuItems:
 ; entries correspond to MAINMENU_* constants
@@ -94,24 +81,18 @@ MainMenuItems:
 	db -1
 
 	; MAINMENU_CONTINUE
-	db 3 + DEF(_DEBUG)
+	db 3
 	db MAINMENUITEM_CONTINUE
 	db MAINMENUITEM_NEW_GAME
 	db MAINMENUITEM_OPTION
-IF DEF(_DEBUG)
-	db MAINMENUITEM_DEBUG_ROOM
-ENDC
 	db -1
 
 	; MAINMENU_MYSTERY
-	db 4 + DEF(_DEBUG)
+	db 4
 	db MAINMENUITEM_CONTINUE
 	db MAINMENUITEM_NEW_GAME
 	db MAINMENUITEM_OPTION
 	db MAINMENUITEM_MYSTERY_GIFT
-IF DEF(_DEBUG)
-	db MAINMENUITEM_DEBUG_ROOM
-ENDC
 	db -1
 
 MainMenu_GetWhichMenu:
