@@ -72,7 +72,6 @@ PredefPointers::
 	add_predef GetTrainerPic
 	add_predef DecompressGet2bpp
 	add_predef CheckTypeMatchup
-	add_predef ConvertMon_1to2
 	add_predef NewPokedexEntry
 	add_predef UpdateTimePredef
 	dbw -1, DummyEndPredef ; pointless

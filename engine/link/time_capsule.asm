@@ -136,5 +136,3 @@ PlaceTradePartnerNamesAndParty:
 	pop bc
 	inc c
 	jr .loop
-
-INCLUDE "data/pokemon/gen1_base_special.asm"
