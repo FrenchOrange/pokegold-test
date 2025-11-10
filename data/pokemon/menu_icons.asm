@@ -253,4 +253,6 @@ MonMenuIcons:
 	db ICON_BIGMON      ; LUGIA
 	db ICON_BIGMON      ; HO_OH
 	db ICON_MONSTER     ; CELEBI
+	db ICON_MONSTER     ; POOCHYENA
+	db ICON_MONSTER     ; MIGHTYENA
 	assert_table_length NUM_POKEMON

@@ -134,6 +134,7 @@ AlphabeticalPokedexOrder:
 	db METAPOD
 	db MEW
 	db MEWTWO
+	db MIGHTYENA
 	db MILTANK
 	db MISDREAVUS
 	db MOLTRES
@@ -171,6 +172,7 @@ AlphabeticalPokedexOrder:
 	db POLIWHIRL
 	db POLIWRATH
 	db PONYTA
+	db POOCHYENA
 	db PORYGON
 	db PORYGON2
 	db PRIMEAPE

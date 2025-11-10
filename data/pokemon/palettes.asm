@@ -518,27 +518,17 @@ INCLUDE "gfx/palettes/redmon.pal"
 INCLUDE "gfx/palettes/redmon_shiny.pal"    ; HO-OH
 INCLUDE "gfx/palettes/greenmon.pal"
 INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; CELEBI
+INCLUDE "gfx/palettes/graymon.pal"
+INCLUDE "gfx/palettes/graymon_shiny.pal"   ; POOCHYENA
+INCLUDE "gfx/palettes/graymon.pal"
+INCLUDE "gfx/palettes/graymon_shiny.pal"   ; MIGHTYENA
 
 	assert_table_length NUM_POKEMON + 1
-
-; 252
-	RGB 30, 26, 11
-	RGB 23, 16, 00
-; 252 shiny
-	RGB 30, 26, 11
-	RGB 23, 16, 00
 
 INCLUDE "gfx/palettes/mewmon.pal"
 INCLUDE "gfx/palettes/mewmon_shiny.pal"    ; EGG
 
 	assert_table_length EGG + 1
-
-; 254
-	RGB 30, 26, 11
-	RGB 23, 16, 00
-; 254 shiny
-	RGB 30, 26, 11
-	RGB 23, 16, 00
 
 ; 255
 	RGB 23, 23, 23
