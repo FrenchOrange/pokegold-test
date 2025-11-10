@@ -109,15 +109,12 @@ DebugSign:
 	giveitem RAZOR_FANG
 	opentext
 ; debug team
-	givepoke FERALIGATR, 100
-	givepoke PIDGEOT, 100
-	givepoke LAPRAS, 100
-	givepoke PIKACHU, 100
-;	givepoke DIGLETT, 100
-;	givepoke DITTO, 100
-	giveegg PICHU, EGG_LEVEL
-	getstring STRING_BUFFER_4, .eggname
-	scall .AideGivesEgg
+;	givepoke FERALIGATR, 100
+;	givepoke PIDGEOT, 100
+;	givepoke LAPRAS, 100
+;	givepoke PIKACHU, 100
+	givepoke DITTO, 100
+	givepoke DIGLETT, 100
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH
@@ -135,13 +132,6 @@ DebugSign:
 ;	special FadeOutToBlack
 ;	waitsfx
 ;	warp STRIATON_CITY, 15, 4
-	end
-
-.eggname
-	db "EGG@"
-
-.AideGivesEgg:
-	jumpstd ReceiveTogepiEggScript
 	end
 
 PlayersHouse2F_MapEvents:
