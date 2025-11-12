@@ -1073,7 +1073,7 @@ Intro_LoadCharizardPalette:
 	and a
 	ld c, CYNDAQUIL
 	jr nz, .got_mon
-	ld c, CHARIZARD
+	ld c, EMBOAR
 .got_mon
 	farcall Intro_LoadMonPalette
 	ret

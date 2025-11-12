@@ -585,16 +585,6 @@ DayCare_InitBreeding:
 	ld a, EGG_LEVEL
 	ld [wCurPartyLevel], a
 
-; Nidoran♀ can give birth to either gender of Nidoran
-	ld a, [wCurPartySpecies]
-	cp NIDORAN_F
-	jr nz, .GotEggSpecies
-	call Random
-	cp 50 percent + 1
-	ld a, NIDORAN_F
-	jr c, .GotEggSpecies
-	ld a, NIDORAN_M
-.GotEggSpecies:
 	ld [wCurPartySpecies], a
 	ld [wCurSpecies], a
 	ld [wEggMonSpecies], a

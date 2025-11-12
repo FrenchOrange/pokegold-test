@@ -165,16 +165,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, ABRA
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval ABRA
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke ABRA, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_ABRA_COINS
 	sjump .Gold_Loop
 
@@ -183,16 +183,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, EKANS
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval EKANS
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke EKANS, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_EKANS_COINS
 	sjump .Gold_Loop
 
@@ -201,16 +201,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, DRATINI
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval DRATINI
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke DRATINI, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_DRATINI_COINS
 	sjump .Gold_Loop
 
@@ -244,16 +244,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, ABRA
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval ABRA
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke ABRA, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_ABRA_COINS
 	sjump .Silver_Loop
 
@@ -262,16 +262,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, SANDSHREW
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval SANDSHREW
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke SANDSHREW, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_SANDSHREW_COINS
 	sjump .Silver_Loop
 
@@ -280,16 +280,16 @@ GoldenrodGameCornerPrizeMonVendorScript:
 	ifequal HAVE_LESS, GoldenrodGameCornerPrizeVendor_NotEnoughCoinsScript
 	readvar VAR_PARTYCOUNT
 	ifequal PARTY_LENGTH, GoldenrodGameCornerPrizeMonVendor_NoRoomForPrizeScript
-	getmonname STRING_BUFFER_3, DRATINI
+	getmonname STRING_BUFFER_3, RATTATA
 	scall GoldenrodGameCornerPrizeVendor_ConfirmPurchaseScript
 	iffalse GoldenrodGameCornerPrizeVendor_CancelPurchaseScript
 	waitsfx
 	playsound SFX_TRANSACTION
 	writetext GoldenrodGameCornerPrizeVendorHereYouGoText
 	waitbutton
-	setval DRATINI
+	setval RATTATA
 	special GameCornerPrizeMonCheckDex
-	givepoke DRATINI, 10
+	givepoke RATTATA, 10
 	takecoins GOLDENRODGAMECORNER_DRATINI_COINS
 	sjump .Silver_Loop
 

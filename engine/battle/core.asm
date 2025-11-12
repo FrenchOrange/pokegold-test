@@ -5928,7 +5928,7 @@ LoadEnemyMon:
 ; Unown
 	ld a, [wTempEnemyMonSpecies]
 	cp UNOWN
-	jr nz, .Magikarp
+	jr nz, .Happiness
 
 ; Get letter based on DVs
 	ld hl, wEnemyMonDVs
@@ -5937,78 +5937,6 @@ LoadEnemyMon:
 ; If combined with forced shiny battletype, causes an infinite loop
 	call CheckUnownLetter
 	jr c, .GenerateDVs ; try again
-
-.Magikarp:
-; These filters are untranslated.
-; They expect at wMagikarpLength a 2-byte value in mm,
-; but the value is in feet and inches (one byte each).
-
-; The first filter is supposed to make very large Magikarp even rarer,
-; by targeting those 1600 mm (= 5'3") or larger.
-; After the conversion to feet, it is unable to target any,
-; since the largest possible Magikarp is 5'3", and $0503 = 1283 mm.
-	ld a, [wTempEnemyMonSpecies]
-	cp MAGIKARP
-	jr nz, .Happiness
-
-; Get Magikarp's length
-	ld de, wEnemyMonDVs
-	ld bc, wPlayerID
-	callfar CalcMagikarpLength
-
-; No reason to keep going if length > 1536 mm (i.e. if HIGH(length) > 6 feet)
-	ld a, [wMagikarpLength]
-	cp 5
-	jr nz, .CheckMagikarpArea
-
-; 5% chance of skipping both size checks
-	call Random
-	cp 5 percent
-	jr c, .CheckMagikarpArea
-; Try again if length >= 1616 mm (i.e. if LOW(length) >= 4 inches)
-	ld a, [wMagikarpLength + 1]
-	cp 4
-	jr nc, .GenerateDVs
-
-; 20% chance of skipping this check
-	call Random
-	cp 20 percent - 1
-	jr c, .CheckMagikarpArea
-; Try again if length >= 1600 mm (i.e. if LOW(length) >= 3 inches)
-	ld a, [wMagikarpLength + 1]
-	cp 3
-	jr nc, .GenerateDVs
-
-.CheckMagikarpArea:
-; The "jr z" checks are supposed to be "jr nz".
-
-; Instead, all maps in GROUP_LAKE_OF_RAGE (Mahogany area)
-; and Routes 20 and 44 are treated as Lake of Rage.
-
-; This also means Lake of Rage Magikarp can be smaller than ones
-; caught elsewhere rather than the other way around.
-
-; Intended behavior enforces a minimum size at Lake of Rage.
-; The real behavior prevents a minimum size in the Lake of Rage area.
-
-; Moreover, due to the check not being translated to feet+inches, all Magikarp
-; smaller than 4'0" may be caught by the filter, a lot more than intended.
-	ld a, [wMapGroup]
-	cp GROUP_LAKE_OF_RAGE
-	jr z, .Happiness
-	ld a, [wMapNumber]
-	cp MAP_LAKE_OF_RAGE
-	jr z, .Happiness
-; 40% chance of not flooring
-	call Random
-	cp 39 percent + 1
-	jr c, .Happiness
-; Try again if length < 1024 mm (i.e. if HIGH(length) < 3 feet)
-	ld a, [wMagikarpLength]
-	cp HIGH(1024) ; should be "cp 3", since 1024 mm = 3'4", but HIGH(1024) = 4
-	jr c, .GenerateDVs ; try again
-
-; Finally done with DVs
 
 .Happiness:
 ; Set happiness
@@ -6040,37 +5968,7 @@ LoadEnemyMon:
 .TreeMon:
 ; If we're headbutting trees, some monsters enter battle asleep
 	ld a, [wTempEnemyMonSpecies]
-
-; Hoothoot/Noctowl are asleep if MORN/DAY
-	cp HOOTHOOT
-	jr z, .sleeping_if_not_nite
-	cp NOCTOWL
-	jr z, .sleeping_if_not_nite
-
-; Pidgey/Spearow are asleep if NITE
-	cp PIDGEY
-	jr z, .sleeping_if_nite
-	cp SPEAROW
-	jr z, .sleeping_if_nite
-
-; Other species are never asleep
 	jr .not_sleeping
-
-.sleeping_if_not_nite
-	ld a, [wTimeOfDay]
-	cp NITE_F
-	jr nz, .sleeping
-	jr .not_sleeping
-
-.sleeping_if_nite
-	ld a, [wTimeOfDay]
-	cp NITE_F
-	jr z, .sleeping
-	jr .not_sleeping
-
-.sleeping
-	ld a, TREEMON_SLEEP_TURNS
-	jr .UpdateStatus
 
 .not_sleeping
 	xor a
