@@ -1,70 +1,70 @@
 PokedexDataPointerTable:
 ; entries correspond to constants/pokemon_constants.asm
 	table_width 2
-	dw BulbasaurPokedexEntry
-	dw IvysaurPokedexEntry
-	dw VenusaurPokedexEntry
-	dw CharmanderPokedexEntry
-	dw CharmeleonPokedexEntry
-	dw CharizardPokedexEntry
-	dw SquirtlePokedexEntry
-	dw WartortlePokedexEntry
-	dw BlastoisePokedexEntry
-	dw CaterpiePokedexEntry
-	dw MetapodPokedexEntry
-	dw ButterfreePokedexEntry
-	dw WeedlePokedexEntry
-	dw KakunaPokedexEntry
-	dw BeedrillPokedexEntry
-	dw PidgeyPokedexEntry
-	dw PidgeottoPokedexEntry
-	dw PidgeotPokedexEntry
-	dw RattataPokedexEntry
-	dw RaticatePokedexEntry
-	dw SpearowPokedexEntry
-	dw FearowPokedexEntry
-	dw EkansPokedexEntry
-	dw ArbokPokedexEntry
-	dw PikachuPokedexEntry
-	dw RaichuPokedexEntry
-	dw SandshrewPokedexEntry
-	dw SandslashPokedexEntry
-	dw NidoranFPokedexEntry
-	dw NidorinaPokedexEntry
-	dw NidoqueenPokedexEntry
-	dw NidoranMPokedexEntry
-	dw NidorinoPokedexEntry
-	dw NidokingPokedexEntry
-	dw ClefairyPokedexEntry
-	dw ClefablePokedexEntry
-	dw VulpixPokedexEntry
-	dw NinetalesPokedexEntry
-	dw JigglypuffPokedexEntry
-	dw WigglytuffPokedexEntry
-	dw ZubatPokedexEntry
-	dw GolbatPokedexEntry
-	dw OddishPokedexEntry
-	dw GloomPokedexEntry
-	dw VileplumePokedexEntry
-	dw ParasPokedexEntry
-	dw ParasectPokedexEntry
-	dw VenonatPokedexEntry
-	dw VenomothPokedexEntry
-	dw DiglettPokedexEntry
-	dw DugtrioPokedexEntry
-	dw MeowthPokedexEntry
-	dw PersianPokedexEntry
-	dw PsyduckPokedexEntry
-	dw GolduckPokedexEntry
-	dw MankeyPokedexEntry
-	dw PrimeapePokedexEntry
-	dw GrowlithePokedexEntry
-	dw ArcaninePokedexEntry
-	dw PoliwagPokedexEntry
-	dw PoliwhirlPokedexEntry
-	dw PoliwrathPokedexEntry
-	dw AbraPokedexEntry
-	dw KadabraPokedexEntry
+	dw SnivyPokedexEntry
+	dw ServinePokedexEntry
+	dw SerperiorPokedexEntry
+	dw TepigPokedexEntry
+	dw PignitePokedexEntry
+	dw EmboarPokedexEntry
+	dw OshawottPokedexEntry
+	dw DewottPokedexEntry
+	dw SamurottPokedexEntry
+	dw PatratPokedexEntry
+	dw WatchogPokedexEntry
+	dw LillipupPokedexEntry
+	dw HerdierPokedexEntry
+	dw StoutlandPokedexEntry
+	dw PurrloinPokedexEntry
+	dw LiepardPokedexEntry
+	dw PansagePokedexEntry
+	dw SimisagePokedexEntry
+	dw PansearPokedexEntry
+	dw SimisearPokedexEntry
+	dw PanpourPokedexEntry
+	dw SimipourPokedexEntry
+	dw MunnaPokedexEntry
+	dw MusharnaPokedexEntry
+	dw PidovePokedexEntry
+	dw TranquillPokedexEntry
+	dw UnfezantPokedexEntry
+	dw BlitzlePokedexEntry
+	dw ZebstrikaPokedexEntry
+	dw RoggenrolaPokedexEntry
+	dw BoldorePokedexEntry
+	dw GigalithPokedexEntry
+	dw WoobatPokedexEntry
+	dw SwoobatPokedexEntry
+	dw DrilburPokedexEntry
+	dw ExcadrillPokedexEntry
+	dw AudinoPokedexEntry
+	dw TimburrPokedexEntry
+	dw GurdurrPokedexEntry
+	dw ConkeldurrPokedexEntry
+	dw TympolePokedexEntry
+	dw PalpitoadPokedexEntry
+	dw SeismitoadPokedexEntry
+	dw ThrohPokedexEntry
+	dw SawkPokedexEntry
+	dw SewaddlePokedexEntry
+	dw SwadloonPokedexEntry
+	dw LeavannyPokedexEntry
+	dw VenipedePokedexEntry
+	dw WhirlipedePokedexEntry
+	dw ScolipedePokedexEntry
+	dw CottoneePokedexEntry
+	dw WhimsicottPokedexEntry
+	dw PetililPokedexEntry
+	dw LilligantPokedexEntry
+	dw BasculinPokedexEntry
+	dw SandilePokedexEntry
+	dw KrokorokPokedexEntry
+	dw KrookodilePokedexEntry
+	dw DarumakaPokedexEntry
+	dw DarmanitanPokedexEntry
+	dw MaractusPokedexEntry
+	dw DwebblePokedexEntry
+	dw CrustlePokedexEntry
 	dw AlakazamPokedexEntry
 	dw MachopPokedexEntry
 	dw MachokePokedexEntry
@@ -161,21 +161,21 @@ PokedexDataPointerTable:
 	dw TotodilePokedexEntry
 	dw CroconawPokedexEntry
 	dw FeraligatrPokedexEntry
-	dw SentretPokedexEntry
-	dw FurretPokedexEntry
-	dw HoothootPokedexEntry
-	dw NoctowlPokedexEntry
+	dw RattataPokedexEntry
+	dw RaticatePokedexEntry
+	dw ClefairyPokedexEntry
+	dw ClefablePokedexEntry
+	dw VulpixPokedexEntry
+	dw NinetalesPokedexEntry
 	dw LedybaPokedexEntry
 	dw LedianPokedexEntry
 	dw SpinarakPokedexEntry
+	dw PsyduckPokedexEntry
+	dw GolduckPokedexEntry
 	dw AriadosPokedexEntry
-	dw CrobatPokedexEntry
-	dw ChinchouPokedexEntry
-	dw LanturnPokedexEntry
-	dw PichuPokedexEntry
 	dw CleffaPokedexEntry
-	dw IgglybuffPokedexEntry
-	dw TogepiPokedexEntry
+	dw GrowlithePokedexEntry
+	dw ArcaninePokedexEntry
 	dw TogeticPokedexEntry
 	dw NatuPokedexEntry
 	dw XatuPokedexEntry

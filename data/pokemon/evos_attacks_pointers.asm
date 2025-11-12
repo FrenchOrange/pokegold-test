@@ -2,70 +2,70 @@
 
 EvosAttacksPointers::
 	table_width 2
-	dw BulbasaurEvosAttacks
-	dw IvysaurEvosAttacks
-	dw VenusaurEvosAttacks
-	dw CharmanderEvosAttacks
-	dw CharmeleonEvosAttacks
-	dw CharizardEvosAttacks
-	dw SquirtleEvosAttacks
-	dw WartortleEvosAttacks
-	dw BlastoiseEvosAttacks
-	dw CaterpieEvosAttacks
-	dw MetapodEvosAttacks
-	dw ButterfreeEvosAttacks
-	dw WeedleEvosAttacks
-	dw KakunaEvosAttacks
-	dw BeedrillEvosAttacks
-	dw PidgeyEvosAttacks
-	dw PidgeottoEvosAttacks
-	dw PidgeotEvosAttacks
-	dw RattataEvosAttacks
-	dw RaticateEvosAttacks
-	dw SpearowEvosAttacks
-	dw FearowEvosAttacks
-	dw EkansEvosAttacks
-	dw ArbokEvosAttacks
-	dw PikachuEvosAttacks
-	dw RaichuEvosAttacks
-	dw SandshrewEvosAttacks
-	dw SandslashEvosAttacks
-	dw NidoranFEvosAttacks
-	dw NidorinaEvosAttacks
-	dw NidoqueenEvosAttacks
-	dw NidoranMEvosAttacks
-	dw NidorinoEvosAttacks
-	dw NidokingEvosAttacks
-	dw ClefairyEvosAttacks
-	dw ClefableEvosAttacks
-	dw VulpixEvosAttacks
-	dw NinetalesEvosAttacks
-	dw JigglypuffEvosAttacks
-	dw WigglytuffEvosAttacks
-	dw ZubatEvosAttacks
-	dw GolbatEvosAttacks
-	dw OddishEvosAttacks
-	dw GloomEvosAttacks
-	dw VileplumeEvosAttacks
-	dw ParasEvosAttacks
-	dw ParasectEvosAttacks
-	dw VenonatEvosAttacks
-	dw VenomothEvosAttacks
-	dw DiglettEvosAttacks
-	dw DugtrioEvosAttacks
-	dw MeowthEvosAttacks
-	dw PersianEvosAttacks
-	dw PsyduckEvosAttacks
-	dw GolduckEvosAttacks
-	dw MankeyEvosAttacks
-	dw PrimeapeEvosAttacks
-	dw GrowlitheEvosAttacks
-	dw ArcanineEvosAttacks
-	dw PoliwagEvosAttacks
-	dw PoliwhirlEvosAttacks
-	dw PoliwrathEvosAttacks
-	dw AbraEvosAttacks
-	dw KadabraEvosAttacks
+	dw SnivyEvosAttacks
+	dw ServineEvosAttacks
+	dw SerperiorEvosAttacks
+	dw TepigEvosAttacks
+	dw PigniteEvosAttacks
+	dw EmboarEvosAttacks
+	dw OshawottEvosAttacks
+	dw DewottEvosAttacks
+	dw SamurottEvosAttacks
+	dw PatratEvosAttacks
+	dw WatchogEvosAttacks
+	dw LillipupEvosAttacks
+	dw HerdierEvosAttacks
+	dw StoutlandEvosAttacks
+	dw PurrloinEvosAttacks
+	dw LiepardEvosAttacks
+	dw PansageEvosAttacks
+	dw SimisageEvosAttacks
+	dw PansearEvosAttacks
+	dw SimisearEvosAttacks
+	dw PanpourEvosAttacks
+	dw SimipourEvosAttacks
+	dw MunnaEvosAttacks
+	dw MusharnaEvosAttacks
+	dw PidoveEvosAttacks
+	dw TranquillEvosAttacks
+	dw UnfezantEvosAttacks
+	dw BlitzleEvosAttacks
+	dw ZebstrikaEvosAttacks
+	dw RoggenrolaEvosAttacks
+	dw BoldoreEvosAttacks
+	dw GigalithEvosAttacks
+	dw WoobatEvosAttacks
+	dw SwoobatEvosAttacks
+	dw DrilburEvosAttacks
+	dw ExcadrillEvosAttacks
+	dw AudinoEvosAttacks
+	dw TimburrEvosAttacks
+	dw GurdurrEvosAttacks
+	dw ConkeldurrEvosAttacks
+	dw TympoleEvosAttacks
+	dw PalpitoadEvosAttacks
+	dw SeismitoadEvosAttacks
+	dw ThrohEvosAttacks
+	dw SawkEvosAttacks
+	dw SewaddleEvosAttacks
+	dw SwadloonEvosAttacks
+	dw LeavannyEvosAttacks
+	dw VenipedeEvosAttacks
+	dw WhirlipedeEvosAttacks
+	dw ScolipedeEvosAttacks
+	dw CottoneeEvosAttacks
+	dw WhimsicottEvosAttacks
+	dw PetililEvosAttacks
+	dw LilligantEvosAttacks
+	dw BasculinEvosAttacks
+	dw SandileEvosAttacks
+	dw KrokorokEvosAttacks
+	dw KrookodileEvosAttacks
+	dw DarumakaEvosAttacks
+	dw DarmanitanEvosAttacks
+	dw MaractusEvosAttacks
+	dw DwebbleEvosAttacks
+	dw CrustleEvosAttacks
 	dw AlakazamEvosAttacks
 	dw MachopEvosAttacks
 	dw MachokeEvosAttacks
@@ -162,21 +162,21 @@ EvosAttacksPointers::
 	dw TotodileEvosAttacks
 	dw CroconawEvosAttacks
 	dw FeraligatrEvosAttacks
-	dw SentretEvosAttacks
-	dw FurretEvosAttacks
-	dw HoothootEvosAttacks
-	dw NoctowlEvosAttacks
+	dw RattataEvosAttacks
+	dw RaticateEvosAttacks
+	dw ClefairyEvosAttacks
+	dw ClefableEvosAttacks
+	dw VulpixEvosAttacks
+	dw NinetalesEvosAttacks
 	dw LedybaEvosAttacks
 	dw LedianEvosAttacks
 	dw SpinarakEvosAttacks
 	dw AriadosEvosAttacks
-	dw CrobatEvosAttacks
-	dw ChinchouEvosAttacks
-	dw LanturnEvosAttacks
-	dw PichuEvosAttacks
+	dw PsyduckEvosAttacks
+	dw GolduckEvosAttacks
 	dw CleffaEvosAttacks
-	dw IgglybuffEvosAttacks
-	dw TogepiEvosAttacks
+	dw GrowlitheEvosAttacks
+	dw ArcanineEvosAttacks
 	dw TogeticEvosAttacks
 	dw NatuEvosAttacks
 	dw XatuEvosAttacks
