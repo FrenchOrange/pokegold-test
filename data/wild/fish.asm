@@ -25,77 +25,77 @@ FishGroups:
 	assert_table_length NUM_FISHGROUPS
 
 .Shore:
-	db  40 percent,     MAGIKARP,     40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 1
-	db  90 percent + 1, MAGIKARP,     40
-	db 100 percent,     MAGIKARP,    40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Ocean:
-	db  40 percent,     MAGIKARP,   40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 3
 	db  90 percent + 1, MAGIKARP, 40
-	db 100 percent,     MAGIKARP,    40
+	db 100 percent,     MAGIKARP, 40
 
 .Lake:
-	db  40 percent,     MAGIKARP,    40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 5
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,    40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Pond:
-	db  40 percent,     MAGIKARP,    40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 7
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,    40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Dratini:
-	db  40 percent,     MAGIKARP,   40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 9
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,  40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Qwilfish_Swarm:
-	db  40 percent,     MAGIKARP,   40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 11
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,   40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Remoraid_Swarm:
-	db  40 percent,     MAGIKARP,   40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 13
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,   40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Gyarados:
-	db  40 percent,     MAGIKARP,   40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 15
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,   40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Dratini_2:
-	db  40 percent,     MAGIKARP,   10
+	db  40 percent,     MAGIKARP, 10
 	db  70 percent,     time_group 17
-	db  90 percent + 1, MAGIKARP,   10
-	db 100 percent,     MAGIKARP,  10
+	db  90 percent + 1, MAGIKARP, 10
+	db 100 percent,     MAGIKARP, 10
 
 .WhirlIslands:
-	db  40 percent,     MAGIKARP,     40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 19
-	db  90 percent + 1, MAGIKARP,    40
-	db 100 percent,     SEADRA,     40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Qwilfish_NoSwarm:
 .Qwilfish:
-	db  40 percent,     MAGIKARP,  40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 21
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,   40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 .Remoraid:
-	db  40 percent,     MAGIKARP,    40
+	db  40 percent,     MAGIKARP, 40
 	db  70 percent,     time_group 7
-	db  90 percent + 1, MAGIKARP,   40
-	db 100 percent,     MAGIKARP,   40
+	db  90 percent + 1, MAGIKARP, 40
+	db 100 percent,     MAGIKARP, 40
 
 TimeFishGroups:
 	;  day              nite

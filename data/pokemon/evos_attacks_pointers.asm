@@ -66,70 +66,70 @@ EvosAttacksPointers::
 	dw MaractusEvosAttacks
 	dw DwebbleEvosAttacks
 	dw CrustleEvosAttacks
-	dw AlakazamEvosAttacks
-	dw MachopEvosAttacks
-	dw MachokeEvosAttacks
-	dw MachampEvosAttacks
-	dw BellsproutEvosAttacks
-	dw WeepinbellEvosAttacks
-	dw VictreebelEvosAttacks
-	dw TentacoolEvosAttacks
-	dw TentacruelEvosAttacks
-	dw GeodudeEvosAttacks
-	dw GravelerEvosAttacks
-	dw GolemEvosAttacks
-	dw PonytaEvosAttacks
-	dw RapidashEvosAttacks
-	dw SlowpokeEvosAttacks
-	dw SlowbroEvosAttacks
-	dw MagnemiteEvosAttacks
-	dw MagnetonEvosAttacks
-	dw FarfetchDEvosAttacks
-	dw DoduoEvosAttacks
-	dw DodrioEvosAttacks
-	dw SeelEvosAttacks
-	dw DewgongEvosAttacks
-	dw GrimerEvosAttacks
-	dw MukEvosAttacks
-	dw ShellderEvosAttacks
-	dw CloysterEvosAttacks
-	dw GastlyEvosAttacks
-	dw HaunterEvosAttacks
-	dw GengarEvosAttacks
-	dw OnixEvosAttacks
-	dw DrowzeeEvosAttacks
-	dw HypnoEvosAttacks
-	dw KrabbyEvosAttacks
-	dw KinglerEvosAttacks
-	dw VoltorbEvosAttacks
-	dw ElectrodeEvosAttacks
-	dw ExeggcuteEvosAttacks
-	dw ExeggutorEvosAttacks
-	dw CuboneEvosAttacks
-	dw MarowakEvosAttacks
-	dw HitmonleeEvosAttacks
-	dw HitmonchanEvosAttacks
-	dw LickitungEvosAttacks
-	dw KoffingEvosAttacks
-	dw WeezingEvosAttacks
-	dw RhyhornEvosAttacks
-	dw RhydonEvosAttacks
-	dw ChanseyEvosAttacks
-	dw TangelaEvosAttacks
-	dw KangaskhanEvosAttacks
-	dw HorseaEvosAttacks
-	dw SeadraEvosAttacks
-	dw GoldeenEvosAttacks
-	dw SeakingEvosAttacks
-	dw StaryuEvosAttacks
-	dw StarmieEvosAttacks
-	dw MrMimeEvosAttacks
-	dw ScytherEvosAttacks
-	dw JynxEvosAttacks
-	dw ElectabuzzEvosAttacks
-	dw MagmarEvosAttacks
-	dw PinsirEvosAttacks
-	dw TaurosEvosAttacks
+	dw ScraggyEvosAttacks
+	dw ScraftyEvosAttacks
+	dw SigilyphEvosAttacks
+	dw YamaskEvosAttacks
+	dw CofagrigusEvosAttacks
+	dw TirtougaEvosAttacks
+	dw CarracostaEvosAttacks
+	dw ArchenEvosAttacks
+	dw ArcheopsEvosAttacks
+	dw TrubbishEvosAttacks
+	dw GarbodorEvosAttacks
+	dw ZoruaEvosAttacks
+	dw ZoroarkEvosAttacks
+	dw MinccinoEvosAttacks
+	dw CinccinoEvosAttacks
+	dw GothitaEvosAttacks
+	dw GothoritaEvosAttacks
+	dw GothitelleEvosAttacks
+	dw SolosisEvosAttacks
+	dw DuosionEvosAttacks
+	dw ReuniclusEvosAttacks
+	dw DucklettEvosAttacks
+	dw SwannaEvosAttacks
+	dw VanilliteEvosAttacks
+	dw VanillishEvosAttacks
+	dw VanilluxeEvosAttacks
+	dw DeerlingEvosAttacks
+	dw SawsbuckEvosAttacks
+	dw EmolgaEvosAttacks
+	dw KarrablastEvosAttacks
+	dw EscavalierEvosAttacks
+	dw FoongusEvosAttacks
+	dw AmoongussEvosAttacks
+	dw FrillishEvosAttacks
+	dw JellicentEvosAttacks
+	dw AlomomolaEvosAttacks
+	dw JoltikEvosAttacks
+	dw GalvantulaEvosAttacks
+	dw FerroseedEvosAttacks
+	dw FerrothornEvosAttacks
+	dw KlinkEvosAttacks
+	dw KlangEvosAttacks
+	dw KlinklangEvosAttacks
+	dw TynamoEvosAttacks
+	dw EelektrikEvosAttacks
+	dw EelektrossEvosAttacks
+	dw ElgyemEvosAttacks
+	dw BeheeyemEvosAttacks
+	dw LitwickEvosAttacks
+	dw LampentEvosAttacks
+	dw ChandelureEvosAttacks
+	dw AxewEvosAttacks
+	dw FraxureEvosAttacks
+	dw HaxorusEvosAttacks
+	dw CubchooEvosAttacks
+	dw BearticEvosAttacks
+	dw CryogonalEvosAttacks
+	dw ShelmetEvosAttacks
+	dw AccelgorEvosAttacks
+	dw StunfiskEvosAttacks
+	dw MienfooEvosAttacks
+	dw MienshaoEvosAttacks
+	dw DruddigonEvosAttacks
+	dw GolettEvosAttacks
 	dw MagikarpEvosAttacks
 	dw GyaradosEvosAttacks
 	dw LaprasEvosAttacks
@@ -177,21 +177,21 @@ EvosAttacksPointers::
 	dw CleffaEvosAttacks
 	dw GrowlitheEvosAttacks
 	dw ArcanineEvosAttacks
-	dw TogeticEvosAttacks
-	dw NatuEvosAttacks
-	dw XatuEvosAttacks
+	dw MagnemiteEvosAttacks
+	dw MagnetonEvosAttacks
+	dw FarfetchDEvosAttacks
 	dw MareepEvosAttacks
 	dw FlaaffyEvosAttacks
 	dw AmpharosEvosAttacks
-	dw BellossomEvosAttacks
-	dw MarillEvosAttacks
-	dw AzumarillEvosAttacks
-	dw SudowoodoEvosAttacks
-	dw PolitoedEvosAttacks
-	dw HoppipEvosAttacks
-	dw SkiploomEvosAttacks
-	dw JumpluffEvosAttacks
-	dw AipomEvosAttacks
+	dw GrimerEvosAttacks
+	dw MukEvosAttacks
+	dw KoffingEvosAttacks
+	dw WeezingEvosAttacks
+	dw ChanseyEvosAttacks
+	dw TangelaEvosAttacks
+	dw JynxEvosAttacks
+	dw ElectabuzzEvosAttacks
+	dw MagmarEvosAttacks
 	dw SunkernEvosAttacks
 	dw SunfloraEvosAttacks
 	dw YanmaEvosAttacks

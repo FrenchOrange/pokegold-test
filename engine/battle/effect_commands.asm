@@ -2769,8 +2769,8 @@ DeepSeaToothBoost:
 ; holding a DeepSeaTooth/Scale, double it.
 	push bc
 	push de
-	ld b, SHELLDER ; CLAMPERL
-	ld c, SHELLDER ; CLAMPERL
+	ld b, CELEBI ; CLAMPERL
+	ld c, CELEBI ; CLAMPERL
 	ld d, DEEPSEATOOTH
 	call SpeciesItemBoost
 	pop de
@@ -2785,8 +2785,8 @@ DeepSeaScaleBoost:
 ; holding a DeepSeaTooth/Scale, double it.
 	push bc
 	push de
-	ld b, SHELLDER ; CLAMPERL
-	ld c, SHELLDER ; CLAMPERL
+	ld b, CELEBI ; CLAMPERL
+	ld c, CELEBI ; CLAMPERL
 	ld d, DEEPSEASCALE
 	call SpeciesItemBoost
 	pop de

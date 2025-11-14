@@ -65,70 +65,70 @@ PokedexDataPointerTable:
 	dw MaractusPokedexEntry
 	dw DwebblePokedexEntry
 	dw CrustlePokedexEntry
-	dw AlakazamPokedexEntry
-	dw MachopPokedexEntry
-	dw MachokePokedexEntry
-	dw MachampPokedexEntry
-	dw BellsproutPokedexEntry
-	dw WeepinbellPokedexEntry
-	dw VictreebelPokedexEntry
-	dw TentacoolPokedexEntry
-	dw TentacruelPokedexEntry
-	dw GeodudePokedexEntry
-	dw GravelerPokedexEntry
-	dw GolemPokedexEntry
-	dw PonytaPokedexEntry
-	dw RapidashPokedexEntry
-	dw SlowpokePokedexEntry
-	dw SlowbroPokedexEntry
-	dw MagnemitePokedexEntry
-	dw MagnetonPokedexEntry
-	dw FarfetchDPokedexEntry
-	dw DoduoPokedexEntry
-	dw DodrioPokedexEntry
-	dw SeelPokedexEntry
-	dw DewgongPokedexEntry
-	dw GrimerPokedexEntry
-	dw MukPokedexEntry
-	dw ShellderPokedexEntry
-	dw CloysterPokedexEntry
-	dw GastlyPokedexEntry
-	dw HaunterPokedexEntry
-	dw GengarPokedexEntry
-	dw OnixPokedexEntry
-	dw DrowzeePokedexEntry
-	dw HypnoPokedexEntry
-	dw KrabbyPokedexEntry
-	dw KinglerPokedexEntry
-	dw VoltorbPokedexEntry
-	dw ElectrodePokedexEntry
-	dw ExeggcutePokedexEntry
-	dw ExeggutorPokedexEntry
-	dw CubonePokedexEntry
-	dw MarowakPokedexEntry
-	dw HitmonleePokedexEntry
-	dw HitmonchanPokedexEntry
-	dw LickitungPokedexEntry
-	dw KoffingPokedexEntry
-	dw WeezingPokedexEntry
-	dw RhyhornPokedexEntry
-	dw RhydonPokedexEntry
-	dw ChanseyPokedexEntry
-	dw TangelaPokedexEntry
-	dw KangaskhanPokedexEntry
-	dw HorseaPokedexEntry
-	dw SeadraPokedexEntry
-	dw GoldeenPokedexEntry
-	dw SeakingPokedexEntry
-	dw StaryuPokedexEntry
-	dw StarmiePokedexEntry
-	dw MrMimePokedexEntry
-	dw ScytherPokedexEntry
-	dw JynxPokedexEntry
-	dw ElectabuzzPokedexEntry
-	dw MagmarPokedexEntry
-	dw PinsirPokedexEntry
-	dw TaurosPokedexEntry
+	dw ScraggyPokedexEntry
+	dw ScraftyPokedexEntry
+	dw SigilyphPokedexEntry
+	dw YamaskPokedexEntry
+	dw CofagrigusPokedexEntry
+	dw TirtougaPokedexEntry
+	dw CarracostaPokedexEntry
+	dw ArchenPokedexEntry
+	dw ArcheopsPokedexEntry
+	dw TrubbishPokedexEntry
+	dw GarbodorPokedexEntry
+	dw ZoruaPokedexEntry
+	dw ZoroarkPokedexEntry
+	dw MinccinoPokedexEntry
+	dw CinccinoPokedexEntry
+	dw GothitaPokedexEntry
+	dw GothoritaPokedexEntry
+	dw GothitellePokedexEntry
+	dw SolosisPokedexEntry
+	dw DuosionPokedexEntry
+	dw ReuniclusPokedexEntry
+	dw DucklettPokedexEntry
+	dw SwannaPokedexEntry
+	dw VanillitePokedexEntry
+	dw VanillishPokedexEntry
+	dw VanilluxePokedexEntry
+	dw DeerlingPokedexEntry
+	dw SawsbuckPokedexEntry
+	dw EmolgaPokedexEntry
+	dw KarrablastPokedexEntry
+	dw EscavalierPokedexEntry
+	dw FoongusPokedexEntry
+	dw AmoongussPokedexEntry
+	dw FrillishPokedexEntry
+	dw JellicentPokedexEntry
+	dw AlomomolaPokedexEntry
+	dw JoltikPokedexEntry
+	dw GalvantulaPokedexEntry
+	dw FerroseedPokedexEntry
+	dw FerrothornPokedexEntry
+	dw KlinkPokedexEntry
+	dw KlangPokedexEntry
+	dw KlinklangPokedexEntry
+	dw TynamoPokedexEntry
+	dw EelektrikPokedexEntry
+	dw EelektrossPokedexEntry
+	dw ElgyemPokedexEntry
+	dw BeheeyemPokedexEntry
+	dw LitwickPokedexEntry
+	dw LampentPokedexEntry
+	dw ChandelurePokedexEntry
+	dw AxewPokedexEntry
+	dw FraxurePokedexEntry
+	dw HaxorusPokedexEntry
+	dw CubchooPokedexEntry
+	dw BearticPokedexEntry
+	dw CryogonalPokedexEntry
+	dw ShelmetPokedexEntry
+	dw AccelgorPokedexEntry
+	dw StunfiskPokedexEntry
+	dw MienfooPokedexEntry
+	dw MienshaoPokedexEntry
+	dw DruddigonPokedexEntry
+	dw GolettPokedexEntry
 	dw MagikarpPokedexEntry
 	dw GyaradosPokedexEntry
 	dw LaprasPokedexEntry
@@ -176,21 +176,21 @@ PokedexDataPointerTable:
 	dw CleffaPokedexEntry
 	dw GrowlithePokedexEntry
 	dw ArcaninePokedexEntry
-	dw TogeticPokedexEntry
-	dw NatuPokedexEntry
-	dw XatuPokedexEntry
+	dw MagnemitePokedexEntry
+	dw MagnetonPokedexEntry
+	dw FarfetchDPokedexEntry
 	dw MareepPokedexEntry
 	dw FlaaffyPokedexEntry
 	dw AmpharosPokedexEntry
-	dw BellossomPokedexEntry
-	dw MarillPokedexEntry
-	dw AzumarillPokedexEntry
-	dw SudowoodoPokedexEntry
-	dw PolitoedPokedexEntry
-	dw HoppipPokedexEntry
-	dw SkiploomPokedexEntry
-	dw JumpluffPokedexEntry
-	dw AipomPokedexEntry
+	dw GrimerPokedexEntry
+	dw MukPokedexEntry
+	dw KoffingPokedexEntry
+	dw WeezingPokedexEntry
+	dw ChanseyPokedexEntry
+	dw TangelaPokedexEntry
+	dw JynxPokedexEntry
+	dw ElectabuzzPokedexEntry
+	dw MagmarPokedexEntry
 	dw SunkernPokedexEntry
 	dw SunfloraPokedexEntry
 	dw YanmaPokedexEntry

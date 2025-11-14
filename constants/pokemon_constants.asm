@@ -77,70 +77,70 @@
 	const MARACTUS   ; 3e
 	const DWEBBLE    ; 3f
 	const CRUSTLE    ; 40
-	const ALAKAZAM   ; 41
-	const MACHOP     ; 42
-	const MACHOKE    ; 43
-	const MACHAMP    ; 44
-	const BELLSPROUT ; 45
-	const WEEPINBELL ; 46
-	const VICTREEBEL ; 47
-	const TENTACOOL  ; 48
-	const TENTACRUEL ; 49
-	const GEODUDE    ; 4a
-	const GRAVELER   ; 4b
-	const GOLEM      ; 4c
-	const PONYTA     ; 4d
-	const RAPIDASH   ; 4e
-	const SLOWPOKE   ; 4f
-	const SLOWBRO    ; 50
-	const MAGNEMITE  ; 51
-	const MAGNETON   ; 52
-	const FARFETCH_D ; 53
-	const DODUO      ; 54
-	const DODRIO     ; 55
-	const SEEL       ; 56
-	const DEWGONG    ; 57
-	const GRIMER     ; 58
-	const MUK        ; 59
-	const SHELLDER   ; 5a
-	const CLOYSTER   ; 5b
-	const GASTLY     ; 5c
-	const HAUNTER    ; 5d
-	const GENGAR     ; 5e
-	const ONIX       ; 5f
-	const DROWZEE    ; 60
-	const HYPNO      ; 61
-	const KRABBY     ; 62
-	const KINGLER    ; 63
-	const VOLTORB    ; 64
-	const ELECTRODE  ; 65
-	const EXEGGCUTE  ; 66
-	const EXEGGUTOR  ; 67
-	const CUBONE     ; 68
-	const MAROWAK    ; 69
-	const HITMONLEE  ; 6a
-	const HITMONCHAN ; 6b
-	const LICKITUNG  ; 6c
-	const KOFFING    ; 6d
-	const WEEZING    ; 6e
-	const RHYHORN    ; 6f
-	const RHYDON     ; 70
-	const CHANSEY    ; 71
-	const TANGELA    ; 72
-	const KANGASKHAN ; 73
-	const HORSEA     ; 74
-	const SEADRA     ; 75
-	const GOLDEEN    ; 76
-	const SEAKING    ; 77
-	const STARYU     ; 78
-	const STARMIE    ; 79
-	const MR__MIME   ; 7a
-	const SCYTHER    ; 7b
-	const JYNX       ; 7c
-	const ELECTABUZZ ; 7d
-	const MAGMAR     ; 7e
-	const PINSIR     ; 7f
-	const TAUROS     ; 80
+	const SCRAGGY    ; 41
+	const SCRAFTY    ; 42
+	const SIGILYPH   ; 43
+	const YAMASK     ; 44
+	const COFAGRIGUS ; 45
+	const TIRTOUGA   ; 46
+	const CARRACOSTA ; 47
+	const ARCHEN     ; 48
+	const ARCHEOPS   ; 49
+	const TRUBBISH   ; 4a
+	const GARBODOR   ; 4b
+	const ZORUA      ; 4c
+	const ZOROARK    ; 4d
+	const MINCCINO   ; 4e
+	const CINCCINO   ; 4f
+	const GOTHITA    ; 50
+	const GOTHORITA  ; 51
+	const GOTHITELLE ; 52
+	const SOLOSIS    ; 53
+	const DUOSION    ; 54
+	const REUNICLUS  ; 55
+	const DUCKLETT   ; 56
+	const SWANNA     ; 57
+	const VANILLITE  ; 58
+	const VANILLISH  ; 59
+	const VANILLUXE  ; 5a
+	const DEERLING   ; 5b
+	const SAWSBUCK   ; 5c
+	const EMOLGA     ; 5d
+	const KARRABLAST ; 5e
+	const ESCAVALIER ; 5f
+	const FOONGUS    ; 60
+	const AMOONGUSS  ; 61
+	const FRILLISH   ; 62
+	const JELLICENT  ; 63
+	const ALOMOMOLA  ; 64
+	const JOLTIK     ; 65
+	const GALVANTULA ; 66
+	const FERROSEED  ; 67
+	const FERROTHORN ; 68
+	const KLINK      ; 69
+	const KLANG      ; 6a
+	const KLINKLANG  ; 6b
+	const TYNAMO     ; 6c
+	const EELEKTRIK  ; 6d
+	const EELEKTROSS ; 6e
+	const ELGYEM     ; 6f
+	const BEHEEYEM   ; 70
+	const LITWICK    ; 71
+	const LAMPENT    ; 72
+	const CHANDELURE ; 73
+	const AXEW       ; 74
+	const FRAXURE    ; 75
+	const HAXORUS    ; 76
+	const CUBCHOO    ; 77
+	const BEARTIC    ; 78
+	const CRYOGONAL  ; 79
+	const SHELMET    ; 7a
+	const ACCELGOR   ; 7b
+	const STUNFISK   ; 7c
+	const MIENFOO    ; 7d
+	const MIENSHAO   ; 7e
+	const DRUDDIGON  ; 7f
+	const GOLETT     ; 80
 	const MAGIKARP   ; 81
 	const GYARADOS   ; 82
 	const LAPRAS     ; 83
@@ -189,21 +189,21 @@ DEF JOHTO_POKEMON EQU const_value
 	const CLEFFA     ; ad
 	const GROWLITHE  ; ae
 	const ARCANINE   ; af
-	const TOGETIC    ; b0
-	const NATU       ; b1
-	const XATU       ; b2
+	const MAGNEMITE  ; b0
+	const MAGNETON   ; b1
+	const FARFETCH_D ; b2
 	const MAREEP     ; b3
 	const FLAAFFY    ; b4
 	const AMPHAROS   ; b5
-	const BELLOSSOM  ; b6
-	const MARILL     ; b7
-	const AZUMARILL  ; b8
-	const SUDOWOODO  ; b9
-	const POLITOED   ; ba
-	const HOPPIP     ; bb
-	const SKIPLOOM   ; bc
-	const JUMPLUFF   ; bd
-	const AIPOM      ; be
+	const GRIMER     ; b6
+	const MUK        ; b7
+	const KOFFING    ; b8
+	const WEEZING    ; b9
+	const CHANSEY    ; ba
+	const TANGELA    ; bb
+	const JYNX       ; bc
+	const ELECTABUZZ ; bd
+	const MAGMAR     ; be
 	const SUNKERN    ; bf
 	const SUNFLORA   ; c0
 	const YANMA      ; c1
