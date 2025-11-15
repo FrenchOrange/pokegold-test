@@ -129,37 +129,37 @@ PokedexDataPointerTable:
 	dw MienshaoPokedexEntry
 	dw DruddigonPokedexEntry
 	dw GolettPokedexEntry
-	dw MagikarpPokedexEntry
-	dw GyaradosPokedexEntry
-	dw LaprasPokedexEntry
-	dw DittoPokedexEntry
-	dw EeveePokedexEntry
-	dw VaporeonPokedexEntry
-	dw JolteonPokedexEntry
-	dw FlareonPokedexEntry
-	dw PorygonPokedexEntry
-	dw OmanytePokedexEntry
-	dw OmastarPokedexEntry
-	dw KabutoPokedexEntry
-	dw KabutopsPokedexEntry
-	dw AerodactylPokedexEntry
-	dw SnorlaxPokedexEntry
-	dw ArticunoPokedexEntry
-	dw ZapdosPokedexEntry
-	dw MoltresPokedexEntry
-	dw DratiniPokedexEntry
-	dw DragonairPokedexEntry
-	dw DragonitePokedexEntry
-	dw MewtwoPokedexEntry
-	dw MewPokedexEntry
+	dw GolurkPokedexEntry
+	dw PawniardPokedexEntry
+	dw BisharpPokedexEntry
+	dw BouffalantPokedexEntry
+	dw RuffletPokedexEntry
+	dw BraviaryPokedexEntry
+	dw VullabyPokedexEntry
+	dw MandibuzzPokedexEntry
+	dw HeatmorPokedexEntry
+	dw DurantPokedexEntry
+	dw DeinoPokedexEntry
+	dw ZweilousPokedexEntry
+	dw HydreigonPokedexEntry
+	dw LarvestaPokedexEntry
+	dw VolcaronaPokedexEntry
+	dw CobalionPokedexEntry
+	dw TerrakionPokedexEntry
+	dw VirizionPokedexEntry
+	dw TornadusPokedexEntry
+	dw ThundurusPokedexEntry
+	dw ReshiramPokedexEntry
+	dw ZekromPokedexEntry
+	dw LandorusPokedexEntry
+	dw KyuremPokedexEntry
+	dw KeldeoPokedexEntry
+	dw MeloettaPokedexEntry
+	dw GenesectPokedexEntry
+	dw VictiniPokedexEntry
 	dw ChikoritaPokedexEntry
-	dw BayleefPokedexEntry
-	dw MeganiumPokedexEntry
 	dw CyndaquilPokedexEntry
-	dw QuilavaPokedexEntry
-	dw TyphlosionPokedexEntry
 	dw TotodilePokedexEntry
-	dw CroconawPokedexEntry
 	dw FeraligatrPokedexEntry
 	dw RattataPokedexEntry
 	dw RaticatePokedexEntry
@@ -191,21 +191,21 @@ PokedexDataPointerTable:
 	dw JynxPokedexEntry
 	dw ElectabuzzPokedexEntry
 	dw MagmarPokedexEntry
-	dw SunkernPokedexEntry
-	dw SunfloraPokedexEntry
-	dw YanmaPokedexEntry
-	dw WooperPokedexEntry
-	dw QuagsirePokedexEntry
+	dw MagikarpPokedexEntry
+	dw GyaradosPokedexEntry
+	dw DittoPokedexEntry
+	dw EeveePokedexEntry
+	dw VaporeonPokedexEntry
+	dw JolteonPokedexEntry
+	dw FlareonPokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
 	dw MurkrowPokedexEntry
-	dw SlowkingPokedexEntry
+	dw DratiniPokedexEntry
+	dw DragonairPokedexEntry
+	dw DragonitePokedexEntry
 	dw MisdreavusPokedexEntry
 	dw UnownPokedexEntry
-	dw WobbuffetPokedexEntry
-	dw GirafarigPokedexEntry
-	dw PinecoPokedexEntry
-	dw ForretressPokedexEntry
 	dw DunsparcePokedexEntry
 	dw GligarPokedexEntry
 	dw SteelixPokedexEntry

@@ -130,37 +130,37 @@ EvosAttacksPointers::
 	dw MienshaoEvosAttacks
 	dw DruddigonEvosAttacks
 	dw GolettEvosAttacks
-	dw MagikarpEvosAttacks
-	dw GyaradosEvosAttacks
-	dw LaprasEvosAttacks
-	dw DittoEvosAttacks
-	dw EeveeEvosAttacks
-	dw VaporeonEvosAttacks
-	dw JolteonEvosAttacks
-	dw FlareonEvosAttacks
-	dw PorygonEvosAttacks
-	dw OmanyteEvosAttacks
-	dw OmastarEvosAttacks
-	dw KabutoEvosAttacks
-	dw KabutopsEvosAttacks
-	dw AerodactylEvosAttacks
-	dw SnorlaxEvosAttacks
-	dw ArticunoEvosAttacks
-	dw ZapdosEvosAttacks
-	dw MoltresEvosAttacks
-	dw DratiniEvosAttacks
-	dw DragonairEvosAttacks
-	dw DragoniteEvosAttacks
-	dw MewtwoEvosAttacks
-	dw MewEvosAttacks
+	dw GolurkEvosAttacks
+	dw PawniardEvosAttacks
+	dw BisharpEvosAttacks
+	dw BouffalantEvosAttacks
+	dw RuffletEvosAttacks
+	dw BraviaryEvosAttacks
+	dw VullabyEvosAttacks
+	dw MandibuzzEvosAttacks
+	dw HeatmorEvosAttacks
+	dw DurantEvosAttacks
+	dw DeinoEvosAttacks
+	dw ZweilousEvosAttacks
+	dw HydreigonEvosAttacks
+	dw LarvestaEvosAttacks
+	dw VolcaronaEvosAttacks
+	dw CobalionEvosAttacks
+	dw TerrakionEvosAttacks
+	dw VirizionEvosAttacks
+	dw TornadusEvosAttacks
+	dw ThundurusEvosAttacks
+	dw ReshiramEvosAttacks
+	dw ZekromEvosAttacks
+	dw LandorusEvosAttacks
+	dw KyuremEvosAttacks
+	dw KeldeoEvosAttacks
+	dw MeloettaEvosAttacks
+	dw GenesectEvosAttacks
+	dw VictiniEvosAttacks
 	dw ChikoritaEvosAttacks
-	dw BayleefEvosAttacks
-	dw MeganiumEvosAttacks
 	dw CyndaquilEvosAttacks
-	dw QuilavaEvosAttacks
-	dw TyphlosionEvosAttacks
 	dw TotodileEvosAttacks
-	dw CroconawEvosAttacks
 	dw FeraligatrEvosAttacks
 	dw RattataEvosAttacks
 	dw RaticateEvosAttacks
@@ -192,21 +192,21 @@ EvosAttacksPointers::
 	dw JynxEvosAttacks
 	dw ElectabuzzEvosAttacks
 	dw MagmarEvosAttacks
-	dw SunkernEvosAttacks
-	dw SunfloraEvosAttacks
-	dw YanmaEvosAttacks
-	dw WooperEvosAttacks
-	dw QuagsireEvosAttacks
+	dw MagikarpEvosAttacks
+	dw GyaradosEvosAttacks
+	dw DittoEvosAttacks
+	dw EeveeEvosAttacks
+	dw VaporeonEvosAttacks
+	dw JolteonEvosAttacks
+	dw FlareonEvosAttacks
 	dw EspeonEvosAttacks
 	dw UmbreonEvosAttacks
 	dw MurkrowEvosAttacks
-	dw SlowkingEvosAttacks
+	dw DratiniEvosAttacks
+	dw DragonairEvosAttacks
+	dw DragoniteEvosAttacks
 	dw MisdreavusEvosAttacks
 	dw UnownEvosAttacks
-	dw WobbuffetEvosAttacks
-	dw GirafarigEvosAttacks
-	dw PinecoEvosAttacks
-	dw ForretressEvosAttacks
 	dw DunsparceEvosAttacks
 	dw GligarEvosAttacks
 	dw SteelixEvosAttacks

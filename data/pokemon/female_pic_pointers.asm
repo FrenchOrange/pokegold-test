@@ -257,68 +257,68 @@ FemalePokemonPicPointers::
 	dba DruddigonBackpic
 	dba GolettFrontpic
 	dba GolettBackpic
-	dba MagikarpFrontpic_F
-	dba MagikarpBackpic_F
-	dba GyaradosFrontpic_F
-	dba GyaradosBackpic_F
-	dba LaprasFrontpic
-	dba LaprasBackpic
-	dba DittoFrontpic
-	dba DittoBackpic
-	dba EeveeFrontpic
-	dba EeveeBackpic
-	dba VaporeonFrontpic
-	dba VaporeonBackpic
-	dba JolteonFrontpic
-	dba JolteonBackpic
-	dba FlareonFrontpic
-	dba FlareonBackpic
-	dba PorygonFrontpic
-	dba PorygonBackpic
-	dba OmanyteFrontpic
-	dba OmanyteBackpic
-	dba OmastarFrontpic
-	dba OmastarBackpic
-	dba KabutoFrontpic
-	dba KabutoBackpic
-	dba KabutopsFrontpic
-	dba KabutopsBackpic
-	dba AerodactylFrontpic
-	dba AerodactylBackpic
-	dba SnorlaxFrontpic
-	dba SnorlaxBackpic
-	dba ArticunoFrontpic
-	dba ArticunoBackpic
-	dba ZapdosFrontpic
-	dba ZapdosBackpic
-	dba MoltresFrontpic
-	dba MoltresBackpic
-	dba DratiniFrontpic
-	dba DratiniBackpic
-	dba DragonairFrontpic
-	dba DragonairBackpic
-	dba DragoniteFrontpic
-	dba DragoniteBackpic
-	dba MewtwoFrontpic
-	dba MewtwoBackpic
-	dba MewFrontpic
-	dba MewBackpic
+	dba GolurkFrontpic
+	dba GolurkBackpic
+	dba PawniardFrontpic
+	dba PawniardBackpic
+	dba BisharpFrontpic
+	dba BisharpBackpic
+	dba BouffalantFrontpic
+	dba BouffalantBackpic
+	dba RuffletFrontpic
+	dba RuffletBackpic
+	dba BraviaryFrontpic
+	dba BraviaryBackpic
+	dba VullabyFrontpic
+	dba VullabyBackpic
+	dba MandibuzzFrontpic
+	dba MandibuzzBackpic
+	dba HeatmorFrontpic
+	dba HeatmorBackpic
+	dba DurantFrontpic
+	dba DurantBackpic
+	dba DeinoFrontpic
+	dba DeinoBackpic
+	dba ZweilousFrontpic
+	dba ZweilousBackpic
+	dba HydreigonFrontpic
+	dba HydreigonBackpic
+	dba LarvestaFrontpic
+	dba LarvestaBackpic
+	dba VolcaronaFrontpic
+	dba VolcaronaBackpic
+	dba CobalionFrontpic
+	dba CobalionBackpic
+	dba TerrakionFrontpic
+	dba TerrakionBackpic
+	dba VirizionFrontpic
+	dba VirizionBackpic
+	dba TornadusFrontpic
+	dba TornadusBackpic
+	dba ThundurusFrontpic
+	dba ThundurusBackpic
+	dba ReshiramFrontpic
+	dba ReshiramBackpic
+	dba ZekromFrontpic
+	dba ZekromBackpic
+	dba LandorusFrontpic
+	dba LandorusBackpic
+	dba KyuremFrontpic
+	dba KyuremBackpic
+	dba KeldeoFrontpic
+	dba KeldeoBackpic
+	dba MeloettaFrontpic
+	dba MeloettaBackpic
+	dba GenesectFrontpic
+	dba GenesectBackpic
+	dba VictiniFrontpic
+	dba VictiniBackpic
 	dba ChikoritaFrontpic
 	dba ChikoritaBackpic
-	dba BayleefFrontpic
-	dba BayleefBackpic
-	dba MeganiumFrontpic
-	dba MeganiumBackpic
 	dba CyndaquilFrontpic
 	dba CyndaquilBackpic
-	dba QuilavaFrontpic
-	dba QuilavaBackpic
-	dba TyphlosionFrontpic
-	dba TyphlosionBackpic
 	dba TotodileFrontpic
 	dba TotodileBackpic
-	dba CroconawFrontpic
-	dba CroconawBackpic
 	dba FeraligatrFrontpic
 	dba FeraligatrBackpic
 	dba RattataFrontpic_F
@@ -381,24 +381,32 @@ FemalePokemonPicPointers::
 	dba ElectabuzzBackpic
 	dba MagmarFrontpic
 	dba MagmarBackpic
-	dba SunkernFrontpic
-	dba SunkernBackpic
-	dba SunfloraFrontpic
-	dba SunfloraBackpic
-	dba YanmaFrontpic
-	dba YanmaBackpic
-	dba WooperFrontpic
-	dba WooperBackpic
-	dba QuagsireFrontpic
-	dba QuagsireBackpic
+	dba MagikarpFrontpic_F
+	dba MagikarpBackpic_F
+	dba GyaradosFrontpic_F
+	dba GyaradosBackpic_F
+	dba DittoFrontpic
+	dba DittoBackpic
+	dba EeveeFrontpic
+	dba EeveeBackpic
+	dba VaporeonFrontpic
+	dba VaporeonBackpic
+	dba JolteonFrontpic
+	dba JolteonBackpic
+	dba FlareonFrontpic
+	dba FlareonBackpic
 	dba EspeonFrontpic
 	dba EspeonBackpic
 	dba UmbreonFrontpic
 	dba UmbreonBackpic
 	dba MurkrowFrontpic_F
 	dba MurkrowBackpic_F
-	dba SlowkingFrontpic
-	dba SlowkingBackpic
+	dba DratiniFrontpic
+	dba DratiniBackpic
+	dba DragonairFrontpic
+	dba DragonairBackpic
+	dba DragoniteFrontpic
+	dba DragoniteBackpic
 	dba MisdreavusFrontpic
 	dba MisdreavusBackpic
 
@@ -406,14 +414,6 @@ FemalePokemonPicPointers::
 	dbw -1, -1
 	dbw -1, -1
 
-	dba WobbuffetFrontpic
-	dba WobbuffetBackpic
-	dba GirafarigFrontpic
-	dba GirafarigBackpic
-	dba PinecoFrontpic
-	dba PinecoBackpic
-	dba ForretressFrontpic
-	dba ForretressBackpic
 	dba DunsparceFrontpic
 	dba DunsparceBackpic
 	dba GligarFrontpic_F

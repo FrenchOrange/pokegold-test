@@ -3,16 +3,16 @@
 AlphabeticalPokedexOrder:
 	table_width 1
 	db DWEBBLE
-	db AERODACTYL
+	db LARVESTA
 	db MIENSHAO
 	db SCRAGGY
 	db AMPHAROS
 	db MUSHARNA
 	db ARCANINE
 	db ARIADOS
-	db ARTICUNO
+	db COBALION
 	db EELEKTRIK
-	db BAYLEEF
+	db ZEKROM
 	db PURRLOIN
 	db VANILLITE
 	db COFAGRIGUS
@@ -34,7 +34,7 @@ AlphabeticalPokedexOrder:
 	db DEERLING
 	db CORSOLA
 	db PETILIL
-	db CROCONAW
+	db MELOETTA
 	db FERROTHORN
 	db CYNDAQUIL
 	db DELIBIRD
@@ -64,12 +64,12 @@ AlphabeticalPokedexOrder:
 	db FERALIGATR
 	db FLAAFFY
 	db FLAREON
-	db FORRETRESS
+	db RESHIRAM
 	db SIMISEAR
 	db SAWSBUCK
 	db KARRABLAST
 	db TRUBBISH
-	db GIRAFARIG
+	db MANDIBUZZ
 	db GLIGAR
 	db THROH
 	db PALPITOAD
@@ -99,8 +99,8 @@ AlphabeticalPokedexOrder:
 	db JOLTEON
 	db MIENFOO
 	db JYNX
-	db KABUTO
-	db KABUTOPS
+	db ZWEILOUS
+	db HYDREIGON
 	db CRUSTLE
 	db STOUTLAND
 	db CHANDELURE
@@ -109,7 +109,7 @@ AlphabeticalPokedexOrder:
 	db KOFFING
 	db FRILLISH
 	db TIMBURR
-	db LAPRAS
+	db BISHARP
 	db LARVITAR
 	db LEDIAN
 	db LEDYBA
@@ -129,15 +129,15 @@ AlphabeticalPokedexOrder:
 	db MAREEP
 	db VANILLISH
 	db KLINK
-	db MEGANIUM
+	db LANDORUS
 	db COTTONEE
 	db WATCHOG
-	db MEW
-	db MEWTWO
+	db VICTINI
+	db GENESECT
 	db MIGHTYENA
 	db MILTANK
 	db MISDREAVUS
-	db MOLTRES
+	db VIRIZION
 	db SHELMET
 	db MUK
 	db MURKROW
@@ -152,8 +152,8 @@ AlphabeticalPokedexOrder:
 	db EXCADRILL
 	db OCTILLERY
 	db SEISMITOAD
-	db OMANYTE
-	db OMASTAR
+	db DURANT
+	db DEINO
 	db ESCAVALIER
 	db SEWADDLE
 	db SWADLOON
@@ -165,7 +165,7 @@ AlphabeticalPokedexOrder:
 	db LIEPARD
 	db PIDOVE
 	db PILOSWINE
-	db PINECO
+	db THUNDURUS
 	db DRUDDIGON
 	db LITWICK
 	db DARUMAKA
@@ -173,13 +173,13 @@ AlphabeticalPokedexOrder:
 	db MARACTUS
 	db ZOROARK
 	db POOCHYENA
-	db PORYGON
+	db HEATMOR
 	db PORYGON2
 	db SANDILE
 	db PSYDUCK
 	db PUPITAR
-	db QUAGSIRE
-	db QUILAVA
+	db BRAVIARY
+	db KYUREM
 	db QWILFISH
 	db TRANQUILL
 	db RAIKOU
@@ -202,13 +202,13 @@ AlphabeticalPokedexOrder:
 	db SKARMORY
 	db STUNFISK
 	db GOTHITA
-	db SLOWKING
+	db TORNADUS
 	db CINCCINO
 	db SLUGMA
 	db SMEARGLE
 	db SMOOCHUM
 	db SNEASEL
-	db SNORLAX
+	db VOLCARONA
 	db SNUBBULL
 	db PANPOUR
 	db SPINARAK
@@ -219,8 +219,8 @@ AlphabeticalPokedexOrder:
 	db STEELIX
 	db EELEKTROSS
 	db SUICUNE
-	db SUNFLORA
-	db SUNKERN
+	db PAWNIARD
+	db GOLURK
 	db SWINUB
 	db TANGELA
 	db GOLETT
@@ -230,7 +230,7 @@ AlphabeticalPokedexOrder:
 	db KROOKODILE
 	db GOTHORITA
 	db TOTODILE
-	db TYPHLOSION
+	db KELDEO
 	db TYRANITAR
 	db TYROGUE
 	db UMBREON
@@ -249,10 +249,10 @@ AlphabeticalPokedexOrder:
 	db TIRTOUGA
 	db WEEZING
 	db CONKELDURR
-	db WOBBUFFET
-	db WOOPER
+	db VULLABY
+	db RUFFLET
 	db SOLOSIS
-	db YANMA
-	db ZAPDOS
+	db BOUFFALANT
+	db TERRAKION
 	db TYMPOLE
 	assert_table_length NUM_POKEMON
