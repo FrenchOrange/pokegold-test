@@ -16,7 +16,6 @@
 	const ICON_VOLTORB
 	const ICON_GEODUDE
 	const ICON_EGG
-	const ICON_BAT
 	const ICON_BIGMON
 DEF NUM_ICONS EQU const_value - 1
 

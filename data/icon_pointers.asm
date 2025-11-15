@@ -17,6 +17,5 @@ IconPointers:
 	dw VoltorbIcon
 	dw GeodudeIcon
 	dw EggIcon
-	dw BatIcon
 	dw BigmonIcon
 	assert_table_length NUM_ICONS + 1
