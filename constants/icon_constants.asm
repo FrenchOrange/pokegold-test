@@ -8,7 +8,6 @@
 	const ICON_PLANT
 	const ICON_BUG
 	const ICON_GHOST
-	const ICON_FOX
 	const ICON_QUADRUPED
 	const ICON_SHELL
 	const ICON_BLOB

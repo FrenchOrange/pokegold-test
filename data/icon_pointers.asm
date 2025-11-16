@@ -9,7 +9,6 @@ IconPointers:
 	dw PlantIcon
 	dw BugIcon
 	dw GhostIcon
-	dw FoxIcon
 	dw QuadrupedIcon
 	dw ShellIcon
 	dw BlobIcon
