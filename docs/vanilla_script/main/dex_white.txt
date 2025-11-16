@@ -1,5 +1,3 @@
-
-This Pokémon brings victory. It is said<LINE>that Trainers with Victini always win,<LINE>regardless of the type of encounter.
 It is very intelligent and calm.<LINE>Being exposed to lots of sunlight makes<LINE>its movements swifter.
 It moves along the ground as if sliding.<LINE>Its swift movements befuddle its foes,<LINE>and it then attacks with a vine whip.
 It can stop its opponents'<LINE>movements with just a glare. It takes<LINE>in solar energy and boosts it internally.
@@ -155,3 +153,4 @@ It generates a powerful, freezing<LINE>energy inside itself, but its body became
 By blasting water from its hooves, it can<LINE>glide across water. It excels at using<LINE>leg moves while battling.
 Its melodies are sung with a special<LINE>vocalization method that can control<LINE>the feelings of those who hear it.
 Over 300 million years ago, it was feared<LINE>as the strongest of hunters.<LINE>It has been modified by Team Plasma.
+This Pokémon brings victory. It is said<LINE>that Trainers with Victini always win,<LINE>regardless of the type of encounter.
