@@ -313,18 +313,12 @@ PokemonPicPointers::
 	dba GenesectBackpic
 	dba VictiniFrontpic
 	dba VictiniBackpic
-	dba MagnezoneFrontpic
-	dba MagnezoneBackpic
-	dba GlaceonFrontpic
-	dba GlaceonBackpic
-	dba RioluFrontpic
-	dba RioluBackpic
-	dba LucarioFrontpic
-	dba LucarioBackpic
 	dba RattataFrontpic
 	dba RattataBackpic
 	dba RaticateFrontpic
 	dba RaticateBackpic
+	dba CleffaFrontpic
+	dba CleffaBackpic
 	dba ClefairyFrontpic
 	dba ClefairyBackpic
 	dba ClefableFrontpic
@@ -333,20 +327,10 @@ PokemonPicPointers::
 	dba VulpixBackpic
 	dba NinetalesFrontpic
 	dba NinetalesBackpic
-	dba LedybaFrontpic
-	dba LedybaBackpic
-	dba LedianFrontpic
-	dba LedianBackpic
-	dba SpinarakFrontpic
-	dba SpinarakBackpic
-	dba AriadosFrontpic
-	dba AriadosBackpic
 	dba PsyduckFrontpic
 	dba PsyduckBackpic
 	dba GolduckFrontpic
 	dba GolduckBackpic
-	dba CleffaFrontpic
-	dba CleffaBackpic
 	dba GrowlitheFrontpic
 	dba GrowlitheBackpic
 	dba ArcanineFrontpic
@@ -355,14 +339,10 @@ PokemonPicPointers::
 	dba MagnemiteBackpic
 	dba MagnetonFrontpic
 	dba MagnetonBackpic
+	dba MagnezoneFrontpic
+	dba MagnezoneBackpic
 	dba FarfetchDFrontpic
 	dba FarfetchDBackpic
-	dba MareepFrontpic
-	dba MareepBackpic
-	dba FlaaffyFrontpic
-	dba FlaaffyBackpic
-	dba AmpharosFrontpic
-	dba AmpharosBackpic
 	dba GrimerFrontpic
 	dba GrimerBackpic
 	dba MukFrontpic
@@ -371,16 +351,32 @@ PokemonPicPointers::
 	dba KoffingBackpic
 	dba WeezingFrontpic
 	dba WeezingBackpic
+	dba HappinyFrontpic
+	dba HappinyBackpic
 	dba ChanseyFrontpic
 	dba ChanseyBackpic
+	dba BlisseyFrontpic
+	dba BlisseyBackpic
 	dba TangelaFrontpic
 	dba TangelaBackpic
+	dba TangrowthFrontpic
+	dba TangrowthBackpic
+	dba SmoochumFrontpic
+	dba SmoochumBackpic
 	dba JynxFrontpic
 	dba JynxBackpic
+	dba ElekidFrontpic
+	dba ElekidBackpic
 	dba ElectabuzzFrontpic
 	dba ElectabuzzBackpic
+	dba ElectivireFrontpic
+	dba ElectivireBackpic
+	dba MagbyFrontpic
+	dba MagbyBackpic
 	dba MagmarFrontpic
 	dba MagmarBackpic
+	dba MagmortarFrontpic
+	dba MagmortarBackpic
 	dba MagikarpFrontpic
 	dba MagikarpBackpic
 	dba GyaradosFrontpic
@@ -399,41 +395,64 @@ PokemonPicPointers::
 	dba EspeonBackpic
 	dba UmbreonFrontpic
 	dba UmbreonBackpic
-	dba MurkrowFrontpic
-	dba MurkrowBackpic
+	dba LeafeonFrontpic
+	dba LeafeonBackpic
+	dba GlaceonFrontpic
+	dba GlaceonBackpic
 	dba DratiniFrontpic
 	dba DratiniBackpic
 	dba DragonairFrontpic
 	dba DragonairBackpic
 	dba DragoniteFrontpic
 	dba DragoniteBackpic
+	dba LedybaFrontpic
+	dba LedybaBackpic
+	dba LedianFrontpic
+	dba LedianBackpic
+	dba SpinarakFrontpic
+	dba SpinarakBackpic
+	dba AriadosFrontpic
+	dba AriadosBackpic
+	dba MareepFrontpic
+	dba MareepBackpic
+	dba FlaaffyFrontpic
+	dba FlaaffyBackpic
+	dba AmpharosFrontpic
+	dba AmpharosBackpic
+	dba MurkrowFrontpic
+	dba MurkrowBackpic
+	dba HonchkrowFrontpic
+	dba HonchkrowBackpic
 	dba MisdreavusFrontpic
 	dba MisdreavusBackpic
 	dba MismagiusFrontpic
 	dba MismagiusBackpic
-
-	; Unown pics have their own table. See UnownPicPointers
-	dbw -1, -1
-	dbw -1, -1
-
 	dba GligarFrontpic
 	dba GligarBackpic
 	dba GliscorFrontpic
 	dba GliscorBackpic
-	dba ShuppetFrontpic
-	dba ShuppetBackpic
-	dba BanetteFrontpic
-	dba BanetteBackpic
-	dba HonchkrowFrontpic
-	dba HonchkrowBackpic
-	dba WeavileFrontpic
-	dba WeavileBackpic
-	dba BaltoyFrontpic
-	dba BaltoyBackpic
-	dba ClaydolFrontpic
-	dba ClaydolBackpic
 	dba SneaselFrontpic
 	dba SneaselBackpic
+	dba WeavileFrontpic
+	dba WeavileBackpic
+	dba SwinubFrontpic
+	dba SwinubBackpic
+	dba PiloswineFrontpic
+	dba PiloswineBackpic
+	dba MamoswineFrontpic
+	dba MamoswineBackpic
+	dba MantykeFrontpic
+	dba MantykeBackpic
+	dba MantineFrontpic
+	dba MantineBackpic
+	dba HoundourFrontpic
+	dba HoundourBackpic
+	dba HoundoomFrontpic
+	dba HoundoomBackpic
+	dba PoochyenaFrontpic
+	dba PoochyenaBackpic
+	dba MightyenaFrontpic
+	dba MightyenaBackpic
 	dba SableyeFrontpic
 	dba SableyeBackpic
 	dba MawileFrontpic
@@ -442,26 +461,20 @@ PokemonPicPointers::
 	dba LunatoneBackpic
 	dba SolrockFrontpic
 	dba SolrockBackpic
-	dba SwinubFrontpic
-	dba SwinubBackpic
-	dba PiloswineFrontpic
-	dba PiloswineBackpic
-	dba MamoswineFrontpic
-	dba MamoswineBackpic
 	dba CorphishFrontpic
 	dba CorphishBackpic
 	dba CrawdauntFrontpic
 	dba CrawdauntBackpic
-	dba MantykeFrontpic
-	dba MantykeBackpic
-	dba MantineFrontpic
-	dba MantineBackpic
+	dba BaltoyFrontpic
+	dba BaltoyBackpic
+	dba ClaydolFrontpic
+	dba ClaydolBackpic
+	dba ShuppetFrontpic
+	dba ShuppetBackpic
+	dba BanetteFrontpic
+	dba BanetteBackpic
 	dba AbsolFrontpic
 	dba AbsolBackpic
-	dba HoundourFrontpic
-	dba HoundourBackpic
-	dba HoundoomFrontpic
-	dba HoundoomBackpic
 	dba ClamperlFrontpic
 	dba ClamperlBackpic
 	dba HuntailFrontpic
@@ -478,38 +491,25 @@ PokemonPicPointers::
 	dba LatiasBackpic
 	dba LatiosFrontpic
 	dba LatiosBackpic
-	dba SmoochumFrontpic
-	dba SmoochumBackpic
-	dba ElekidFrontpic
-	dba ElekidBackpic
-	dba MagbyFrontpic
-	dba MagbyBackpic
-	dba HappinyFrontpic
-	dba HappinyBackpic
-	dba BlisseyFrontpic
-	dba BlisseyBackpic
-	dba TangrowthFrontpic
-	dba TangrowthBackpic
-	dba ElectivireFrontpic
-	dba ElectivireBackpic
-	dba MagmortarFrontpic
-	dba MagmortarBackpic
 	dba GibleFrontpic
 	dba GibleBackpic
 	dba GabiteFrontpic
 	dba GabiteBackpic
 	dba GarchompFrontpic
 	dba GarchompBackpic
+	dba RioluFrontpic
+	dba RioluBackpic
+	dba LucarioFrontpic
+	dba LucarioBackpic
+
+	; Rotom pics have their own table. See RotomPicPointers
+	dbw -1, -1
+	dbw -1, -1
+
 	dba HeatranFrontpic
 	dba HeatranBackpic
 	dba CresseliaFrontpic
 	dba CresseliaBackpic
-	dba LeafeonFrontpic
-	dba LeafeonBackpic
-	dba PoochyenaFrontpic
-	dba PoochyenaBackpic
-	dba MightyenaFrontpic
-	dba MightyenaBackpic
 	assert_table_length NUM_POKEMON
 	dba EggPic
 	dbw -1, -1 ; unused

@@ -157,40 +157,38 @@ PokedexDataPointerTable:
 	dw MeloettaPokedexEntry
 	dw GenesectPokedexEntry
 	dw VictiniPokedexEntry
-	dw MagnezonePokedexEntry
-	dw GlaceonPokedexEntry
-	dw RioluPokedexEntry
-	dw LucarioPokedexEntry
 	dw RattataPokedexEntry
 	dw RaticatePokedexEntry
+	dw CleffaPokedexEntry
 	dw ClefairyPokedexEntry
 	dw ClefablePokedexEntry
 	dw VulpixPokedexEntry
 	dw NinetalesPokedexEntry
-	dw LedybaPokedexEntry
-	dw LedianPokedexEntry
-	dw SpinarakPokedexEntry
 	dw PsyduckPokedexEntry
 	dw GolduckPokedexEntry
-	dw AriadosPokedexEntry
-	dw CleffaPokedexEntry
 	dw GrowlithePokedexEntry
 	dw ArcaninePokedexEntry
 	dw MagnemitePokedexEntry
 	dw MagnetonPokedexEntry
+	dw MagnezonePokedexEntry
 	dw FarfetchDPokedexEntry
-	dw MareepPokedexEntry
-	dw FlaaffyPokedexEntry
-	dw AmpharosPokedexEntry
 	dw GrimerPokedexEntry
 	dw MukPokedexEntry
 	dw KoffingPokedexEntry
 	dw WeezingPokedexEntry
+	dw HappinyPokedexEntry
 	dw ChanseyPokedexEntry
+	dw BlisseyPokedexEntry
 	dw TangelaPokedexEntry
+	dw TangrowthPokedexEntry
+	dw SmoochumPokedexEntry
 	dw JynxPokedexEntry
+	dw ElekidPokedexEntry
 	dw ElectabuzzPokedexEntry
+	dw ElectivirePokedexEntry
+	dw MagbyPokedexEntry
 	dw MagmarPokedexEntry
+	dw MagmortarPokedexEntry
 	dw MagikarpPokedexEntry
 	dw GyaradosPokedexEntry
 	dw DittoPokedexEntry
@@ -200,36 +198,46 @@ PokedexDataPointerTable:
 	dw FlareonPokedexEntry
 	dw EspeonPokedexEntry
 	dw UmbreonPokedexEntry
-	dw MurkrowPokedexEntry
+	dw LeafeonPokedexEntry
+	dw GlaceonPokedexEntry
 	dw DratiniPokedexEntry
 	dw DragonairPokedexEntry
 	dw DragonitePokedexEntry
+	dw LedybaPokedexEntry
+	dw LedianPokedexEntry
+	dw SpinarakPokedexEntry
+	dw AriadosPokedexEntry
+	dw MareepPokedexEntry
+	dw FlaaffyPokedexEntry
+	dw AmpharosPokedexEntry
+	dw MurkrowPokedexEntry
+	dw HonchkrowPokedexEntry
 	dw MisdreavusPokedexEntry
 	dw MismagiusPokedexEntry
-	dw UnownPokedexEntry
 	dw GligarPokedexEntry
 	dw GliscorPokedexEntry
-	dw ShuppetPokedexEntry
-	dw BanettePokedexEntry
-	dw HonchkrowPokedexEntry
-	dw WeavilePokedexEntry
-	dw BaltoyPokedexEntry
-	dw ClaydolPokedexEntry
 	dw SneaselPokedexEntry
+	dw WeavilePokedexEntry
+	dw SwinubPokedexEntry
+	dw PiloswinePokedexEntry
+	dw MamoswinePokedexEntry
+	dw MantykePokedexEntry
+	dw MantinePokedexEntry
+	dw HoundourPokedexEntry
+	dw HoundoomPokedexEntry
+	dw PoochyenaPokedexEntry
+	dw MightyenaPokedexEntry
 	dw SableyePokedexEntry
 	dw MawilePokedexEntry
 	dw LunatonePokedexEntry
 	dw SolrockPokedexEntry
-	dw SwinubPokedexEntry
-	dw PiloswinePokedexEntry
-	dw MamoswinePokedexEntry
 	dw CorphishPokedexEntry
 	dw CrawdauntPokedexEntry
-	dw MantykePokedexEntry
-	dw MantinePokedexEntry
+	dw BaltoyPokedexEntry
+	dw ClaydolPokedexEntry
+	dw ShuppetPokedexEntry
+	dw BanettePokedexEntry
 	dw AbsolPokedexEntry
-	dw HoundourPokedexEntry
-	dw HoundoomPokedexEntry
 	dw ClamperlPokedexEntry
 	dw HuntailPokedexEntry
 	dw GorebyssPokedexEntry
@@ -238,20 +246,12 @@ PokedexDataPointerTable:
 	dw MetagrossPokedexEntry
 	dw LatiasPokedexEntry
 	dw LatiosPokedexEntry
-	dw SmoochumPokedexEntry
-	dw ElekidPokedexEntry
-	dw MagbyPokedexEntry
-	dw HappinyPokedexEntry
-	dw BlisseyPokedexEntry
-	dw TangrowthPokedexEntry
-	dw ElectivirePokedexEntry
-	dw MagmortarPokedexEntry
 	dw GiblePokedexEntry
 	dw GabitePokedexEntry
 	dw GarchompPokedexEntry
+	dw RioluPokedexEntry
+	dw LucarioPokedexEntry
+	dw RotomPokedexEntry
 	dw HeatranPokedexEntry
 	dw CresseliaPokedexEntry
-	dw LeafeonPokedexEntry
-	dw PoochyenaPokedexEntry
-	dw MightyenaPokedexEntry
 	assert_table_length NUM_POKEMON
