@@ -868,22 +868,23 @@ VictiniEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-ChikoritaEvosAttacks:
+MagnezoneEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-CyndaquilEvosAttacks:
+GlaceonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-TotodileEvosAttacks:
+RioluEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_MORNDAY, LUCARIO
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-FeraligatrEvosAttacks:
+LucarioEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -978,6 +979,7 @@ MagnemiteEvosAttacks:
 	db 0 ; no more level-up moves
 
 MagnetonEvosAttacks:
+	db EVOLVE_ITEM, THUNDERSTONE, MAGNEZONE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1034,6 +1036,7 @@ ChanseyEvosAttacks:
 	db 0 ; no more level-up moves
 
 TangelaEvosAttacks:
+	db EVOLVE_ITEM, LEAF_STONE, TANGROWTH
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1044,11 +1047,13 @@ JynxEvosAttacks:
 	db 0 ; no more level-up moves
 
 ElectabuzzEvosAttacks:
+	db EVOLVE_TRADE, ELECTIRIZER, ELECTIVIRE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
 MagmarEvosAttacks:
+	db EVOLVE_TRADE, MAGMARIZER, MAGMORTAR
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1075,6 +1080,8 @@ EeveeEvosAttacks:
 	db EVOLVE_ITEM, FIRE_STONE, FLAREON
 	db EVOLVE_HAPPINESS, TR_MORNDAY, ESPEON
 	db EVOLVE_HAPPINESS, TR_NITE, UMBREON
+	db EVOLVE_ITEM, LEAF_STONE, LEAFEON
+	db EVOLVE_ITEM, ICE_STONE, GLACEON
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1105,6 +1112,7 @@ UmbreonEvosAttacks:
 	db 0 ; no more level-up moves
 
 MurkrowEvosAttacks:
+	db EVOLVE_ITEM, DUSK_STONE, HONCHKROW
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1127,6 +1135,12 @@ DragoniteEvosAttacks:
 	db 0 ; no more level-up moves
 
 MisdreavusEvosAttacks:
+	db EVOLVE_ITEM, DUSK_STONE, MISMAGIUS
+	db 0 ; no more evolutions
+	db 1, TACKLE
+	db 0 ; no more level-up moves
+
+MismagiusEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1136,77 +1150,71 @@ UnownEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-DunsparceEvosAttacks:
-	db 0 ; no more evolutions
-	db 1, TACKLE
-	db 0 ; no more level-up moves
-
 GligarEvosAttacks:
-;	db EVOLVE_HOLDING, RAZOR_FANG, 1, VENUSAUR
+	db EVOLVE_HOLDING, RAZOR_FANG, 1, GLISCOR
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SteelixEvosAttacks:
+GliscorEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SnubbullEvosAttacks:
-	db EVOLVE_LEVEL, 23, GRANBULL
+ShuppetEvosAttacks:
+	db EVOLVE_LEVEL, 37, BANETTE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-GranbullEvosAttacks:
+BanetteEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-QwilfishEvosAttacks:
+HonchkrowEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-ScizorEvosAttacks:
+WeavileEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-ShuckleEvosAttacks:
+BaltoyEvosAttacks:
+	db EVOLVE_LEVEL, 36, CLAYDOL
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-HeracrossEvosAttacks:
+ClaydolEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
 SneaselEvosAttacks:
-;	db EVOLVE_HOLDING, RAZOR_CLAW, 1, VENUSAUR
+	db EVOLVE_HOLDING, RAZOR_CLAW, 1, WEAVILE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-TeddiursaEvosAttacks:
-	db EVOLVE_LEVEL, 30, URSARING
+SableyeEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-UrsaringEvosAttacks:
+MawileEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SlugmaEvosAttacks:
-	db EVOLVE_LEVEL, 38, MAGCARGO
+LunatoneEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MagcargoEvosAttacks:
+SolrockEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1218,27 +1226,29 @@ SwinubEvosAttacks:
 	db 0 ; no more level-up moves
 
 PiloswineEvosAttacks:
+	db EVOLVE_ITEM, ICE_STONE, MAMOSWINE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-CorsolaEvosAttacks:
+MamoswineEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-RemoraidEvosAttacks:
-	db EVOLVE_LEVEL, 25, OCTILLERY
+CorphishEvosAttacks:
+	db EVOLVE_LEVEL, 30, CRAWDAUNT
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-OctilleryEvosAttacks:
+CrawdauntEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-DelibirdEvosAttacks:
+MantykeEvosAttacks:
+	db EVOLVE_HAPPINESS, TR_ANYTIME, MANTINE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1248,7 +1258,7 @@ MantineEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SkarmoryEvosAttacks:
+AbsolEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1264,43 +1274,46 @@ HoundoomEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-KingdraEvosAttacks:
+ClamperlEvosAttacks:
+	db EVOLVE_TRADE, DEEPSEATOOTH, HUNTAIL
+	db EVOLVE_TRADE, DEEPSEASCALE, GOREBYSS
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-PhanpyEvosAttacks:
-	db EVOLVE_LEVEL, 25, DONPHAN
+HuntailEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-DonphanEvosAttacks:
+GorebyssEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-Porygon2EvosAttacks:
+BeldumEvosAttacks:
+	db EVOLVE_LEVEL, 20, METANG
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-StantlerEvosAttacks:
+MetangEvosAttacks:
+	db EVOLVE_LEVEL, 45, METAGROSS
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SmeargleEvosAttacks:
+MetagrossEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-TyrogueEvosAttacks:
+LatiasEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-HitmontopEvosAttacks:
+LatiosEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1323,7 +1336,8 @@ MagbyEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-MiltankEvosAttacks:
+HappinyEvosAttacks:
+	db EVOLVE_LEVEL, 30, CHANSEY
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
@@ -1333,49 +1347,49 @@ BlisseyEvosAttacks:
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-RaikouEvosAttacks:
+TangrowthEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-EnteiEvosAttacks:
+ElectivireEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-SuicuneEvosAttacks:
+MagmortarEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-LarvitarEvosAttacks:
-	db EVOLVE_LEVEL, 30, PUPITAR
+GibleEvosAttacks:
+	db EVOLVE_LEVEL, 24, GABITE
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-PupitarEvosAttacks:
-	db EVOLVE_LEVEL, 55, TYRANITAR
+GabiteEvosAttacks:
+	db EVOLVE_LEVEL, 48, GARCHOMP
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-TyranitarEvosAttacks:
+GarchompEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-LugiaEvosAttacks:
+HeatranEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-HoOhEvosAttacks:
+CresseliaEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves
 
-CelebiEvosAttacks:
+LeafeonEvosAttacks:
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

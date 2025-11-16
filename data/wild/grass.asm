@@ -5,29 +5,29 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_1
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, LUGIA
-	db 4, LUGIA
-	db 5, LUGIA
-	db 3, LUGIA
-	db 6, LUGIA
-	db 5, LUGIA
-	db 5, LUGIA
+	db 3, METAGROSS
+	db 4, METAGROSS
+	db 5, METAGROSS
+	db 3, METAGROSS
+	db 6, METAGROSS
+	db 5, METAGROSS
+	db 5, METAGROSS
 	; day
-	db 3, LUGIA
-	db 4, LUGIA
-	db 5, LUGIA
-	db 3, LUGIA
-	db 6, LUGIA
-	db 5, LUGIA
-	db 5, LUGIA
+	db 3, METAGROSS
+	db 4, METAGROSS
+	db 5, METAGROSS
+	db 3, METAGROSS
+	db 6, METAGROSS
+	db 5, METAGROSS
+	db 5, METAGROSS
 	; nite
-	db 3, LUGIA
-	db 4, LUGIA
-	db 5, LUGIA
-	db 3, LUGIA
-	db 6, LUGIA
-	db 5, LUGIA
-	db 5, LUGIA
+	db 3, METAGROSS
+	db 4, METAGROSS
+	db 5, METAGROSS
+	db 3, METAGROSS
+	db 6, METAGROSS
+	db 5, METAGROSS
+	db 5, METAGROSS
 	end_grass_wildmons
 
 	db -1 ; end

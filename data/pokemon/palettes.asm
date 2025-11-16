@@ -319,14 +319,14 @@ INCLUDE "gfx/palettes/purplemon.pal"
 INCLUDE "gfx/palettes/purplemon_shiny.pal" ; GENESECT
 INCLUDE "gfx/palettes/redmon.pal"
 INCLUDE "gfx/palettes/redmon_shiny.pal"    ; VICTINI
-INCLUDE "gfx/palettes/greenmon.pal"
-INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; CHIKORITA
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; CYNDAQUIL
+INCLUDE "gfx/palettes/graymon.pal"
+INCLUDE "gfx/palettes/graymon_shiny.pal"   ; MAGNEZONE
 INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; TOTODILE
+INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; GLACEON
 INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; FERALIGATR
+INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; RIOLU
+INCLUDE "gfx/palettes/cyanmon.pal"
+INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; LUCARIO
 INCLUDE "gfx/palettes/graymon.pal"
 INCLUDE "gfx/palettes/graymon_shiny.pal"   ; RATTATA
 INCLUDE "gfx/palettes/graymon.pal"
@@ -415,72 +415,72 @@ INCLUDE "gfx/palettes/brownmon.pal"
 INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; DRAGONITE
 INCLUDE "gfx/palettes/purplemon.pal"
 INCLUDE "gfx/palettes/purplemon_shiny.pal" ; MISDREAVUS
-INCLUDE "gfx/palettes/mewmon.pal"
-INCLUDE "gfx/palettes/mewmon_shiny.pal"    ; UNOWN
-INCLUDE "gfx/palettes/yellowmon.pal"
-INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; DUNSPARCE
+INCLUDE "gfx/palettes/purplemon.pal"
+INCLUDE "gfx/palettes/purplemon_shiny.pal" ; MISMAGIUS
+INCLUDE "gfx/palettes/redmon.pal"
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; UNOWN
 INCLUDE "gfx/palettes/pinkmon.pal"
 INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; GLIGAR
-INCLUDE "gfx/palettes/graymon.pal"
-INCLUDE "gfx/palettes/graymon_shiny.pal"   ; STEELIX
-INCLUDE "gfx/palettes/pinkmon.pal"
-INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; SNUBBULL
 INCLUDE "gfx/palettes/purplemon.pal"
-INCLUDE "gfx/palettes/purplemon_shiny.pal" ; GRANBULL
+INCLUDE "gfx/palettes/purplemon_shiny.pal" ; GLISCOR
 INCLUDE "gfx/palettes/bluemon.pal"
-INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; QWILFISH
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; SCIZOR
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; SHUCKLE
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; SHUPPET
 INCLUDE "gfx/palettes/bluemon.pal"
-INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; HERACROSS
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; BANETTE
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; HONCHKROW
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; WEAVILE
+INCLUDE "gfx/palettes/brownmon.pal"
+INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; BALTOY
+INCLUDE "gfx/palettes/graymon.pal"
+INCLUDE "gfx/palettes/graymon_shiny.pal"   ; CLAYDOL
 INCLUDE "gfx/palettes/bluemon.pal"
 INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; SNEASEL
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; TEDDIRUSA
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; URSARING
+INCLUDE "gfx/palettes/purplemon.pal"
+INCLUDE "gfx/palettes/purplemon_shiny.pal" ; SABLEYE
+INCLUDE "gfx/palettes/yellowmon.pal"
+INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; MAWILE
+INCLUDE "gfx/palettes/yellowmon.pal"
+INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; LUNATONE
 INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; SLUGMA
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; MAGCARGO
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; SOLROCK
 INCLUDE "gfx/palettes/brownmon.pal"
 INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; SWINUB
 INCLUDE "gfx/palettes/brownmon.pal"
 INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; PILOSWINE
-INCLUDE "gfx/palettes/pinkmon.pal"
-INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; CORSOLA
+INCLUDE "gfx/palettes/brownmon.pal"
+INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; MAMOSWINE
+INCLUDE "gfx/palettes/redmon.pal"
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; CORPHISH
+INCLUDE "gfx/palettes/redmon.pal"
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; CRAWDAUNT
 INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; REMORAID
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; OCTILLERY
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; DELIBIRD
+INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; MANTYKE
 INCLUDE "gfx/palettes/bluemon.pal"
 INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; MANTINE
-INCLUDE "gfx/palettes/graymon.pal"
-INCLUDE "gfx/palettes/graymon_shiny.pal"   ; SKARMORY
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; ABSOL
 INCLUDE "gfx/palettes/redmon.pal"
 INCLUDE "gfx/palettes/redmon_shiny.pal"    ; HOUNDOUR
 INCLUDE "gfx/palettes/redmon.pal"
 INCLUDE "gfx/palettes/redmon_shiny.pal"    ; HOUNDOOM
-INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; KINGDRA
-INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; PHANPY
 INCLUDE "gfx/palettes/bluemon.pal"
-INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; DONPHAN
-INCLUDE "gfx/palettes/graymon.pal"
-INCLUDE "gfx/palettes/graymon_shiny.pal"   ; PORYGON 2
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; STANTLER
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; SMEARGLE
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; TYROGUE
-INCLUDE "gfx/palettes/brownmon.pal"
-INCLUDE "gfx/palettes/brownmon_shiny.pal"  ; HITMONTOP
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; CLAMPERL
+INCLUDE "gfx/palettes/cyanmon.pal"
+INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; HUNTAIL
+INCLUDE "gfx/palettes/pinkmon.pal"
+INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; GOREBYSS
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; BELDUM
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; METANG
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; METAGROSS
+INCLUDE "gfx/palettes/redmon.pal"
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; LATIAS
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; LATIOS
 INCLUDE "gfx/palettes/pinkmon.pal"
 INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; SMOOCHUM
 INCLUDE "gfx/palettes/yellowmon.pal"
@@ -488,27 +488,27 @@ INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; ELEKID
 INCLUDE "gfx/palettes/redmon.pal"
 INCLUDE "gfx/palettes/redmon_shiny.pal"    ; MAGBY
 INCLUDE "gfx/palettes/pinkmon.pal"
-INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; MILTANK
+INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; HAPPINY
 INCLUDE "gfx/palettes/pinkmon.pal"
 INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; BLISSEY
-INCLUDE "gfx/palettes/yellowmon.pal"
-INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; RAIKOU
-INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; ENTEI
-INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; SUICUNE
-INCLUDE "gfx/palettes/greenmon.pal"
-INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; LARVITAR
 INCLUDE "gfx/palettes/bluemon.pal"
-INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; PUPITAR
-INCLUDE "gfx/palettes/greenmon.pal"
-INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; TYRANITAR
-INCLUDE "gfx/palettes/cyanmon.pal"
-INCLUDE "gfx/palettes/cyanmon_shiny.pal"   ; LUGIA
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; TANGROWTH
+INCLUDE "gfx/palettes/yellowmon.pal"
+INCLUDE "gfx/palettes/yellowmon_shiny.pal" ; ELECTIVIRE
 INCLUDE "gfx/palettes/redmon.pal"
-INCLUDE "gfx/palettes/redmon_shiny.pal"    ; HO-OH
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; MAGMORTAR
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; GIBLE
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; GABITE
+INCLUDE "gfx/palettes/bluemon.pal"
+INCLUDE "gfx/palettes/bluemon_shiny.pal"   ; GARCHOMP
+INCLUDE "gfx/palettes/redmon.pal"
+INCLUDE "gfx/palettes/redmon_shiny.pal"    ; HEATRAN
+INCLUDE "gfx/palettes/pinkmon.pal"
+INCLUDE "gfx/palettes/pinkmon_shiny.pal"   ; CRESSELIA
 INCLUDE "gfx/palettes/greenmon.pal"
-INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; CELEBI
+INCLUDE "gfx/palettes/greenmon_shiny.pal"  ; LEAFEON
 INCLUDE "gfx/palettes/graymon.pal"
 INCLUDE "gfx/palettes/graymon_shiny.pal"   ; POOCHYENA
 INCLUDE "gfx/palettes/graymon.pal"

@@ -170,10 +170,10 @@
 	const GENESECT   ; 9b
 	const VICTINI    ; 9c
 DEF JOHTO_POKEMON EQU const_value
-	const CHIKORITA  ; 9d (TEMP)
-	const CYNDAQUIL  ; 9e (TEMP)
-	const TOTODILE   ; 9f (TEMP)
-	const FERALIGATR ; a0 (TEMP)
+	const MAGNEZONE  ; 9d
+	const GLACEON    ; 9e
+	const RIOLU      ; 9f
+	const LUCARIO    ; a0
 	const RATTATA    ; a1
 	const RATICATE   ; a2
 	const CLEFAIRY   ; a3
@@ -218,53 +218,53 @@ DEF JOHTO_POKEMON EQU const_value
 	const DRAGONAIR  ; ca
 	const DRAGONITE  ; cb
 	const MISDREAVUS ; cc
-	const UNOWN      ; cd (TEMP) (ROTOM)
-	const DUNSPARCE  ; ce (TEMP)
+	const MISMAGIUS  ; cd
+	const UNOWN      ; ce (ROTOM)
 	const GLIGAR     ; cf
-	const STEELIX    ; d0 (TEMP)
-	const SNUBBULL   ; d1 (TEMP)
-	const GRANBULL   ; d2 (TEMP)
-	const QWILFISH   ; d3 (TEMP)
-	const SCIZOR     ; d4 (TEMP)
-	const SHUCKLE    ; d5 (TEMP)
-	const HERACROSS  ; d6 (TEMP)
+	const GLISCOR    ; d0
+	const SHUPPET    ; d1
+	const BANETTE    ; d2
+	const HONCHKROW  ; d3
+	const WEAVILE    ; d4
+	const BALTOY     ; d5
+	const CLAYDOL    ; d6
 	const SNEASEL    ; d7
-	const TEDDIURSA  ; d8 (TEMP)
-	const URSARING   ; d9 (TEMP)
-	const SLUGMA     ; da (TEMP)
-	const MAGCARGO   ; db (TEMP)
+	const SABLEYE    ; d8
+	const MAWILE     ; d9
+	const LUNATONE   ; da
+	const SOLROCK    ; db
 	const SWINUB     ; dc
 	const PILOSWINE  ; dd
-	const CORSOLA    ; de (TEMP)
-	const REMORAID   ; df (TEMP)
-	const OCTILLERY  ; e0 (TEMP)
-	const DELIBIRD   ; e1 (TEMP)
+	const MAMOSWINE  ; de
+	const CORPHISH   ; df
+	const CRAWDAUNT  ; e0
+	const MANTYKE    ; e1
 	const MANTINE    ; e2
-	const SKARMORY   ; e3 (TEMP)
+	const ABSOL      ; e3
 	const HOUNDOUR   ; e4
 	const HOUNDOOM   ; e5
-	const KINGDRA    ; e6 (TEMP)
-	const PHANPY     ; e7 (TEMP)
-	const DONPHAN    ; e8 (TEMP)
-	const PORYGON2   ; e9 (TEMP)
-	const STANTLER   ; ea (TEMP)
-	const SMEARGLE   ; eb (TEMP)
-	const TYROGUE    ; ec (TEMP)
-	const HITMONTOP  ; ed (TEMP)
+	const CLAMPERL   ; e6
+	const HUNTAIL    ; e7
+	const GOREBYSS   ; e8
+	const BELDUM     ; e9
+	const METANG     ; ea
+	const METAGROSS  ; eb
+	const LATIAS     ; ec
+	const LATIOS     ; ed
 	const SMOOCHUM   ; ee
 	const ELEKID     ; ef
 	const MAGBY      ; f0
-	const MILTANK    ; f1 (TEMP)
+	const HAPPINY    ; f1
 	const BLISSEY    ; f2
-	const RAIKOU     ; f3 (TEMP)
-	const ENTEI      ; f4 (TEMP)
-	const SUICUNE    ; f5 (TEMP)
-	const LARVITAR   ; f6 (TEMP)
-	const PUPITAR    ; f7 (TEMP)
-	const TYRANITAR  ; f8 (TEMP)
-	const LUGIA      ; f9 (TEMP)
-	const HO_OH      ; fa (TEMP)
-	const CELEBI     ; fb (TEMP)
+	const TANGROWTH  ; f3
+	const ELECTIVIRE ; f4
+	const MAGMORTAR  ; f5
+	const GIBLE      ; f6
+	const GABITE     ; f7
+	const GARCHOMP   ; f8
+	const HEATRAN    ; f9
+	const CRESSELIA  ; fa
+	const LEAFEON    ; fb
 	const POOCHYENA  ; fc
 	const MIGHTYENA  ; fd
 DEF NUM_POKEMON EQU const_value - 1

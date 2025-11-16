@@ -313,14 +313,14 @@ FemalePokemonPicPointers::
 	dba GenesectBackpic
 	dba VictiniFrontpic
 	dba VictiniBackpic
-	dba ChikoritaFrontpic
-	dba ChikoritaBackpic
-	dba CyndaquilFrontpic
-	dba CyndaquilBackpic
-	dba TotodileFrontpic
-	dba TotodileBackpic
-	dba FeraligatrFrontpic
-	dba FeraligatrBackpic
+	dba MagnezoneFrontpic
+	dba MagnezoneBackpic
+	dba GlaceonFrontpic
+	dba GlaceonBackpic
+	dba RioluFrontpic
+	dba RioluBackpic
+	dba LucarioFrontpic
+	dba LucarioBackpic
 	dba RattataFrontpic_F
 	dba RattataBackpic_F
 	dba RaticateFrontpic_F
@@ -409,103 +409,103 @@ FemalePokemonPicPointers::
 	dba DragoniteBackpic
 	dba MisdreavusFrontpic
 	dba MisdreavusBackpic
+	dba MismagiusFrontpic
+	dba MismagiusBackpic
 
 	; Unown pics have their own table. See UnownPicPointers
 	dbw -1, -1
 	dbw -1, -1
 
-	dba DunsparceFrontpic
-	dba DunsparceBackpic
 	dba GligarFrontpic_F
 	dba GligarBackpic_F
-	dba SteelixFrontpic
-	dba SteelixBackpic
-	dba SnubbullFrontpic
-	dba SnubbullBackpic
-	dba GranbullFrontpic
-	dba GranbullBackpic
-	dba QwilfishFrontpic
-	dba QwilfishBackpic
-	dba ScizorFrontpic
-	dba ScizorBackpic
-	dba ShuckleFrontpic
-	dba ShuckleBackpic
-	dba HeracrossFrontpic
-	dba HeracrossBackpic
+	dba GliscorFrontpic
+	dba GliscorBackpic
+	dba ShuppetFrontpic
+	dba ShuppetBackpic
+	dba BanetteFrontpic
+	dba BanetteBackpic
+	dba HonchkrowFrontpic
+	dba HonchkrowBackpic
+	dba WeavileFrontpic_F
+	dba WeavileBackpic_F
+	dba BaltoyFrontpic
+	dba BaltoyBackpic
+	dba ClaydolFrontpic
+	dba ClaydolBackpic
 	dba SneaselFrontpic_F
 	dba SneaselBackpic_F
-	dba TeddiursaFrontpic
-	dba TeddiursaBackpic
-	dba UrsaringFrontpic
-	dba UrsaringBackpic
-	dba SlugmaFrontpic
-	dba SlugmaBackpic
-	dba MagcargoFrontpic
-	dba MagcargoBackpic
+	dba SableyeFrontpic
+	dba SableyeBackpic
+	dba MawileFrontpic
+	dba MawileBackpic
+	dba LunatoneFrontpic
+	dba LunatoneBackpic
+	dba SolrockFrontpic
+	dba SolrockBackpic
 	dba SwinubFrontpic
 	dba SwinubBackpic
 	dba PiloswineFrontpic_F
 	dba PiloswineBackpic_F
-	dba CorsolaFrontpic
-	dba CorsolaBackpic
-	dba RemoraidFrontpic
-	dba RemoraidBackpic
-	dba OctilleryFrontpic
-	dba OctilleryBackpic
-	dba DelibirdFrontpic
-	dba DelibirdBackpic
+	dba MamoswineFrontpic_F
+	dba MamoswineBackpic_F
+	dba CorphishFrontpic
+	dba CorphishBackpic
+	dba CrawdauntFrontpic
+	dba CrawdauntBackpic
+	dba MantykeFrontpic
+	dba MantykeBackpic
 	dba MantineFrontpic
 	dba MantineBackpic
-	dba SkarmoryFrontpic
-	dba SkarmoryBackpic
+	dba AbsolFrontpic
+	dba AbsolBackpic
 	dba HoundourFrontpic
 	dba HoundourBackpic
 	dba HoundoomFrontpic_F
 	dba HoundoomBackpic_F
-	dba KingdraFrontpic
-	dba KingdraBackpic
-	dba PhanpyFrontpic
-	dba PhanpyBackpic
-	dba DonphanFrontpic
-	dba DonphanBackpic
-	dba Porygon2Frontpic
-	dba Porygon2Backpic
-	dba StantlerFrontpic
-	dba StantlerBackpic
-	dba SmeargleFrontpic
-	dba SmeargleBackpic
-	dba TyrogueFrontpic
-	dba TyrogueBackpic
-	dba HitmontopFrontpic
-	dba HitmontopBackpic
+	dba ClamperlFrontpic
+	dba ClamperlBackpic
+	dba HuntailFrontpic
+	dba HuntailBackpic
+	dba GorebyssFrontpic
+	dba GorebyssBackpic
+	dba BeldumFrontpic
+	dba BeldumBackpic
+	dba MetangFrontpic
+	dba MetangBackpic
+	dba MetagrossFrontpic
+	dba MetagrossBackpic
+	dba LatiasFrontpic
+	dba LatiasBackpic
+	dba LatiosFrontpic
+	dba LatiosBackpic
 	dba SmoochumFrontpic
 	dba SmoochumBackpic
 	dba ElekidFrontpic
 	dba ElekidBackpic
 	dba MagbyFrontpic
 	dba MagbyBackpic
-	dba MiltankFrontpic
-	dba MiltankBackpic
+	dba HappinyFrontpic
+	dba HappinyBackpic
 	dba BlisseyFrontpic
 	dba BlisseyBackpic
-	dba RaikouFrontpic
-	dba RaikouBackpic
-	dba EnteiFrontpic
-	dba EnteiBackpic
-	dba SuicuneFrontpic
-	dba SuicuneBackpic
-	dba LarvitarFrontpic
-	dba LarvitarBackpic
-	dba PupitarFrontpic
-	dba PupitarBackpic
-	dba TyranitarFrontpic
-	dba TyranitarBackpic
-	dba LugiaFrontpic
-	dba LugiaBackpic
-	dba HoOhFrontpic
-	dba HoOhBackpic
-	dba CelebiFrontpic
-	dba CelebiBackpic
+	dba TangrowthFrontpic_F
+	dba TangrowthBackpic_F
+	dba ElectivireFrontpic
+	dba ElectivireBackpic
+	dba MagmortarFrontpic
+	dba MagmortarBackpic
+	dba GibleFrontpic_F
+	dba GibleBackpic_F
+	dba GabiteFrontpic_F
+	dba GabiteBackpic_F
+	dba GarchompFrontpic_F
+	dba GarchompBackpic_F
+	dba HeatranFrontpic
+	dba HeatranBackpic
+	dba CresseliaFrontpic
+	dba CresseliaBackpic
+	dba LeafeonFrontpic
+	dba LeafeonBackpic
 	dba PoochyenaFrontpic
 	dba PoochyenaBackpic
 	dba MightyenaFrontpic

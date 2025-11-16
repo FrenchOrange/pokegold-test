@@ -158,10 +158,10 @@ EvosAttacksPointers::
 	dw MeloettaEvosAttacks
 	dw GenesectEvosAttacks
 	dw VictiniEvosAttacks
-	dw ChikoritaEvosAttacks
-	dw CyndaquilEvosAttacks
-	dw TotodileEvosAttacks
-	dw FeraligatrEvosAttacks
+	dw MagnezoneEvosAttacks
+	dw GlaceonEvosAttacks
+	dw RioluEvosAttacks
+	dw LucarioEvosAttacks
 	dw RattataEvosAttacks
 	dw RaticateEvosAttacks
 	dw ClefairyEvosAttacks
@@ -206,53 +206,53 @@ EvosAttacksPointers::
 	dw DragonairEvosAttacks
 	dw DragoniteEvosAttacks
 	dw MisdreavusEvosAttacks
+	dw MismagiusEvosAttacks
 	dw UnownEvosAttacks
-	dw DunsparceEvosAttacks
 	dw GligarEvosAttacks
-	dw SteelixEvosAttacks
-	dw SnubbullEvosAttacks
-	dw GranbullEvosAttacks
-	dw QwilfishEvosAttacks
-	dw ScizorEvosAttacks
-	dw ShuckleEvosAttacks
-	dw HeracrossEvosAttacks
+	dw GliscorEvosAttacks
+	dw ShuppetEvosAttacks
+	dw BanetteEvosAttacks
+	dw HonchkrowEvosAttacks
+	dw WeavileEvosAttacks
+	dw BaltoyEvosAttacks
+	dw ClaydolEvosAttacks
 	dw SneaselEvosAttacks
-	dw TeddiursaEvosAttacks
-	dw UrsaringEvosAttacks
-	dw SlugmaEvosAttacks
-	dw MagcargoEvosAttacks
+	dw SableyeEvosAttacks
+	dw MawileEvosAttacks
+	dw LunatoneEvosAttacks
+	dw SolrockEvosAttacks
 	dw SwinubEvosAttacks
 	dw PiloswineEvosAttacks
-	dw CorsolaEvosAttacks
-	dw RemoraidEvosAttacks
-	dw OctilleryEvosAttacks
-	dw DelibirdEvosAttacks
+	dw MamoswineEvosAttacks
+	dw CorphishEvosAttacks
+	dw CrawdauntEvosAttacks
+	dw MantykeEvosAttacks
 	dw MantineEvosAttacks
-	dw SkarmoryEvosAttacks
+	dw AbsolEvosAttacks
 	dw HoundourEvosAttacks
 	dw HoundoomEvosAttacks
-	dw KingdraEvosAttacks
-	dw PhanpyEvosAttacks
-	dw DonphanEvosAttacks
-	dw Porygon2EvosAttacks
-	dw StantlerEvosAttacks
-	dw SmeargleEvosAttacks
-	dw TyrogueEvosAttacks
-	dw HitmontopEvosAttacks
+	dw ClamperlEvosAttacks
+	dw HuntailEvosAttacks
+	dw GorebyssEvosAttacks
+	dw BeldumEvosAttacks
+	dw MetangEvosAttacks
+	dw MetagrossEvosAttacks
+	dw LatiasEvosAttacks
+	dw LatiosEvosAttacks
 	dw SmoochumEvosAttacks
 	dw ElekidEvosAttacks
 	dw MagbyEvosAttacks
-	dw MiltankEvosAttacks
+	dw HappinyEvosAttacks
 	dw BlisseyEvosAttacks
-	dw RaikouEvosAttacks
-	dw EnteiEvosAttacks
-	dw SuicuneEvosAttacks
-	dw LarvitarEvosAttacks
-	dw PupitarEvosAttacks
-	dw TyranitarEvosAttacks
-	dw LugiaEvosAttacks
-	dw HoOhEvosAttacks
-	dw CelebiEvosAttacks
+	dw TangrowthEvosAttacks
+	dw ElectivireEvosAttacks
+	dw MagmortarEvosAttacks
+	dw GibleEvosAttacks
+	dw GabiteEvosAttacks
+	dw GarchompEvosAttacks
+	dw HeatranEvosAttacks
+	dw CresseliaEvosAttacks
+	dw LeafeonEvosAttacks
 	dw PoochyenaEvosAttacks
 	dw MightyenaEvosAttacks
 	assert_table_length NUM_POKEMON
