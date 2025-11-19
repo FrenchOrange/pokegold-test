@@ -1,10 +1,10 @@
-	db "STARSHAPE@" ; species name
-	dw 207, 760 ; height, weight
+	db "FREEZING@" ; species name
+	dw 806, 5732 ; height, weight
 
-	db   "At night, the cen-"
-	next "ter of its body"
-	next "slowly flickers"
+	db   "It freezes its"
+	next "breath to create"
+	next "fangs and claws of"
 
-	page "with the same"
-	next "rhythm as a human"
-	next "heartbeat.@"
+	page "ice to fight with."
+	next "Icy northern areas"
+	next "are its habitat.@"

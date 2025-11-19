@@ -1,10 +1,10 @@
-	db "BALL@" ; species name
+	db "CARING@" ; species name
 	dw 108, 230 ; height, weight
 
-	db   "It rolls to move."
-	next "If the ground is"
-	next "uneven, a sudden"
+	db   "It floats in the"
+	next "open sea. When it"
+	next "finds a wounded"
 
-	page "jolt from hitting"
-	next "a bump can cause"
-	next "it to explode.@"
+	page "Pokémon, it embra"
+	next "-ces it and brings"
+	next "it to shore.@"

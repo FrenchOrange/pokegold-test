@@ -1,10 +1,10 @@
-	db "GAS@" ; species name
-	dw 503, 2 ; height, weight
+	db "SKYSQUIRR@" ; species name
+	dw 104, 110 ; height, weight
 
-	db   "In total darkness,"
-	next "where nothing is"
-	next "visible, HAUNTER"
+	db   "It lives on tree-"
+	next "tops and glides"
+	next "using the inside"
 
-	page "lurks, silently"
-	next "stalking its next"
-	next "victim.@"
+	page "of a cape-like"
+	next "membrane while"
+	next "expelling current.@"

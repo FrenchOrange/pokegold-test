@@ -1,10 +1,10 @@
-	db "LONG TAIL@" ; species name
-	dw 207, 250 ; height, weight
+	db "KUNG FU@" ; species name
+	dw 407, 783 ; height, weight
 
-	db   "Its tail is so"
-	next "powerful that it"
-	next "can use it to grab"
+	db   "It uses the long"
+	next "fur on its arms as"
+	next "a whip to strike"
 
-	page "a tree branch and"
-	next "hold itself up in"
-	next "the air.@"
+	page "its opponents. It"
+	next "hurts as bad as a"
+	next "real whip.@"

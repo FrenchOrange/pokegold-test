@@ -1,10 +1,10 @@
-	db "BEAK@" ; species name
-	dw 311, 840 ; height, weight
+	db "GEYSER@" ; species name
+	dw 303, 639 ; height, weight
 
-	db   "It shoots itself"
-	next "suddenly high into"
-	next "the sky, then"
+	db   "The high-pressure"
+	next "water expelled"
+	next "from its tail is"
 
-	page "plummets down in"
-	next "one fell swoop to"
-	next "strike its prey.@"
+	page "so powerful, it"
+	next "can destroy a"
+	next "concrete wall.@"

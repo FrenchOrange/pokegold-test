@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 303, 140 ; height, weight
+	db "OLD TURTLE@" ; species name
+	dw 204, 364 ; height, weight
 
-	db   "If its prey is"
-	next "bigger than its"
-	next "mouth, it slices"
+	db   "About 100 million"
+	next "years ago, it swam"
+	next "in oceans. It is"
 
-	page "up the victim with"
-	next "sharp leaves, then"
-	next "eats every morsel.@"
+	page "thought it also"
+	next "went on land to"
+	next "attack prey.@"

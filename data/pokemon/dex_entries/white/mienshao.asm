@@ -1,10 +1,10 @@
-	db "LONG TAIL@" ; species name
-	dw 207, 250 ; height, weight
+	db "KUNG FU@" ; species name
+	dw 407, 783 ; height, weight
 
-	db   "It lives atop tall"
-	next "trees. When leap-"
-	next "ing from branch"
+	db   "It uses the long"
+	next "fur on its arms as"
+	next "a whip to strike"
 
-	page "to branch, it"
-	next "deftly uses its"
-	next "tail for balance.@"
+	page "its opponents. It"
+	next "hurts as bad as a"
+	next "real whip.@"

@@ -1,10 +1,10 @@
-	db "LONG BODY@" ; species name
-	dw 511, 720 ; height, weight
+	db "EMBER@" ; species name
+	dw 303, 617 ; height, weight
 
-	db   "It makes a nest to"
-	next "suit its long and"
-	next "skinny body. The"
+	db   "A flame burns"
+	next "inside its body."
+	next "It scatters embers"
 
-	page "nest is impossible"
-	next "for other #MON"
-	next "to enter.@"
+	page "from its head and"
+	next "tail to sear its"
+	next "opponents.@"

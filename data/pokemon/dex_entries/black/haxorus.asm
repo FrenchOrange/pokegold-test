@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 200, 330 ; height, weight
+	db "AXE JAW@" ; species name
+	dw 511, 2326 ; height, weight
 
-	db   "Its dorsal, pecto-"
-	next "ral and tail fins"
-	next "wave elegantly in"
+	db   "Its sturdy tusks"
+	next "will stay sharp"
+	next "even if used to"
 
-	page "water. That is why"
-	next "it is known as the"
-	next "water dancer.@"
+	page "cut steel beams."
+	next "HAXORUS is covered"
+	next "in hard armor.@"

@@ -1,10 +1,10 @@
-	db "MOLE@" ; species name
-	dw 204, 730 ; height, weight
+	db "MEGAPEDE@" ; species name
+	dw 802, 4420 ; height, weight
 
-	db   "Extremely power-"
-	next "ful, they can DIG"
-	next "through even the"
+	db   "Highly aggressive,"
+	next "it uses the claws"
+	next "near its neck to"
 
-	page "hardest ground to"
-	next "a depth of over 60"
-	next "miles.@"
+	page "dig into its"
+	next "opponents and"
+	next "poison them.@"

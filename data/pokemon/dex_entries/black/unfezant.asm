@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 200, 260 ; height, weight
+	db "PROUD@" ; species name
+	dw 311, 639 ; height, weight
 
-	db   "If it fell from a"
-	next "great height, this"
-	next "#MON could save"
+	db   "Males have plumage"
+	next "on their heads. It"
+	next "will never let"
 
-	page "itself by rolling"
-	next "into a ball and"
-	next "bouncing.@"
+	page "itself feel close"
+	next "to anyone other"
+	next "than its Trainer.@"

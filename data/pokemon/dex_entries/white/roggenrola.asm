@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 207, 440 ; height, weight
+	db "MANTLE@" ; species name
+	dw 104, 397 ; height, weight
 
-	db   "It has a calm and"
-	next "caring nature."
-	next "Because its horn"
+	db   "It was discovered"
+	next "a 100 years ago in"
+	next "an earthquake"
 
-	page "grows slowly, it"
-	next "prefers not to"
-	next "fight.@"
+	page "fissure. Inside"
+	next "each one is an"
+	next "energy core.@"

@@ -1,10 +1,10 @@
-	db "SPIRAL@" ; species name
-	dw 303, 770 ; height, weight
+	db "IRATE@" ; species name
+	dw 207, 381 ; height, weight
 
-	db   "Once wrapped"
-	next "around its prey,"
-	next "it never lets go."
+	db   "It cannot see, so"
+	next "it tackles and"
+	next "bites to learn"
 
-	page "It eats the prey"
-	next "by tearing at it"
-	next "with sharp fangs.@"
+	page "about its surroun-"
+	next "dings. Its body is"
+	next "covered in wounds.@"

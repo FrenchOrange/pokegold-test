@@ -1,10 +1,10 @@
-	db "BUTTERFLY@" ; species name
-	dw 307, 710 ; height, weight
+	db "PUPPY@" ; species name
+	dw 104, 90 ; height, weight
 
-	db   "It collects honey"
-	next "every day. It rubs"
-	next "honey onto the"
+	db   "The long hair on"
+	next "its face provides"
+	next "an amazing radar"
 
-	page "hairs on its legs"
-	next "to carry it back"
-	next "to its nest.@"
+	page "that lets it sense"
+	next "subtle changes in"
+	next "its surroundings.@"

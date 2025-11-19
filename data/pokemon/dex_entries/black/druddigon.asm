@@ -1,10 +1,10 @@
-	db "STAGBEETLE@" ; species name
-	dw 411, 1210 ; height, weight
+	db "CAVE@" ; species name
+	dw 503, 3064 ; height, weight
 
-	db   "With its horns, it"
-	next "digs burrows to"
-	next "sleep in at night."
+	db   "Prowling through"
+	next "narrow caves, it"
+	next "catches prey with"
 
-	page "In the morning,"
-	next "damp soil clings"
-	next "to its body.@"
+	page "its sharp claws."
+	next "Its face skin is"
+	next "harder than rock.@"

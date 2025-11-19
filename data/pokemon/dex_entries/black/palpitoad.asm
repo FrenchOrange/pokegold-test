@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 503, 1210 ; height, weight
+	db "VIBRATION@" ; species name
+	dw 207, 375 ; height, weight
 
-	db   "However hard its"
-	next "victim's hide may"
-	next "be, it punctures"
+	db   "It lives in the"
+	next "water and on land."
+	next "It uses its long,"
 
-	page "with sharp fangs"
-	next "and gorges itself"
-	next "with blood.@"
+	page "sticky tongue to"
+	next "capture prey."
+	next "@"

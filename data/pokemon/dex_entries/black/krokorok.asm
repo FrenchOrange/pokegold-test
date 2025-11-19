@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 100, 20 ; height, weight
+	db "DESERTCROC@" ; species name
+	dw 303, 736 ; height, weight
 
-	db   "It has a very soft"
-	next "body. If it starts"
-	next "to roll, it will"
+	db   "The membrane cover"
+	next "-ing its eyes can"
+	next "sense the heat of"
 
-	page "bounce all over"
-	next "and be impossible"
-	next "to stop.@"
+	page "objects, so it can"
+	next "see around it even"
+	next "in darkness.@"

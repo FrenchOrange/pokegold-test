@@ -1,10 +1,10 @@
-	db "LIGHT@" ; species name
-	dw 311, 500 ; height, weight
+	db "MUSCULAR@" ; species name
+	dw 200, 276 ; height, weight
 
-	db   "It blinds prey"
-	next "with an intense"
-	next "burst of light,"
+	db   "These POKéMON"
+	next "appear at building"
+	next "sites and help out"
 
-	page "then swallows the"
-	next "immobilized prey"
-	next "in a single gulp.@"
+	page "with construction."
+	next "They always carry"
+	next "squared logs.@"

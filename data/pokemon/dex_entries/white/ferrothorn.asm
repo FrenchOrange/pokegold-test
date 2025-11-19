@@ -1,10 +1,10 @@
-	db "LONELY@" ; species name
-	dw 104, 140 ; height, weight
+	db "THORN POD@" ; species name
+	dw 303, 2425 ; height, weight
 
-	db   "It always wears"
-	next "the skull of its"
-	next "dead mother, so no"
+	db   "It attaches itself"
+	next "to cave ceilings,"
+	next "firing steel"
 
-	page "one has any idea"
-	next "what its hidden"
-	next "face looks like.@"
+	page "spikes at targets"
+	next "passing beneath."
+	next "@"

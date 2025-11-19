@@ -1,10 +1,10 @@
-	db "EGG@" ; species name
-	dw 104, 60 ; height, weight
+	db "ELESPIDER@" ; species name
+	dw 207, 315 ; height, weight
 
-	db   "The shell is very"
-	next "durable. Even if"
-	next "it cracks, it can"
+	db   "Using an electri-"
+	next "cally charged web,"
+	next "it traps its prey."
 
-	page "survive without"
-	next "spilling the"
-	next "contents.@"
+	page "It consumes the"
+	next "immobilized prey"
+	next "at its own pace.@"

@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 511, 1650 ; height, weight
+	db "BULB@" ; species name
+	dw 108, 146 ; height, weight
 
-	db   "The development of"
-	next "wings on its legs"
-	next "enables it to fly"
+	db   "It prefers moist,"
+	next "nutrient-soil."
+	next "Places where it"
 
-	page "fast but also"
-	next "makes it tough to"
-	next "stop and rest.@"
+	page "lives are known to"
+	next "be good for"
+	next "growing plants.@"

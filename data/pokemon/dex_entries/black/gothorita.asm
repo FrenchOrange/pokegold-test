@@ -1,10 +1,10 @@
-	db "HAPPINESS@" ; species name
-	dw 200, 70 ; height, weight
+	db "MANIPULATE@" ; species name
+	dw 204, 397 ; height, weight
 
-	db   "They say that it"
-	next "will appear before"
-	next "kindhearted, car-"
+	db   "It draws its power"
+	next "from starlight. It"
+	next "marks their posit-"
 
-	page "ing people and"
-	next "shower them with"
-	next "happiness.@"
+	page "ion at night using"
+	next "psychic powers to"
+	next "float stones.@"

@@ -1,10 +1,10 @@
-	db "SPIKES@" ; species name
-	dw 303, 2540 ; height, weight
+	db "CEREBRAL@" ; species name
+	dw 108, 198 ; height, weight
 
-	db   "It doesn't care if"
-	next "there is anything"
-	next "in its way. It"
+	db   "This POKéMON had"
+	next "never been seen"
+	next "until it appeared"
 
-	page "just charges and"
-	next "destroys all ob-"
-	next "stacles.@"
+	page "from far in the"
+	next "desert 50 years"
+	next "ago.@"

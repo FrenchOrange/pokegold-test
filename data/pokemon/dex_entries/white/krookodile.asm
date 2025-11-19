@@ -1,10 +1,10 @@
-	db "SPIKE BALL@" ; species name
-	dw 100, 30 ; height, weight
+	db "INTIMIDATE@" ; species name
+	dw 411, 2123 ; height, weight
 
-	db   "A proverb claims"
-	next "that happiness"
-	next "will come to any-"
+	db   "It can expand the"
+	next "focus of its eyes,"
+	next "enabling it to see"
 
-	page "one who can make a"
-	next "sleeping TOGEPI"
-	next "stand up.@"
+	page "far off things, as"
+	next "if it were using"
+	next "binoculars.@"

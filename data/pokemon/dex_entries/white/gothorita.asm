@@ -1,10 +1,10 @@
-	db "HAPPINESS@" ; species name
-	dw 200, 70 ; height, weight
+	db "MANIPULATE@" ; species name
+	dw 204, 397 ; height, weight
 
-	db   "It grows dispirit-"
-	next "ed if it is not"
-	next "with kind people."
+	db   "It draws its power"
+	next "from starlight. It"
+	next "marks their posit-"
 
-	page "It can float in"
-	next "midair without"
-	next "moving its wings.@"
+	page "ion at night using"
+	next "psychic powers to"
+	next "float stones.@"

@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 607, 1320 ; height, weight
+	db "GRASSLAND@" ; species name
+	dw 607, 4409 ; height, weight
 
-	db   "This legendary"
-	next "#MON scatters"
-	next "embers with every"
+	db   "It sprouts horns"
+	next "sharp as blades."
+	next "Using whirlwind-"
 
-	page "flap of its wings."
-	next "It is a thrilling"
-	next "sight to behold.@"
+	page "like movements, it"
+	next "confounds and"
+	next "swiftly cuts foes.@"

@@ -1,10 +1,10 @@
-	db "COCOON@" ; species name
-	dw 200, 220 ; height, weight
+	db "BIGHEARTED@" ; species name
+	dw 311, 1345 ; height, weight
 
-	db   "From this form,"
-	next "it will grow into"
-	next "an adult. As its"
+	db   "This extremely"
+	next "wise POKéMON"
+	next "excels at rescuing"
 
-	page "body becomes soft-"
-	next "er, the external"
-	next "shell hardens.@"
+	page "people stranded at"
+	next "sea or in the"
+	next "mountains.@"

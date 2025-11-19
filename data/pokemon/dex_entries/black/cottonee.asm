@@ -1,10 +1,10 @@
-	db "SCRATCHCAT@" ; species name
-	dw 104, 90 ; height, weight
+	db "COTTONPUFF@" ; species name
+	dw 100, 13 ; height, weight
 
-	db   "It is fascinated"
-	next "by round objects."
-	next "It can't stop"
+	db   "It goes wherever"
+	next "the wind takes it."
+	next "On rainy days, its"
 
-	page "playing with them"
-	next "until it tires and"
-	next "falls asleep.@"
+	page "body gets heavier,"
+	next "so it takes cover"
+	next "beneath big trees.@"

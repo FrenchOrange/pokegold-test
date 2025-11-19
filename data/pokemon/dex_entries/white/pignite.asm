@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 307, 420 ; height, weight
+	db "FIRE PIG@" ; species name
+	dw 303, 1224 ; height, weight
 
-	db   "It has a barbaric"
-	next "nature. In battle,"
-	next "it whips its"
+	db   "Whatever it eats"
+	next "becomes fuel for"
+	next "the flame in its"
 
-	page "fiery tail around"
-	next "and slashes away"
-	next "with sharp claws.@"
+	page "belly. When angry,"
+	next "the flame's inten-"
+	next "sity increases.@"

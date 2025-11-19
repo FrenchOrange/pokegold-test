@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 108, 120 ; height, weight
+	db "VIBRATION@" ; species name
+	dw 411, 1367 ; height, weight
 
-	db   "Awakened by moon-"
-	next "light, it roams "
-	next "actively at night."
+	db   "It strengthens its"
+	next "punches by vibrat-"
+	next "ing the bumps on"
 
-	page "In the day, it"
-	next "stays quietly"
-	next "underground.@"
+	page "its fists. A mere"
+	next "punch can turn a"
+	next "boulder to rubble.@"

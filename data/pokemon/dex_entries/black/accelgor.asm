@@ -1,10 +1,10 @@
-	db "MANTIS@" ; species name
-	dw 411, 1230 ; height, weight
+	db "SHELL OUT@" ; species name
+	dw 207, 558 ; height, weight
 
-	db   "It slashes through"
-	next "grass with its"
-	next "sharp scythes,"
+	db   "Having removed its"
+	next "heavy shell, it"
+	next "becomes very light"
 
-	page "moving too fast"
-	next "for the human eye"
-	next "to track.@"
+	page "and can fight with"
+	next "ninja-like"
+	next "movements.@"

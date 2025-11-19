@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 507, 340 ; height, weight
+	db "OLD TURTLE@" ; species name
+	dw 311, 1786 ; height, weight
 
-	db   "This horrifying"
-	next "plant #MON at-"
-	next "tracts prey with"
+	db   "Incredible jaw "
+	next "strength enables"
+	next "it to chew up"
 
-	page "aromatic honey,"
-	next "then melts them in"
-	next "its mouth.@"
+	page "steel beams and"
+	next "rocks along with"
+	next "their prey.@"

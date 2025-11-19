@@ -1,10 +1,10 @@
-	db "SPIKES@" ; species name
-	dw 303, 2540 ; height, weight
+	db "CEREBRAL@" ; species name
+	dw 108, 198 ; height, weight
 
-	db   "It is inept at"
-	next "turning because of"
-	next "its four short"
+	db   "This POKéMON had"
+	next "never been seen"
+	next "until it appeared"
 
-	page "legs. It can only"
-	next "charge and run in"
-	next "one direction.@"
+	page "from far in the"
+	next "desert 50 years"
+	next "ago.@"

@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 204, 470 ; height, weight
+	db "MOLE@" ; species name
+	dw 100, 187 ; height, weight
 
-	db   "It always stands"
-	next "on one foot. It"
-	next "changes feet so"
+	db   "It makes its way"
+	next "swiftly through"
+	next "the soil by putt-"
 
-	page "fast, the movement"
-	next "can rarely be"
-	next "seen.@"
+	page "ing both claws to-"
+	next "gether and rotat-"
+	next "ing at high speed.@"

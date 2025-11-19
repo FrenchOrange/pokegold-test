@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 507, 2090 ; height, weight
+	db "CHINCHILLA@" ; species name
+	dw 104, 128 ; height, weight
 
-	db   "With incredible"
-	next "acceleration, it"
-	next "reaches its top"
+	db   "MINCCINO prefers a"
+	next "tidy habitat. It"
+	next "is always sweeping"
 
-	page "speed of 150 mph"
-	next "after running just"
-	next "ten steps.@"
+	page "and dusting, using"
+	next "its tail as a"
+	next "broom.@"

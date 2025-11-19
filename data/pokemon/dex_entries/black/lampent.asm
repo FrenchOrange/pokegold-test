@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 104, 10 ; height, weight
+	db "LAMP@" ; species name
+	dw 200, 287 ; height, weight
 
-	db   "To keep from being"
-	next "blown away by the"
-	next "wind, they gather"
+	db   "It arrives near"
+	next "the moment of"
+	next "death and steals"
 
-	page "in clusters. They"
-	next "do enjoy gentle"
-	next "breezes, though.@"
+	page "the soul as soon"
+	next "as it leaves the"
+	next "body.@"

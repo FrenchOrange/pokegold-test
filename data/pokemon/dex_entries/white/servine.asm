@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 303, 290 ; height, weight
+	db "LEAF SNAKE@" ; species name
+	dw 207, 353 ; height, weight
 
-	db   "If the bud on its"
-	next "back starts to"
-	next "smell sweet, it"
+	db   "Sinking into the"
+	next "shadows of thick"
+	next "foliage, it avoids"
 
-	page "is evidence that"
-	next "the large flower"
-	next "will soon bloom.@"
+	page "attacks. It retali"
+	next "-ates with deft"
+	next "whipping moves.@"

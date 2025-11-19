@@ -1,10 +1,10 @@
-	db "FROG@" ; species name
-	dw 307, 750 ; height, weight
+	db "CANDLE@" ; species name
+	dw 100, 68 ; height, weight
 
-	db   "If POLIWAG and"
-	next "POLIWHIRL hear its"
-	next "echoing cry, they"
+	db   "As it shines a"
+	next "light and pretends"
+	next "to be a guide, it"
 
-	page "respond by gather-"
-	next "ing from far and"
-	next "wide.@"
+	page "leeches off the"
+	next "life force of any"
+	next "who follow it.@"

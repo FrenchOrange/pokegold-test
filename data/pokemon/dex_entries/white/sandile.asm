@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 303, 710 ; height, weight
+	db "DESERTCROC@" ; species name
+	dw 204, 335 ; height, weight
 
-	db   "It becomes wildly"
-	next "furious if it even"
-	next "senses someone"
+	db   "It moves below the"
+	next "sand, except for"
+	next "its nose and eyes."
 
-	page "looking at it. It"
-	next "chases anyone that"
-	next "meets its glare.@"
+	page "A dark membrane"
+	next "shields its eyes"
+	next "from the sun.@"

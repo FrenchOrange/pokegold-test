@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 207, 70 ; height, weight
+	db "KUNG FU@" ; species name
+	dw 211, 441 ; height, weight
 
-	db   "Once it catches"
-	next "the wind, it deft-"
-	next "ly controls its"
+	db   "It has mastered"
+	next "elegant combos. As"
+	next "it concentrates,"
 
-	page "cotton-puff spores"
-	next "to float, even"
-	next "around the world.@"
+	page "its battle moves"
+	next "become swifter and"
+	next "more precise.@"

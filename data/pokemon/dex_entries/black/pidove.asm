@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 104, 130 ; height, weight
+	db "TINYPIGEON@" ; species name
+	dw 100, 46 ; height, weight
 
-	db   "This intelligent"
-	next "#MON roasts"
-	next "hard BERRIES with"
+	db   "This POKéMON lives"
+	next "in cities. It is"
+	next "accustomed to"
 
-	page "electricity to"
-	next "make them tender"
-	next "enough to eat.@"
+	page "people. Flocks"
+	next "often gather in"
+	next "parks and plazas.@"

@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 403, 860 ; height, weight
+	db "CHILL@" ; species name
+	dw 108, 187 ; height, weight
 
-	db   "Using its horn, it"
-	next "bores holes in"
-	next "riverbed boulders,"
+	db   "Its nose is always"
+	next "running. It sniffs"
+	next "the snot back up,"
 
-	page "making nests to"
-	next "prevent its eggs"
-	next "from washing away.@"
+	page "as the mucus is"
+	next "the raw material"
+	next "for its moves.@"

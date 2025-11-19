@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 108, 200 ; height, weight
+	db "COMPRESSED@" ; species name
+	dw 507, 5732 ; height, weight
 
-	db   "It raises its big"
-	next "ears to check its"
-	next "surroundings."
+	db   "The solar energy"
+	next "absorbed by its"
+	next "orange crystals is"
 
-	page "It will strike"
-	next "first if it senses"
-	next "any danger.@"
+	page "magnified intern-"
+	next "ally and fired"
+	next "from its mouth.@"

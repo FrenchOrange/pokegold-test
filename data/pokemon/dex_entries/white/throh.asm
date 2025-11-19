@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 207, 190 ; height, weight
+	db "JUDO@" ; species name
+	dw 403, 1224 ; height, weight
 
-	db   "It secretes a"
-	next "sticky, drool-like"
-	next "honey. Although"
+	db   "When it encounters"
+	next "foes bigger than"
+	next "itself, it tries"
 
-	page "sweet, it smells"
-	next "too repulsive to"
-	next "get very close.@"
+	page "to throw them. It"
+	next "always travels"
+	next "in packs of five.@"

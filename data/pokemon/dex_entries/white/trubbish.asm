@@ -1,10 +1,10 @@
-	db "ROCK@" ; species name
-	dw 104, 440 ; height, weight
+	db "TRASH BAG@" ; species name
+	dw 200, 683 ; height, weight
 
-	db   "It uses its arms"
-	next "to steadily climb"
-	next "steep mountain"
+	db   "The combination of"
+	next "a garbage bag and"
+	next "industrial waste"
 
-	page "paths. It swings"
-	next "its fists around"
-	next "if angered.@"
+	page "caused a chemical"
+	next "reaction that"
+	next "created TRUBBISH.@"

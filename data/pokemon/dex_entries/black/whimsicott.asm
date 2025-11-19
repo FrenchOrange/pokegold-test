@@ -1,10 +1,10 @@
-	db "CLASSY CAT@" ; species name
-	dw 303, 710 ; height, weight
+	db "WINDVEILED@" ; species name
+	dw 204, 146 ; height, weight
 
-	db   "Many adore it for"
-	next "its sophisticated"
-	next "air. However, it"
+	db   "Riding whirlwinds,"
+	next "it appears. It"
+	next "sneaks through"
 
-	page "will lash out and"
-	next "scratch for little"
-	next "reason.@"
+	page "gaps into houses"
+	next "and causes all"
+	next "sorts of mischief.@"

@@ -1,10 +1,10 @@
-	db "FREEZE@" ; species name
-	dw 507, 1220 ; height, weight
+	db "IRON WILL@" ; species name
+	dw 611, 5512 ; height, weight
 
-	db   "The magnificent,"
-	next "seemingly translu-"
-	next "cent wings of this"
+	db   "It has a body and"
+	next "heart of steel."
+	next "Its glare is"
 
-	page "legendary bird"
-	next "#MON are said"
-	next "to be made of ice.@"
+	page "sufficient to make"
+	next "even an unruly"
+	next "POKéMON obey it.@"

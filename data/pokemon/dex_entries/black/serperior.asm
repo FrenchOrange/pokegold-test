@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 607, 2210 ; height, weight
+	db "REGAL@" ; species name
+	dw 1010, 1389 ; height, weight
 
-	db   "By spreading the"
-	next "broad petals of"
-	next "its flower and"
+	db   "It raises its head"
+	next "to intimidate oppo"
+	next "-nents, but only"
 
-	page "catching the sun's"
-	next "rays, it fills its"
-	next "body with power.@"
+	page "give it its all"
+	next "when fighting a"
+	next "powerful opponent.@"

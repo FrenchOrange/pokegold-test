@@ -1,10 +1,10 @@
-	db "FOSSIL@" ; species name
-	dw 511, 1300 ; height, weight
+	db "TORCH@" ; species name
+	dw 307, 635 ; height, weight
 
-	db   "A vicious #MON"
-	next "from the distant"
-	next "past, it appears"
+	db   "It makes it home"
+	next "at the base of"
+	next "volcanoes. It"
 
-	page "to have flown by"
-	next "spreading its"
-	next "wings and gliding.@"
+	page "shoots fire from"
+	next "its five horns to"
+	next "repel attackers.@"

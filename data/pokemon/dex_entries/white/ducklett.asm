@@ -1,10 +1,10 @@
-	db "SEA LION@" ; species name
-	dw 307, 1980 ; height, weight
+	db "WATER BIRD@" ; species name
+	dw 108, 121 ; height, weight
 
-	db   "In daytime, it is"
-	next "often found asleep"
-	next "on the seabed in"
+	db   "When attacked, it"
+	next "uses its feathers"
+	next "to splash water,"
 
-	page "shallow waters."
-	next "Its nostrils close"
-	next "while it swims.@"
+	page "escaping under"
+	next "cover of the"
+	next "spray.@"

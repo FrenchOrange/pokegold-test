@@ -1,10 +1,10 @@
-	db "TINY BIRD@" ; species name
-	dw 100, 40 ; height, weight
+	db "SPRAY@" ; species name
+	dw 200, 298 ; height, weight
 
-	db   "It flaps its short"
-	next "wings to flush out"
-	next "insects from tall"
+	db   "It sprays itself"
+	next "with water stored"
+	next "in its head tuft"
 
-	page "grass. It then"
-	next "plucks them with"
-	next "its stubby beak.@"
+	page "from its tail. It"
+	next "does not thrive in"
+	next "dry environments.@"

@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 104, 150 ; height, weight
+	db "THUNDER@" ; species name
+	dw 503, 1753 ; height, weight
 
-	db   "The poison hidden"
-	next "in its small horn"
-	next "is extremely po-"
+	db   "Ill-tempered, it"
+	next "is dangerous becau"
+	next "-se when angered,"
 
-	page "tent. Even a tiny"
-	next "scratch can have"
-	next "fatal results.@"
+	page "it shoots lightn-"
+	next "ing from its mane"
+	next "in all directions.@"

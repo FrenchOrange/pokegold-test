@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 303, 440 ; height, weight
+	db "BLAZING@" ; species name
+	dw 403, 2048 ; height, weight
 
-	db   "The swirl on its"
-	next "belly subtly un-"
-	next "dulates. Staring"
+	db   "When weakened in"
+	next "battle, it turns"
+	next "into a stone"
 
-	page "at it may gradual-"
-	next "ly cause drowsi-"
-	next "ness.@"
+	page "statue. Then, it"
+	next "is known to enter"
+	next "a trance state.@"

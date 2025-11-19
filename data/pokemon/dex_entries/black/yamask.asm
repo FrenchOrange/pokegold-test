@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 503, 2870 ; height, weight
+	db "SPIRIT@" ; species name
+	dw 108, 33 ; height, weight
 
-	db   "It quickly swings"
-	next "its four arms to"
-	next "rock its opponents"
+	db   "It arose from the"
+	next "spirit of someone"
+	next "interred in a tomb"
 
-	page "with ceaseless"
-	next "punches and chops"
-	next "from all angles.@"
+	page "ages ago. It ret-"
+	next "ains memories of"
+	next "its former life.@"

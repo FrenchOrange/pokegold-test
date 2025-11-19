@@ -1,10 +1,10 @@
-	db "KICKING@" ; species name
-	dw 411, 1100 ; height, weight
+	db "GEAR@" ; species name
+	dw 200, 1124 ; height, weight
 
-	db   "This amazing #-"
-	next "MON has an awesome"
-	next "sense of balance."
+	db   "Minigears are spun"
+	next "at high speed and"
+	next "repeatedly fired"
 
-	page "It can kick in"
-	next "succession from"
-	next "any position.@"
+	page "away. It is danger"
+	next "-ous if the gears"
+	next "don't return.@"

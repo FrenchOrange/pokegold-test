@@ -1,10 +1,10 @@
-	db "HERB@" ; species name
-	dw 511, 2220 ; height, weight
+	db "ABUNDANCE@" ; species name
+	dw 411, 1499 ; height, weight
 
-	db   "MEGANIUM's breath"
-	next "has the power to"
-	next "revive dead grass"
+	db   "The energy that"
+	next "comes pouring from"
+	next "its tail increases"
 
-	page "and plants. It can"
-	next "make them healthy"
-	next "again.@"
+	page "the nutrition in"
+	next "the soil, making"
+	next "crops grow well.@"

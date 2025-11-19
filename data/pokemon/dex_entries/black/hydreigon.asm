@@ -1,10 +1,10 @@
-	db "SHELLFISH@" ; species name
-	dw 403, 890 ; height, weight
+	db "BRUTAL@" ; species name
+	dw 511, 3527 ; height, weight
 
-	db   "In the water, it"
-	next "tucks in its limbs"
-	next "to become more"
+	db   "The heads on its"
+	next "arms do not have"
+	next "brains. It uses"
 
-	page "compact, then it"
-	next "wiggles its shell"
-	next "to swim fast.@"
+	page "all three heads to"
+	next "consume and dest-"
+	next "roy everything.@"

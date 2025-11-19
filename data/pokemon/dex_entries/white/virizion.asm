@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 607, 1320 ; height, weight
+	db "GRASSLAND@" ; species name
+	dw 607, 4409 ; height, weight
 
-	db   "This legendary"
-	next "bird #MON is"
-	next "said to bring"
+	db   "It sprouts horns"
+	next "sharp as blades."
+	next "Using whirlwind-"
 
-	page "early spring to"
-	next "the wintry lands"
-	next "it visits.@"
+	page "like movements, it"
+	next "confounds and"
+	next "swiftly cuts foes.@"

@@ -1,10 +1,10 @@
-	db "GAS@" ; species name
-	dw 503, 2 ; height, weight
+	db "SKYSQUIRR@" ; species name
+	dw 104, 110 ; height, weight
 
-	db   "Its tongue is made"
-	next "of gas. If licked,"
-	next "its victim starts"
+	db   "It lives on tree-"
+	next "tops and glides"
+	next "using the inside"
 
-	page "shaking constantly"
-	next "until death even-"
-	next "tually comes.@"
+	page "of a cape-like"
+	next "membrane while"
+	next "expelling current.@"

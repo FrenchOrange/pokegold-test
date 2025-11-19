@@ -1,10 +1,10 @@
-	db "JELLYFISH@" ; species name
-	dw 211, 1000 ; height, weight
+	db "FIRST BIRD@" ; species name
+	dw 108, 209 ; height, weight
 
-	db   "It drifts aimless-"
-	next "ly in waves. Very"
-	next "difficult to see"
+	db   "Revived from a"
+	next "fossil, this"
+	next "POKéMON is thought"
 
-	page "in water, it may"
-	next "not be noticed"
-	next "until it stings.@"
+	page "to be the ancestor"
+	next "of all bird"
+	next "POKéMON .@"

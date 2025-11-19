@@ -1,10 +1,10 @@
-	db "SCOUT@" ; species name
-	dw 207, 130 ; height, weight
+	db "HIGH TEMP@" ; species name
+	dw 200, 243 ; height, weight
 
-	db   "It stands on its"
-	next "tail so it can see"
-	next "a long way. If it"
+	db   "PANSEAR lives in"
+	next "caves inside volc-"
+	next "anoes. The fire"
 
-	page "spots an enemy, it"
-	next "cries loudly to"
-	next "warn its kind.@"
+	page "within the tuft on"
+	next "its head can reach"
+	next "600 degrees F.@"

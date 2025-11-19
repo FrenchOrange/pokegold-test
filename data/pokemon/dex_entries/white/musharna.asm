@@ -1,10 +1,10 @@
-	db "COBRA@" ; species name
-	dw 1106, 1430 ; height, weight
+	db "DROWSING@" ; species name
+	dw 307, 1334 ; height, weight
 
-	db   "With a very venge-"
-	next "ful nature, it"
-	next "won't give up the"
+	db   "With the mist from"
+	next "its forehead, it"
+	next "can create shapes"
 
-	page "chase, no matter"
-	next "how far, once it"
-	next "targets its prey.@"
+	page "of things from"
+	next "dreams it has"
+	next "eaten.@"

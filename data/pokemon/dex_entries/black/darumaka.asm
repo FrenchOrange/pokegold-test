@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 200, 270 ; height, weight
+	db "ZEN CHARM@" ; species name
+	dw 200, 827 ; height, weight
 
-	db   "Because it is in-"
-	next "ept at walking on"
-	next "its newly grown"
+	db   "DARUMAKA's dropp-"
+	next "ings are hot, so"
+	next "people used to put"
 
-	page "legs, it always "
-	next "swims around in"
-	next "water.@"
+	page "them in their"
+	next "clothes to keep"
+	next "themselves warm.@"

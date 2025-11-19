@@ -1,10 +1,10 @@
-	db "PARENT@" ; species name
-	dw 703, 1760 ; height, weight
+	db "LURING@" ; species name
+	dw 303, 756 ; height, weight
 
-	db   "To protect its"
-	next "young, it will"
-	next "never give up"
+	db   "Being consumed in"
+	next "CHANDELURE's flame"
+	next "burns up the soul,"
 
-	page "during battle, no"
-	next "matter how badly"
-	next "wounded it is.@"
+	page "leaving but an"
+	next "empty husk behind."
+	next "@"

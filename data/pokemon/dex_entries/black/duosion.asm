@@ -1,10 +1,10 @@
-	db "TWIN BIRD@" ; species name
-	dw 407, 860 ; height, weight
+	db "MITOSIS@" ; species name
+	dw 200, 176 ; height, weight
 
-	db   "By alternately"
-	next "raising and lower-"
-	next "ing its two heads,"
+	db   "When its brain,"
+	next "now split in two,"
+	next "is thinking the"
 
-	page "it balances itself"
-	next "to be more stable"
-	next "while running.@"
+	page "same thoughts,"
+	next "DUOSION exhibits"
+	next "its maximum power.@"

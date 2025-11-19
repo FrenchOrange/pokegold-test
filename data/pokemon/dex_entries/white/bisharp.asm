@@ -1,10 +1,10 @@
-	db "TRANSPORT@" ; species name
-	dw 802, 4850 ; height, weight
+	db "SWORDBLADE@" ; species name
+	dw 503, 1543 ; height, weight
 
-	db   "It ferries people"
-	next "across the sea on"
-	next "its back. It may"
+	db   "BISHARP pursues"
+	next "prey alongside a"
+	next "large group of"
 
-	page "sing an enchanting"
-	next "cry if it is in a"
-	next "good mood.@"
+	page "PAWNIARD. Then,"
+	next "BISHARP finishes"
+	next "off the prey.@"

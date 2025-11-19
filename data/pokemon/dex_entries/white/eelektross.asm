@@ -1,10 +1,10 @@
-	db "IMITATION@" ; species name
-	dw 311, 840 ; height, weight
+	db "ELEFISH@" ; species name
+	dw 611, 1775 ; height, weight
 
-	db   "It disguises it-"
-	next "self as a tree to"
-	next "avoid attack. It"
+	db   "With its sucker"
+	next "mouth, it sucks in"
+	next "prey. Then it uses"
 
-	page "hates water, so it"
-	next "will disappear if"
-	next "it starts raining.@"
+	page "its fangs to shock"
+	next "the prey with"
+	next "electricity.@"

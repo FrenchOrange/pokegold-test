@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 211, 430 ; height, weight
+	db "BAT@" ; species name
+	dw 104, 46 ; height, weight
 
-	db   "Quick to anger, it"
-	next "stabs enemies with"
-	next "its horn to inject"
+	db   "It sticks to cave"
+	next "walls as it sleeps"
+	next "via suction from"
 
-	page "a powerful poison"
-	next "when it becomes"
-	next "agitated.@"
+	page "its nostrils. A"
+	next "heart-shaped mark"
+	next "is left behind.@"

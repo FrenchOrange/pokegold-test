@@ -1,10 +1,10 @@
-	db "MYSTIC@" ; species name
-	dw 411, 330 ; height, weight
+	db "CELL@" ; species name
+	dw 100, 22 ; height, weight
 
-	db   "In South America,"
-	next "it is said that"
-	next "its right eye sees"
+	db   "Because its body"
+	next "is enveloped in a"
+	next "special liquid, it"
 
-	page "the future and its"
-	next "left eye views the"
-	next "past.@"
+	page "can survive in any"
+	next "environment."
+	next "@"

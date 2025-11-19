@@ -1,10 +1,10 @@
-	db "SHADOW@" ; species name
-	dw 411, 890 ; height, weight
+	db "CLAMPING@" ; species name
+	dw 108, 130 ; height, weight
 
-	db   "It steals heat"
-	next "from its surround-"
-	next "ings. If you feel"
+	db   "When threatened,"
+	next "it spits an acidic"
+	next "liquid to drive"
 
-	page "a sudden chill, it"
-	next "is certain that a"
-	next "GENGAR appeared.@"
+	page "attackers away."
+	next "This POKéMON"
+	next "targets SHELMET.@"

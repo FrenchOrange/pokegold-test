@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 411, 1060 ; height, weight
+	db "SHEDDING@" ; species name
+	dw 200, 260 ; height, weight
 
-	db   "Closing both its"
-	next "eyes heightens all"
-	next "its other senses."
+	db   "It immediately"
+	next "headbutts anyone"
+	next "that makes eye"
 
-	page "This enables it to"
-	next "use its abilities"
-	next "to their extremes.@"
+	page "contact with it."
+	next "Its skull is"
+	next "massively thick.@"

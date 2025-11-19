@@ -1,10 +1,10 @@
-	db "HYPNOSIS@" ; species name
-	dw 303, 710 ; height, weight
+	db "MUSHROOM@" ; species name
+	dw 008, 22 ; height, weight
 
-	db   "If you think that"
-	next "you had a good"
-	next "dream, but you"
+	db   "Oddly resembles a"
+	next "POKé BALL. It"
+	next "releases poison"
 
-	page "can't remember it,"
-	next "a DROWZEE has"
-	next "probably eaten it.@"
+	page "spores to repel"
+	next "those who  try to"
+	next "catch them.@"

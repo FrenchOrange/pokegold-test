@@ -1,10 +1,10 @@
-	db "WATER FISH@" ; species name
-	dw 407, 1650 ; height, weight
+	db "VALIANT@" ; species name
+	dw 411, 904 ; height, weight
 
-	db   "Due to its relaxed"
-	next "and carefree atti-"
-	next "tude, it often"
+	db   "The more scars it"
+	next "has, the more"
+	next "respect this brave"
 
-	page "bumps its head on"
-	next "boulders and boat"
-	next "hulls as it swims.@"
+	page "soldiers of the"
+	next "sky gets from its"
+	next "peers.@"

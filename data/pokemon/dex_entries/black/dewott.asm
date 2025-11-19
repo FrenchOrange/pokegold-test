@@ -1,10 +1,10 @@
-	db "TURTLE@" ; species name
-	dw 303, 500 ; height, weight
+	db "DISCIPLINE@" ; species name
+	dw 207, 540 ; height, weight
 
-	db   "It is recognized"
-	next "as a symbol of"
-	next "longevity. If its"
+	db   "Scalchop techni-"
+	next "ques differ from"
+	next "one DEWOTT to"
 
-	page "shell has algae on"
-	next "it, that WARTORTLE"
-	next "is very old.@"
+	page "another. It never"
+	next "neglects maintain-"
+	next "ing this shell.@"

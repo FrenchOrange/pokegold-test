@@ -1,10 +1,10 @@
-	db "RIVER CRAB@" ; species name
-	dw 104, 140 ; height, weight
+	db "FLOATING@" ; species name
+	dw 311, 728 ; height, weight
 
-	db   "If it senses dan-"
-	next "ger approaching,"
-	next "it cloaks itself"
+	db   "It paralyzes prey"
+	next "with poison, then"
+	next "drag them down to"
 
-	page "with bubbles from"
-	next "its mouth so it"
-	next "will look bigger.@"
+	page "its lair, five"
+	next "miles below the"
+	next "surface.@"

@@ -1,10 +1,10 @@
-	db "SUN@" ; species name
-	dw 207, 190 ; height, weight
+	db "SHARPBLADE@" ; species name
+	dw 108, 225 ; height, weight
 
-	db   "It converts sun-"
-	next "light into energy."
-	next "In the darkness"
+	db   "It fights at"
+	next "BISHARP's command."
+	next "It clings to prey"
 
-	page "after sunset, it"
-	next "closes its petals"
-	next "and becomes still.@"
+	page "and inflicts dama-"
+	next "ge by sinking its"
+	next "blades into it.@"

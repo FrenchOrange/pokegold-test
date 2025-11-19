@@ -1,10 +1,10 @@
-	db "BIG JAW@" ; species name
-	dw 307, 550 ; height, weight
+	db "MELODY@" ; species name
+	dw 200, 143 ; height, weight
 
-	db   "It opens its huge"
-	next "jaws wide when"
-	next "attacking. If it"
+	db   "Many musical main-"
+	next "stays have been"
+	next "inspired by the"
 
-	page "loses any fangs"
-	next "while biting, they"
-	next "grow back in.@"
+	page "melodies that"
+	next "MELOETTA plays."
+	next "@"

@@ -1,10 +1,10 @@
-	db "INSECT@" ; species name
-	dw 303, 660 ; height, weight
+	db "NURTURING@" ; species name
+	dw 311, 452 ; height, weight
 
-	db   "Poison oozes from"
-	next "all over its body."
-	next "It catches and"
+	db   "It keep its EGGS"
+	next "warm with the heat"
+	next "of humus. It uses"
 
-	page "eats small bugs at"
-	next "night that are at-"
-	next "tracted by light.@"
+	page "leaves to make"
+	next "warm wrappings for"
+	next "SEWADDLE.@"

@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 108, 120 ; height, weight
+	db "MUSCULAR@" ; species name
+	dw 311, 882 ; height, weight
 
-	db   "Looking into its"
-	next "cute, round eyes"
-	next "causes it to sing"
+	db   "They toughen their"
+	next "bodies by carrying"
+	next "steel beams. They"
 
-	page "a relaxing melody,"
-	next "inducing its"
-	next "enemies to sleep.@"
+	page "show off their big"
+	next "muscles to their"
+	next "friends.@"

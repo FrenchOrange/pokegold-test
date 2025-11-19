@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 104, 180 ; height, weight
+	db "TUSK@" ; species name
+	dw 200, 397 ; height, weight
 
-	db   "Its big, developed"
-	next "fins move rapidly,"
-	next "allowing it to"
+	db   "It marks its terri"
+	next "-tory by leaving"
+	next "gashes in trees"
 
-	page "swim backward"
-	next "while still facing"
-	next "forward.@"
+	page "with its tusks. If"
+	next "one breaks, a new"
+	next "one grows quickly.@"

@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 303, 660 ; height, weight
+	db "MIRAGE FOX@" ; species name
+	dw 503, 1788 ; height, weight
 
-	db   "Its hind legs,"
-	next "which have hard-"
-	next "er-than-diamond"
+	db   "It has the ability"
+	next "to fool a large"
+	next "group of people at"
 
-	page "hooves, kick back"
-	next "at any presence it"
-	next "senses behind it.@"
+	page "once. It protects"
+	next "its lair with"
+	next "illusory scenery.@"

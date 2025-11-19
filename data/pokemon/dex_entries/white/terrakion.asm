@@ -1,10 +1,10 @@
-	db "ELECTRIC@" ; species name
-	dw 503, 1160 ; height, weight
+	db "CAVERN@" ; species name
+	dw 603, 5732 ; height, weight
 
-	db   "This legendary"
-	next "bird #MON is"
-	next "said to appear"
+	db   "One charge is"
+	next "strong enough to"
+	next "break through a"
 
-	page "only when a thun-"
-	next "dercloud parts"
-	next "into two halves.@"
+	page "castle wall. This"
+	next "POKéMON is spoken"
+	next "of in legends.@"

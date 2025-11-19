@@ -1,10 +1,10 @@
-	db "VIRTUAL@" ; species name
-	dw 207, 800 ; height, weight
+	db "ANTEATER@" ; species name
+	dw 407, 1279 ; height, weight
 
-	db   "A manmade #MON"
-	next "that came about as"
-	next "a result of re-"
+	db   "Using its very hot"
+	next "flame tongues, it"
+	next "burns through"
 
-	page "search. It is pro-"
-	next "grammed with only"
-	next "basic motions.@"
+	page "DURANT's steel body"
+	next "and consumes its"
+	next "insides.@"

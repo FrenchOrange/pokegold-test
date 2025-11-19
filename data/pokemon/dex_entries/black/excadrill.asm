@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 503, 900 ; height, weight
+	db "SUBTERRENE@" ; species name
+	dw 204, 891 ; height, weight
 
-	db   "Its eyes are"
-	next "specially adapted."
-	next "They concentrate"
+	db   "More than 300 feet"
+	next "below the surface,"
+	next "they build maze-"
 
-	page "even faint light"
-	next "and enable it to"
-	next "see in the dark.@"
+	page "like nests. They"
+	next "can be destructive"
+	next "to subway tunnels.@"

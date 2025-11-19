@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 100, 120 ; height, weight
+	db "SEWING@" ; species name
+	dw 100, 55 ; height, weight
 
-	db   "It is doused with"
-	next "mushroom spores"
-	next "when it is born."
+	db   "SEWADDLE makes clo"
+	next "-thes for itself."
+	next "It chews up leaves"
 
-	page "As its body grows,"
-	next "mushrooms sprout"
-	next "from its back.@"
+	page "and sews them with"
+	next "sticky thread from"
+	next "its mouth.@"

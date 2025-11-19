@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 200, 20 ; height, weight
+	db "TRAP@" ; species name
+	dw 204, 243 ; height, weight
 
-	db   "It spreads its"
-	next "petals to absorb"
-	next "sunlight. It also"
+	db   "It conceals itself"
+	next "in the mud of the"
+	next "seashore. Then it"
 
-	page "floats in the air"
-	next "to get closer to"
-	next "the sun.@"
+	page "waits. When prey"
+	next "touch it, it"
+	next "delivers a shock.@"

@@ -1,10 +1,10 @@
-	db "WILD BULL@" ; species name
-	dw 407, 1950 ; height, weight
+	db "AUTOMATON@" ; species name
+	dw 303, 2028 ; height, weight
 
-	db   "They fight each"
-	next "other by locking"
-	next "horns. The herd's"
+	db   "This POKéMON is"
+	next "thought to have"
+	next "been created by"
 
-	page "protector takes"
-	next "pride in its bat-"
-	next "tle-scarred horns.@"
+	page "the science of an"
+	next "ancient mysterious"
+	next "civilization.@"

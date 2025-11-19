@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 204, 470 ; height, weight
+	db "MOLE@" ; species name
+	dw 100, 187 ; height, weight
 
-	db   "It has a perfect"
-	next "sense of time."
-	next "Whatever happens,"
+	db   "It makes its way"
+	next "swiftly through"
+	next "the soil by putt-"
 
-	page "it keeps rhythm by"
-	next "precisely tilting"
-	next "its head in time.@"
+	page "ing both claws to-"
+	next "gether and rotat-"
+	next "ing at high speed.@"

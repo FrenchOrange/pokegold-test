@@ -1,10 +1,10 @@
-	db "WATER FISH@" ; species name
-	dw 104, 190 ; height, weight
+	db "EAGLET@" ; species name
+	dw 108, 231 ; height, weight
 
-	db   "This #MON lives"
-	next "in cold water. It"
-	next "will leave the"
+	db   "It will challenge"
+	next "anything, even"
+	next "strong opponents."
 
-	page "water to search"
-	next "for food when it"
-	next "gets cold outside.@"
+	page "Its frequent"
+	next "fights help it"
+	next "become stronger.@"

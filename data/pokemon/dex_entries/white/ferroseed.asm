@@ -1,10 +1,10 @@
-	db "COCONUT@" ; species name
-	dw 607, 2650 ; height, weight
+	db "THORN SEED@" ; species name
+	dw 200, 414 ; height, weight
 
-	db   "If a head drops"
-	next "off, it emits a"
-	next "telepathic call in"
+	db   "It sticks its"
+	next "spikes into cave"
+	next "walls and absorbs"
 
-	page "search of others"
-	next "to form an"
-	next "EXEGGCUTE cluster.@"
+	page "the minerals it"
+	next "finds in the rock."
+	next "@"

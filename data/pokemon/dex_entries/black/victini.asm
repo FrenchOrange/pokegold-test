@@ -1,10 +1,10 @@
-	db "NEW SPECIE@" ; species name
-	dw 104, 90 ; height, weight
+	db "VICTORY@" ; species name
+	dw 104, 88 ; height, weight
 
-	db   "Apparently, it"
-	next "appears only to"
-	next "those people who"
+	db   "It creates an"
+	next "unlimited supply"
+	next "of energy inside"
 
-	page "are pure of heart"
-	next "and have a strong"
-	next "desire to see it.@"
+	page "its body, which it"
+	next "shares with those"
+	next "who touch it.@"

@@ -1,10 +1,10 @@
-	db "MOLE@" ; species name
-	dw 8, 20 ; height, weight
+	db "CURLIPEDE@" ; species name
+	dw 311, 1290 ; height, weight
 
-	db   "If a DIGLETT DIGS"
-	next "through a field,"
-	next "it leaves the soil"
+	db   "It's usually motion"
+	next "-less, but when"
+	next "attacked, it spins"
 
-	page "perfectly tilled"
-	next "and ideal for"
-	next "planting crops.@"
+	page "at high speed and"
+	next "then crashes into"
+	next "its opponent.@"

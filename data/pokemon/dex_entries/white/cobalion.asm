@@ -1,10 +1,10 @@
-	db "FREEZE@" ; species name
-	dw 507, 1220 ; height, weight
+	db "IRON WILL@" ; species name
+	dw 611, 5512 ; height, weight
 
-	db   "One of the legen-"
-	next "dary bird #MON,"
-	next "it chills moisture"
+	db   "It has a body and"
+	next "heart of steel."
+	next "Its glare is"
 
-	page "in the atmosphere"
-	next "to create snow"
-	next "while flying.@"
+	page "sufficient to make"
+	next "even an unruly"
+	next "POKéMON obey it.@"

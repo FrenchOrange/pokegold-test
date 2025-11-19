@@ -1,10 +1,10 @@
-	db "SPIRAL@" ; species name
-	dw 303, 770 ; height, weight
+	db "IRATE@" ; species name
+	dw 207, 381 ; height, weight
 
-	db   "Apparently, it"
-	next "cracked SHELLDER's"
-	next "shell with its"
+	db   "It cannot see, so"
+	next "it tackles and"
+	next "bites to learn"
 
-	page "sharp fangs and"
-	next "sucked out the"
-	next "insides.@"
+	page "about its surroun-"
+	next "dings. Its body is"
+	next "covered in wounds.@"

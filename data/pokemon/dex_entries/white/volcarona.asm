@@ -1,10 +1,10 @@
-	db "SLEEPING@" ; species name
-	dw 611, 10140 ; height, weight
+	db "SUN@" ; species name
+	dw 503, 1014 ; height, weight
 
-	db   "Its stomach's di-"
-	next "gestive juices can"
-	next "dissolve any kind"
+	db   "A fire sea engulfs"
+	next "the surroundings"
+	next "of its battles,"
 
-	page "of poison. It can"
-	next "even eat things"
-	next "off the ground.@"
+	page "since it uses its"
+	next "6 wings to scatter"
+	next "ember scales.@"

@@ -1,10 +1,10 @@
-	db "SPIKE BALL@" ; species name
-	dw 100, 30 ; height, weight
+	db "INTIMIDATE@" ; species name
+	dw 411, 2123 ; height, weight
 
-	db   "The shell seems to"
-	next "be filled with"
-	next "joy. It is said"
+	db   "It can expand the"
+	next "focus of its eyes,"
+	next "enabling it to see"
 
-	page "that it will share"
-	next "good luck when"
-	next "treated kindly.@"
+	page "far off things, as"
+	next "if it were using"
+	next "binoculars.@"

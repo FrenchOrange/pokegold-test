@@ -1,10 +1,10 @@
-	db "IMITATION@" ; species name
-	dw 311, 840 ; height, weight
+	db "ELEFISH@" ; species name
+	dw 611, 1775 ; height, weight
 
-	db   "Although it always"
-	next "pretends to be a"
-	next "tree, its composi-"
+	db   "With its sucker"
+	next "mouth, it sucks in"
+	next "prey. Then it uses"
 
-	page "tion appears to be"
-	next "closer to a rock"
-	next "than a plant.@"
+	page "its fangs to shock"
+	next "the prey with"
+	next "electricity.@"

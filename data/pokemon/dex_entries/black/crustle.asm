@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 403, 1250 ; height, weight
+	db "STONE HOME@" ; species name
+	dw 407, 4409 ; height, weight
 
-	db   "It possesses"
-	next "strong spiritual"
-	next "power. The more"
+	db   "It has incredibly"
+	next "strong legs, which"
+	next "let it carry heavy"
 
-	page "danger it faces,"
-	next "the stronger its"
-	next "psychic power.@"
+	page "slabs for many"
+	next "days, even as it"
+	next "crosses arid land.@"

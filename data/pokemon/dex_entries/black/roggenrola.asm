@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 207, 440 ; height, weight
+	db "MANTLE@" ; species name
+	dw 104, 397 ; height, weight
 
-	db   "When feeding its"
-	next "young, it first"
-	next "chews and tender-"
+	db   "It was discovered"
+	next "a 100 years ago in"
+	next "an earthquake"
 
-	page "izes the food,"
-	next "then spits it out"
-	next "for the offspring.@"
+	page "fissure. Inside"
+	next "each one is an"
+	next "energy core.@"

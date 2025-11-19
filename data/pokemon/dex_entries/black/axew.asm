@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 104, 180 ; height, weight
+	db "TUSK@" ; species name
+	dw 200, 397 ; height, weight
 
-	db   "If attacked by a"
-	next "larger enemy, it"
-	next "quickly swims to"
+	db   "It marks its terri"
+	next "-tory by leaving"
+	next "gashes in trees"
 
-	page "safety by adeptly"
-	next "controlling its"
-	next "dorsal fin.@"
+	page "with its tusks. If"
+	next "one breaks, a new"
+	next "one grows quickly.@"

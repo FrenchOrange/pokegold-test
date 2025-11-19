@@ -1,10 +1,10 @@
-	db "COCOON@" ; species name
-	dw 204, 220 ; height, weight
+	db "LOOKOUT@" ; species name
+	dw 307, 595 ; height, weight
 
-	db   "Inside the shell,"
-	next "it is soft and"
-	next "weak as it pre-"
+	db   "It makes its body"
+	next "patterns shine in"
+	next "order to threaten"
 
-	page "pares to evolve."
-	next "It stays motion-"
-	next "less in the shell.@"
+	page "foes. Keen eye-"
+	next "sight lets them"
+	next "see in the dark.@"

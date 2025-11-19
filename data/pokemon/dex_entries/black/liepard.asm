@@ -1,10 +1,10 @@
-	db "TINY BIRD@" ; species name
-	dw 100, 40 ; height, weight
+	db "CRUEL@" ; species name
+	dw 307, 827 ; height, weight
 
-	db   "It usually hides"
-	next "in tall grass. Be-"
-	next "cause it dislikes"
+	db   "Stealthily, it"
+	next "sneaks up on its"
+	next "target, striking"
 
-	page "fighting, it pro-"
-	next "tects itself by"
-	next "kicking up sand.@"
+	page "from behind before"
+	next "its victim has a"
+	next "chance to react.@"

@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 108, 620 ; height, weight
+	db "HOSTILE@" ; species name
+	dw 303, 397 ; height, weight
 
-	db   "It's unsafe to ap-"
-	next "proach if it gets"
-	next "violently enraged"
+	db   "BASCULIN usually"
+	next "do not get along,"
+	next "but sometimes"
 
-	page "for no reason and"
-	next "can't distinguish"
-	next "friends from foes.@"
+	page "members of one"
+	next "school mingle with"
+	next "another school.@"

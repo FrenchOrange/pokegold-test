@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 403, 1320 ; height, weight
+	db "ORE@" ; species name
+	dw 211, 2249 ; height, weight
 
-	db   "Its body is cover-"
-	next "ed with needle-"
-	next "like scales. It"
+	db   "Because its energy"
+	next "was too great to"
+	next "be contained, the"
 
-	page "never shows signs"
-	next "of shrinking from"
-	next "any attack.@"
+	page "energy leaked and"
+	next "formed orange"
+	next "crystals.@"

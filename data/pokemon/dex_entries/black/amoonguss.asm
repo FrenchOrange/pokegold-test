@@ -1,10 +1,10 @@
-	db "HYPNOSIS@" ; species name
-	dw 503, 1670 ; height, weight
+	db "MUSHROOM@" ; species name
+	dw 200, 231 ; height, weight
 
-	db   "When it is very"
-	next "hungry, it puts"
-	next "humans it meets to"
+	db   "It shows off its"
+	next "POKé BALL cap to"
+	next "lure prey, but"
 
-	page "sleep, then it"
-	next "feasts on their"
-	next "dreams.@"
+	page "very few POKéMON"
+	next "are fooled by"
+	next "this.@"

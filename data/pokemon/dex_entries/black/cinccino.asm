@@ -1,10 +1,10 @@
-	db "DOPEY@" ; species name
-	dw 311, 790 ; height, weight
+	db "SCARF@" ; species name
+	dw 108, 165 ; height, weight
 
-	db   "It lazes vacantly"
-	next "near water. If"
-	next "something bites"
+	db   "Its white fur is"
+	next "amazing to touch."
+	next "It repels dust and"
 
-	page "its tail, it won't"
-	next "even notice for a"
-	next "whole day.@"
+	page "prevents static"
+	next "electricity from"
+	next "building up.@"

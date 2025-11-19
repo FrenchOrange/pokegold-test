@@ -1,10 +1,10 @@
-	db "HERMITCRAB@" ; species name
-	dw 503, 1730 ; height, weight
+	db "FIXATION@" ; species name
+	dw 104, 128 ; height, weight
 
-	db   "If the tail-biting"
-	next "SHELLDER is thrown"
-	next "off in a harsh"
+	db   "It intently stares"
+	next "down both Trainers"
+	next "and POKéMON. It is"
 
-	page "battle, it reverts"
-	next "to being an ordi-"
-	next "nary SLOWPOKE.@"
+	page "apparently looking"
+	next "at something only"
+	next "it can see.@"

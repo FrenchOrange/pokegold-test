@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 507, 2000 ; height, weight
+	db "FIRE HOG@" ; species name
+	dw 503, 3307 ; height, weight
 
-	db   "Breathing intense,"
-	next "hot flames, it can"
-	next "melt almost any-"
+	db   "It has mastered"
+	next "fast and powerful"
+	next "fighting moves. It"
 
-	page "thing. Its breath"
-	next "inflicts terrible"
-	next "pain on enemies.@"
+	page "can grow a beard"
+	next "of fire."
+	next "@"

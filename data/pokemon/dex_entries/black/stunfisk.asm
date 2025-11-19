@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 200, 20 ; height, weight
+	db "TRAP@" ; species name
+	dw 204, 243 ; height, weight
 
-	db   "The bloom on top"
-	next "of its head opens"
-	next "and closes as the"
+	db   "It conceals itself"
+	next "in the mud of the"
+	next "seashore. Then it"
 
-	page "temperature fluc-"
-	next "tuates up and"
-	next "down.@"
+	page "waits. When prey"
+	next "touch it, it"
+	next "delivers a shock.@"

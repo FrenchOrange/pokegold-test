@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 311, 550 ; height, weight
+	db "AXE JAW@" ; species name
+	dw 303, 794 ; height, weight
 
-	db   "Its fin-tips leak"
-	next "poison. Its fins"
-	next "and bones are"
+	db   "Its tusks can"
+	next "shatter rocks."
+	next "Territory battles"
 
-	page "highly valued as"
-	next "ingredients in"
-	next "herbal medicine.@"
+	page "between FRAXURE"
+	next "can be intensely"
+	next "violent.@"

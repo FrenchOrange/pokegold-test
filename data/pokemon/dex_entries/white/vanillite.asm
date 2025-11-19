@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 104, 130 ; height, weight
+	db "FRESH SNOW@" ; species name
+	dw 104, 126 ; height, weight
 
-	db   "Plentiful in the"
-	next "tropics. When it"
-	next "dances, its petals"
+	db   "VANILLITE formed"
+	next "from icicles"
+	next "bathed in energy"
 
-	page "rub together and"
-	next "make a pleasant"
-	next "ringing sound.@"
+	page "from the morning"
+	next "sun. It sleeps"
+	next "buried in snow.@"

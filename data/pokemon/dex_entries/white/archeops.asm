@@ -1,10 +1,10 @@
-	db "JELLYFISH@" ; species name
-	dw 503, 1210 ; height, weight
+	db "FIRST BIRD@" ; species name
+	dw 407, 705 ; height, weight
 
-	db   "In battle, it"
-	next "extends all 80 of"
-	next "its tentacles to"
+	db   "It runs better"
+	next "than it flies. It"
+	next "catches prey by"
 
-	page "entrap its oppo-"
-	next "nent inside a"
-	next "poisonous net.@"
+	page "running at speeds"
+	next "comparable to"
+	next "those of a car.@"

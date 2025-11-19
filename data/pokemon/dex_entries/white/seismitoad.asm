@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 108, 120 ; height, weight
+	db "VIBRATION@" ; species name
+	dw 411, 1367 ; height, weight
 
-	db   "If exposed to"
-	next "moonlight, it"
-	next "starts to move."
+	db   "It strengthens its"
+	next "punches by vibrat-"
+	next "ing the bumps on"
 
-	page "It roams far and"
-	next "wide at night to"
-	next "scatter its seeds.@"
+	page "its fists. A mere"
+	next "punch can turn a"
+	next "boulder to rubble.@"

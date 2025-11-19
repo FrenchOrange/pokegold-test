@@ -1,10 +1,10 @@
-	db "LONG BODY@" ; species name
-	dw 511, 720 ; height, weight
+	db "EMBER@" ; species name
+	dw 303, 617 ; height, weight
 
-	db   "There is no tell-"
-	next "ing where the tail"
-	next "begins. Despite"
+	db   "A flame burns"
+	next "inside its body."
+	next "It scatters embers"
 
-	page "its short legs, it"
-	next "is quick at hunt-"
-	next "ing RATTATA.@"
+	page "from its head and"
+	next "tail to sear its"
+	next "opponents.@"

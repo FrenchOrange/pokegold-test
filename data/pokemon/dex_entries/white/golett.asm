@@ -1,10 +1,10 @@
-	db "WILD BULL@" ; species name
-	dw 407, 1950 ; height, weight
+	db "AUTOMATON@" ; species name
+	dw 303, 2028 ; height, weight
 
-	db   "After heightening"
-	next "its will to fight"
-	next "by whipping itself"
+	db   "This POKéMON is"
+	next "thought to have"
+	next "been created by"
 
-	page "with its three"
-	next "tails, it charges"
-	next "at full speed.@"
+	page "the science of an"
+	next "ancient mysterious"
+	next "civilization.@"

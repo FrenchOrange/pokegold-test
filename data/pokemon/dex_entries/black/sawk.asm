@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 311, 410 ; height, weight
+	db "KARATE@" ; species name
+	dw 407, 1124 ; height, weight
 
-	db   "It has the world's"
-	next "largest petals."
-	next "With every step,"
+	db   "Tying its belt"
+	next "gets it pumped and"
+	next "makes its punches"
 
-	page "the petals shake"
-	next "out heavy clouds"
-	next "of toxic pollen.@"
+	page "hit harder. Distur"
+	next "-bing its training"
+	next "angers it.@"

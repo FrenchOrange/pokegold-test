@@ -1,10 +1,10 @@
-	db "SLEEPING@" ; species name
-	dw 611, 10140 ; height, weight
+	db "SUN@" ; species name
+	dw 503, 1014 ; height, weight
 
-	db   "What sounds like"
-	next "its cry may ac-"
-	next "tually be its"
+	db   "A fire sea engulfs"
+	next "the surroundings"
+	next "of its battles,"
 
-	page "snores or the"
-	next "rumblings of its"
-	next "hungry belly.@"
+	page "since it uses its"
+	next "6 wings to scatter"
+	next "ember scales.@"

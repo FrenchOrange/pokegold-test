@@ -1,10 +1,10 @@
-	db "BIVALVE@" ; species name
-	dw 411, 2920 ; height, weight
+	db "SEASON@" ; species name
+	dw 200, 430 ; height, weight
 
-	db   "CLOYSTER that live"
-	next "in seas with harsh"
-	next "tidal currents"
+	db   "The turning of the"
+	next "seasons changes"
+	next "the color and"
 
-	page "grow large, sharp"
-	next "spikes on their"
-	next "shells.@"
+	page "scent of its fur."
+	next "People use it to"
+	next "mark the seasons.@"

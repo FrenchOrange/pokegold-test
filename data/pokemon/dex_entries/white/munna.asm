@@ -1,10 +1,10 @@
-	db "SNAKE@" ; species name
-	dw 607, 150 ; height, weight
+	db "DREAMEATER@" ; species name
+	dw 200, 513 ; height, weight
 
-	db   "It always hides in"
-	next "grass. When first"
-	next "born, it has no"
+	db   "It eats the dreams"
+	next "of people and"
+	next "POKéMON. When it"
 
-	page "poison, so its"
-	next "bite is painful,"
-	next "but harmless.@"
+	page "eats a pleasant"
+	next "dream, it expels"
+	next "pink-colored mist.@"

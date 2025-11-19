@@ -1,10 +1,10 @@
-	db "PUNCHING@" ; species name
-	dw 407, 1110 ; height, weight
+	db "GEAR@" ; species name
+	dw 200, 1786 ; height, weight
 
-	db   "Its punches slice"
-	next "the air. They are"
-	next "launched at such"
+	db   "The gear with the"
+	next "red core is"
+	next "rotated at high"
 
-	page "high speed, even a"
-	next "slight graze could"
-	next "cause a burn.@"
+	page "speed for a rapid"
+	next "energy charge."
+	next "@"

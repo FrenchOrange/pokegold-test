@@ -1,10 +1,10 @@
-	db "BIVALVE@" ; species name
-	dw 100, 90 ; height, weight
+	db "SNOWSTORM@" ; species name
+	dw 403, 1268 ; height, weight
 
-	db   "It swims facing"
-	next "backward by open-"
-	next "ing and closing"
+	db   "If both heads get"
+	next "angry at the same"
+	next "time, this POKéMON"
 
-	page "its two-piece"
-	next "shell. It is"
-	next "surprisingly fast.@"
+	page "expels a blizzard,"
+	next "burying everything"
+	next "in snow.@"

@@ -1,10 +1,10 @@
-	db "OWL@" ; species name
-	dw 503, 900 ; height, weight
+	db "SUBTERRENE@" ; species name
+	dw 204, 891 ; height, weight
 
-	db   "When it needs to"
-	next "think, it rotates"
-	next "its head 180 de-"
+	db   "More than 300 feet"
+	next "below the surface,"
+	next "they build maze-"
 
-	page "grees to sharpen"
-	next "its intellectual"
-	next "power.@"
+	page "like nests. They"
+	next "can be destructive"
+	next "to subway tunnels.@"

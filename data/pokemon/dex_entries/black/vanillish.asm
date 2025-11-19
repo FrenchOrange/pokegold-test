@@ -1,10 +1,10 @@
-	db "AQUAMOUSE@" ; species name
-	dw 104, 190 ; height, weight
+	db "ICY SNOW@" ; species name
+	dw 307, 904 ; height, weight
 
-	db   "The tip of its"
-	next "tail, which con-"
-	next "tains oil that is"
+	db   "It conceals itself"
+	next "from enemy eyes by"
+	next "creating many"
 
-	page "lighter than wa-"
-	next "ter, lets it swim"
-	next "without drowning.@"
+	page "small ice parti-"
+	next "cles and hiding"
+	next "among them.@"

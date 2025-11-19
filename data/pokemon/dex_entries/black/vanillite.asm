@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 104, 130 ; height, weight
+	db "FRESH SNOW@" ; species name
+	dw 104, 126 ; height, weight
 
-	db   "BELLOSSOM gather"
-	next "at times and"
-	next "appear to dance."
+	db   "VANILLITE formed"
+	next "from icicles"
+	next "bathed in energy"
 
-	page "They say that the"
-	next "dance is a ritual"
-	next "to summon the sun.@"
+	page "from the morning"
+	next "sun. It sleeps"
+	next "buried in snow.@"

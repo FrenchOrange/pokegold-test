@@ -1,10 +1,10 @@
-	db "JELLYFISH@" ; species name
-	dw 503, 1210 ; height, weight
+	db "FIRST BIRD@" ; species name
+	dw 407, 705 ; height, weight
 
-	db   "Its 80 tentacles"
-	next "absorb water and"
-	next "stretch almost"
+	db   "It runs better"
+	next "than it flies. It"
+	next "catches prey by"
 
-	page "endlessly to CON-"
-	next "STRICT its prey"
-	next "and enemies.@"
+	page "running at speeds"
+	next "comparable to"
+	next "those of a car.@"

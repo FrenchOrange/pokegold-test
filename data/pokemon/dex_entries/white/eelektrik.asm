@@ -1,10 +1,10 @@
-	db "AQUARABBIT@" ; species name
-	dw 207, 630 ; height, weight
+	db "ELEFISH@" ; species name
+	dw 311, 485 ; height, weight
 
-	db   "When it plays in"
-	next "water, it rolls up"
-	next "its elongated ears"
+	db   "This POKéMON has a"
+	next "big appetite. When"
+	next "it spots its prey,"
 
-	page "to prevent their"
-	next "insides from get-"
-	next "ting wet.@"
+	page "it attacks it and"
+	next "paralyzes it with"
+	next "electricity.@"

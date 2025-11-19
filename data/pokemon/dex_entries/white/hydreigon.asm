@@ -1,10 +1,10 @@
-	db "SHELLFISH@" ; species name
-	dw 403, 890 ; height, weight
+	db "BRUTAL@" ; species name
+	dw 511, 3527 ; height, weight
 
-	db   "With sharp claws,"
-	next "this ferocious,"
-	next "ancient #MON"
+	db   "The heads on its"
+	next "arms do not have"
+	next "brains. It uses"
 
-	page "rips apart prey"
-	next "and sucks their"
-	next "body fluids.@"
+	page "all three heads to"
+	next "consume and dest-"
+	next "roy everything.@"

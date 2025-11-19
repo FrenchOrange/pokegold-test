@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 303, 260 ; height, weight
+	db "MUSCULAR@" ; species name
+	dw 407, 1918 ; height, weight
 
-	db   "It has a very fine"
-	next "fur. Take care not"
-	next "to make it angry,"
+	db   "It uses concrete"
+	next "pillars as walking"
+	next "canes. It knows"
 
-	page "or it may inflate"
-	next "steadily and hit"
-	next "with a BODY SLAM.@"
+	page "moves that let it"
+	next "swing the pillars"
+	next "freely in battle.@"

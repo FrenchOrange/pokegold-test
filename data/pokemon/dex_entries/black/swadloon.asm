@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 303, 650 ; height, weight
+	db "LEAF-WRAP@" ; species name
+	dw 108, 161 ; height, weight
 
-	db   "It stays mostly in"
-	next "dark, damp places,"
-	next "the preference not"
+	db   "It protects itself"
+	next "from the cold by"
+	next "wrapping up in"
 
-	page "of the bug, but"
+	page "on the move eating"
 	next "of the big mush-"
-	next "rooms on its back.@"
+	next "leaves in forests.@"

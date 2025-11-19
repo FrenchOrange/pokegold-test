@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 403, 860 ; height, weight
+	db "CHILL@" ; species name
+	dw 108, 187 ; height, weight
 
-	db   "During spawning"
-	next "season, SEAKING"
-	next "gather from all"
+	db   "Its nose is always"
+	next "running. It sniffs"
+	next "the snot back up,"
 
-	page "over, coloring"
-	next "the rivers a"
-	next "brilliant red.@"
+	page "as the mucus is"
+	next "the raw material"
+	next "for its moves.@"

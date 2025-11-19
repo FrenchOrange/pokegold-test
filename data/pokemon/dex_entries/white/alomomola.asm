@@ -1,10 +1,10 @@
-	db "BALL@" ; species name
+	db "CARING@" ; species name
 	dw 108, 230 ; height, weight
 
-	db   "It was discovered"
-	next "when # BALLS"
-	next "were introduced."
+	db   "It floats in the"
+	next "open sea. When it"
+	next "finds a wounded"
 
-	page "It is said that"
-	next "there is some"
-	next "connection.@"
+	page "Pokémon, it embra"
+	next "-ces it and brings"
+	next "it to shore.@"

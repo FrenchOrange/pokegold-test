@@ -1,10 +1,10 @@
-	db "TRIPLEBIRD@" ; species name
-	dw 511, 1880 ; height, weight
+	db "MULTIPLY@" ; species name
+	dw 303, 443 ; height, weight
 
-	db   "It collects data "
-	next "and plans three"
-	next "times as wisely,"
+	db   "This remarkably"
+	next "intelligent"
+	next "POKéMON fights by"
 
-	page "but it may think"
-	next "too much and be-"
-	next "come immobilized.@"
+	page "using arms that"
+	next "can grip with rock"
+	next "-crushing power.@"

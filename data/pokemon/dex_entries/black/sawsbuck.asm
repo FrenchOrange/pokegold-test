@@ -1,10 +1,10 @@
-	db "GAS@" ; species name
-	dw 403, 2 ; height, weight
+	db "SEASON@" ; species name
+	dw 603, 2039 ; height, weight
 
-	db   "With its gas-like"
-	next "body, it can sneak"
-	next "into any place it"
+	db   "The plants on its"
+	next "horns change based"
+	next "on the season. The"
 
-	page "desires. However,"
-	next "it can be blown"
-	next "away by wind.@"
+	page "leaders of the"
+	next "herd possess"
+	next "magnificent horns.@"

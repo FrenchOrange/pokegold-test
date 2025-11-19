@@ -1,10 +1,10 @@
-	db "POISONMOTH@" ; species name
-	dw 411, 280 ; height, weight
+	db "CENTIPEDE@" ; species name
+	dw 104, 117 ; height, weight
 
-	db   "The powder on its"
-	next "wings is poisonous"
-	next "if it is dark in"
+	db   "It discovers what"
+	next "is going on around"
+	next "it by using the"
 
-	page "color. If it is"
-	next "light, it causes"
-	next "paralysis.@"
+	page "feelers on its"
+	next "head and tail. It's"
+	next "really aggressive.@"

@@ -1,10 +1,10 @@
-	db "WATER FISH@" ; species name
-	dw 407, 1650 ; height, weight
+	db "VALIANT@" ; species name
+	dw 411, 904 ; height, weight
 
-	db   "This carefree"
-	next "#MON has an"
-	next "easy-going nature."
+	db   "The more scars it"
+	next "has, the more"
+	next "respect this brave"
 
-	page "While swimming, it"
-	next "always bumps into"
-	next "boat hulls.@"
+	page "soldiers of the"
+	next "sky gets from its"
+	next "peers.@"

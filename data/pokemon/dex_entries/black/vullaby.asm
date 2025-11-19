@@ -1,10 +1,10 @@
-	db "PATIENT@" ; species name
-	dw 403, 630 ; height, weight
+	db "DIAPERED@" ; species name
+	dw 108, 198 ; height, weight
 
-	db   "It hates light and"
-	next "shock. If attack-"
-	next "ed, it inflates"
+	db   "It tends to guard"
+	next "its posterior with"
+	next "suitable bones it"
 
-	page "its body to pump"
-	next "up its counter-"
-	next "strike.@"
+	page "has found. It"
+	next "pursues weak"
+	next "POKéMON.@"

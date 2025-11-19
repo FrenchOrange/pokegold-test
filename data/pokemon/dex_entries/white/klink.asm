@@ -1,10 +1,10 @@
-	db "BONEKEEPER@" ; species name
-	dw 303, 990 ; height, weight
+	db "GEAR@" ; species name
+	dw 100, 463 ; height, weight
 
-	db   "It collects bones"
-	next "from an unknown"
-	next "place. A MAROWAK"
+	db   "Interlocking two"
+	next "bodies and"
+	next "spinning around"
 
-	page "graveyard exists"
-	next "somewhere in the"
-	next "world, rumors say.@"
+	page "generates the"
+	next "energy they need"
+	next "to live.@"

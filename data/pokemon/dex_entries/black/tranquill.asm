@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 207, 660 ; height, weight
+	db "WILDPIGEON@" ; species name
+	dw 200, 331 ; height, weight
 
-	db   "When its electric-"
-	next "ity builds, its"
-	next "muscles are stimu-"
+	db   "Many believe that,"
+	next "deep in the forest"
+	next "where TRANQUILL"
 
-	page "lated, and it be-"
-	next "comes more aggres-"
-	next "sive than usual.@"
+	page "live, there is a"
+	next "peaceful place"
+	next "without conflict.@"

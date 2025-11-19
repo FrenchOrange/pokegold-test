@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 411, 1550 ; height, weight
+	db "AVIANOID@" ; species name
+	dw 407, 309 ; height, weight
 
-	db   "The muscles cover-"
-	next "ing its body teem"
-	next "with power. Even"
+	db   "The guardian of an"
+	next "ancient city, it"
+	next "uses its psychic"
 
-	page "when still, it"
-	next "exudes an amazing"
-	next "sense of strength.@"
+	page "power to attack"
+	next "foes that invade"
+	next "its territory.@"

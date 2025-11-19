@@ -1,10 +1,10 @@
-	db "COBRA@" ; species name
-	dw 1106, 1430 ; height, weight
+	db "DROWSING@" ; species name
+	dw 307, 1334 ; height, weight
 
-	db   "Transfixing prey"
-	next "with the face-like"
-	next "pattern on its"
+	db   "With the mist from"
+	next "its forehead, it"
+	next "can create shapes"
 
-	page "belly, it binds"
-	next "and poisons the"
-	next "frightened victim.@"
+	page "of things from"
+	next "dreams it has"
+	next "eaten.@"

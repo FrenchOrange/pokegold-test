@@ -1,10 +1,10 @@
-	db "WORM@" ; species name
-	dw 100, 60 ; height, weight
+	db "SCOUT@" ; species name
+	dw 108, 256 ; height, weight
 
-	db   "Its feet have"
-	next "suction cups"
-	next "designed to stick"
+	db   "Extremely careful,"
+	next "it takes shifts to"
+	next "maintain a nonstop"
 
-	page "to any surface. It"
-	next "tenaciously climbs"
-	next "trees to forage.@"
+	page "watch of its nest."
+	next "It feels insecure"
+	next "without a lookout.@"

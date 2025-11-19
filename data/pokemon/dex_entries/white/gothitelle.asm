@@ -1,10 +1,10 @@
-	db "LITTLEBIRD@" ; species name
-	dw 8, 40 ; height, weight
+	db "ASTRALBODY@" ; species name
+	dw 411, 970 ; height, weight
 
-	db   "It usually forages"
-	next "for food on the"
-	next "ground but may, on"
+	db   "It can predict the"
+	next "future from the"
+	next "placement and move"
 
-	page "rare occasions,"
-	next "hop onto branches"
-	next "to peck at shoots.@"
+	page "-ment of stars. It"
+	next "can see Trainers'"
+	next "life spans.@"

@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 403, 1250 ; height, weight
+	db "STONE HOME@" ; species name
+	dw 407, 4409 ; height, weight
 
-	db   "If it uses its"
-	next "abilities, it"
-	next "emits special"
+	db   "It has incredibly"
+	next "strong legs, which"
+	next "let it carry heavy"
 
-	page "alpha waves that"
-	next "cause machines to"
-	next "malfunction.@"
+	page "slabs for many"
+	next "days, even as it"
+	next "crosses arid land.@"

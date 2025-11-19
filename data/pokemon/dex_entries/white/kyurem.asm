@@ -1,10 +1,10 @@
-	db "VOLCANO@" ; species name
-	dw 211, 420 ; height, weight
+	db "BOUNDARY@" ; species name
+	dw 910, 7165 ; height, weight
 
-	db   "This #MON is"
-	next "fully covered by"
-	next "nonflammable fur."
+	db   "It has the power"
+	next "to produce breath"
+	next "so unbelievably"
 
-	page "It can withstand"
-	next "any kind of fire"
-	next "attack.@"
+	page "cold, but it wound"
+	next "up freezing its"
+	next "own body.@"

@@ -1,10 +1,10 @@
-	db "TWIN BIRD@" ; species name
-	dw 407, 860 ; height, weight
+	db "MITOSIS@" ; species name
+	dw 200, 176 ; height, weight
 
-	db   "It races through"
-	next "grassy plains with"
-	next "powerful strides,"
+	db   "When its brain,"
+	next "now split in two,"
+	next "is thinking the"
 
-	page "leaving footprints"
-	next "up to four inches"
-	next "deep.@"
+	page "same thoughts,"
+	next "DUOSION exhibits"
+	next "its maximum power.@"

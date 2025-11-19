@@ -1,10 +1,10 @@
-	db "BIVALVE@" ; species name
-	dw 100, 90 ; height, weight
+	db "SNOWSTORM@" ; species name
+	dw 403, 1268 ; height, weight
 
-	db   "Grains of sand"
-	next "trapped in its"
-	next "shells mix with"
+	db   "If both heads get"
+	next "angry at the same"
+	next "time, this POKéMON"
 
-	page "its body fluids to"
-	next "form beautiful"
-	next "pearls.@"
+	page "expels a blizzard,"
+	next "burying everything"
+	next "in snow.@"

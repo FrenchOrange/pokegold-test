@@ -1,10 +1,10 @@
-	db "SNAKE@" ; species name
-	dw 607, 150 ; height, weight
+	db "DREAMEATER@" ; species name
+	dw 200, 513 ; height, weight
 
-	db   "It can freely de-"
-	next "tach its jaw to"
-	next "swallow large prey"
+	db   "It eats the dreams"
+	next "of people and"
+	next "POKéMON. When it"
 
-	page "whole. It can be-"
-	next "come too heavy to"
-	next "move, however.@"
+	page "eats a pleasant"
+	next "dream, it expels"
+	next "pink-colored mist.@"

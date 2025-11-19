@@ -1,10 +1,10 @@
-	db "GOLDFISH@" ; species name
-	dw 200, 330 ; height, weight
+	db "AXE JAW@" ; species name
+	dw 511, 2326 ; height, weight
 
-	db   "A strong swimmer,"
-	next "it is capable of"
-	next "swimming nonstop"
+	db   "Its sturdy tusks"
+	next "will stay sharp"
+	next "even if used to"
 
-	page "up fast streams at"
-	next "a steady speed of"
-	next "five knots.@"
+	page "cut steel beams."
+	next "HAXORUS is covered"
+	next "in hard armor.@"

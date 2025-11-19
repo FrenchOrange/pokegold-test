@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 204, 90 ; height, weight
+	db "COFFIN@" ; species name
+	dw 507, 1687 ; height, weight
 
-	db   "It plants its feet"
-	next "deep underground"
-	next "to replenish wa-"
+	db   "Pretends to be an"
+	next "elaborate coffin"
+	next "to teach lessons"
 
-	page "ter. It can't es-"
-	next "cape its enemy"
-	next "while it's rooted.@"
+	page "to grave robbers."
+	next "Its body is coated"
+	next "in pure gold.@"

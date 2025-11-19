@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 303, 650 ; height, weight
+	db "LEAF-WRAP@" ; species name
+	dw 108, 161 ; height, weight
 
-	db   "The larger the"
-	next "mushroom on its"
-	next "back grows, the"
+	db   "It protects itself"
+	next "from the cold by"
+	next "wrapping up in"
 
-	page "stronger the mush-"
-	next "room spores it"
-	next "scatters.@"
+	page "on the move eating"
+	next "of the big mush-"
+	next "leaves in forests.@"

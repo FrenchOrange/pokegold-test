@@ -1,10 +1,10 @@
-	db "LITTLEBIRD@" ; species name
-	dw 8, 40 ; height, weight
+	db "ASTRALBODY@" ; species name
+	dw 411, 970 ; height, weight
 
-	db   "Because its wings"
-	next "aren't yet fully"
-	next "grown, it has to"
+	db   "It can predict the"
+	next "future from the"
+	next "placement and move"
 
-	page "hop to get around."
-	next "It is always star-"
-	next "ing at something.@"
+	page "-ment of stars. It"
+	next "can see Trainers'"
+	next "life spans.@"

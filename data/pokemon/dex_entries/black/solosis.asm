@@ -1,10 +1,10 @@
-	db "MYSTIC@" ; species name
-	dw 411, 330 ; height, weight
+	db "CELL@" ; species name
+	dw 100, 22 ; height, weight
 
-	db   "They say that it"
-	next "stays still and"
-	next "quiet because it"
+	db   "Because its body"
+	next "is enveloped in a"
+	next "special liquid, it"
 
-	page "is seeing both the"
-	next "past and future at"
-	next "the same time.@"
+	page "can survive in any"
+	next "environment."
+	next "@"

@@ -1,10 +1,10 @@
-	db "VOLCANO@" ; species name
-	dw 211, 420 ; height, weight
+	db "BOUNDARY@" ; species name
+	dw 910, 7165 ; height, weight
 
-	db   "Be careful if it"
-	next "turns its back"
-	next "during battle. It"
+	db   "It has the power"
+	next "to produce breath"
+	next "so unbelievably"
 
-	page "means that it will"
-	next "attack with the"
-	next "fire on its back.@"
+	page "cold, but it wound"
+	next "up freezing its"
+	next "own body.@"

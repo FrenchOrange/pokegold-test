@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 303, 140 ; height, weight
+	db "OLD TURTLE@" ; species name
+	dw 204, 364 ; height, weight
 
-	db   "Even though it is"
-	next "filled with ACID,"
-	next "it does not melt"
+	db   "About 100 million"
+	next "years ago, it swam"
+	next "in oceans. It is"
 
-	page "because it also"
-	next "oozes a neutral-"
-	next "izing fluid.@"
+	page "thought it also"
+	next "went on land to"
+	next "attack prey.@"

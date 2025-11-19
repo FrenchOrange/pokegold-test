@@ -1,10 +1,10 @@
-	db "BEAK@" ; species name
-	dw 311, 840 ; height, weight
+	db "GEYSER@" ; species name
+	dw 303, 639 ; height, weight
 
-	db   "It cleverly uses"
-	next "its thin, long"
-	next "beak to pluck and"
+	db   "The high-pressure"
+	next "water expelled"
+	next "from its tail is"
 
-	page "eat small insects"
-	next "that hide under"
-	next "the ground.@"
+	page "so powerful, it"
+	next "can destroy a"
+	next "concrete wall.@"

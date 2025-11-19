@@ -1,10 +1,10 @@
-	db "VOLCANO@" ; species name
-	dw 507, 1750 ; height, weight
+	db "COLT@" ; species name
+	dw 407, 1069 ; height, weight
 
-	db   "If its rage peaks,"
-	next "it becomes so hot"
-	next "that anything that"
+	db   "It crosses the"
+	next "world running over"
+	next "the surfaces of"
 
-	page "touches it will"
-	next "instantly go"
-	next "up in flames.@"
+	page "oceans and rivers."
+	next "It appears at sce"
+	next "-nic waterfronts.@"

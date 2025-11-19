@@ -1,10 +1,10 @@
-	db "TURTLE@" ; species name
-	dw 303, 500 ; height, weight
+	db "DISCIPLINE@" ; species name
+	dw 207, 540 ; height, weight
 
-	db   "It cleverly con-"
-	next "trols its furry"
-	next "ears and tail to"
+	db   "Scalchop techni-"
+	next "ques differ from"
+	next "one DEWOTT to"
 
-	page "maintain its"
-	next "balance while"
-	next "swimming.@"
+	page "another. It never"
+	next "neglects maintain-"
+	next "ing this shell.@"

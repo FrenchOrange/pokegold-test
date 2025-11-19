@@ -1,10 +1,10 @@
-	db "HAIRY BUG@" ; species name
-	dw 100, 70 ; height, weight
+	db "LOYAL DOG@" ; species name
+	dw 211, 324 ; height, weight
 
-	db   "Its poison stinger"
-	next "is very powerful."
-	next "Its bright-colored"
+	db   "It loyally follows"
+	next "its Trainer's"
+	next "orders. For ages,"
 
-	page "body is intended"
-	next "to warn off its"
-	next "enemies.@"
+	page "they have helped"
+	next "Trainers raise"
+	next "POKéMON.@"

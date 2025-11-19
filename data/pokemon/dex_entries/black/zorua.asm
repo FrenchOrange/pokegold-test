@@ -1,10 +1,10 @@
-	db "MEGATON@" ; species name
-	dw 407, 6620 ; height, weight
+	db "TRICKY FOX@" ; species name
+	dw 204, 276 ; height, weight
 
-	db   "It sheds its skin"
-	next "once a year. The"
-	next "discarded shell"
+	db   "To protect itself"
+	next "from danger, it"
+	next "hides its true"
 
-	page "immediately hard-"
-	next "ens and crumbles"
-	next "away.@"
+	page "self by transform-"
+	next "ing into people"
+	next "and POKéMON.@"

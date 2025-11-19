@@ -1,10 +1,10 @@
-	db "POISON PIN@" ; species name
-	dw 104, 150 ; height, weight
+	db "THUNDER@" ; species name
+	dw 503, 1753 ; height, weight
 
-	db   "Although not very"
-	next "combative, it will"
-	next "torment its foes"
+	db   "Ill-tempered, it"
+	next "is dangerous becau"
+	next "-se when angered,"
 
-	page "with poison spikes"
-	next "if it is threat-"
-	next "ened in any way.@"
+	page "it shoots lightn-"
+	next "ing from its mane"
+	next "in all directions.@"

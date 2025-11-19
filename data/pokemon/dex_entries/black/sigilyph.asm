@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 411, 1550 ; height, weight
+	db "AVIANOID@" ; species name
+	dw 407, 309 ; height, weight
 
-	db   "It always goes at"
-	next "its full power,"
-	next "but this very"
+	db   "The guardian of an"
+	next "ancient city, it"
+	next "uses its psychic"
 
-	page "tough and durable"
-	next "#MON never gets"
-	next "tired.@"
+	page "power to attack"
+	next "foes that invade"
+	next "its territory.@"

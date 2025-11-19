@@ -1,10 +1,10 @@
-	db "WATER FISH@" ; species name
-	dw 104, 190 ; height, weight
+	db "EAGLET@" ; species name
+	dw 108, 231 ; height, weight
 
-	db   "When it walks a-"
-	next "round on the"
-	next "ground, it coats"
+	db   "It will challenge"
+	next "anything, even"
+	next "strong opponents."
 
-	page "its body with a"
-	next "slimy, poisonous"
-	next "film.@"
+	page "Its frequent"
+	next "fights help it"
+	next "become stronger.@"

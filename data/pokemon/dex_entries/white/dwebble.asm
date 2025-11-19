@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 211, 430 ; height, weight
+	db "ROCK INN@" ; species name
+	dw 100, 320 ; height, weight
 
-	db   "If it decides to"
-	next "TELEPORT randomly,"
-	next "it creates the"
+	db   "It makes a hole in"
+	next "a suitable rock."
+	next "If it ever breaks,"
 
-	page "illusion that it"
-	next "has created copies"
-	next "of itself.@"
+	page "DWEBBLE remains"
+	next "agitated until it"
+	next "finds a new one.@"

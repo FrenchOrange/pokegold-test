@@ -1,10 +1,10 @@
-	db "ROCK SNAKE@" ; species name
-	dw 2810, 4630 ; height, weight
+	db "CAVALRY@" ; species name
+	dw 303, 728 ; height, weight
 
-	db   "It twists and"
-	next "squirms through"
-	next "the ground. The"
+	db   "It evolves by"
+	next "wearing the discar"
+	next "-ded shell of a"
 
-	page "thunderous roar of"
-	next "its tunneling"
-	next "echoes a long way.@"
+	page "SHELMET. The steel"
+	next "armor protects its"
+	next "whole body.@"

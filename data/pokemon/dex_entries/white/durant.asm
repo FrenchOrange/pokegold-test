@@ -1,10 +1,10 @@
-	db "SPIRAL@" ; species name
-	dw 104, 170 ; height, weight
+	db "IRON ANT@" ; species name
+	dw 100, 728 ; height, weight
 
-	db   "This #MON from"
-	next "ancient times is"
-	next "said to have navi-"
+	db   "DURANT digs nests"
+	next "in mountains. It"
+	next "builds complex,"
 
-	page "gated the sea by"
-	next "adeptly twisting"
-	next "its 10 tentacles.@"
+	page "interconnected"
+	next "tunnels into"
+	next "mazes.@"

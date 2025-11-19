@@ -1,10 +1,10 @@
-	db "RIVER CRAB@" ; species name
-	dw 104, 140 ; height, weight
+	db "FLOATING@" ; species name
+	dw 311, 728 ; height, weight
 
-	db   "The pincers break"
-	next "off easily. If it"
-	next "loses a pincer,"
+	db   "It paralyzes prey"
+	next "with poison, then"
+	next "drag them down to"
 
-	page "it somehow becomes"
-	next "incapable of walk-"
-	next "ing sideways.@"
+	page "its lair, five"
+	next "miles below the"
+	next "surface.@"

@@ -1,10 +1,10 @@
-	db "ANGLER@" ; species name
-	dw 108, 260 ; height, weight
+	db "HEARING@" ; species name
+	dw 307, 683 ; height, weight
 
-	db   "It shoots positive"
-	next "and negative elec-"
-	next "tricity between"
+	db   "Its auditory sense"
+	next "is astounding. It"
+	next "emits inaudible"
 
-	page "the tips of its"
-	next "two antennae and"
-	next "zaps its enemies.@"
+	page "sounds to scan its"
+	next "surroundings, like"
+	next "a sonar.@"

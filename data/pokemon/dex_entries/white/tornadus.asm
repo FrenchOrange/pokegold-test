@@ -1,10 +1,10 @@
-	db "ROYAL@" ; species name
-	dw 607, 1750 ; height, weight
+	db "CYCLONE@" ; species name
+	dw 411, 1389 ; height, weight
 
-	db   "When its head was"
-	next "bitten, toxins"
-	next "entered SLOWPOKE's"
+	db   "It expels energy"
+	next "from its tail,"
+	next "causing severe"
 
-	page "head and unlocked"
-	next "an extraordinary"
-	next "power.@"
+	page "storms. Its power"
+	next "is so great it can"
+	next "blow houses away.@"

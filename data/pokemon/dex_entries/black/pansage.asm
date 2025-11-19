@@ -1,10 +1,10 @@
-	db "BIRD@" ; species name
-	dw 307, 660 ; height, weight
+	db "GRASS APE@" ; species name
+	dw 200, 231 ; height, weight
 
-	db   "It has outstanding"
-	next "vision. However"
-	next "high it flies, it"
+	db   "It shares the leaf"
+	next "on its head with"
+	next "weary-looking"
 
-	page "is able to distin-"
-	next "guish the move-"
-	next "ments of its prey.@"
+	page "POKéMON. These"
+	next "leaves are known"
+	next "to relieve stress.@"

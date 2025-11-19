@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 104, 130 ; height, weight
+	db "TINYPIGEON@" ; species name
+	dw 100, 46 ; height, weight
 
-	db   "It raises its tail"
-	next "to check its sur-"
-	next "roundings. The"
+	db   "This POKéMON lives"
+	next "in cities. It is"
+	next "accustomed to"
 
-	page "tail is sometimes"
-	next "struck by light-"
-	next "ning in this pose.@"
+	page "people. Flocks"
+	next "often gather in"
+	next "parks and plazas.@"

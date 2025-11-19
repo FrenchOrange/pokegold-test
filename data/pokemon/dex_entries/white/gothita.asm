@@ -1,10 +1,10 @@
-	db "HERMITCRAB@" ; species name
-	dw 503, 1730 ; height, weight
+	db "FIXATION@" ; species name
+	dw 104, 128 ; height, weight
 
-	db   "Naturally dull to"
-	next "begin with, it"
-	next "lost its ability"
+	db   "It intently stares"
+	next "down both Trainers"
+	next "and POKéMON. It is"
 
-	page "to feel pain due"
-	next "to SHELLDER's"
-	next "seeping poison.@"
+	page "apparently looking"
+	next "at something only"
+	next "it can see.@"

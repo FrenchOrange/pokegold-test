@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 211, 430 ; height, weight
+	db "ROCK INN@" ; species name
+	dw 100, 320 ; height, weight
 
-	db   "It senses impend-"
-	next "ing attacks and"
-	next "TELEPORTS away to"
+	db   "It makes a hole in"
+	next "a suitable rock."
+	next "If it ever breaks,"
 
-	page "safety before the"
-	next "actual attacks can"
-	next "strike.@"
+	page "DWEBBLE remains"
+	next "agitated until it"
+	next "finds a new one.@"

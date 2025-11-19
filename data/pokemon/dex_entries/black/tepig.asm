@@ -1,10 +1,10 @@
-	db "LIZARD@" ; species name
-	dw 200, 190 ; height, weight
+	db "FIRE PIG@" ; species name
+	dw 108, 218 ; height, weight
 
-	db   "The flame on its"
-	next "tail shows the"
-	next "strength of its"
+	db   "It blows fire"
+	next "through its nose."
+	next "When it catches a"
 
-	page "life force. If it"
-	next "is weak, the flame"
-	next "also burns weakly.@"
+	page "cold, the fire be-"
+	next "comes pitch-black"
+	next "smoke instead.@"

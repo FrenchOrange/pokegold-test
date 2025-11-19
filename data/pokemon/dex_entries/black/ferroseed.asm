@@ -1,10 +1,10 @@
-	db "COCONUT@" ; species name
-	dw 607, 2650 ; height, weight
+	db "THORN SEED@" ; species name
+	dw 200, 414 ; height, weight
 
-	db   "Its three heads"
-	next "think independent-"
-	next "ly. However, they"
+	db   "It sticks its"
+	next "spikes into cave"
+	next "walls and absorbs"
 
-	page "are friendly and"
-	next "never appear to"
-	next "squabble.@"
+	page "the minerals it"
+	next "finds in the rock."
+	next "@"

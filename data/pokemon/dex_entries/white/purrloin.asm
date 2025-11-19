@@ -1,10 +1,10 @@
-	db "POISON BEE@" ; species name
-	dw 303, 650 ; height, weight
+	db "DEVIOUS@" ; species name
+	dw 104, 223 ; height, weight
 
-	db   "It has three"
-	next "poison barbs."
-	next "The barb on its"
+	db   "Its cute act is a"
+	next "ruse. Letting your"
+	next "guard down, you'll"
 
-	page "tail secretes the"
-	next "most powerful"
-	next "poison.@"
+	page "find your items"
+	next "taken. It attacks"
+	next "with sharp claws.@"

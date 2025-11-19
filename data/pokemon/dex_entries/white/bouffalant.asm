@@ -1,10 +1,10 @@
-	db "CLEAR WING@" ; species name
-	dw 311, 840 ; height, weight
+	db "BOVINEBASH@" ; species name
+	dw 503, 2086 ; height, weight
 
-	db   "Its large eyes can"
-	next "scan 360 degrees."
-	next "It looks in all"
+	db   "It charges wildly"
+	next "and headbutts"
+	next "everything. Its"
 
-	page "directions to seek"
-	next "out insects as its"
-	next "prey.@"
+	page "headbutts are"
+	next "destructive enough"
+	next "to derail a train.@"

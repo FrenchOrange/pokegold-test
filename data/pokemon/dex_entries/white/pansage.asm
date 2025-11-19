@@ -1,10 +1,10 @@
-	db "BIRD@" ; species name
-	dw 307, 660 ; height, weight
+	db "GRASS APE@" ; species name
+	dw 200, 231 ; height, weight
 
-	db   "It immobilizes its"
-	next "prey using well-"
-	next "developed claws,"
+	db   "It shares the leaf"
+	next "on its head with"
+	next "weary-looking"
 
-	page "then carries the"
-	next "prey more than 60"
-	next "miles to its nest.@"
+	page "POKéMON. These"
+	next "leaves are known"
+	next "to relieve stress.@"

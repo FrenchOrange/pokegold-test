@@ -1,10 +1,10 @@
-	db "EGG@" ; species name
-	dw 104, 60 ; height, weight
+	db "ELESPIDER@" ; species name
+	dw 207, 315 ; height, weight
 
-	db   "Using telepathy"
-	next "only they can"
-	next "receive, they"
+	db   "Using an electri-"
+	next "cally charged web,"
+	next "it traps its prey."
 
-	page "always form a"
-	next "cluster of six"
-	next "EXEGGCUTE.@"
+	page "It consumes the"
+	next "immobilized prey"
+	next "at its own pace.@"

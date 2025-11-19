@@ -1,10 +1,10 @@
-	db "SHELLFISH@" ; species name
-	dw 108, 250 ; height, weight
+	db "HOSTILE@" ; species name
+	dw 407, 1102 ; height, weight
 
-	db   "This #MON lived"
-	next "in ancient times."
-	next "On rare occasions,"
+	db   "Its two heads don't"
+	next "get along. Even as"
+	next "they eat, they"
 
-	page "it has been"
-	next "discovered as a"
-	next "living fossil.@"
+	page "bicker, trying to"
+	next "eat more than the"
+	next "other head.@"

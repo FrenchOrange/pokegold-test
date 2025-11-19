@@ -1,10 +1,10 @@
-	db "BAGWORM@" ; species name
-	dw 200, 160 ; height, weight
+	db "BOLTSTRIKE@" ; species name
+	dw 411, 1345 ; height, weight
 
-	db   "It hangs and waits"
-	next "for flying insect"
-	next "prey to come near."
+	db   "Its tail spikes"
+	next "discharge immense"
+	next "bolts of thunder."
 
-	page "It does not move"
-	next "about much on its"
-	next "own.@"
+	page "It flies around"
+	next "UNOVA firing off"
+	next "lightning bolts.@"

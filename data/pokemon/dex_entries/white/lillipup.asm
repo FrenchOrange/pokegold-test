@@ -1,10 +1,10 @@
-	db "BUTTERFLY@" ; species name
-	dw 307, 710 ; height, weight
+	db "PUPPY@" ; species name
+	dw 104, 90 ; height, weight
 
-	db   "Water-repellent"
-	next "powder on its"
-	next "wings enables it"
+	db   "The long hair on"
+	next "its face provides"
+	next "an amazing radar"
 
-	page "to collect honey,"
-	next "even in the heav-"
-	next "iest of rains.@"
+	page "that lets it sense"
+	next "subtle changes in"
+	next "its surroundings.@"

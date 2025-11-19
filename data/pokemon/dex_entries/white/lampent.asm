@@ -1,10 +1,10 @@
-	db "COTTONWEED@" ; species name
-	dw 104, 10 ; height, weight
+	db "LAMP@" ; species name
+	dw 200, 287 ; height, weight
 
-	db   "Its body is so"
-	next "light, it must"
-	next "grip the ground"
+	db   "It arrives near"
+	next "the moment of"
+	next "death and steals"
 
-	page "firmly with its"
-	next "feet to keep from"
-	next "being blown away.@"
+	page "the soul as soon"
+	next "as it leaves the"
+	next "body.@"

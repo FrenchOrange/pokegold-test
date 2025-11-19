@@ -1,10 +1,10 @@
-	db "BARRIER@" ; species name
-	dw 403, 1200 ; height, weight
+	db "SNAIL@" ; species name
+	dw 104, 170 ; height, weight
 
-	db   "A skilled mime"
-	next "from birth, it"
-	next "gains the ability"
+	db   "Its sturdy shell"
+	next "grows with it for"
+	next "most of its life."
 
-	page "to create invisi-"
-	next "ble objects as it"
-	next "matures.@"
+	page "Once it finally"
+	next "grows too cramped,"
+	next "it will evolve.@"

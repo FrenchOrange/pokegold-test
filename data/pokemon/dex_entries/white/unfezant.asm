@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 200, 260 ; height, weight
+	db "PROUD@" ; species name
+	dw 311, 639 ; height, weight
 
-	db   "Disliking water,"
-	next "it lives in deep"
-	next "burrows in arid"
+	db   "Males have plumage"
+	next "on their heads. It"
+	next "will never let"
 
-	page "areas. It can roll"
-	next "itself instantly"
-	next "into a ball.@"
+	page "itself feel close"
+	next "to anyone other"
+	next "than its Trainer.@"

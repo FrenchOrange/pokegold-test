@@ -1,10 +1,10 @@
-	db "BALL@" ; species name
-	dw 311, 1470 ; height, weight
+	db "ATTACHING@" ; species name
+	dw 004, 13 ; height, weight
 
-	db   "It is dangerous."
-	next "If it has too much"
-	next "electricity and"
+	db   "It attaches itself"
+	next "to large POKéMON"
+	next "and absorbs static"
 
-	page "has nothing to do,"
-	next "it amuses itself"
-	next "by exploding.@"
+	page "electricity, which"
+	next "it stores in an"
+	next "electric pouch.@"

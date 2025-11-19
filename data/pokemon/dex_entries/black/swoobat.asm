@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 407, 1370 ; height, weight
+	db "COURTING@" ; species name
+	dw 211, 231 ; height, weight
 
-	db   "It swings its big"
-	next "tail around during"
-	next "battle. If its foe"
+	db   "Those hit with the"
+	next "ultrasonic waves"
+	next "emitted by a"
 
-	page "flinches, it will"
-	next "charge with its"
-	next "sturdy body.@"
+	page "courting male will"
+	next "experience a posi"
+	next "-tive mood shift.@"

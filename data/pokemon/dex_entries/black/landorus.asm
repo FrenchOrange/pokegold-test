@@ -1,10 +1,10 @@
-	db "HERB@" ; species name
-	dw 511, 2220 ; height, weight
+	db "ABUNDANCE@" ; species name
+	dw 411, 1499 ; height, weight
 
-	db   "The aroma that"
-	next "rises from its"
-	next "petals contains a"
+	db   "The energy that"
+	next "comes pouring from"
+	next "its tail increases"
 
-	page "substance that"
-	next "calms aggressive"
-	next "feelings.@"
+	page "the nutrition in"
+	next "the soil, making"
+	next "crops grow well.@"

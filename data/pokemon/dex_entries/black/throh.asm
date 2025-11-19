@@ -1,10 +1,10 @@
-	db "WEED@" ; species name
-	dw 207, 190 ; height, weight
+	db "JUDO@" ; species name
+	dw 403, 1224 ; height, weight
 
-	db   "What appears to be"
-	next "drool is actually"
-	next "sweet honey. It is"
+	db   "When it encounters"
+	next "foes bigger than"
+	next "itself, it tries"
 
-	page "very sticky and"
-	next "clings stubbornly"
-	next "if touched.@"
+	page "to throw them. It"
+	next "always travels"
+	next "in packs of five.@"

@@ -1,10 +1,10 @@
-	db "TINY MOUSE@" ; species name
-	dw 100, 40 ; height, weight
+	db "FLOWERING@" ; species name
+	dw 307, 359 ; height, weight
 
-	db   "Despite its small"
-	next "size, it can zap"
-	next "even adult humans."
+	db   "The fragrance of"
+	next "its garland has a"
+	next "relaxing effect."
 
-	page "However, if it"
-	next "does so, it also"
-	next "surprises itself.@"
+	page "It withers if a"
+	next "Trainer does not"
+	next "care for it well.@"

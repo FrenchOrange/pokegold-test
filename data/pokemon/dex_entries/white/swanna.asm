@@ -1,10 +1,10 @@
-	db "SEA LION@" ; species name
-	dw 507, 2650 ; height, weight
+	db "WHITE BIRD@" ; species name
+	dw 403, 534 ; height, weight
 
-	db   "It loves frigid"
-	next "seas with ice"
-	next "floes. It uses its"
+	db   "It delivers sharp,"
+	next "powerful pecks"
+	next "with its bill. It"
 
-	page "long tail to"
-	next "change swimming"
-	next "direction quickly.@"
+	page "whips its long"
+	next "neck to dispense"
+	next "repeated strikes.@"

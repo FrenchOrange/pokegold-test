@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 207, 660 ; height, weight
+	db "WILDPIGEON@" ; species name
+	dw 200, 331 ; height, weight
 
-	db   "If the electric"
-	next "pouches in its"
-	next "cheeks become"
+	db   "Many believe that,"
+	next "deep in the forest"
+	next "where TRANQUILL"
 
-	page "fully charged,"
-	next "both ears will"
-	next "stand straight up.@"
+	page "live, there is a"
+	next "peaceful place"
+	next "without conflict.@"

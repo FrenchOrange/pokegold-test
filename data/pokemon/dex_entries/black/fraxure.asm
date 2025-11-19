@@ -1,10 +1,10 @@
-	db "DRAGON@" ; species name
-	dw 311, 550 ; height, weight
+	db "AXE JAW@" ; species name
+	dw 303, 794 ; height, weight
 
-	db   "An examination of"
-	next "its cells revealed"
-	next "the presence of a"
+	db   "Its tusks can"
+	next "shatter rocks."
+	next "Territory battles"
 
-	page "gene not found in"
-	next "HORSEA. It became"
-	next "a hot topic.@"
+	page "between FRAXURE"
+	next "can be intensely"
+	next "violent.@"

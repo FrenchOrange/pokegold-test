@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 303, 290 ; height, weight
+	db "LEAF SNAKE@" ; species name
+	dw 207, 353 ; height, weight
 
-	db   "Exposure to sun-"
-	next "light adds to its"
-	next "strength. Sunlight"
+	db   "Sinking into the"
+	next "shadows of thick"
+	next "foliage, it avoids"
 
-	page "also makes the bud"
-	next "on its back grow"
-	next "larger.@"
+	page "attacks. It retali"
+	next "-ates with deft"
+	next "whipping moves.@"

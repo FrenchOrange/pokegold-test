@@ -1,10 +1,10 @@
-	db "TRANSPORT@" ; species name
-	dw 802, 4850 ; height, weight
+	db "SWORDBLADE@" ; species name
+	dw 503, 1543 ; height, weight
 
-	db   "They have gentle"
-	next "hearts. Because"
-	next "they rarely fight,"
+	db   "BISHARP pursues"
+	next "prey alongside a"
+	next "large group of"
 
-	page "many have been"
-	next "caught. Their num-"
-	next "ber has dwindled.@"
+	page "PAWNIARD. Then,"
+	next "BISHARP finishes"
+	next "off the prey.@"

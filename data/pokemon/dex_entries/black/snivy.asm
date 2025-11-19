@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 204, 150 ; height, weight
+	db "LEAF SNAKE@" ; species name
+	dw 200, 179 ; height, weight
 
-	db   "The seed on its"
-	next "back is filled"
-	next "with nutrients."
+	db   "It photosynthe-"
+	next "sizes by bathing"
+	next "its tail in sun"
 
-	page "The seed grows"
-	next "steadily larger as"
-	next "its body grows.@"
+	page "-light. When it is"
+	next "not feeling well,"
+	next "its tail droops.@"

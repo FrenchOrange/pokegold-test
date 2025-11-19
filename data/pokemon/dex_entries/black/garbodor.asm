@@ -1,10 +1,10 @@
-	db "ROCK@" ; species name
-	dw 303, 2320 ; height, weight
+	db "TRASH HEAP@" ; species name
+	dw 603, 2366 ; height, weight
 
-	db   "With a free and"
-	next "uncaring nature,"
-	next "it doesn't mind if"
+	db   "It absorbs garbage"
+	next "to make it part of"
+	next "its body. It spews"
 
-	page "pieces break off"
-	next "while it rolls"
-	next "down mountains.@"
+	page "a poisonous liquid"
+	next "from its right-"
+	next "hand fingertips.@"

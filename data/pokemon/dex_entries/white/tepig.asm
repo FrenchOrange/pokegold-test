@@ -1,10 +1,10 @@
-	db "LIZARD@" ; species name
-	dw 200, 190 ; height, weight
+	db "FIRE PIG@" ; species name
+	dw 108, 218 ; height, weight
 
-	db   "The flame on its"
-	next "tail indicates"
-	next "CHARMANDER's life"
+	db   "It blows fire"
+	next "through its nose."
+	next "When it catches a"
 
-	page "force. If it is"
-	next "healthy, the flame"
-	next "burns brightly.@"
+	page "cold, the fire be-"
+	next "comes pitch-black"
+	next "smoke instead.@"

@@ -1,10 +1,10 @@
-	db "GENETIC@" ; species name
-	dw 607, 2690 ; height, weight
+	db "PALEOZOIC@" ; species name
+	dw 411, 1819 ; height, weight
 
-	db   "Because its battle"
-	next "abilities were"
-	next "raised to the"
+	db   "This ancient bug"
+	next "POKéMON was alter-"
+	next "ed by TEAM PLASMA."
 
-	page "ultimate level, it"
-	next "thinks only of de-"
-	next "feating its foes.@"
+	page "They upgraded the"
+	next "cannon on its"
+	next "back.@"

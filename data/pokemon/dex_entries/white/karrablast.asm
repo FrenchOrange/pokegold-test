@@ -1,10 +1,10 @@
-	db "SHADOW@" ; species name
-	dw 411, 890 ; height, weight
+	db "CLAMPING@" ; species name
+	dw 108, 130 ; height, weight
 
-	db   "To steal the life"
-	next "of its target, it"
-	next "slips into the"
+	db   "When threatened,"
+	next "it spits an acidic"
+	next "liquid to drive"
 
-	page "prey's shadow and"
-	next "silently waits for"
-	next "an opportunity.@"
+	page "attackers away."
+	next "This POKéMON"
+	next "targets SHELMET.@"

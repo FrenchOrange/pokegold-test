@@ -1,10 +1,10 @@
-	db "ANGLER@" ; species name
-	dw 108, 260 ; height, weight
+	db "HEARING@" ; species name
+	dw 307, 683 ; height, weight
 
-	db   "On the dark ocean"
-	next "floor, its only"
-	next "means of communi-"
+	db   "Its auditory sense"
+	next "is astounding. It"
+	next "emits inaudible"
 
-	page "cation is its"
-	next "constantly flash-"
-	next "ing lights.@"
+	page "sounds to scan its"
+	next "surroundings, like"
+	next "a sonar.@"

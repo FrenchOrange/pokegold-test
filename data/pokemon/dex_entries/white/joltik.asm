@@ -1,10 +1,10 @@
-	db "BALL@" ; species name
-	dw 311, 1470 ; height, weight
+	db "ATTACHING@" ; species name
+	dw 004, 13 ; height, weight
 
-	db   "It stores an over-"
-	next "flowing amount of"
-	next "electric energy"
+	db   "It attaches itself"
+	next "to large POKéMON"
+	next "and absorbs static"
 
-	page "inside its body."
-	next "Even a small shock"
-	next "makes it explode.@"
+	page "electricity, which"
+	next "it stores in an"
+	next "electric pouch.@"

@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 108, 620 ; height, weight
+	db "HOSTILE@" ; species name
+	dw 303, 397 ; height, weight
 
-	db   "It is extremely"
-	next "ill-tempered."
-	next "Groups of them"
+	db   "BASCULIN usually"
+	next "do not get along,"
+	next "but sometimes"
 
-	page "will attack any"
-	next "handy target for"
-	next "no reason.@"
+	page "members of one"
+	next "school mingle with"
+	next "another school.@"

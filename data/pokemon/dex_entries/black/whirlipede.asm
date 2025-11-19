@@ -1,10 +1,10 @@
-	db "MOLE@" ; species name
-	dw 8, 20 ; height, weight
+	db "CURLIPEDE@" ; species name
+	dw 311, 1290 ; height, weight
 
-	db   "Its skin is very"
-	next "thin. If it is"
-	next "exposed to light,"
+	db   "It's usually motion"
+	next "-less, but when"
+	next "attacked, it spins"
 
-	page "its blood heats"
-	next "up, causing it to"
-	next "grow weak.@"
+	page "at high speed and"
+	next "then crashes into"
+	next "its opponent.@"

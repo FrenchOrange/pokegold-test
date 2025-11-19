@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 200, 270 ; height, weight
+	db "ZEN CHARM@" ; species name
+	dw 200, 827 ; height, weight
 
-	db   "The direction of"
-	next "its belly spiral"
-	next "differs by area."
+	db   "DARUMAKA's dropp-"
+	next "ings are hot, so"
+	next "people used to put"
 
-	page "The equator is"
-	next "thought to have an"
-	next "effect on this.@"
+	page "them in their"
+	next "clothes to keep"
+	next "themselves warm.@"

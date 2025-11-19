@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 403, 1190 ; height, weight
+	db "CACTUS@" ; species name
+	dw 303, 617 ; height, weight
 
-	db   "This strong and"
-	next "skilled swimmer is"
-	next "even capable of"
+	db   "Arid regions are"
+	next "its habitat. It"
+	next "moves rhythmically"
 
-	page "crossing the"
-	next "Pacific Ocean just"
-	next "by kicking.@"
+	page "while making a"
+	next "sound similar to"
+	next "maracas.@"

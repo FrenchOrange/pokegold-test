@@ -1,10 +1,10 @@
-	db "LICKING@" ; species name
-	dw 311, 1440 ; height, weight
+	db "ELEFISH@" ; species name
+	dw 008, 07 ; height, weight
 
-	db   "Its long tongue,"
-	next "slathered with a"
-	next "gooey saliva,"
+	db   "This POKéMON moves"
+	next "in schools. With"
+	next "its electricity-"
 
-	page "sticks to any-"
-	next "thing, so it is"
-	next "very useful.@"
+	page "generating organ"
+	next "it expels shocks"
+	next "when in danger.@"

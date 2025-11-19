@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 207, 170 ; height, weight
+	db "TADPOLE@" ; species name
+	dw 108, 99 ; height, weight
 
-	db   "Capable of flying"
-	next "safely in dark"
-	next "places, it emits"
+	db   "By vibrating its"
+	next "cheeks, it emits"
+	next "sound waves inaudi"
 
-	page "ultrasonic cries"
-	next "to check for any"
-	next "obstacles.@"
+	page "-ble to humans. It"
+	next "communicates using"
+	next "rhythmic sounds.@"

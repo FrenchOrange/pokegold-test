@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 100, 40 ; height, weight
+	db "AUTOMATON@" ; species name
+	dw 902, 7275 ; height, weight
 
-	db   "It may drop out of"
-	next "the sky suddenly."
-	next "If attacked by a"
+	db   "It is said that"
+	next "GOLURK was ordered"
+	next "to protect people"
 
-	page "SPEAROW, it will"
-	next "violently shake"
-	next "its leaves.@"
+	page "and POKéMON by the"
+	next "ancient people who"
+	next "made them.@"

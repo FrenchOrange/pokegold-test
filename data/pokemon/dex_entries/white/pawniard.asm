@@ -1,10 +1,10 @@
-	db "SUN@" ; species name
-	dw 207, 190 ; height, weight
+	db "SHARPBLADE@" ; species name
+	dw 108, 225 ; height, weight
 
-	db   "In the daytime, it"
-	next "rushes about in a"
-	next "hectic manner, but"
+	db   "It fights at"
+	next "BISHARP's command."
+	next "It clings to prey"
 
-	page "it comes to a com-"
-	next "plete stop when"
-	next "the sun sets.@"
+	page "and inflicts dama-"
+	next "ge by sinking its"
+	next "blades into it.@"

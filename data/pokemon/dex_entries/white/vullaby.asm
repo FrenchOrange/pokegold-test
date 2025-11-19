@@ -1,10 +1,10 @@
-	db "PATIENT@" ; species name
-	dw 403, 630 ; height, weight
+	db "DIAPERED@" ; species name
+	dw 108, 198 ; height, weight
 
-	db   "To keep its pitch-"
-	next "black tail hidden,"
-	next "it lives quietly"
+	db   "It tends to guard"
+	next "its posterior with"
+	next "suitable bones it"
 
-	page "in the darkness."
-	next "It is never first"
-	next "to attack.@"
+	page "has found. It"
+	next "pursues weak"
+	next "POKéMON.@"

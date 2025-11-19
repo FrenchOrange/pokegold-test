@@ -1,10 +1,10 @@
-	db "KICKING@" ; species name
-	dw 411, 1100 ; height, weight
+	db "GEAR@" ; species name
+	dw 200, 1124 ; height, weight
 
-	db   "If it starts kick-"
-	next "ing repeatedly,"
-	next "both legs will"
+	db   "Minigears are spun"
+	next "at high speed and"
+	next "repeatedly fired"
 
-	page "stretch even long-"
-	next "er to strike a"
-	next "fleeing foe.@"
+	page "away. It is danger"
+	next "-ous if the gears"
+	next "don't return.@"

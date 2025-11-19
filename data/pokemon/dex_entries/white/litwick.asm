@@ -1,10 +1,10 @@
-	db "FROG@" ; species name
-	dw 307, 750 ; height, weight
+	db "CANDLE@" ; species name
+	dw 100, 68 ; height, weight
 
-	db   "Whenever three or"
-	next "more of these get"
-	next "together, they"
+	db   "As it shines a"
+	next "light and pretends"
+	next "to be a guide, it"
 
-	page "sing in a loud"
-	next "voice that sounds"
-	next "like bellowing.@"
+	page "leeches off the"
+	next "life force of any"
+	next "who follow it.@"

@@ -1,10 +1,10 @@
-	db "BIRD@" ; species name
-	dw 411, 870 ; height, weight
+	db "THORN APE@" ; species name
+	dw 307, 672 ; height, weight
 
-	db   "It spreads its"
-	next "beautiful wings"
-	next "wide to frighten"
+	db   "It attacks enemies"
+	next "with strikes of"
+	next "its thorn-covered"
 
-	page "its enemies. It"
-	next "can fly at Mach 2"
-	next "speed.@"
+	page "tail. This POKéMON"
+	next "is wild tempered."
+	next "@"

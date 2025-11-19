@@ -1,10 +1,10 @@
-	db "BAGWORM@" ; species name
-	dw 311, 2770 ; height, weight
+	db "VAST WHITE@" ; species name
+	dw 1006, 7275 ; height, weight
 
-	db   "It remains immova-"
-	next "bly rooted to its"
-	next "tree. It scatters"
+	db   "When RESHIRAM's"
+	next "tail flares, the"
+	next "heat energy moves"
 
-	page "pieces of its hard"
-	next "shell to drive its"
-	next "enemies away.@"
+	page "the atmosphere and"
+	next "changes the world's"
+	next "weather.@"

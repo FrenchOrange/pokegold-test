@@ -1,10 +1,10 @@
-	db "PIG MONKEY@" ; species name
-	dw 303, 710 ; height, weight
+	db "DESERTCROC@" ; species name
+	dw 204, 335 ; height, weight
 
-	db   "If approached"
-	next "while asleep, it"
-	next "may awaken and"
+	db   "It moves below the"
+	next "sand, except for"
+	next "its nose and eyes."
 
-	page "angrily give chase"
-	next "in a groggy state"
-	next "of semi-sleep.@"
+	page "A dark membrane"
+	next "shields its eyes"
+	next "from the sun.@"

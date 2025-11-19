@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 311, 410 ; height, weight
+	db "KARATE@" ; species name
+	dw 407, 1124 ; height, weight
 
-	db   "The bud bursts"
-	next "into bloom with a"
-	next "bang. It then"
+	db   "Tying its belt"
+	next "gets it pumped and"
+	next "makes its punches"
 
-	page "starts scattering"
-	next "allergenic, poi-"
-	next "sonous pollen.@"
+	page "hit harder. Distur"
+	next "-bing its training"
+	next "angers it.@"

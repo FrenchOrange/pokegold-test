@@ -1,10 +1,10 @@
-	db "ROCK@" ; species name
-	dw 104, 440 ; height, weight
+	db "TRASH BAG@" ; species name
+	dw 200, 683 ; height, weight
 
-	db   "Most people may"
-	next "not notice, but"
-	next "a closer look"
+	db   "The combination of"
+	next "a garbage bag and"
+	next "industrial waste"
 
-	page "should reveal that"
-	next "there are many"
-	next "GEODUDE around.@"
+	page "caused a chemical"
+	next "reaction that"
+	next "created TRUBBISH.@"

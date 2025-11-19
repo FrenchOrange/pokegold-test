@@ -1,10 +1,10 @@
-	db "SUPERPOWER@" ; species name
-	dw 207, 430 ; height, weight
+	db "HOODLUM@" ; species name
+	dw 307, 661 ; height, weight
 
-	db   "Always brimming"
-	next "with power, it"
-	next "passes time by"
+	db   "It can smash con-"
+	next "crete blocks with"
+	next "its kicking moves."
 
-	page "lifting boulders."
-	next "Doing so makes it"
-	next "even stronger.@"
+	page "The one with the"
+	next "biggest crest is"
+	next "the group leader.@"

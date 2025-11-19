@@ -1,10 +1,10 @@
-	db "FLYCATCHER@" ; species name
-	dw 507, 340 ; height, weight
+	db "OLD TURTLE@" ; species name
+	dw 311, 1786 ; height, weight
 
-	db   "ACID that has dis-"
-	next "solved many prey"
-	next "becomes sweeter,"
+	db   "Incredible jaw "
+	next "strength enables"
+	next "it to chew up"
 
-	page "making it even"
-	next "more effective at"
-	next "attracting prey.@"
+	page "steel beams and"
+	next "rocks along with"
+	next "their prey.@"

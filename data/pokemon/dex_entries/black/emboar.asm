@@ -1,10 +1,10 @@
-	db "FLAME@" ; species name
-	dw 507, 2000 ; height, weight
+	db "FIRE HOG@" ; species name
+	dw 503, 3307 ; height, weight
 
-	db   "If CHARIZARD be-"
-	next "comes furious, the"
-	next "flame at the tip"
+	db   "It has mastered"
+	next "fast and powerful"
+	next "fighting moves. It"
 
-	page "of its tail flares"
-	next "up in a whitish-"
-	next "blue color.@"
+	page "can grow a beard"
+	next "of fire."
+	next "@"

@@ -1,10 +1,10 @@
-	db "PSI@" ; species name
-	dw 411, 1060 ; height, weight
+	db "SHEDDING@" ; species name
+	dw 200, 260 ; height, weight
 
-	db   "Its brain cells"
-	next "multiply continu-"
-	next "ally until it"
+	db   "It immediately"
+	next "headbutts anyone"
+	next "that makes eye"
 
-	page "dies. As a result,"
-	next "it remembers"
-	next "everything.@"
+	page "contact with it."
+	next "Its skull is"
+	next "massively thick.@"

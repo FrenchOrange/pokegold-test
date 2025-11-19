@@ -1,10 +1,10 @@
-	db "CLEAR WING@" ; species name
-	dw 311, 840 ; height, weight
+	db "BOVINEBASH@" ; species name
+	dw 503, 2086 ; height, weight
 
-	db   "If it flaps its"
-	next "wings really fast,"
-	next "it can generate"
+	db   "It charges wildly"
+	next "and headbutts"
+	next "everything. Its"
 
-	page "shock waves that"
-	next "will shatter win-"
-	next "dows in the area.@"
+	page "headbutts are"
+	next "destructive enough"
+	next "to derail a train.@"

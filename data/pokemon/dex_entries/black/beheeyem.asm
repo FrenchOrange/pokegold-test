@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 603, 2650 ; height, weight
+	db "CEREBRAL@" ; species name
+	dw 303, 761 ; height, weight
 
-	db   "Its rugged hide"
-	next "protects it from"
-	next "even the heat of"
+	db   "It uses psychic"
+	next "power to control"
+	next "an opponent's brain"
 
-	page "lava. However, the"
-	next "hide also makes it"
-	next "insensitive.@"
+	page "and tamper with"
+	next "its memories."
+	next "@"

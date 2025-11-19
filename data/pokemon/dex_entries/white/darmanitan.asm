@@ -1,10 +1,10 @@
-	db "TADPOLE@" ; species name
-	dw 303, 440 ; height, weight
+	db "BLAZING@" ; species name
+	dw 403, 2048 ; height, weight
 
-	db   "The skin on most"
-	next "of its body is"
-	next "moist. However,"
+	db   "When weakened in"
+	next "battle, it turns"
+	next "into a stone"
 
-	page "the skin on its"
-	next "belly spiral feels"
-	next "smooth.@"
+	page "statue. Then, it"
+	next "is known to enter"
+	next "a trance state.@"

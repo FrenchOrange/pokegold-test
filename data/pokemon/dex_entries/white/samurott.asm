@@ -1,10 +1,10 @@
-	db "SHELLFISH@" ; species name
-	dw 503, 1890 ; height, weight
+	db "FORMIDABLE@" ; species name
+	dw 411, 2086 ; height, weight
 
-	db   "The rocket cannons"
-	next "on its shell fire"
-	next "jets of water"
+	db   "Part of the armor"
+	next "on its anterior"
+	next "legs becomes a"
 
-	page "capable of punch-"
-	next "ing holes through"
-	next "thick steel.@"
+	page "giant sword. Its"
+	next "cry alone intimida"
+	next "-tes most enemies.@"

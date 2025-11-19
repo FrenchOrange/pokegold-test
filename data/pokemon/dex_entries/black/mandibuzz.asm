@@ -1,10 +1,10 @@
-	db "LONG NECK@" ; species name
-	dw 411, 910 ; height, weight
+	db "BONE BIRD@" ; species name
+	dw 311, 871 ; height, weight
 
-	db   "Its tail has a"
-	next "small brain of its"
-	next "own. Beware! If"
+	db   "Watching from the"
+	next "sky, it swoops"
+	next "down to strike"
 
-	page "you get close, it"
-	next "may react to your"
-	next "scent and bite.@"
+	page "weakened POKéMON."
+	next "It decorates"
+	next "itself with bones.@"

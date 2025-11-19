@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 407, 1370 ; height, weight
+	db "COURTING@" ; species name
+	dw 211, 231 ; height, weight
 
-	db   "Its tail is thick"
-	next "and powerful. If"
-	next "it binds an enemy,"
+	db   "Those hit with the"
+	next "ultrasonic waves"
+	next "emitted by a"
 
-	page "it can snap the"
-	next "victim's spine"
-	next "quite easily.@"
+	page "courting male will"
+	next "experience a posi"
+	next "-tive mood shift.@"

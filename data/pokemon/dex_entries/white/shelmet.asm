@@ -1,10 +1,10 @@
-	db "BARRIER@" ; species name
-	dw 403, 1200 ; height, weight
+	db "SNAIL@" ; species name
+	dw 104, 170 ; height, weight
 
-	db   "Its fingertips"
-	next "emit a peculiar"
-	next "force field that"
+	db   "Its sturdy shell"
+	next "grows with it for"
+	next "most of its life."
 
-	page "hardens air to"
-	next "create an actual"
-	next "wall.@"
+	page "Once it finally"
+	next "grows too cramped,"
+	next "it will evolve.@"

@@ -1,10 +1,10 @@
-	db "POISONMOTH@" ; species name
-	dw 411, 280 ; height, weight
+	db "CENTIPEDE@" ; species name
+	dw 104, 117 ; height, weight
 
-	db   "When it attacks,"
-	next "it flaps its large"
-	next "wings violently to"
+	db   "It discovers what"
+	next "is going on around"
+	next "it by using the"
 
-	page "scatter its poi-"
-	next "sonous powder all"
-	next "around.@"
+	page "feelers on its"
+	next "head and tail. It's"
+	next "really aggressive.@"

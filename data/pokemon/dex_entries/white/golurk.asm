@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 100, 40 ; height, weight
+	db "AUTOMATON@" ; species name
+	dw 902, 7275 ; height, weight
 
-	db   "It lives by drink-"
-	next "ing only dewdrops"
-	next "from under the"
+	db   "It is said that"
+	next "GOLURK was ordered"
+	next "to protect people"
 
-	page "leaves of plants."
-	next "It is said that it"
-	next "eats nothing else.@"
+	page "and POKéMON by the"
+	next "ancient people who"
+	next "made them.@"

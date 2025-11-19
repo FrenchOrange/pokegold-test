@@ -1,10 +1,10 @@
-	db "HYPNOSIS@" ; species name
-	dw 503, 1670 ; height, weight
+	db "MUSHROOM@" ; species name
+	dw 200, 231 ; height, weight
 
-	db   "Always holding a"
-	next "pendulum that it"
-	next "rocks at a steady"
+	db   "It shows off its"
+	next "POKé BALL cap to"
+	next "lure prey, but"
 
-	page "rhythm, it causes"
-	next "drowsiness in any-"
-	next "one nearby.@"
+	page "very few POKéMON"
+	next "are fooled by"
+	next "this.@"

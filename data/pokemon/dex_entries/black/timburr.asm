@@ -1,10 +1,10 @@
-	db "LIGHT@" ; species name
-	dw 311, 500 ; height, weight
+	db "MUSCULAR@" ; species name
+	dw 200, 276 ; height, weight
 
-	db   "The light it emits"
-	next "is so bright that"
-	next "it can illuminate"
+	db   "These POKéMON"
+	next "appear at building"
+	next "sites and help out"
 
-	page "the sea's surface"
-	next "from a depth of"
-	next "over three miles.@"
+	page "with construction."
+	next "They always carry"
+	next "squared logs.@"

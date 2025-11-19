@@ -1,10 +1,10 @@
-	db "MANTIS@" ; species name
-	dw 411, 1230 ; height, weight
+	db "SHELL OUT@" ; species name
+	dw 207, 558 ; height, weight
 
-	db   "When it moves, it"
-	next "leaves only a"
-	next "blur. If it hides"
+	db   "Having removed its"
+	next "heavy shell, it"
+	next "becomes very light"
 
-	page "in grass, its pro-"
-	next "tective colors"
-	next "make it invisible.@"
+	page "and can fight with"
+	next "ninja-like"
+	next "movements.@"

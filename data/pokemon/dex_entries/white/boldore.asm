@@ -1,10 +1,10 @@
-	db "DRILL@" ; species name
-	dw 403, 1320 ; height, weight
+	db "ORE@" ; species name
+	dw 211, 2249 ; height, weight
 
-	db   "It uses its scaly,"
-	next "rugged body to"
-	next "seal the entrance"
+	db   "Because its energy"
+	next "was too great to"
+	next "be contained, the"
 
-	page "of its nest and"
-	next "protect its young"
-	next "from predators.@"
+	page "energy leaked and"
+	next "formed orange"
+	next "crystals.@"

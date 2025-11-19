@@ -1,10 +1,10 @@
-	db "STARSHAPE@" ; species name
-	dw 207, 760 ; height, weight
+	db "FREEZING@" ; species name
+	dw 806, 5732 ; height, weight
 
-	db   "Even if its body"
-	next "is torn, it can"
-	next "regenerate as long"
+	db   "It freezes its"
+	next "breath to create"
+	next "fangs and claws of"
 
-	page "as the glowing"
-	next "central core re-"
-	next "mains intact.@"
+	page "ice to fight with."
+	next "Icy northern areas"
+	next "are its habitat.@"

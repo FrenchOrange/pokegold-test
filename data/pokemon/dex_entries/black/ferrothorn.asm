@@ -1,10 +1,10 @@
-	db "LONELY@" ; species name
-	dw 104, 140 ; height, weight
+	db "THORN POD@" ; species name
+	dw 303, 2425 ; height, weight
 
-	db   "If it is sad or"
-	next "lonely, the skull"
-	next "it wears shakes,"
+	db   "It attaches itself"
+	next "to cave ceilings,"
+	next "firing steel"
 
-	page "and emits a plain-"
-	next "tive and mournful"
-	next "sound.@"
+	page "spikes at targets"
+	next "passing beneath."
+	next "@"

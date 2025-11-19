@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 303, 650 ; height, weight
+	db "LIGHTNING@" ; species name
+	dw 207, 657 ; height, weight
 
-	db   "If it digs at an"
-	next "incredible pace,"
-	next "it may snap off"
+	db   "When thunderclouds"
+	next "cover the sky, it"
+	next "will appear. Can"
 
-	page "its spikes and"
-	next "claws. They grow"
-	next "back in a day.@"
+	page "catch lightning"
+	next "with its mane and"
+	next "store the current.@"

@@ -1,10 +1,10 @@
-	db "LEAF@" ; species name
-	dw 311, 350 ; height, weight
+	db "DEEP BLACK@" ; species name
+	dw 906, 7606 ; height, weight
 
-	db   "The scent of"
-	next "spices comes from"
-	next "around its neck."
+	db   "This POKéMON appea"
+	next "-rs in legends. In"
+	next "its tail, it has a"
 
-	page "Somehow, sniffing"
-	next "it makes you want"
-	next "to fight.@"
+	page "giant generator"
+	next "that creates"
+	next "electricity.@"

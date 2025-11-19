@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 108, 120 ; height, weight
+	db "MUSCULAR@" ; species name
+	dw 311, 882 ; height, weight
 
-	db   "If it inflates to"
-	next "SING a lullaby, it"
-	next "can perform longer"
+	db   "They toughen their"
+	next "bodies by carrying"
+	next "steel beams. They"
 
-	page "and cause sure"
-	next "drowsiness in its"
-	next "audience.@"
+	page "show off their big"
+	next "muscles to their"
+	next "friends.@"

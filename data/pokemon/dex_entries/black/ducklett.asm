@@ -1,10 +1,10 @@
-	db "SEA LION@" ; species name
-	dw 307, 1980 ; height, weight
+	db "WATER BIRD@" ; species name
+	dw 108, 121 ; height, weight
 
-	db   "Although it can't"
-	next "walk well on land,"
-	next "it is a graceful"
+	db   "When attacked, it"
+	next "uses its feathers"
+	next "to splash water,"
 
-	page "swimmer. It espe-"
-	next "cially loves being"
-	next "in frigid seas.@"
+	page "escaping under"
+	next "cover of the"
+	next "spray.@"

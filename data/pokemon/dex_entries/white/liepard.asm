@@ -1,10 +1,10 @@
-	db "TINY BIRD@" ; species name
-	dw 100, 40 ; height, weight
+	db "CRUEL@" ; species name
+	dw 307, 827 ; height, weight
 
-	db   "Common in grassy"
-	next "areas and forests,"
-	next "it is very docile"
+	db   "Stealthily, it"
+	next "sneaks up on its"
+	next "target, striking"
 
-	page "and will chase off"
-	next "enemies by flap-"
-	next "ping up sand.@"
+	page "from behind before"
+	next "its victim has a"
+	next "chance to react.@"

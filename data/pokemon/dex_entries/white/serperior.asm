@@ -1,10 +1,10 @@
-	db "SEED@" ; species name
-	dw 607, 2210 ; height, weight
+	db "REGAL@" ; species name
+	dw 1010, 1389 ; height, weight
 
-	db   "It is able to con-"
-	next "vert sunlight into"
-	next "energy. As a"
+	db   "It raises its head"
+	next "to intimidate oppo"
+	next "-nents, but only"
 
-	page "result, it is more"
-	next "powerful in the"
-	next "summertime.@"
+	page "give it its all"
+	next "when fighting a"
+	next "powerful opponent.@"

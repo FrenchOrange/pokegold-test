@@ -1,10 +1,10 @@
-	db "BALLOON@" ; species name
-	dw 100, 20 ; height, weight
+	db "DESERTCROC@" ; species name
+	dw 303, 736 ; height, weight
 
-	db   "Its extremely"
-	next "flexible and elas-"
-	next "tic body makes it"
+	db   "The membrane cover"
+	next "-ing its eyes can"
+	next "sense the heat of"
 
-	page "bounce continuous-"
-	next "ly--anytime, any-"
-	next "where.@"
+	page "objects, so it can"
+	next "see around it even"
+	next "in darkness.@"

@@ -1,10 +1,10 @@
-	db "MOUSE@" ; species name
-	dw 303, 650 ; height, weight
+	db "LIGHTNING@" ; species name
+	dw 207, 657 ; height, weight
 
-	db   "In an attempt to"
-	next "hide itself, it"
-	next "will run around"
+	db   "When thunderclouds"
+	next "cover the sky, it"
+	next "will appear. Can"
 
-	page "at top speed to"
-	next "kick up a blinding"
-	next "dust storm.@"
+	page "catch lightning"
+	next "with its mane and"
+	next "store the current.@"

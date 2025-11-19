@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 507, 2090 ; height, weight
+	db "CHINCHILLA@" ; species name
+	dw 104, 128 ; height, weight
 
-	db   "At full gallop,"
-	next "its four hooves"
-	next "barely touch the"
+	db   "MINCCINO prefers a"
+	next "tidy habitat. It"
+	next "is always sweeping"
 
-	page "ground because it"
-	next "moves so incredi-"
-	next "bly fast.@"
+	page "and dusting, using"
+	next "its tail as a"
+	next "broom.@"

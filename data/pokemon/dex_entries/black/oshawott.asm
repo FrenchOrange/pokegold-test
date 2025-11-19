@@ -1,10 +1,10 @@
-	db "TINYTURTLE@" ; species name
-	dw 108, 200 ; height, weight
+	db "SEA OTTER@" ; species name
+	dw 108, 130 ; height, weight
 
-	db   "The shell is soft"
-	next "when it is born."
-	next "It soon becomes so"
+	db   "The scalchop on"
+	next "its stomach is"
+	next "made from the same"
 
-	page "resilient, prod-"
-	next "ding fingers will"
-	next "bounce off it.@"
+	page "elements as claws."
+	next "It detaches it for"
+	next "use as a blade.@"

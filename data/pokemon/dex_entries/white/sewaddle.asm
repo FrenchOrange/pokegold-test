@@ -1,10 +1,10 @@
-	db "MUSHROOM@" ; species name
-	dw 100, 120 ; height, weight
+	db "SEWING@" ; species name
+	dw 100, 55 ; height, weight
 
-	db   "As its body grows"
-	next "large, oriental"
-	next "mushrooms named"
+	db   "SEWADDLE makes clo"
+	next "-thes for itself."
+	next "It chews up leaves"
 
-	page "tochukaso start"
-	next "sprouting out of"
-	next "its back.@"
+	page "and sews them with"
+	next "sticky thread from"
+	next "its mouth.@"

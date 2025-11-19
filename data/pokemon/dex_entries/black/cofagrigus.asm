@@ -1,10 +1,10 @@
-	db "FLOWER@" ; species name
-	dw 204, 90 ; height, weight
+	db "COFFIN@" ; species name
+	dw 507, 1687 ; height, weight
 
-	db   "Even though its"
-	next "body is extremely"
-	next "skinny, it is"
+	db   "Pretends to be an"
+	next "elaborate coffin"
+	next "to teach lessons"
 
-	page "blindingly fast"
-	next "when catching its"
-	next "prey.@"
+	page "to grave robbers."
+	next "Its body is coated"
+	next "in pure gold.@"

@@ -1,10 +1,10 @@
-	db "FIRE HORSE@" ; species name
-	dw 303, 660 ; height, weight
+	db "MIRAGE FOX@" ; species name
+	dw 503, 1788 ; height, weight
 
-	db   "It is a weak run-"
-	next "ner immediately"
-	next "after birth. It"
+	db   "It has the ability"
+	next "to fool a large"
+	next "group of people at"
 
-	page "gradually becomes"
-	next "faster by chasing"
-	next "after its parents.@"
+	page "once. It protects"
+	next "its lair with"
+	next "illusory scenery.@"

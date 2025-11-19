@@ -1,10 +1,10 @@
-	db "PINCER@" ; species name
-	dw 403, 1320 ; height, weight
+	db "FLOATING@" ; species name
+	dw 703, 2976 ; height, weight
 
-	db   "It can hardly"
-	next "lift its massive,"
-	next "overgrown pincer."
+	db   "It propels itself"
+	next "by expelling"
+	next "absorbed seawater"
 
-	page "The pincer's size"
-	next "makes it difficult"
-	next "to aim properly.@"
+	page "from its body. Its"
+	next "favorite food is"
+	next "life energy.@"

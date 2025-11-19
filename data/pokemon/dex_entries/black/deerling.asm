@@ -1,10 +1,10 @@
-	db "BIVALVE@" ; species name
-	dw 411, 2920 ; height, weight
+	db "SEASON@" ; species name
+	dw 200, 430 ; height, weight
 
-	db   "Once it slams its"
-	next "shell shut, it is"
-	next "impossible to"
+	db   "The turning of the"
+	next "seasons changes"
+	next "the color and"
 
-	page "open, even by"
-	next "those with superi-"
-	next "or strength.@"
+	page "scent of its fur."
+	next "People use it to"
+	next "mark the seasons.@"

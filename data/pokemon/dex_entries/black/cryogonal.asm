@@ -1,10 +1,10 @@
-	db "MYSTERIOUS@" ; species name
-	dw 307, 1760 ; height, weight
+	db "ICECRYSTAL@" ; species name
+	dw 307, 3263 ; height, weight
 
-	db   "The center section"
-	next "of its body is"
-	next "called the core."
+	db   "It is born in a"
+	next "snow cloud. It"
+	next "uses chains made"
 
-	page "It glows in a dif-"
-	next "ferent color each"
-	next "time it is seen.@"
+	page "of ice crystals to"
+	next "capture prey."
+	next "@"

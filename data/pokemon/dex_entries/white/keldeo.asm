@@ -1,11 +1,10 @@
-	db "VOLCANO@" ; species name
-	dw 507, 1750 ; height, weight
+	db "COLT@" ; species name
+	dw 407, 1069 ; height, weight
 
-	db   "It has a secret,"
-	next "devastating move."
-	next "It rubs its blaz-"
-	next ""
+	db   "It crosses the"
+	next "world running over"
+	next "the surfaces of"
 
-	page "ing fur together"
-	next "to cause huge"
-	next "explosions.@"
+	page "oceans and rivers."
+	next "It appears at sce"
+	next "-nic waterfronts.@"

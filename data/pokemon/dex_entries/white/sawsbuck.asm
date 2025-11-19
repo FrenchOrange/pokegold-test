@@ -1,10 +1,10 @@
-	db "GAS@" ; species name
-	dw 403, 2 ; height, weight
+	db "SEASON@" ; species name
+	dw 603, 2039 ; height, weight
 
-	db   "Its thin body is"
-	next "made of gas. It"
-	next "can envelop an"
+	db   "The plants on its"
+	next "horns change based"
+	next "on the season. The"
 
-	page "opponent of any"
-	next "size and cause"
-	next "suffocation.@"
+	page "leaders of the"
+	next "herd possess"
+	next "magnificent horns.@"

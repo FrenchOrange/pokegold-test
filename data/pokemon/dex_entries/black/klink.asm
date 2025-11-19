@@ -1,10 +1,10 @@
-	db "BONEKEEPER@" ; species name
-	dw 303, 990 ; height, weight
+	db "GEAR@" ; species name
+	dw 100, 463 ; height, weight
 
-	db   "It has been seen"
-	next "pounding boulders"
-	next "with the bone it"
+	db   "Interlocking two"
+	next "bodies and"
+	next "spinning around"
 
-	page "carries in order"
-	next "to tap out mes-"
-	next "sages to others.@"
+	page "generates the"
+	next "energy they need"
+	next "to live.@"

@@ -1,10 +1,10 @@
-	db "BAT@" ; species name
-	dw 503, 1210 ; height, weight
+	db "VIBRATION@" ; species name
+	dw 207, 375 ; height, weight
 
-	db   "It can drink more"
-	next "than 10 ounces of"
-	next "blood at once. If"
+	db   "It lives in the"
+	next "water and on land."
+	next "It uses its long,"
 
-	page "it has too much,"
-	next "it gets heavy and"
-	next "flies clumsily.@"
+	page "sticky tongue to"
+	next "capture prey."
+	next "@"
