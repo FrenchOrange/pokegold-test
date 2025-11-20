@@ -1,10 +1,10 @@
 	db "SHELL OUT@" ; species name
 	dw 207, 558 ; height, weight
 
-	db   "Having removed its"
-	next "heavy shell, it"
-	next "becomes very light"
+	db   "It weakens as its"
+	next "body dries out. To"
+	next "avoid dehydration,"
 
-	page "and can fight with"
-	next "ninja-like"
-	next "movements.@"
+	page "it wraps itself in"
+	next "many layers of"
+	next "thin membrane.@"

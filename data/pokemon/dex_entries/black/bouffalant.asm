@@ -1,10 +1,10 @@
 	db "BOVINEBASH@" ; species name
 	dw 503, 2086 ; height, weight
 
-	db   "It charges wildly"
-	next "and headbutts"
-	next "everything. Its"
+	db   "Its fluffy fur"
+	next "absorbs damage,"
+	next "even if it strikes"
 
-	page "headbutts are"
-	next "destructive enough"
-	next "to derail a train.@"
+	page "foes with a fierce"
+	next "headbutt."
+	next "@"

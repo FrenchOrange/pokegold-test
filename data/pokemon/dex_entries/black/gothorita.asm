@@ -1,10 +1,10 @@
 	db "MANIPULATE@" ; species name
 	dw 204, 397 ; height, weight
 
-	db   "It draws its power"
-	next "from starlight. It"
-	next "marks their posit-"
+	db   "It uses hypnosis"
+	next "to control people"
+	next "and POKéMON. Tales"
 
-	page "ion at night using"
-	next "psychic powers to"
-	next "float stones.@"
+	page "of people lead as-"
+	next "tray by GOTHORITA"
+	next "are quite common.@"

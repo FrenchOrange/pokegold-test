@@ -1,10 +1,10 @@
 	db "LOOKOUT@" ; species name
 	dw 307, 595 ; height, weight
 
-	db   "It makes its body"
-	next "patterns shine in"
-	next "order to threaten"
+	db   "When it sees an"
+	next "enemy, its tail"
+	next "stands high, and"
 
-	page "foes. Keen eye-"
-	next "sight lets them"
-	next "see in the dark.@"
+	page "it spits the berry"
+	next "seeds stored in"
+	next "its cheek pouches.@"

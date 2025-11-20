@@ -1,10 +1,10 @@
 	db "CACTUS@" ; species name
 	dw 303, 617 ; height, weight
 
-	db   "Arid regions are"
-	next "its habitat. It"
-	next "moves rhythmically"
+	db   "Using an up-tempo"
+	next "song and dance, it"
+	next "drives away the"
 
-	page "while making a"
-	next "sound similar to"
-	next "maracas.@"
+	page "bird Pokémon that"
+	next "prey on its flower"
+	next "seeds.@"

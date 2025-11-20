@@ -1,10 +1,10 @@
 	db "DEEP BLACK@" ; species name
 	dw 906, 7606 ; height, weight
 
-	db   "This POKéMON appea"
-	next "-rs in legends. In"
-	next "its tail, it has a"
+	db   "Concealing itself"
+	next "in lightning"
+	next "clouds, it flies"
 
-	page "giant generator"
-	next "that creates"
-	next "electricity.@"
+	page "throughout UNOVA."
+	next "It creates electri"
+	next "-city in its tail.@"

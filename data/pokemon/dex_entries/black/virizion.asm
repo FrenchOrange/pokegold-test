@@ -1,10 +1,10 @@
 	db "GRASSLAND@" ; species name
 	dw 607, 4409 ; height, weight
 
-	db   "It sprouts horns"
-	next "sharp as blades."
-	next "Using whirlwind-"
+	db   "This Pokémon"
+	next "fought humans to"
+	next "protect its"
 
-	page "like movements, it"
-	next "confounds and"
-	next "swiftly cuts foes.@"
+	page "friends. Legends"
+	next "about it continue"
+	next "to be passed down.@"

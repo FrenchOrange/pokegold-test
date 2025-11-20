@@ -1,10 +1,10 @@
 	db "REGAL@" ; species name
 	dw 1010, 1389 ; height, weight
 
-	db   "It raises its head"
-	next "to intimidate oppo"
-	next "-nents, but only"
+	db   "It can stop its"
+	next "foes' movements"
+	next "with just a glare."
 
-	page "give it its all"
-	next "when fighting a"
-	next "powerful opponent.@"
+	page "It takes in solar"
+	next "energy and boosts"
+	next "it internally.@"

@@ -2,9 +2,9 @@
 	dw 108, 165 ; height, weight
 
 	db   "Its white fur is"
-	next "amazing to touch."
-	next "It repels dust and"
+	next "coated in a"
+	next "special oil that"
 
-	page "prevents static"
-	next "electricity from"
-	next "building up.@"
+	page "makes it easy for"
+	next "it to deflect"
+	next "attacks.@"

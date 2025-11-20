@@ -1,10 +1,10 @@
 	db "FORMIDABLE@" ; species name
 	dw 411, 2086 ; height, weight
 
-	db   "Part of the armor"
-	next "on its anterior"
-	next "legs becomes a"
+	db   "One swing of the"
+	next "sword incorporated"
+	next "in its armor can"
 
-	page "giant sword. Its"
-	next "cry alone intimida"
-	next "-tes most enemies.@"
+	page "fell an opponent."
+	next "A simple glare"
+	next "quiets everybody.@"

@@ -1,10 +1,10 @@
 	db "AUTOMATON@" ; species name
 	dw 303, 2028 ; height, weight
 
-	db   "This POKéMON is"
-	next "thought to have"
-	next "been created by"
+	db   "The energy burning"
+	next "inside it enables"
+	next "it to move, but no"
 
-	page "the science of an"
-	next "ancient mysterious"
-	next "civilization.@"
+	page "one has yet been"
+	next "able to identify"
+	next "this energy.@"

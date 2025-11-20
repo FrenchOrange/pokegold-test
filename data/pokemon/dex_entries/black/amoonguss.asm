@@ -1,10 +1,10 @@
 	db "MUSHROOM@" ; species name
 	dw 200, 231 ; height, weight
 
-	db   "It shows off its"
-	next "POKé BALL cap to"
-	next "lure prey, but"
+	db   "It lures prey"
+	next "close by dancing"
+	next "and waving its arm"
 
-	page "very few POKéMON"
-	next "are fooled by"
-	next "this.@"
+	page "caps, which resem-"
+	next "ble POKé BALLS, in"
+	next "a swaying motion.@"

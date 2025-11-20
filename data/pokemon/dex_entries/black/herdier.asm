@@ -1,10 +1,10 @@
 	db "LOYAL DOG@" ; species name
 	dw 211, 324 ; height, weight
 
-	db   "It loyally follows"
-	next "its Trainer's"
-	next "orders. For ages,"
+	db   "It has black, cape"
+	next "-like fur that is"
+	next "very hard and"
 
-	page "they have helped"
-	next "Trainers raise"
-	next "POKéMON.@"
+	page "decreases the"
+	next "amount of damage"
+	next "it receives.@"

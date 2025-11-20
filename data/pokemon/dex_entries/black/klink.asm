@@ -1,10 +1,10 @@
 	db "GEAR@" ; species name
 	dw 100, 463 ; height, weight
 
-	db   "Interlocking two"
-	next "bodies and"
-	next "spinning around"
+	db   "The two minigears"
+	next "that mesh together"
+	next "are predetermined."
 
-	page "generates the"
-	next "energy they need"
-	next "to live.@"
+	page "It'll rebound from"
+	next "other minigears"
+	next "without meshing.@"

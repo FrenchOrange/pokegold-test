@@ -1,10 +1,10 @@
 	db "COTTONPUFF@" ; species name
 	dw 100, 13 ; height, weight
 
-	db   "It goes wherever"
-	next "the wind takes it."
-	next "On rainy days, its"
+	db   "It flees attacks"
+	next "by shooting cotton"
+	next "from its body. The"
 
-	page "body gets heavier,"
-	next "so it takes cover"
-	next "beneath big trees.@"
+	page "cotton serves as a"
+	next "decoy to distract"
+	next "the attacker.@"

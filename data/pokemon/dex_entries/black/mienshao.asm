@@ -1,10 +1,10 @@
 	db "KUNG FU@" ; species name
 	dw 407, 783 ; height, weight
 
-	db   "It uses the long"
-	next "fur on its arms as"
-	next "a whip to strike"
+	db   "It wields the fur"
+	next "on its arms like a"
+	next "whip. Its attacks"
 
-	page "its opponents. It"
-	next "hurts as bad as a"
-	next "real whip.@"
+	page "come so fast that"
+	next "they cannot even"
+	next "be seen.@"

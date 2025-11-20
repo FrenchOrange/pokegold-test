@@ -1,10 +1,10 @@
 	db "THORN SEED@" ; species name
 	dw 200, 414 ; height, weight
 
-	db   "It sticks its"
-	next "spikes into cave"
-	next "walls and absorbs"
+	db   "When threatened,"
+	next "it attacks by"
+	next "shooting a barrage"
 
-	page "the minerals it"
-	next "finds in the rock."
-	next "@"
+	page "of spikes, which"
+	next "lets it flee by"
+	next "rolling away.@"

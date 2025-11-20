@@ -1,10 +1,10 @@
 	db "CANDLE@" ; species name
 	dw 100, 68 ; height, weight
 
-	db   "As it shines a"
-	next "light and pretends"
-	next "to be a guide, it"
+	db   "It shines a light"
+	next "that absorbs the"
+	next "life energy of peo"
 
-	page "leeches off the"
-	next "life force of any"
-	next "who follow it.@"
+	page "-ple and Pokémon,"
+	next "which it uses to"
+	next "fuel its flame.@"

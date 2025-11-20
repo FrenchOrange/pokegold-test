@@ -1,10 +1,10 @@
 	db "INTIMIDATE@" ; species name
 	dw 411, 2123 ; height, weight
 
-	db   "It can expand the"
-	next "focus of its eyes,"
-	next "enabling it to see"
+	db   "It never allows"
+	next "prey to escape."
+	next "Its jaw is so"
 
-	page "far off things, as"
-	next "if it were using"
-	next "binoculars.@"
+	page "powerful, it can"
+	next "crush the body of"
+	next "an automobile.@"

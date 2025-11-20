@@ -1,10 +1,10 @@
 	db "VALIANT@" ; species name
 	dw 411, 904 ; height, weight
 
-	db   "The more scars it"
-	next "has, the more"
-	next "respect this brave"
+	db   "It fights for its"
+	next "friends without"
+	next "any thought about"
 
-	page "soldiers of the"
-	next "sky gets from its"
-	next "peers.@"
+	page "danger to itself."
+	next "One can carry a"
+	next "car while flying.@"

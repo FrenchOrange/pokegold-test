@@ -1,10 +1,10 @@
 	db "FIRST BIRD@" ; species name
 	dw 407, 705 ; height, weight
 
-	db   "It runs better"
-	next "than it flies. It"
-	next "catches prey by"
+	db   "Intelligent, it"
+	next "will cooperate to"
+	next "catch prey. From"
 
-	page "running at speeds"
-	next "comparable to"
-	next "those of a car.@"
+	page "the ground it uses"
+	next "a running start to"
+	next "take flight.@"

@@ -1,10 +1,10 @@
 	db "ANTEATER@" ; species name
 	dw 407, 1279 ; height, weight
 
-	db   "Using its very hot"
-	next "flame tongues, it"
-	next "burns through"
+	db   "It breathes"
+	next "through a hole in"
+	next "its tail while it"
 
-	page "DURANT's steel body"
-	next "and consumes its"
-	next "insides.@"
+	page "burns with fire"
+	next "within. DURANT is"
+	next "its prey.@"

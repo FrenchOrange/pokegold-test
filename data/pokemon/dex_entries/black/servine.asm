@@ -1,10 +1,10 @@
 	db "LEAF SNAKE@" ; species name
 	dw 207, 353 ; height, weight
 
-	db   "Sinking into the"
-	next "shadows of thick"
-	next "foliage, it avoids"
+	db   "It moves along the"
+	next "ground as if slid-"
+	next "ing. Its swift"
 
-	page "attacks. It retali"
-	next "-ates with deft"
-	next "whipping moves.@"
+	page "movements confuse"
+	next "foes, and attacks"
+	next "with a VINE WHIP.@"

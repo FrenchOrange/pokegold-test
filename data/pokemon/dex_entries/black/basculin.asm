@@ -1,10 +1,10 @@
 	db "HOSTILE@" ; species name
 	dw 303, 397 ; height, weight
 
-	db   "BASCULIN usually"
-	next "do not get along,"
-	next "but sometimes"
+	db   "BASCULIN get along"
+	next "so poorly, they'll"
+	next "start fighting"
 
-	page "members of one"
-	next "school mingle with"
-	next "another school.@"
+	page "instantly. These"
+	next "POKéMON are very"
+	next "hostile.@"

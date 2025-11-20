@@ -1,10 +1,10 @@
 	db "COFFIN@" ; species name
 	dw 507, 1687 ; height, weight
 
-	db   "Pretends to be an"
-	next "elaborate coffin"
-	next "to teach lessons"
+	db   "Some say that it"
+	next "swallows those who"
+	next "get too close and"
 
-	page "to grave robbers."
-	next "Its body is coated"
-	next "in pure gold.@"
+	page "turns them into"
+	next "mummies. It feasts"
+	next "on gold nuggets.@"

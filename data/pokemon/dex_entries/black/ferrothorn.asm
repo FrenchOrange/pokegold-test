@@ -1,10 +1,10 @@
 	db "THORN POD@" ; species name
 	dw 303, 2425 ; height, weight
 
-	db   "It attaches itself"
-	next "to cave ceilings,"
-	next "firing steel"
+	db   "It swings around"
+	next "its three spiky"
+	next "feelers to fight."
 
-	page "spikes at targets"
-	next "passing beneath."
-	next "@"
+	page "A hit from these"
+	next "steel spikes can"
+	next "shatter a boulder.@"

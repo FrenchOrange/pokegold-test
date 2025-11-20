@@ -1,10 +1,10 @@
 	db "COURTING@" ; species name
 	dw 211, 231 ; height, weight
 
-	db   "Those hit with the"
-	next "ultrasonic waves"
-	next "emitted by a"
+	db   "It emits sound"
+	next "waves of various"
+	next "frequencies from"
 
-	page "courting male will"
-	next "experience a posi"
-	next "-tive mood shift.@"
+	page "its nose, some"
+	next "strong enough to"
+	next "destroy rocks.@"

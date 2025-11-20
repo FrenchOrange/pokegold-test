@@ -1,10 +1,10 @@
 	db "WHITE BIRD@" ; species name
 	dw 403, 534 ; height, weight
 
-	db   "It delivers sharp,"
-	next "powerful pecks"
-	next "with its bill. It"
+	db   "SWANNA start to"
+	next "dance at dusk. The"
+	next "one dancing in the"
 
-	page "whips its long"
-	next "neck to dispense"
-	next "repeated strikes.@"
+	page "middle is the"
+	next "leader of the"
+	next "flock.@"

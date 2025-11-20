@@ -1,10 +1,10 @@
 	db "OLD TURTLE@" ; species name
 	dw 311, 1786 ; height, weight
 
-	db   "Incredible jaw "
-	next "strength enables"
-	next "it to chew up"
+	db   "It can live both"
+	next "in the ocean and"
+	next "on land. One slap"
 
-	page "steel beams and"
-	next "rocks along with"
-	next "their prey.@"
+	page "is enough to open"
+	next "a hole in the bott"
+	next "-om of a tanker.@"

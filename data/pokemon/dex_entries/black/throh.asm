@@ -1,10 +1,10 @@
 	db "JUDO@" ; species name
 	dw 403, 1224 ; height, weight
 
-	db   "When it encounters"
-	next "foes bigger than"
-	next "itself, it tries"
+	db   "When it tightens"
+	next "its belt, it"
+	next "becomes stronger."
 
-	page "to throw them. It"
-	next "always travels"
-	next "in packs of five.@"
+	page "Wild THROH use"
+	next "vines to weave"
+	next "their own belts.@"

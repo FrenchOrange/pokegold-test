@@ -1,10 +1,10 @@
 	db "BLAZING@" ; species name
 	dw 403, 2048 ; height, weight
 
-	db   "When weakened in"
-	next "battle, it turns"
-	next "into a stone"
+	db   "Its internal fire"
+	next "burns at 2,500"
+	next "degrees F, making"
 
-	page "statue. Then, it"
-	next "is known to enter"
-	next "a trance state.@"
+	page "enough power that"
+	next "one punch can dest"
+	next "-roy a dump truck.@"

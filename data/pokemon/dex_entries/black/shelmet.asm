@@ -1,10 +1,10 @@
 	db "SNAIL@" ; species name
 	dw 104, 170 ; height, weight
 
-	db   "Its sturdy shell"
-	next "grows with it for"
-	next "most of its life."
+	db   "When attacked, it"
+	next "defends itself by"
+	next "closing the lid of"
 
-	page "Once it finally"
-	next "grows too cramped,"
-	next "it will evolve.@"
+	page "its shell. It can"
+	next "spit a sticky,"
+	next "poisonous liquid.@"

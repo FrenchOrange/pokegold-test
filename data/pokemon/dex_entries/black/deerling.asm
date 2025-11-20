@@ -1,10 +1,10 @@
 	db "SEASON@" ; species name
 	dw 200, 430 ; height, weight
 
-	db   "The turning of the"
-	next "seasons changes"
-	next "the color and"
+	db   "Its fur changes"
+	next "color and scent to"
+	next "match mountain"
 
-	page "scent of its fur."
-	next "People use it to"
-	next "mark the seasons.@"
+	page "grass. It hides in"
+	next "the grass when it"
+	next "senses hostility.@"

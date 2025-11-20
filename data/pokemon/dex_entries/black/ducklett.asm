@@ -1,10 +1,10 @@
 	db "WATER BIRD@" ; species name
 	dw 108, 121 ; height, weight
 
-	db   "When attacked, it"
-	next "uses its feathers"
-	next "to splash water,"
+	db   "This bird POKéMON"
+	next "excells at diving."
+	next "It swims around in"
 
-	page "escaping under"
-	next "cover of the"
-	next "spray.@"
+	page "the water eating"
+	next "its favorite food"
+	next "--peat moss.@"

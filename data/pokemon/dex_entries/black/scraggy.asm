@@ -1,10 +1,10 @@
 	db "SHEDDING@" ; species name
 	dw 200, 260 ; height, weight
 
-	db   "It immediately"
-	next "headbutts anyone"
-	next "that makes eye"
+	db   "Its has rubbery,"
+	next "elastic skin, so"
+	next "it can reduce dam-"
 
-	page "contact with it."
-	next "Its skull is"
-	next "massively thick.@"
+	page "age by defensively"
+	next "pulling its skin"
+	next "up to its neck.@"

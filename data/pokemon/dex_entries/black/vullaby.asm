@@ -1,10 +1,10 @@
 	db "DIAPERED@" ; species name
 	dw 108, 198 ; height, weight
 
-	db   "It tends to guard"
-	next "its posterior with"
-	next "suitable bones it"
+	db   "Its wings are too"
+	next "tiny for it to"
+	next "fly. As evolution"
 
-	page "has found. It"
-	next "pursues weak"
-	next "POKéMON.@"
+	page "approaches, it"
+	next "discards the bones"
+	next "it was wearing.@"

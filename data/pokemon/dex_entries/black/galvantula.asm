@@ -1,10 +1,10 @@
 	db "ELESPIDER@" ; species name
 	dw 207, 315 ; height, weight
 
-	db   "Using an electri-"
-	next "cally charged web,"
-	next "it traps its prey."
+	db   "When attacked, it"
+	next "creates an elec-"
+	next "tric barrier by"
 
-	page "It consumes the"
-	next "immobilized prey"
-	next "at its own pace.@"
+	page "spitting out many"
+	next "electrically"
+	next "charged threads.@"

@@ -1,10 +1,10 @@
 	db "CELL@" ; species name
 	dw 100, 22 ; height, weight
 
-	db   "Because its body"
-	next "is enveloped in a"
-	next "special liquid, it"
+	db   "It drives away"
+	next "attackers by unlea"
+	next "-shing psychic"
 
-	page "can survive in any"
-	next "environment."
-	next "@"
+	page "power. It can use"
+	next "telepathy to talk"
+	next "with others.@"

@@ -1,10 +1,10 @@
 	db "FIXATION@" ; species name
 	dw 104, 128 ; height, weight
 
-	db   "It intently stares"
-	next "down both Trainers"
-	next "and POKéMON. It is"
+	db   "Its ribbonlike"
+	next "feelers increase"
+	next "its psychic power."
 
-	page "apparently looking"
-	next "at something only"
-	next "it can see.@"
+	page "It is always"
+	next "staring at some-"
+	next "thing.@"

@@ -1,10 +1,10 @@
 	db "MUSCULAR@" ; species name
 	dw 311, 882 ; height, weight
 
-	db   "They toughen their"
-	next "bodies by carrying"
-	next "steel beams. They"
+	db   "It is so muscular"
+	next "and strongly built"
+	next "that even a group"
 
-	page "show off their big"
-	next "muscles to their"
-	next "friends.@"
+	page "of wrestlers could"
+	next "not make it budge"
+	next "an inch.@"

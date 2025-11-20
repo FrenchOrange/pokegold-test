@@ -1,10 +1,10 @@
 	db "ROCK INN@" ; species name
 	dw 100, 320 ; height, weight
 
-	db   "It makes a hole in"
-	next "a suitable rock."
-	next "If it ever breaks,"
+	db   "This POKéMON can"
+	next "easily melt holes"
+	next "in hard rocks with"
 
-	page "DWEBBLE remains"
-	next "agitated until it"
-	next "finds a new one.@"
+	page "a liquid secreted"
+	next "from its mouth."
+	next "@"

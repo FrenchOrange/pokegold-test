@@ -1,10 +1,10 @@
 	db "SEASON@" ; species name
 	dw 603, 2039 ; height, weight
 
-	db   "The plants on its"
-	next "horns change based"
-	next "on the season. The"
+	db   "It migrates follow"
+	next "-ing the seasons."
+	next "People can tell"
 
-	page "leaders of the"
-	next "herd possess"
-	next "magnificent horns.@"
+	page "the season by look"
+	next "-ing at SAWSBUCK's"
+	next "horns.@"

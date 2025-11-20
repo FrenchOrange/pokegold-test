@@ -1,10 +1,10 @@
 	db "TADPOLE@" ; species name
 	dw 108, 99 ; height, weight
 
-	db   "By vibrating its"
-	next "cheeks, it emits"
-	next "sound waves inaudi"
+	db   "They warn others"
+	next "of danger by vibra"
+	next "-ting their cheeks"
 
-	page "-ble to humans. It"
-	next "communicates using"
-	next "rhythmic sounds.@"
+	page "to create a high-"
+	next "pitched sound."
+	next "@"

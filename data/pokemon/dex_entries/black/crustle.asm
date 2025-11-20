@@ -1,10 +1,10 @@
 	db "STONE HOME@" ; species name
 	dw 407, 4409 ; height, weight
 
-	db   "It has incredibly"
-	next "strong legs, which"
-	next "let it carry heavy"
+	db   "Competing for"
+	next "territory, CRUSTLE"
+	next "fight viciously."
 
-	page "slabs for many"
-	next "days, even as it"
-	next "crosses arid land.@"
+	page "The one whose"
+	next "boulder is broken"
+	next "loses the battle.@"

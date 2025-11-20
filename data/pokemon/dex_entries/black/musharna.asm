@@ -1,10 +1,10 @@
 	db "DROWSING@" ; species name
 	dw 307, 1334 ; height, weight
 
-	db   "With the mist from"
-	next "its forehead, it"
-	next "can create shapes"
+	db   "The mist emanating"
+	next "from its forehead"
+	next "is packed with the"
 
-	page "of things from"
-	next "dreams it has"
-	next "eaten.@"
+	page "dreams of people"
+	next "and POKéMON."
+	next "@"

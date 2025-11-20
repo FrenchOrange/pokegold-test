@@ -1,10 +1,10 @@
 	db "PUPPY@" ; species name
 	dw 104, 90 ; height, weight
 
-	db   "The long hair on"
-	next "its face provides"
-	next "an amazing radar"
+	db   "It faces strong"
+	next "foes with great"
+	next "courage. But, when"
 
-	page "that lets it sense"
-	next "subtle changes in"
-	next "its surroundings.@"
+	page "at a disadvantage"
+	next "in a fight, clever"
+	next "LILLIPUP flees.@"

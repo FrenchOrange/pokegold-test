@@ -1,10 +1,10 @@
 	db "SWORDBLADE@" ; species name
 	dw 503, 1543 ; height, weight
 
-	db   "BISHARP pursues"
-	next "prey alongside a"
-	next "large group of"
+	db   "It leads a group"
+	next "of PAWNIARD. It"
+	next "battles to become"
 
-	page "PAWNIARD. Then,"
-	next "BISHARP finishes"
-	next "off the prey.@"
+	page "the boss, but will"
+	next "be driven from the"
+	next "group if it loses.@"

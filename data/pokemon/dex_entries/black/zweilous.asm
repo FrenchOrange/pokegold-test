@@ -1,10 +1,10 @@
 	db "HOSTILE@" ; species name
 	dw 407, 1102 ; height, weight
 
-	db   "Its two heads don't"
-	next "get along. Even as"
-	next "they eat, they"
+	db   "After eating all"
+	next "the food in its"
+	next "territory it moves"
 
-	page "bicker, trying to"
-	next "eat more than the"
-	next "other head.@"
+	page "to another area."
+	next "Its two heads do"
+	next "not get along.@"

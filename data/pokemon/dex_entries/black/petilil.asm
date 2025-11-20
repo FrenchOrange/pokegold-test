@@ -1,10 +1,10 @@
 	db "BULB@" ; species name
 	dw 108, 146 ; height, weight
 
-	db   "It prefers moist,"
-	next "nutrient-soil."
-	next "Places where it"
+	db   "The leaves on its"
+	next "head are very"
+	next "bitter. Eating one"
 
-	page "lives are known to"
-	next "be good for"
-	next "growing plants.@"
+	page "of these leaves is"
+	next "known to refresh a"
+	next "tired body.@"

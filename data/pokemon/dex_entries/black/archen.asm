@@ -1,10 +1,10 @@
 	db "FIRST BIRD@" ; species name
 	dw 108, 209 ; height, weight
 
-	db   "Revived from a"
-	next "fossil, this"
-	next "POKéMON is thought"
+	db   "Said to be an"
+	next "ancestor of bird"
+	next "POKéMON. Unable to"
 
-	page "to be the ancestor"
-	next "of all bird"
-	next "POKéMON .@"
+	page "fly, it got around"
+	next "by hopping from"
+	next "branch to branch.@"

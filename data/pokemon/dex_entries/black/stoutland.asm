@@ -1,10 +1,10 @@
 	db "BIGHEARTED@" ; species name
 	dw 311, 1345 ; height, weight
 
-	db   "This extremely"
-	next "wise POKéMON"
-	next "excels at rescuing"
+	db   "It rescues people"
+	next "stranded by"
+	next "blizzards in the"
 
-	page "people stranded at"
-	next "sea or in the"
-	next "mountains.@"
+	page "mountains. Its"
+	next "shaggy fur shields"
+	next "it from the cold.@"

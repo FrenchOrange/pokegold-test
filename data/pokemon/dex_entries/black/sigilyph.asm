@@ -1,10 +1,10 @@
 	db "AVIANOID@" ; species name
 	dw 407, 309 ; height, weight
 
-	db   "The guardian of an"
-	next "ancient city, it"
-	next "uses its psychic"
+	db   "I always flies in"
+	next "the same path, bec"
+	next "-ause its memories"
 
-	page "power to attack"
-	next "foes that invade"
-	next "its territory.@"
+	page "of guarding an"
+	next "ancien city remain"
+	next "steadfast.@"

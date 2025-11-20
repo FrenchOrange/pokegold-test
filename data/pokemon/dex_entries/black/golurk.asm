@@ -1,10 +1,10 @@
 	db "AUTOMATON@" ; species name
 	dw 902, 7275 ; height, weight
 
-	db   "It is said that"
-	next "GOLURK was ordered"
-	next "to protect people"
+	db   "It flies across"
+	next "the sky at Mach"
+	next "speeds. Removing"
 
-	page "and POKéMON by the"
-	next "ancient people who"
-	next "made them.@"
+	page "its chest seal"
+	next "makes its internal"
+	next "energy go awry.@"

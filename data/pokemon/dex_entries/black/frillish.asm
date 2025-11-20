@@ -1,10 +1,10 @@
 	db "FLOATING@" ; species name
 	dw 311, 728 ; height, weight
 
-	db   "It paralyzes prey"
-	next "with poison, then"
-	next "drag them down to"
+	db   "With its thin,"
+	next "veil-like arms"
+	next "wrapped around the"
 
-	page "its lair, five"
-	next "miles below the"
-	next "surface.@"
+	page "body of its oppo-"
+	next "nent, it sinks to"
+	next "the ocean floor.@"

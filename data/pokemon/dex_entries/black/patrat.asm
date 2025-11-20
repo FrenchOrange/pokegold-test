@@ -1,10 +1,10 @@
 	db "SCOUT@" ; species name
 	dw 108, 256 ; height, weight
 
-	db   "Extremely careful,"
-	next "it takes shifts to"
-	next "maintain a nonstop"
+	db   "Using food stored"
+	next "in cheek pouches,"
+	next "it can keep watch"
 
-	page "watch of its nest."
-	next "It feels insecure"
-	next "without a lookout.@"
+	page "for days. It uses"
+	next "it tail to communi"
+	next "-cate with others.@"

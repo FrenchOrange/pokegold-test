@@ -1,10 +1,10 @@
 	db "CENTIPEDE@" ; species name
 	dw 104, 117 ; height, weight
 
-	db   "It discovers what"
-	next "is going on around"
-	next "it by using the"
+	db   "Its bite injects a"
+	next "potent poison,"
+	next "enough to paralyze"
 
-	page "feelers on its"
-	next "head and tail. It's"
-	next "really aggressive.@"
+	page "large bird POKéMON"
+	next "that try to prey"
+	next "on it.@"

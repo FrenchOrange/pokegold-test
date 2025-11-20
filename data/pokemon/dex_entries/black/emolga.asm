@@ -1,10 +1,10 @@
 	db "SKYSQUIRR@" ; species name
 	dw 104, 110 ; height, weight
 
-	db   "It lives on tree-"
-	next "tops and glides"
-	next "using the inside"
+	db   "The energy made in"
+	next "its cheeks' elec-"
+	next "tric pouches is"
 
-	page "of a cape-like"
-	next "membrane while"
-	next "expelling current.@"
+	page "stored inside its"
+	next "membrane and relea"
+	next "-sed as it glides.@"

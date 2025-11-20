@@ -1,10 +1,10 @@
 	db "DESERTCROC@" ; species name
 	dw 204, 335 ; height, weight
 
-	db   "It moves below the"
-	next "sand, except for"
-	next "its nose and eyes."
+	db   "It lives buried in"
+	next "desert sands. The"
+	next "sun-warmed sands"
 
-	page "A dark membrane"
-	next "shields its eyes"
-	next "from the sun.@"
+	page "prevent its body"
+	next "temperature from"
+	next "dropping.@"

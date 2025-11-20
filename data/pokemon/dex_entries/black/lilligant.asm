@@ -1,10 +1,10 @@
 	db "FLOWERING@" ; species name
 	dw 307, 359 ; height, weight
 
-	db   "The fragrance of"
-	next "its garland has a"
-	next "relaxing effect."
+	db   "Even veteran Trai-"
+	next "ners struggle to"
+	next "get its beautiful"
 
-	page "It withers if a"
-	next "Trainer does not"
-	next "care for it well.@"
+	page "flower to bloom."
+	next "It is popular with"
+	next "celebrities.@"

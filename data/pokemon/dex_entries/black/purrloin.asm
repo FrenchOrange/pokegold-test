@@ -1,10 +1,10 @@
 	db "DEVIOUS@" ; species name
 	dw 104, 223 ; height, weight
 
-	db   "Its cute act is a"
-	next "ruse. Letting your"
-	next "guard down, you'll"
+	db   "It steals for fun,"
+	next "but its victims"
+	next "can't help but"
 
-	page "find your items"
-	next "taken. It attacks"
-	next "with sharp claws.@"
+	page "forgive them. Its"
+	next "deceptively cute"
+	next "act is perfect.@"

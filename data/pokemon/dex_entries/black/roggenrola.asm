@@ -1,10 +1,10 @@
 	db "MANTLE@" ; species name
 	dw 104, 397 ; height, weight
 
-	db   "It was discovered"
-	next "a 100 years ago in"
-	next "an earthquake"
+	db   "Its ear is hexa-"
+	next "gonal in shape."
+	next "Compressed under-"
 
-	page "fissure. Inside"
-	next "each one is an"
-	next "energy core.@"
+	page "ground, its body"
+	next "is as hard as"
+	next "steel.@"

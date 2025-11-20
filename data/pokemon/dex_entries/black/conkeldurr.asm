@@ -1,10 +1,10 @@
 	db "MUSCULAR@" ; species name
 	dw 407, 1918 ; height, weight
 
-	db   "It uses concrete"
-	next "pillars as walking"
-	next "canes. It knows"
+	db   "It is thought that"
+	next "CONKELDURR taught"
+	next "humans how to make"
 
-	page "moves that let it"
-	next "swing the pillars"
-	next "freely in battle.@"
+	page "concrete more than"
+	next "2,000 years ago."
+	next "@"

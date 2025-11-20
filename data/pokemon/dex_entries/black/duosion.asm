@@ -1,10 +1,10 @@
 	db "MITOSIS@" ; species name
 	dw 200, 176 ; height, weight
 
-	db   "When its brain,"
-	next "now split in two,"
-	next "is thinking the"
+	db   "Since it has two"
+	next "divided brains, at"
+	next "times it suddenly"
 
-	page "same thoughts,"
-	next "DUOSION exhibits"
-	next "its maximum power.@"
+	page "tries to take two"
+	next "different actions"
+	next "at once.@"

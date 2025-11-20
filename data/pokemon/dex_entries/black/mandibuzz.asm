@@ -1,10 +1,10 @@
 	db "BONE BIRD@" ; species name
 	dw 311, 871 ; height, weight
 
-	db   "Watching from the"
-	next "sky, it swoops"
-	next "down to strike"
+	db   "It grabs weakened"
+	next "prey in its talons"
+	next "and hauls it to"
 
-	page "weakened POKéMON."
-	next "It decorates"
-	next "itself with bones.@"
+	page "its nest, which is"
+	next "made out of bones"
+	next "it finds.@"

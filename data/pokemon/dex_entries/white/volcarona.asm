@@ -1,10 +1,10 @@
 	db "SUN@" ; species name
 	dw 503, 1014 ; height, weight
 
-	db   "A fire sea engulfs"
-	next "the surroundings"
-	next "of its battles,"
+	db   "A sea of fire"
+	next "engulfs it during"
+	next "battles, since it"
 
-	page "since it uses its"
-	next "6 wings to scatter"
+	page "uses its six wings"
+	next "to scatter its"
 	next "ember scales.@"

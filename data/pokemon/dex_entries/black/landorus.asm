@@ -1,10 +1,10 @@
 	db "ABUNDANCE@" ; species name
 	dw 411, 1499 ; height, weight
 
-	db   "The energy that"
-	next "comes pouring from"
-	next "its tail increases"
+	db   "Lands visited by"
+	next "LANDORUS grow such"
+	next "bountiful crops"
 
-	page "the nutrition in"
-	next "the soil, making"
-	next "crops grow well.@"
+	page "that it is hailed"
+	next "as 'The Guardian"
+	next "of the Fields.'@"

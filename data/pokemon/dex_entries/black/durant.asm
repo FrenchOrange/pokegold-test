@@ -1,10 +1,10 @@
 	db "IRON ANT@" ; species name
 	dw 100, 728 ; height, weight
 
-	db   "DURANT digs nests"
-	next "in mountains. It"
-	next "builds complex,"
+	db   "It attacks in"
+	next "groups, covering"
+	next "itself in steel"
 
-	page "interconnected"
-	next "tunnels into"
-	next "mazes.@"
+	page "armor to protect"
+	next "itself from"
+	next "HEATMOR.@"

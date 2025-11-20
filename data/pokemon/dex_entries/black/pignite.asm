@@ -1,10 +1,10 @@
 	db "FIRE PIG@" ; species name
 	dw 303, 1224 ; height, weight
 
-	db   "Whatever it eats"
-	next "becomes fuel for"
-	next "the flame in its"
+	db   "When its internal"
+	next "fire flares up its"
+	next "movements grow sha"
 
-	page "belly. When angry,"
-	next "the flame's inten-"
-	next "sity increases.@"
+	page "-rper and faster."
+	next "When in trouble,"
+	next "it emits smoke.@"

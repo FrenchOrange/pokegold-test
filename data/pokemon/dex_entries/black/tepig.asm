@@ -1,10 +1,10 @@
 	db "FIRE PIG@" ; species name
 	dw 108, 218 ; height, weight
 
-	db   "It blows fire"
-	next "through its nose."
-	next "When it catches a"
+	db   "It deftly dodges"
+	next "attacks while"
+	next "shooting fireballs"
 
-	page "cold, the fire be-"
-	next "comes pitch-black"
-	next "smoke instead.@"
+	page "from its nose. It"
+	next "roasts berries be-"
+	next "fore eating them.@"

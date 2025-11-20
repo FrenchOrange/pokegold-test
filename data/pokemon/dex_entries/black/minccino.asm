@@ -1,10 +1,10 @@
 	db "CHINCHILLA@" ; species name
 	dw 104, 128 ; height, weight
 
-	db   "MINCCINO prefers a"
-	next "tidy habitat. It"
-	next "is always sweeping"
+	db   "It greets its"
+	next "peers by rubbing"
+	next "them with its"
 
-	page "and dusting, using"
-	next "its tail as a"
-	next "broom.@"
+	page "tail, which is"
+	next "always kept well"
+	next "groomed and clean.@"

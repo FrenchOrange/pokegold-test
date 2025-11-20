@@ -1,10 +1,10 @@
 	db "SPIRIT@" ; species name
 	dw 108, 33 ; height, weight
 
-	db   "It arose from the"
-	next "spirit of someone"
-	next "interred in a tomb"
+	db   "It carries a mask"
+	next "that used to be"
+	next "its face when it"
 
-	page "ages ago. It ret-"
-	next "ains memories of"
-	next "its former life.@"
+	page "was human. Some-"
+	next "times it looks at"
+	next "it and cries.@"

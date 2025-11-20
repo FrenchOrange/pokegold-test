@@ -1,10 +1,10 @@
 	db "LAMP@" ; species name
 	dw 200, 287 ; height, weight
 
-	db   "It arrives near"
-	next "the moment of"
-	next "death and steals"
+	db   "This ominous"
+	next "POKéMON is feared."
+	next "Through cities it"
 
-	page "the soul as soon"
-	next "as it leaves the"
-	next "body.@"
+	page "wanders, searching"
+	next "for the spirits of"
+	next "the fallen.@"

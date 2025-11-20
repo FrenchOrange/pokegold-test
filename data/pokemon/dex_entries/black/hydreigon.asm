@@ -1,10 +1,10 @@
 	db "BRUTAL@" ; species name
 	dw 511, 3527 ; height, weight
 
-	db   "The heads on its"
-	next "arms do not have"
-	next "brains. It uses"
+	db   "This brutal POKé-"
+	next "MON travels the"
+	next "skies on its six"
 
-	page "all three heads to"
-	next "consume and dest-"
-	next "roy everything.@"
+	page "wings. It will"
+	next "attack anything"
+	next "that moves.@"

@@ -1,10 +1,10 @@
 	db "BOLTSTRIKE@" ; species name
 	dw 411, 1345 ; height, weight
 
-	db   "Its tail spikes"
-	next "discharge immense"
-	next "bolts of thunder."
+	db   "Countless charred"
+	next "remains mar the"
+	next "landscape of"
 
-	page "It flies around"
-	next "UNOVA firing off"
-	next "lightning bolts.@"
+	page "places through"
+	next "which THUNDURUS"
+	next "has passed.@"

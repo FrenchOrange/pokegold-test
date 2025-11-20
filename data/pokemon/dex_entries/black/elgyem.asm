@@ -1,10 +1,10 @@
 	db "CEREBRAL@" ; species name
 	dw 108, 198 ; height, weight
 
-	db   "This POKéMON had"
-	next "never been seen"
-	next "until it appeared"
+	db   "It uses its strong"
+	next "psychic power to"
+	next "squeeze its foe's"
 
-	page "from far in the"
-	next "desert 50 years"
-	next "ago.@"
+	page "brain, causing"
+	next "unendurable"
+	next "headaches.@"

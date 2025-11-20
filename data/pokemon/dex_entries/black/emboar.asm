@@ -1,10 +1,10 @@
 	db "FIRE HOG@" ; species name
 	dw 503, 3307 ; height, weight
 
-	db   "It has mastered"
-	next "fast and powerful"
-	next "fighting moves. It"
+	db   "It throws punches"
+	next "by setting its"
+	next "fists on fire with"
 
-	page "can grow a beard"
-	next "of fire."
-	next "@"
+	page "its fiery chin. It"
+	next "cares deeply about"
+	next "its friends.@"

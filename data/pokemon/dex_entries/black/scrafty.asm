@@ -1,10 +1,10 @@
 	db "HOODLUM@" ; species name
 	dw 307, 661 ; height, weight
 
-	db   "It can smash con-"
-	next "crete blocks with"
-	next "its kicking moves."
+	db   "Groups of them"
+	next "beat up anything"
+	next "that enters their"
 
-	page "The one with the"
-	next "biggest crest is"
-	next "the group leader.@"
+	page "territory. It can"
+	next "spit acidic liquid"
+	next "from its mouth.@"

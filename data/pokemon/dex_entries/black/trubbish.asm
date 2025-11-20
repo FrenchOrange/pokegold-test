@@ -1,10 +1,10 @@
 	db "TRASH BAG@" ; species name
 	dw 200, 683 ; height, weight
 
-	db   "The combination of"
-	next "a garbage bag and"
-	next "industrial waste"
+	db   "Inhaling the gas "
+	next "it belches will"
+	next "make you sleep for"
 
-	page "caused a chemical"
-	next "reaction that"
-	next "created TRUBBISH.@"
+	page "a week. It prefers"
+	next "unsanitary places."
+	next "@"

@@ -1,10 +1,10 @@
 	db "FLOATING@" ; species name
 	dw 703, 2976 ; height, weight
 
-	db   "It propels itself"
-	next "by expelling"
-	next "absorbed seawater"
+	db   "The fate of the"
+	next "ships and crew"
+	next "that wander into"
 
-	page "from its body. Its"
-	next "favorite food is"
-	next "life energy.@"
+	page "its habitat: all"
+	next "sunken, all lost,"
+	next "all vanished.@"

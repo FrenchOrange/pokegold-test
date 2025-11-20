@@ -1,10 +1,10 @@
 	db "COMPRESSED@" ; species name
 	dw 507, 5732 ; height, weight
 
-	db   "The solar energy"
-	next "absorbed by its"
-	next "orange crystals is"
+	db   "Compressing the"
+	next "energy from its"
+	next "internal core lets"
 
-	page "magnified intern-"
-	next "ally and fired"
-	next "from its mouth.@"
+	page "it fire off an att"
+	next "-ack that can blow"
+	next "away a mountain.@"

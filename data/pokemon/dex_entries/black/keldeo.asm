@@ -1,10 +1,10 @@
 	db "COLT@" ; species name
 	dw 407, 1069 ; height, weight
 
-	db   "It crosses the"
-	next "world running over"
-	next "the surfaces of"
+	db   "By blasting water"
+	next "from its hooves,"
+	next "it can glide"
 
-	page "oceans and rivers."
-	next "It appears at sce"
-	next "-nic waterfronts.@"
+	page "across water. It"
+	next "excels at using"
+	next "its leg in combat.@"

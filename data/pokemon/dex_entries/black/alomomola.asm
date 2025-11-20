@@ -1,10 +1,10 @@
 	db "CARING@" ; species name
 	dw 108, 230 ; height, weight
 
-	db   "It floats in the"
-	next "open sea. When it"
-	next "finds a wounded"
+	db   "The special memb-"
+	next "rane enveloping"
+	next "ALOMOMOLA has the"
 
-	page "Pokémon, it embra"
-	next "-ces it and brings"
-	next "it to shore.@"
+	page "ability to heal"
+	next "wounds."
+	next "@"

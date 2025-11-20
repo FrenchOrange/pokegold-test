@@ -1,10 +1,10 @@
 	db "CAVE@" ; species name
 	dw 503, 3064 ; height, weight
 
-	db   "Prowling through"
-	next "narrow caves, it"
-	next "catches prey with"
+	db   "It warms itself by"
+	next "absorbing sunlight"
+	next "with its wings. If"
 
-	page "its sharp claws."
-	next "Its face skin is"
-	next "harder than rock.@"
+	page "its body tempera-"
+	next "ture falls, it can"
+	next "no longer move.@"

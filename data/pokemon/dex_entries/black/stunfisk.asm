@@ -1,10 +1,10 @@
 	db "TRAP@" ; species name
 	dw 204, 243 ; height, weight
 
-	db   "It conceals itself"
-	next "in the mud of the"
-	next "seashore. Then it"
+	db   "Its skin is so ha-"
+	next "rd it doesn't mind"
+	next "if a sumo wreslter"
 
-	page "waits. When prey"
-	next "touch it, it"
-	next "delivers a shock.@"
+	page "steps on it. It"
+	next "smiles as it sends"
+	next "out electricity.@"

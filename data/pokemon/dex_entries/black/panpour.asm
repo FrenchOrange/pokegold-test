@@ -1,10 +1,10 @@
 	db "SPRAY@" ; species name
 	dw 200, 298 ; height, weight
 
-	db   "It sprays itself"
-	next "with water stored"
-	next "in its head tuft"
+	db   "The water stored"
+	next "inside its head"
+	next "tuft is full of"
 
-	page "from its tail. It"
-	next "does not thrive in"
-	next "dry environments.@"
+	page "nutrients. Plants"
+	next "that receive its"
+	next "water grow large.@"

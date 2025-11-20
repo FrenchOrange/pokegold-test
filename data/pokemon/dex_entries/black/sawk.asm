@@ -1,10 +1,10 @@
 	db "KARATE@" ; species name
 	dw 407, 1124 ; height, weight
 
-	db   "Tying its belt"
-	next "gets it pumped and"
-	next "makes its punches"
+	db   "The sound of SAWK"
+	next "punching boulders"
+	next "and trees can be"
 
-	page "hit harder. Distur"
-	next "-bing its training"
-	next "angers it.@"
+	page "heard all the way"
+	next "from the mountains"
+	next "where it trains.@"

@@ -1,10 +1,10 @@
 	db "MELODY@" ; species name
 	dw 200, 143 ; height, weight
 
-	db   "Many musical main-"
-	next "stays have been"
-	next "inspired by the"
+	db   "Its melodies are"
+	next "sung with special"
+	next "vocalizations that"
 
-	page "melodies that"
-	next "MELOETTA plays."
-	next "@"
+	page "can control the"
+	next "feelings of those"
+	next "who hear it.@"

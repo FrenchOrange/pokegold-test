@@ -1,10 +1,10 @@
 	db "LIGHTNING@" ; species name
 	dw 207, 657 ; height, weight
 
-	db   "When thunderclouds"
-	next "cover the sky, it"
-	next "will appear. Can"
+	db   "Its mane shines"
+	next "when it discharges"
+	next "electricity. It"
 
-	page "catch lightning"
-	next "with its mane and"
-	next "store the current.@"
+	page "communicates with"
+	next "its peers with its"
+	next "flashing mane.@"

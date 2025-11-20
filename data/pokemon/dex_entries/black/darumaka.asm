@@ -1,10 +1,10 @@
 	db "ZEN CHARM@" ; species name
 	dw 200, 827 ; height, weight
 
-	db   "DARUMAKA's dropp-"
-	next "ings are hot, so"
-	next "people used to put"
+	db   "When its internal"
+	next "fire burns, it"
+	next "runs around frant-"
 
-	page "them in their"
-	next "clothes to keep"
-	next "themselves warm.@"
+	page "ically. When the"
+	next "fire diminishes,"
+	next "it falls asleep.@"

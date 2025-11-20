@@ -1,10 +1,10 @@
 	db "CLAMPING@" ; species name
 	dw 108, 130 ; height, weight
 
-	db   "When threatened,"
-	next "it spits an acidic"
-	next "liquid to drive"
+	db   "It spits a liquid"
+	next "to melt through"
+	next "SHELMET's shell."
 
-	page "attackers away."
-	next "This POKéMON"
-	next "targets SHELMET.@"
+	page "It doesn't eat the"
+	next "shell, only eating"
+	next "its contents.@"

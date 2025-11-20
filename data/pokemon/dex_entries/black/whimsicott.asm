@@ -1,10 +1,10 @@
 	db "WINDVEILED@" ; species name
 	dw 204, 146 ; height, weight
 
-	db   "Riding whirlwinds,"
-	next "it appears. It"
-	next "sneaks through"
+	db   "Like the wind, it"
+	next "can slip through"
+	next "any gap, no matter"
 
-	page "gaps into houses"
-	next "and causes all"
-	next "sorts of mischief.@"
+	page "how small. It leav"
+	next "-es balls of white"
+	next "fluff behind.@"

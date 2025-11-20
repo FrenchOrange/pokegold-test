@@ -1,10 +1,10 @@
 	db "CAVERN@" ; species name
 	dw 603, 5732 ; height, weight
 
-	db   "One charge is"
-	next "strong enough to"
-	next "break through a"
+	db   "This POKéMON came"
+	next "to the defense of"
+	next "POKéMON that had"
 
-	page "castle wall. This"
-	next "POKéMON is spoken"
-	next "of in legends.@"
+	page "lost their homes"
+	next "in a war among"
+	next "humans.@"

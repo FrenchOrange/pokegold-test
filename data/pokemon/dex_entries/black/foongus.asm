@@ -1,10 +1,10 @@
 	db "MUSHROOM@" ; species name
 	dw 008, 22 ; height, weight
 
-	db   "Oddly resembles a"
-	next "POKé BALL. It"
-	next "releases poison"
+	db   "It lures people in"
+	next "with its pattern,"
+	next "then releases poi-"
 
-	page "spores to repel"
-	next "those who  try to"
-	next "catch them.@"
+	page "son spores. Why it"
+	next "resembles a POKé"
+	next "BALL is unknown.@"

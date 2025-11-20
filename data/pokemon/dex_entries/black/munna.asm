@@ -1,10 +1,10 @@
 	db "DREAMEATER@" ; species name
 	dw 200, 513 ; height, weight
 
-	db   "It eats the dreams"
-	next "of people and"
-	next "POKéMON. When it"
+	db   "It always floats"
+	next "in the air. People"
+	next "whose dreams are"
 
-	page "eats a pleasant"
-	next "dream, it expels"
-	next "pink-colored mist.@"
+	page "eaten by it forget"
+	next "what the dreams"
+	next "had been about.@"

@@ -1,10 +1,10 @@
 	db "CEREBRAL@" ; species name
 	dw 303, 761 ; height, weight
 
-	db   "It uses psychic"
-	next "power to control"
-	next "an opponent's brain"
+	db   "It can manipulate"
+	next "a foe's memory. It"
+	next "communicates by"
 
-	page "and tamper with"
-	next "its memories."
-	next "@"
+	page "flashing its three"
+	next "different-colored"
+	next "fingers.@"

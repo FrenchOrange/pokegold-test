@@ -1,10 +1,10 @@
 	db "TINYPIGEON@" ; species name
 	dw 100, 46 ; height, weight
 
-	db   "This POKéMON lives"
-	next "in cities. It is"
-	next "accustomed to"
+	db   "It follows its"
+	next "Trainer's orders"
+	next "as best it can,"
 
-	page "people. Flocks"
-	next "often gather in"
-	next "parks and plazas.@"
+	page "but it can fail to"
+	next "understand compli-"
+	next "cated commands.@"

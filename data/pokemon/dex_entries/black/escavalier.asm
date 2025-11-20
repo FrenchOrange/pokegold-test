@@ -1,10 +1,10 @@
 	db "CAVALRY@" ; species name
 	dw 303, 728 ; height, weight
 
-	db   "It evolves by"
-	next "wearing the discar"
-	next "-ded shell of a"
+	db   "It flies around at"
+	next "high speed, strik-"
+	next "ing with their"
 
-	page "SHELMET. The steel"
-	next "armor protects its"
-	next "whole body.@"
+	page "pointed spears. It"
+	next "stays brave even"
+	next "when in trouble.@"

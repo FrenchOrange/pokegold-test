@@ -1,10 +1,10 @@
 	db "PROUD@" ; species name
 	dw 311, 639 ; height, weight
 
-	db   "Males have plumage"
-	next "on their heads. It"
-	next "will never let"
+	db   "Males swing their"
+	next "head plumage to"
+	next "threaten foes. The"
 
-	page "itself feel close"
-	next "to anyone other"
-	next "than its Trainer.@"
+	page "females' flying"
+	next "skills surpass tho"
+	next "-se of the males.@"

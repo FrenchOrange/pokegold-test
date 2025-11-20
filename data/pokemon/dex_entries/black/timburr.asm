@@ -1,10 +1,10 @@
 	db "MUSCULAR@" ; species name
 	dw 200, 276 ; height, weight
 
-	db   "These POKéMON"
-	next "appear at building"
-	next "sites and help out"
+	db   "It swings lumber"
+	next "around to fight."
+	next "It is close to evo"
 
-	page "with construction."
-	next "They always carry"
-	next "squared logs.@"
+	page "-lving when it can"
+	next "handle the lumber"
+	next "effortlessly.@"

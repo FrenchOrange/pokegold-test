@@ -1,10 +1,10 @@
 	db "LEAF SNAKE@" ; species name
 	dw 200, 179 ; height, weight
 
-	db   "It photosynthe-"
-	next "sizes by bathing"
-	next "its tail in sun"
+	db   "It is very intelli"
+	next "-gent and calm."
+	next "Being exposed to"
 
-	page "-light. When it is"
-	next "not feeling well,"
-	next "its tail droops.@"
+	page "lots of sunlight"
+	next "makes its move-"
+	next "ments swifter.@"

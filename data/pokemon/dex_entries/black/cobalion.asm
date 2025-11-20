@@ -1,10 +1,10 @@
 	db "IRON WILL@" ; species name
 	dw 611, 5512 ; height, weight
 
-	db   "It has a body and"
-	next "heart of steel."
-	next "Its glare is"
+	db   "This legendary"
+	next "POKéMON battled"
+	next "against humans to"
 
-	page "sufficient to make"
-	next "even an unruly"
-	next "POKéMON obey it.@"
+	page "protect POKéMON."
+	next "Its personality is"
+	next "calm and composed.@"

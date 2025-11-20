@@ -1,10 +1,10 @@
 	db "ASTRALBODY@" ; species name
 	dw 411, 970 ; height, weight
 
-	db   "It can predict the"
-	next "future from the"
-	next "placement and move"
+	db   "Its psychic powers"
+	next "distort the space"
+	next "around it. Stars"
 
-	page "-ment of stars. It"
-	next "can see Trainers'"
-	next "life spans.@"
+	page "thousands of light"
+	next "-years away can be"
+	next "seen through them.@"

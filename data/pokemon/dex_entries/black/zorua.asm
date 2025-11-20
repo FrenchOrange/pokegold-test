@@ -1,10 +1,10 @@
 	db "TRICKY FOX@" ; species name
 	dw 204, 276 ; height, weight
 
-	db   "To protect itself"
-	next "from danger, it"
-	next "hides its true"
+	db   "It changes into"
+	next "other's forms to"
+	next "surprise them. It"
 
-	page "self by transform-"
-	next "ing into people"
-	next "and POKéMON.@"
+	page "is said to often"
+	next "transform into a"
+	next "silent child.@"

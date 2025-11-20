@@ -1,10 +1,10 @@
 	db "GEYSER@" ; species name
 	dw 303, 639 ; height, weight
 
-	db   "The high-pressure"
-	next "water expelled"
-	next "from its tail is"
+	db   "It head tuft holds"
+	next "water. When the"
+	next "level runs low, it"
 
-	page "so powerful, it"
-	next "can destroy a"
-	next "concrete wall.@"
+	page "refills the tuft"
+	next "by siphoning water"
+	next "with its tail.@"

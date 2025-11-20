@@ -1,10 +1,10 @@
 	db "SEWING@" ; species name
 	dw 100, 55 ; height, weight
 
-	db   "SEWADDLE makes clo"
-	next "-thes for itself."
-	next "It chews up leaves"
+	db   "LEAVANNY dress it"
+	next "in clothes it made"
+	next "for it when it"
 
-	page "and sews them with"
-	next "sticky thread from"
-	next "its mouth.@"
+	page "hatched. At night,"
+	next "its hides its head"
+	next "in its hood.@"

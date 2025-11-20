@@ -1,10 +1,10 @@
 	db "ELEFISH@" ; species name
 	dw 008, 07 ; height, weight
 
-	db   "This POKéMON moves"
-	next "in schools. With"
-	next "its electricity-"
+	db   "While one alone"
+	next "doesn't have much"
+	next "power, a chain of"
 
-	page "generating organ"
-	next "it expels shocks"
-	next "when in danger.@"
+	page "many TYNAMO can be"
+	next "as powerful as"
+	next "lightning.@"

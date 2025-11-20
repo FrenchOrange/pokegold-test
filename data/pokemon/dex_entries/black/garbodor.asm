@@ -1,10 +1,10 @@
 	db "TRASH HEAP@" ; species name
 	dw 603, 2366 ; height, weight
 
-	db   "It absorbs garbage"
-	next "to make it part of"
-	next "its body. It spews"
+	db   "It clenches foes"
+	next "with its left arm"
+	next "and finishes them"
 
-	page "a poisonous liquid"
-	next "from its right-"
-	next "hand fingertips.@"
+	page "off by belching"
+	next "a foul-smelling"
+	next "poison gas.@"

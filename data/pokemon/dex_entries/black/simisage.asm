@@ -1,10 +1,10 @@
 	db "THORN APE@" ; species name
 	dw 307, 672 ; height, weight
 
-	db   "It attacks enemies"
-	next "with strikes of"
-	next "its thorn-covered"
+	db   "Ill tempered, it"
+	next "fights by swinging"
+	next "its barbed tail"
 
-	page "tail. This POKéMON"
-	next "is wild tempered."
-	next "@"
+	page "around wildly. The"
+	next "leaf on its head"
+	next "is very bitter.@"

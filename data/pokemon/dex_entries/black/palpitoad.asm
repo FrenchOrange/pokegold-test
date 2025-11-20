@@ -1,10 +1,10 @@
 	db "VIBRATION@" ; species name
 	dw 207, 375 ; height, weight
 
-	db   "It lives in the"
-	next "water and on land."
-	next "It uses its long,"
+	db   "When it vibrates"
+	next "the bumps on its"
+	next "head, it can make"
 
-	page "sticky tongue to"
-	next "capture prey."
-	next "@"
+	page "waves in water or"
+	next "earthquake-like vi"
+	next "-brations on land.@"

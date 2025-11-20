@@ -1,10 +1,10 @@
 	db "CHILL@" ; species name
 	dw 108, 187 ; height, weight
 
-	db   "Its nose is always"
-	next "running. It sniffs"
-	next "the snot back up,"
+	db   "When it is not"
+	next "feeling well, its"
+	next "mucus gets watery"
 
-	page "as the mucus is"
-	next "the raw material"
-	next "for its moves.@"
+	page "and the power of"
+	next "its Ice-type moves"
+	next "decreases.@"
