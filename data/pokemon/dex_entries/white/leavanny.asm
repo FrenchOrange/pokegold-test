@@ -1,7 +1,7 @@
 	db "NURTURING@" ; species name
 	dw 311, 452 ; height, weight
 
-	db   "It keep its EGGS"
+	db   "It keep its eggs"
 	next "warm with the heat"
 	next "of humus. It uses"
 

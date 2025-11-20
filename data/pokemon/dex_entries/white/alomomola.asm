@@ -5,6 +5,6 @@
 	next "open sea. When it"
 	next "finds a wounded"
 
-	page "Pokémon, it embra"
+	page "POKéMON, it embra"
 	next "-ces it and brings"
 	next "it to shore.@"

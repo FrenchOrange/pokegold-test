@@ -7,4 +7,4 @@
 
 	page "to be the ancestor"
 	next "of all bird"
-	next "POKéMON .@"
+	next "POKéMON.@"
