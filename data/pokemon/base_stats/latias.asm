@@ -14,7 +14,7 @@
 	INCBIN "gfx/pokemon/latias/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_NONE, EGG_NONE ; egg groups
+	dn EGG_UNDISCOVERED, EGG_UNDISCOVERED ; egg groups
 
 	; tm/hm learnset
 	tmhm HEADBUTT, CURSE, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, DETECT, REST, ATTRACT, THIEF, STRENGTH

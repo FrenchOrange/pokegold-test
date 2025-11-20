@@ -14,7 +14,7 @@
 	INCBIN "gfx/pokemon/metagross/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_FAST ; growth rate
-	dn EGG_GROUND, EGG_GROUND ; egg groups
+	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
 	tmhm

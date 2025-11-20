@@ -109,14 +109,14 @@ CheckBreedmonCompatibility:
 	ld [wCurSpecies], a
 	call GetBaseData
 	ld a, [wBaseEggGroups]
-	cp EGG_NONE * $11
+	cp EGG_UNDISCOVERED * $11
 	jr z, .Incompatible
 
 	ld a, [wBreedMon1Species]
 	ld [wCurSpecies], a
 	call GetBaseData
 	ld a, [wBaseEggGroups]
-	cp EGG_NONE * $11
+	cp EGG_UNDISCOVERED * $11
 	jr z, .Incompatible
 
 ; Ditto is automatically compatible with everything.

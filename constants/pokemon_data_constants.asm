@@ -57,17 +57,17 @@ DEF NUM_GROWTH_RATES EQU const_value
 	const EGG_WATER_1       ; 2 (Amphibian)
 	const EGG_BUG           ; 3
 	const EGG_FLYING        ; 4
-	const EGG_GROUND        ; 5 (Field)
+	const EGG_FIELD         ; 5
 	const EGG_FAIRY         ; 6
-	const EGG_PLANT         ; 7 (Grass)
-	const EGG_HUMANSHAPE    ; 8 (Human-Like)
+	const EGG_GRASS         ; 7
+	const EGG_HUMANLIKE     ; 8
 	const EGG_WATER_3       ; 9 (Invertebrate)
 	const EGG_MINERAL       ; a
-	const EGG_INDETERMINATE ; b (Amorphous)
+	const EGG_AMORPHOUS     ; b
 	const EGG_WATER_2       ; c (Fish)
 	const EGG_DITTO         ; d
 	const EGG_DRAGON        ; e
-	const EGG_NONE          ; f (Undiscovered)
+	const EGG_UNDISCOVERED  ; f
 
 ; pokedex entries (see data/pokemon/dex_entries_*.asm)
 DEF NUM_DEX_ENTRY_BANKS EQU 4
