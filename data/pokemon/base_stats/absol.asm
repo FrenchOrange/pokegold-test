@@ -1,11 +1,11 @@
-	db ABSOL ; 227
+	db ABSOL ; 237
 
-	db  65,  80, 140,  70,  40,  70
+	db  65, 130,  60,  75,  75,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db STEEL, FLYING ; type
-	db 25 ; catch rate
-	db 168 ; base exp
+	db DARK, DARK ; type
+	db 30 ; catch rate
+	db 163 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -13,9 +13,9 @@
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/absol/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_SLOW ; growth rate
-	dn EGG_FLYING, EGG_FLYING ; egg groups
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, TOXIC, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, SWIFT, DETECT, REST, ATTRACT, THIEF, STEEL_WING, CUT, FLY
+	tmhm CUT, STRENGTH
 	; end

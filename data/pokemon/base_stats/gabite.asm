@@ -1,9 +1,9 @@
 	db GABITE ; 247
 
-	db  70,  84,  70,  51,  65,  70
+	db  68,  90,  65,  82,  50,  55
 	;   hp  atk  def  spd  sat  sdf
 
-	db ROCK, GROUND ; type
+	db DRAGON, GROUND ; type
 	db 45 ; catch rate
 	db 144 ; base exp
 	db NO_ITEM, NO_ITEM ; items
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/gabite/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_MONSTER ; egg groups
+	dn EGG_MONSTER, EGG_DRAGON ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, EARTHQUAKE, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, DETECT, REST, ATTRACT
+	tmhm CUT, STRENGTH
 	; end

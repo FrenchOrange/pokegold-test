@@ -1,11 +1,11 @@
-	db TANGELA ; 114
+	db TANGELA ; 179
 
 	db  65,  55, 115,  60, 100,  40
 	;   hp  atk  def  spd  sat  sdf
 
 	db GRASS, GRASS ; type
 	db 45 ; catch rate
-	db 166 ; base exp
+	db 87 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -17,5 +17,5 @@
 	dn EGG_GRASS, EGG_GRASS ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SWEET_SCENT, SNORE, HYPER_BEAM, PROTECT, GIGA_DRAIN, ENDURE, FRUSTRATION, SOLARBEAM, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SLUDGE_BOMB, REST, ATTRACT, THIEF, CUT, FLASH
+	tmhm CUT
 	; end

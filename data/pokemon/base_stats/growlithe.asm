@@ -1,11 +1,11 @@
-	db GROWLITHE ; 058
+	db GROWLITHE ; 166
 
 	db  55,  70,  45,  60,  70,  50
 	;   hp  atk  def  spd  sat  sdf
 
 	db FIRE, FIRE ; type
 	db 190 ; catch rate
-	db 91 ; base exp
+	db 70 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F25 ; gender ratio
 	db 100 ; unknown 1
@@ -17,5 +17,5 @@
 	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, ROAR, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, DRAGONBREATH, RETURN, DIG, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, FIRE_BLAST, SWIFT, REST, ATTRACT
+	tmhm STRENGTH
 	; end

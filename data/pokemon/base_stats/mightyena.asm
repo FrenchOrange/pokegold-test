@@ -1,21 +1,21 @@
-	db MIGHTYENA ; XXX
+	db MIGHTYENA ; 226
 
-	db  55,  70,  45,  60,  70,  50
+	db  70,  90,  70,  70,  60,  60
 	;   hp  atk  def  spd  sat  sdf
 
 	db DARK, DARK ; type
-	db 190 ; catch rate
-	db 91 ; base exp
+	db 127 ; catch rate
+	db 56 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F25 ; gender ratio
+	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 20 ; step cycles to hatch
+	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/mightyena/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_SLOW ; growth rate
+	db GROWTH_MEDIUM_FAST ; growth rate
 	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT
+	tmhm STRENGTH
 	; end

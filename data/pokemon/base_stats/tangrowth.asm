@@ -1,21 +1,21 @@
-	db TANGROWTH ; 243
+	db TANGROWTH ; 180
 
-	db  90,  85,  75, 115, 115, 100
+	db 100, 100, 125,  50, 110,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db ELECTRIC, ELECTRIC ; type
-	db 3 ; catch rate
-	db 216 ; base exp
+	db GRASS, GRASS ; type
+	db 30 ; catch rate
+	db 187 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_UNKNOWN ; gender ratio
+	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 80 ; step cycles to hatch
+	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/tangrowth/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_SLOW ; growth rate
-	dn EGG_UNDISCOVERED, EGG_UNDISCOVERED ; egg groups
+	db GROWTH_MEDIUM_FAST ; growth rate
+	dn EGG_GRASS, EGG_GRASS ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, ROAR, TOXIC, ZAP_CANNON, ROCK_SMASH, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, SWIFT, DETECT, REST, CUT, STRENGTH, FLASH
+	tmhm CUT, STRENGTH
 	; end

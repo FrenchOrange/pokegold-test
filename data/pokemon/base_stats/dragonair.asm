@@ -1,11 +1,11 @@
-	db DRAGONAIR ; 148
+	db DRAGONAIR ; 201
 
 	db  61,  84,  65,  70,  70,  70
 	;   hp  atk  def  spd  sat  sdf
 
 	db DRAGON, DRAGON ; type
 	db 45 ; catch rate
-	db 144 ; base exp
+	db 147 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -17,5 +17,5 @@
 	dn EGG_WATER_1, EGG_DRAGON ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ZAP_CANNON, HIDDEN_POWER, SNORE, BLIZZARD, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, DRAGONBREATH, THUNDER, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, FIRE_BLAST, SWIFT, DETECT, REST, ATTRACT, SURF, WATERFALL
+	tmhm SURF, WATERFALL
 	; end

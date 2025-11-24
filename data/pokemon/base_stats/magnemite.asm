@@ -1,12 +1,12 @@
-	db MAGNEMITE ; 081
+	db MAGNEMITE ; 168
 
 	db  25,  35,  70,  45,  95,  55
 	;   hp  atk  def  spd  sat  sdf
 
 	db ELECTRIC, STEEL ; type
 	db 190 ; catch rate
-	db 89 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db 65 ; base exp
+	db NO_ITEM, MAGNET ; items
 	db GENDER_UNKNOWN ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
@@ -17,5 +17,5 @@
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, ROLLOUT, TOXIC, ZAP_CANNON, HIDDEN_POWER, SNORE, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, THUNDER, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, REST, FLASH
+	tmhm 
 	; end

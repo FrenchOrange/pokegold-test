@@ -1,11 +1,11 @@
-	db ELEKID ; 239
+	db ELEKID ; 183
 
 	db  45,  63,  37,  95,  65,  55
 	;   hp  atk  def  spd  sat  sdf
 
 	db ELECTRIC, ELECTRIC ; type
 	db 45 ; catch rate
-	db 106 ; base exp
+	db 72 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F25 ; gender ratio
 	db 100 ; unknown 1
