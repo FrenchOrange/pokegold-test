@@ -13,15 +13,10 @@ SweetScentFromMenu:
 	waitbutton
 	callasm SweetScentEncounter
 	iffalse SweetScentNothing
-	checkflag ENGINE_BUG_CONTEST_TIMER
-	iftrue .BugCatchingContest
 	randomwildmon
 	startbattle
 	reloadmapafterbattle
 	end
-
-.BugCatchingContest:
-	farsjump BugCatchingContestBattleScript
 
 SweetScentNothing:
 	writetext SweetScentNothingText
@@ -32,21 +27,12 @@ SweetScentNothing:
 SweetScentEncounter:
 	farcall CanEncounterWildMon
 	jr nc, .no_battle
-	ld hl, wStatusFlags2
-	bit STATUSFLAGS2_BUG_CONTEST_TIMER_F, [hl]
-	jr nz, .in_bug_contest
 	farcall GetMapEncounterRate
 	ld a, b
 	and a
 	jr z, .no_battle
 	farcall ChooseWildEncounter
 	jr nz, .no_battle
-	jr .start_battle
-
-.in_bug_contest
-	farcall ChooseWildEncounter_BugContest
-
-.start_battle
 	ld a, $1
 	ld [wScriptVar], a
 	ret
