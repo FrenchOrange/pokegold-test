@@ -11,7 +11,7 @@
 	const DOUBLESLAP   ; 03
 	const COMET_PUNCH  ; 04
 	const MEGA_PUNCH   ; 05
-	const PAY_DAY      ; 06
+	const PAY_DAY      ; (UNUSABLE) 06
 	const FIRE_PUNCH   ; 07
 	const ICE_PUNCH    ; 08
 	const THUNDERPUNCH ; 09
@@ -30,9 +30,9 @@
 	const VINE_WHIP    ; 16
 	const STOMP        ; 17
 	const DOUBLE_KICK  ; 18
-	const MEGA_KICK    ; 19
+	const MEGA_KICK    ; (UNUSABLE) 19
 	const JUMP_KICK    ; 1a
-	const ROLLING_KICK ; 1b
+	const ROLLING_KICK ; (UNUSABLE) 1b
 	const SAND_ATTACK  ; 1c
 	const HEADBUTT     ; 1d
 	const HORN_ATTACK  ; 1e
@@ -70,8 +70,8 @@
 	const AURORA_BEAM  ; 3e
 	const HYPER_BEAM   ; 3f
 	const PECK         ; 40
-	const DRILL_PECK   ; 41
-	const SUBMISSION   ; 42
+	const DRILL_PECK   ; (UNUSABLE) 41
+	const SUBMISSION   ; (UNUSABLE) 42
 	const LOW_KICK     ; 43
 	const COUNTER      ; 44
 	const SEISMIC_TOSS ; 45
@@ -105,9 +105,9 @@
 	const AGILITY      ; 61
 	const QUICK_ATTACK ; 62
 	const RAGE         ; 63
-	const TELEPORT     ; 64
+	const TELEPORT     ; (UNUSABLE) 64
 	const NIGHT_SHADE  ; 65
-	const MIMIC        ; 66
+	const MIMIC        ; (UNUSABLE) 66
 	const SCREECH      ; 67
 	const DOUBLE_TEAM  ; 68
 	const RECOVER      ; 69
@@ -130,22 +130,22 @@
 	const LICK         ; 7a
 	const SMOG         ; 7b
 	const SLUDGE       ; 7c
-	const BONE_CLUB    ; 7d
+	const BONE_CLUB    ; (UNUSABLE) 7d
 	const FIRE_BLAST   ; 7e
 	const WATERFALL    ; 7f
-	const CLAMP        ; 80
+	const CLAMP        ; (UNUSABLE) 80
 	const SWIFT        ; 81
 	const SKULL_BASH   ; 82
-	const SPIKE_CANNON ; 83
+	const SPIKE_CANNON ; (UNUSABLE) 83
 	const CONSTRICT    ; 84
 	const AMNESIA      ; 85
-	const KINESIS      ; 86
+	const KINESIS      ; (UNUSABLE) 86
 	const SOFTBOILED   ; 87
 	const HI_JUMP_KICK ; 88
-	const GLARE        ; 89
+	const GLARE        ; (UNUSABLE) 89
 	const DREAM_EATER  ; 8a
 	const POISON_GAS   ; 8b
-	const BARRAGE      ; 8c
+	const BARRAGE      ; (UNUSABLE) 8c
 	const LEECH_LIFE   ; 8d
 	const LOVELY_KISS  ; 8e
 	const SKY_ATTACK   ; 8f
@@ -160,29 +160,29 @@
 	const CRABHAMMER   ; 98
 	const EXPLOSION    ; 99
 	const FURY_SWIPES  ; 9a
-	const BONEMERANG   ; 9b
+	const BONEMERANG   ; (UNUSABLE) 9b
 	const REST         ; 9c
 	const ROCK_SLIDE   ; 9d
 	const HYPER_FANG   ; 9e
 	const SHARPEN      ; 9f
-	const CONVERSION   ; a0
+	const CONVERSION   ; (UNUSABLE) a0
 	const TRI_ATTACK   ; a1
 	const SUPER_FANG   ; a2
 	const SLASH        ; a3
 	const SUBSTITUTE   ; a4
 	const STRUGGLE     ; a5
-	const SKETCH       ; a6
-	const TRIPLE_KICK  ; a7
+	const SKETCH       ; (UNUSABLE) a6
+	const TRIPLE_KICK  ; (UNUSABLE) a7
 	const THIEF        ; a8
 	const SPIDER_WEB   ; a9
-	const MIND_READER  ; aa
+	const MIND_READER  ; (UNUSABLE) aa
 	const NIGHTMARE    ; ab
 	const FLAME_WHEEL  ; ac
-	const SNORE        ; ad
+	const SNORE        ; (UNUSABLE) ad
 	const CURSE        ; ae
 	const FLAIL        ; af
-	const CONVERSION2  ; b0
-	const AEROBLAST    ; b1
+	const CONVERSION2  ; (UNUSABLE) b0
+	const AEROBLAST    ; (UNUSABLE) b1
 	const COTTON_SPORE ; b2
 	const REVERSAL     ; b3
 	const SPITE        ; b4
@@ -195,10 +195,10 @@
 	const BELLY_DRUM   ; bb
 	const SLUDGE_BOMB  ; bc
 	const MUD_SLAP     ; bd
-	const OCTAZOOKA    ; be
-	const SPIKES       ; bf
+	const OCTAZOOKA    ; (UNUSABLE) be
+	const SPIKES       ; (UNUSABLE) bf
 	const ZAP_CANNON   ; c0
-	const FORESIGHT    ; c1
+	const FORESIGHT    ; (UNUSABLE) c1
 	const DESTINY_BOND ; c2
 	const PERISH_SONG  ; c3
 	const ICY_WIND     ; c4
@@ -213,20 +213,20 @@
 	const ROLLOUT      ; cd
 	const FALSE_SWIPE  ; ce
 	const SWAGGER      ; cf
-	const MILK_DRINK   ; d0
+	const MILK_DRINK   ; (UNUSABLE) d0
 	const SPARK        ; d1
 	const FURY_CUTTER  ; d2
 	const STEEL_WING   ; d3
 	const MEAN_LOOK    ; d4
 	const ATTRACT      ; d5
-	const SLEEP_TALK   ; d6
-	const HEAL_BELL    ; d7
+	const SLEEP_TALK   ; (UNUSABLE) d6
+	const HEAL_BELL    ; (UNUSABLE) d7
 	const RETURN       ; d8
-	const PRESENT      ; d9
+	const PRESENT      ; (UNUSABLE) d9
 	const FRUSTRATION  ; da
 	const SAFEGUARD    ; db
 	const PAIN_SPLIT   ; dc
-	const SACRED_FIRE  ; dd
+	const SACRED_FIRE  ; (UNUSABLE) dd
 	const MAGNITUDE    ; de
 	const DYNAMICPUNCH ; df
 	const MEGAHORN     ; e0
@@ -243,14 +243,14 @@
 	const SYNTHESIS    ; eb
 	const MOONLIGHT    ; ec
 	const HIDDEN_POWER ; ed
-	const CROSS_CHOP   ; ee
+	const CROSS_CHOP   ; (UNUSABLE) ee
 	const TWISTER      ; ef
 	const RAIN_DANCE   ; f0
 	const SUNNY_DAY    ; f1
 	const CRUNCH       ; f2
 	const MIRROR_COAT  ; f3
 	const PSYCH_UP     ; f4
-	const EXTREMESPEED ; f5
+	const EXTREMESPEED ; (UNUSABLE) f5
 	const ANCIENTPOWER ; f6
 	const SHADOW_BALL  ; f7
 	const FUTURE_SIGHT ; f8
