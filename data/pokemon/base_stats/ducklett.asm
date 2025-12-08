@@ -1,11 +1,11 @@
 	db DUCKLETT ; 086
 
-	db  65,  45,  55,  45,  45,  70
+	db  62,  44,  50,  55,  44,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER ; type
+	db WATER, FLYING ; type
 	db 190 ; catch rate
-	db 100 ; base exp
+	db 61 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/ducklett/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_WATER_1, EGG_FIELD ; egg groups
+	dn EGG_WATER_1, EGG_FLYING ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, HIDDEN_POWER, SNORE, BLIZZARD, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, REST, ATTRACT, SURF, DIVE, WATERFALL
+	tmhm FLY, SURF, DIVE
 	; end

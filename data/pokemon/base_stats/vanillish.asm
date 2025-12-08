@@ -1,11 +1,11 @@
 	db VANILLISH ; 089
 
-	db  70,  20,  50,  40,  20,  50
+	db  51,  65,  65,  59,  80,  75
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER ; type
-	db 190 ; catch rate
-	db 58 ; base exp
+	db ICE, ICE ; type
+	db 120 ; catch rate
+	db 138 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -13,9 +13,9 @@
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/vanillish/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_FAST ; growth rate
-	dn EGG_WATER_1, EGG_FAIRY ; egg groups
+	db GROWTH_SLOW ; growth rate
+	dn EGG_MINERAL, EGG_MINERAL ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, ROLLOUT, TOXIC, HIDDEN_POWER, SNORE, BLIZZARD, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, RETURN, MUD_SLAP, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, REST, ATTRACT, SURF, DIVE, WATERFALL
+	tmhm 
 	; end

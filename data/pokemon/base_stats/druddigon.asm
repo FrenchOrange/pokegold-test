@@ -1,21 +1,21 @@
 	db DRUDDIGON ; 127
 
-	db  65, 125, 100,  85,  55,  70
+	db  77, 120,  90,  48,  60,  90
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, BUG ; type
+	db DRAGON, DRAGON ; type
 	db 45 ; catch rate
-	db 200 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db 170 ; base exp
+	db NO_ITEM, DRAGON_FANG ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 25 ; step cycles to hatch
+	db 30 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/druddigon/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_SLOW ; growth rate
-	dn EGG_BUG, EGG_BUG ; egg groups
+	db GROWTH_MEDIUM_FAST ; growth rate
+	dn EGG_DRAGON, EGG_MONSTER ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, ENDURE, FRUSTRATION, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, REST, ATTRACT, THIEF, FURY_CUTTER, CUT, STRENGTH
+	tmhm CUT, SURF, STRENGTH
 	; end

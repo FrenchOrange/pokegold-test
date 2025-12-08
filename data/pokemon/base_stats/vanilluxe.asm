@@ -1,12 +1,12 @@
 	db VANILLUXE ; 090
 
-	db  30,  65, 100,  40,  45,  25
+	db  71,  95,  85,  79, 110,  95
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, WATER ; type
-	db 190 ; catch rate
-	db 97 ; base exp
-	db PEARL, BIG_PEARL ; items
+	db ICE, ICE ; type
+	db 45 ; catch rate
+	db 241 ; base exp
+	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/vanilluxe/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
-	dn EGG_WATER_3, EGG_WATER_3 ; egg groups
+	dn EGG_MINERAL, EGG_MINERAL ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, TOXIC, HIDDEN_POWER, SNORE, BLIZZARD, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, REST, ATTRACT, SURF, DIVE
+	tmhm 
 	; end

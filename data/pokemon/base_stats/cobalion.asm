@@ -1,11 +1,11 @@
 	db COBALION ; 144
 
-	db  90,  85, 100,  85,  95, 125
+	db  91,  90, 129, 108,  90,  72
 	;   hp  atk  def  spd  sat  sdf
 
-	db ICE, FLYING ; type
+	db STEEL, FIGHTING ; type
 	db 3 ; catch rate
-	db 215 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_UNKNOWN ; gender ratio
 	db 100 ; unknown 1
@@ -17,5 +17,5 @@
 	dn EGG_UNDISCOVERED, EGG_UNDISCOVERED ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, ROAR, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, BLIZZARD, HYPER_BEAM, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, SWIFT, DETECT, REST, STEEL_WING, FLY
+	tmhm CUT, STRENGTH
 	; end

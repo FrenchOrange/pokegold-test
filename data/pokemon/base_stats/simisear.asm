@@ -1,15 +1,15 @@
 	db SIMISEAR ; 020
 
-	db  85,  76,  64,  90,  45,  55
+	db  75,  98,  63, 101,  98,  63
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
-	db 90 ; catch rate
-	db 116 ; base exp
+	db FIRE, FIRE ; type
+	db 75 ; catch rate
+	db 174 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F50 ; gender ratio
+	db GENDER_F12_5 ; gender ratio
 	db 100 ; unknown 1
-	db 15 ; step cycles to hatch
+	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/simisear/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
@@ -17,5 +17,5 @@
 	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, ROLLOUT, TOXIC, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, RETURN, DIG, SHADOW_BALL, MUD_SLAP, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, THUNDERPUNCH, DETECT, REST, ATTRACT, THIEF, FIRE_PUNCH, FURY_CUTTER, CUT, SURF, STRENGTH
+	tmhm CUT
 	; end

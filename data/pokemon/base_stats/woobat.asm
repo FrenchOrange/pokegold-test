@@ -1,21 +1,21 @@
 	db WOOBAT ; 033
 
-	db  61,  72,  57,  65,  55,  55
+	db  55,  45,  43,  72,  55,  43
 	;   hp  atk  def  spd  sat  sdf
 
-	db POISON, POISON ; type
-	db 120 ; catch rate
-	db 118 ; base exp
+	db PSYCHIC_T, FLYING ; type
+	db 190 ; catch rate
+	db 65 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F0 ; gender ratio
+	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 20 ; step cycles to hatch
+	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/woobat/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_FIELD ; egg groups
+	db GROWTH_MEDIUM_FAST ; growth rate
+	dn EGG_FIELD, EGG_FLYING ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, BLIZZARD, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, DEFENSE_CURL, DETECT, REST, ATTRACT, THIEF, STRENGTH
+	tmhm FLY
 	; end

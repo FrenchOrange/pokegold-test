@@ -1,21 +1,21 @@
 	db STUNFISK ; 124
 
-	db  55,  45,  50,  80,  45,  65
+	db 109,  66,  84,  32,  81,  99
 	;   hp  atk  def  spd  sat  sdf
 
-	db GRASS, FLYING ; type
-	db 120 ; catch rate
-	db 136 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db GROUND, ELECTRIC ; type
+	db 75 ; catch rate
+	db 165 ; base exp
+	db NO_ITEM, SOFT_SAND ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/stunfisk/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_SLOW ; growth rate
-	dn EGG_FAIRY, EGG_GRASS ; egg groups
+	db GROWTH_MEDIUM_FAST ; growth rate
+	dn EGG_WATER_1, EGG_AMORPHOUS ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, HIDDEN_POWER, SUNNY_DAY, SWEET_SCENT, SNORE, PROTECT, GIGA_DRAIN, ENDURE, FRUSTRATION, SOLARBEAM, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, DEFENSE_CURL, REST, ATTRACT, FLASH
+	tmhm SURF
 	; end

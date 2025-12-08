@@ -1,11 +1,11 @@
 	db STOUTLAND ; 014
 
-	db  45,  25,  50,  35,  25,  25
+	db  85, 100,  90,  80,  45,  90
 	;   hp  atk  def  spd  sat  sdf
 
-	db BUG, POISON ; type
-	db 120 ; catch rate
-	db 71 ; base exp
+	db NORMAL, NORMAL ; type
+	db 45 ; catch rate
+	db 225 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -13,9 +13,9 @@
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/stoutland/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_BUG, EGG_BUG ; egg groups
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_FIELD, EGG_FIELD ; egg groups
 
 	; tm/hm learnset
-	tmhm
+	tmhm SURF, STRENGTH
 	; end

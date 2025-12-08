@@ -1,11 +1,11 @@
 	db COTTONEE ; 052
 
-	db  40,  45,  35,  90,  40,  40
+	db  40,  27,  60,  66,  37,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
-	db 255 ; catch rate
-	db 69 ; base exp
+	db GRASS, GRASS ; type
+	db 190 ; catch rate
+	db 56 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/cottonee/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_FIELD, EGG_FIELD ; egg groups
+	dn EGG_GRASS, EGG_FAIRY ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ZAP_CANNON, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SNORE, ICY_WIND, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, SHADOW_BALL, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, DREAM_EATER, DETECT, REST, ATTRACT, THIEF, NIGHTMARE
+	tmhm 
 	; end

@@ -1,11 +1,11 @@
 	db LAMPENT ; 114
 
-	db  35,  35,  40,  50,  35,  55
+	db  60,  40,  60,  55,  95,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db GRASS, FLYING ; type
-	db 255 ; catch rate
-	db 74 ; base exp
+	db GHOST, FIRE ; type
+	db 90 ; catch rate
+	db 130 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/lampent/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_SLOW ; growth rate
-	dn EGG_FAIRY, EGG_GRASS ; egg groups
+	dn EGG_AMORPHOUS, EGG_AMORPHOUS ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, HIDDEN_POWER, SUNNY_DAY, SWEET_SCENT, SNORE, PROTECT, GIGA_DRAIN, ENDURE, FRUSTRATION, SOLARBEAM, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, DEFENSE_CURL, REST, ATTRACT, FLASH
+	tmhm 
 	; end

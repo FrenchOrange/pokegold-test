@@ -1,11 +1,11 @@
 	db BEHEEYEM ; 112
 
-	db 105, 130, 120,  40,  45,  45
+	db  75,  75,  75,  40, 125,  95
 	;   hp  atk  def  spd  sat  sdf
 
-	db GROUND, ROCK ; type
-	db 60 ; catch rate
-	db 204 ; base exp
+	db PSYCHIC_TYPE, PSYCHIC_TYPE ; type
+	db 90 ; catch rate
+	db 170 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/beheeyem/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_FIELD ; egg groups
+	dn EGG_HUMANLIKE, EGG_HUMANLIKE ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, ROLLOUT, ROAR, TOXIC, ZAP_CANNON, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, BLIZZARD, HYPER_BEAM, ICY_WIND, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, EARTHQUAKE, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, FIRE_BLAST, THUNDERPUNCH, REST, ATTRACT, FIRE_PUNCH, FURY_CUTTER, SURF, STRENGTH
+	tmhm 
 	; end

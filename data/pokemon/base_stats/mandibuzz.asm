@@ -1,21 +1,21 @@
 	db MANDIBUZZ ; 136
 
-	db  70,  80,  65,  85,  90,  65
+	db 110,  65, 105,  80,  55,  95
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, PSYCHIC_TYPE ; type
+	db DARK, FLYING ; type
 	db 60 ; catch rate
-	db 149 ; base exp
+	db 179 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F50 ; gender ratio
+	db GENDER_F100 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/mandibuzz/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_FIELD, EGG_FIELD ; egg groups
+	db GROWTH_SLOW ; growth rate
+	dn EGG_FLYING, EGG_FLYING ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ZAP_CANNON, ROCK_SMASH, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, EARTHQUAKE, RETURN, PSYCHIC_M, SHADOW_BALL, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SWIFT, DREAM_EATER, REST, ATTRACT, THIEF, NIGHTMARE, STRENGTH
+	tmhm CUT, FLY
 	; end

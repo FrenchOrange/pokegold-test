@@ -1,11 +1,11 @@
 	db TERRAKION ; 145
 
-	db  90,  90,  85, 100, 125,  90
+	db  91, 129,  90, 108,  72,  90
 	;   hp  atk  def  spd  sat  sdf
 
-	db ELECTRIC, FLYING ; type
+	db ROCK, FIGHTING ; type
 	db 3 ; catch rate
-	db 216 ; base exp
+	db 255 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_UNKNOWN ; gender ratio
 	db 100 ; unknown 1
@@ -17,5 +17,5 @@
 	dn EGG_UNDISCOVERED, EGG_UNDISCOVERED ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, ROAR, TOXIC, ZAP_CANNON, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, THUNDER, RETURN, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, SWIFT, DETECT, REST, STEEL_WING, FLY, FLASH
+	tmhm CUT, STRENGTH
 	; end

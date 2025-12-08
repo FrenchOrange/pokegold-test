@@ -1,12 +1,16 @@
 	db BASCULIN ; 056
 
-	db  40,  80,  35,  70,  35,  45
+	db  70,  92,  65,  98,  80,  55
 	;   hp  atk  def  spd  sat  sdf
 
-	db FIGHTING, FIGHTING ; type
+	db WATER, WATER ; type
 	db 190 ; catch rate
-	db 74 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db 161 ; base exp
+IF DEF(_GOLD)
+	db NO_ITEM, DEEPSEATOOTH ; items
+ELIF DEF(_SILVER)
+	db NO_ITEM, DEEPSEASCALE ; items
+ENDC
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
@@ -14,8 +18,8 @@
 	INCBIN "gfx/pokemon/basculin/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_FIELD, EGG_FIELD ; egg groups
+	dn EGG_WATER_2, EGG_WATER_2 ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, TOXIC, ROCK_SMASH, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, THUNDERPUNCH, DETECT, REST, ATTRACT, THIEF, FIRE_PUNCH, STRENGTH
+	tmhm CUT, SURF, WATERFALL, DIVE
 	; end

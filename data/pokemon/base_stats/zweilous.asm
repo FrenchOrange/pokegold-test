@@ -1,21 +1,21 @@
 	db ZWEILOUS ; 140
 
-	db  30,  80,  90,  55,  55,  45
+	db  72,  85,  70,  58,  65,  70
 	;   hp  atk  def  spd  sat  sdf
 
-	db ROCK, WATER ; type
+	db DARK, DRAGON ; type
 	db 45 ; catch rate
-	db 119 ; base exp
+	db 147 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F12_5 ; gender ratio
+	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 30 ; step cycles to hatch
+	db 40 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/zweilous/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_WATER_1, EGG_WATER_3 ; egg groups
+	db GROWTH_SLOW ; growth rate
+	dn EGG_DRAGON, EGG_DRAGON ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, ROLLOUT, TOXIC, ROCK_SMASH, HIDDEN_POWER, SNORE, BLIZZARD, ICY_WIND, PROTECT, RAIN_DANCE, GIGA_DRAIN, ENDURE, FRUSTRATION, RETURN, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SANDSTORM, REST, ATTRACT, THIEF
+	tmhm STRENGTH
 	; end

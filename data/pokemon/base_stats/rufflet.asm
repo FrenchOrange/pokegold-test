@@ -1,21 +1,21 @@
 	db RUFFLET ; 133
 
-	db  55,  45,  45,  15,  25,  25
+	db  70,  83,  50,  60,  37,  50
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, GROUND ; type
-	db 255 ; catch rate
-	db 52 ; base exp
+	db NORMAL, FLYING ; type
+	db 190 ; catch rate
+	db 70 ; base exp
 	db NO_ITEM, NO_ITEM ; items
-	db GENDER_F50 ; gender ratio
+	db GENDER_F0 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/rufflet/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_WATER_1, EGG_FIELD ; egg groups
+	db GROWTH_SLOW ; growth rate
+	dn EGG_FLYING, EGG_FLYING ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, ROLLOUT, TOXIC, ROCK_SMASH, HIDDEN_POWER, SNORE, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, EARTHQUAKE, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, SLUDGE_BOMB, SANDSTORM, DEFENSE_CURL, REST, ATTRACT, SURF, FLASH, DIVE
+	tmhm CUT, FLY, STRENGTH
 	; end

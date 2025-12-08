@@ -1,21 +1,21 @@
 	db BISHARP ; 131
 
-	db 130,  85,  80,  60,  85,  95
+	db  65, 125, 100,  70,  60,  70
 	;   hp  atk  def  spd  sat  sdf
 
-	db WATER, ICE ; type
+	db DARK, STEEL ; type
 	db 45 ; catch rate
-	db 219 ; base exp
+	db 172 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 40 ; step cycles to hatch
+	db 20 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/bisharp/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_SLOW ; growth rate
-	dn EGG_MONSTER, EGG_WATER_1 ; egg groups
+	db GROWTH_MEDIUM_FAST ; growth rate
+	dn EGG_HUMANLIKE, EGG_HUMANLIKE ; egg groups
 
 	; tm/hm learnset
-	tmhm HEADBUTT, CURSE, TOXIC, ZAP_CANNON, ROCK_SMASH, HIDDEN_POWER, SNORE, BLIZZARD, HYPER_BEAM, ICY_WIND, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, IRON_TAIL, DRAGONBREATH, THUNDER, RETURN, PSYCHIC_M, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, DREAM_EATER, REST, ATTRACT, NIGHTMARE, SURF, STRENGTH, DIVE
+	tmhm CUT
 	; end

@@ -1,12 +1,12 @@
 	db AMOONGUSS ; 097
 
-	db  85,  73,  70,  67,  73, 115
+	db 114,  85,  70,  30,  85,  80
 	;   hp  atk  def  spd  sat  sdf
 
-	db PSYCHIC_TYPE, PSYCHIC_TYPE ; type
+	db GRASS, POISON ; type
 	db 75 ; catch rate
-	db 165 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db 162 ; base exp
+	db TINYMUSHROOM, BIG_MUSHROOM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
 	db 20 ; step cycles to hatch
@@ -14,8 +14,8 @@
 	INCBIN "gfx/pokemon/amoonguss/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
 	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_HUMANLIKE, EGG_HUMANLIKE ; egg groups
+	dn EGG_GRASS, EGG_GRASS ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, TOXIC, ZAP_CANNON, PSYCH_UP, HIDDEN_POWER, SUNNY_DAY, SNORE, HYPER_BEAM, PROTECT, RAIN_DANCE, ENDURE, FRUSTRATION, RETURN, PSYCHIC_M, SHADOW_BALL, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, THUNDERPUNCH, DREAM_EATER, REST, ATTRACT, FIRE_PUNCH, NIGHTMARE, FLASH
+	tmhm 
 	; end

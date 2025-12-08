@@ -1,21 +1,21 @@
 	db WHIRLIPEDE ; 050
 
-	db  10,  55,  25,  95,  35,  45
+	db  40,  55,  99,  47,  40,  79
 	;   hp  atk  def  spd  sat  sdf
 
-	db GROUND, GROUND ; type
-	db 255 ; catch rate
-	db 81 ; base exp
-	db NO_ITEM, NO_ITEM ; items
+	db BUG, POISON ; type
+	db 120 ; catch rate
+	db 126 ; base exp
+	db PECHA_BERRY, POISON_BARB ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 20 ; step cycles to hatch
+	db 15 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/whirlipede/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_MEDIUM_FAST ; growth rate
-	dn EGG_FIELD, EGG_FIELD ; egg groups
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_BUG, EGG_BUG ; egg groups
 
 	; tm/hm learnset
-	tmhm CURSE, TOXIC, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, EARTHQUAKE, RETURN, DIG, MUD_SLAP, DOUBLE_TEAM, SWAGGER, SLEEP_TALK, SLUDGE_BOMB, REST, ATTRACT, THIEF, CUT
+	tmhm 
 	; end

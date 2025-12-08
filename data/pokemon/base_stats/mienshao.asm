@@ -1,21 +1,21 @@
 	db MIENSHAO ; 126
 
-	db  55,  70,  55,  85,  40,  55
+	db  65, 125,  60, 105,  95,  60
 	;   hp  atk  def  spd  sat  sdf
 
-	db NORMAL, NORMAL ; type
+	db FIGHTING, FIGHTING ; type
 	db 45 ; catch rate
-	db 94 ; base exp
+	db 179 ; base exp
 	db NO_ITEM, NO_ITEM ; items
 	db GENDER_F50 ; gender ratio
 	db 100 ; unknown 1
-	db 20 ; step cycles to hatch
+	db 25 ; step cycles to hatch
 	db 5 ; unknown 2
 	INCBIN "gfx/pokemon/mienshao/front.dimensions"
 	dw NULL, NULL ; unused (beta front/back pics)
-	db GROWTH_FAST ; growth rate
-	dn EGG_FIELD, EGG_FIELD ; egg groups
+	db GROWTH_MEDIUM_SLOW ; growth rate
+	dn EGG_FIELD, EGG_HUMANLIKE ; egg groups
 
 	; tm/hm learnset
-	tmhm DYNAMICPUNCH, HEADBUTT, CURSE, TOXIC, ZAP_CANNON, ROCK_SMASH, HIDDEN_POWER, SUNNY_DAY, SNORE, PROTECT, ENDURE, FRUSTRATION, IRON_TAIL, THUNDER, RETURN, SHADOW_BALL, MUD_SLAP, DOUBLE_TEAM, ICE_PUNCH, SWAGGER, SLEEP_TALK, SWIFT, DEFENSE_CURL, THUNDERPUNCH, DREAM_EATER, DETECT, REST, ATTRACT, THIEF, FIRE_PUNCH, FURY_CUTTER, NIGHTMARE, CUT, STRENGTH
+	tmhm STRENGTH
 	; end
