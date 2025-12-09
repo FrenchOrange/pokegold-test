@@ -36,6 +36,9 @@ Route17GateLassText:
 	cont "only be done now!"
 	done
 
+Route17GateBulletin:
+	end
+
 Route17Gate_MapEvents:
 	db 0, 0 ; filler
 
@@ -48,6 +51,8 @@ Route17Gate_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event  4,  2, BGEVENT_READ, Route17GateBulletin
+	bg_event  5,  2, BGEVENT_READ, Route17GateBulletin
 
 	def_object_events
 	object_event  8,  2, SPRITE_LINK_RECEPTIONIST, SPRITEMOVEDATA_STANDING_DOWN, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route17GateReceptionist, -1

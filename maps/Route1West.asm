@@ -4,6 +4,12 @@ Route1West_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
+	callback MAPCALLBACK_TILES, Route1BlockCallback
+
+Route1BlockCallback:
+	changeblock 22, 18, $0f
+	changeblock 22, 20, $0f
+	endcallback
 
 Route1WestSign:
 	jumptext Route1WestSignText
