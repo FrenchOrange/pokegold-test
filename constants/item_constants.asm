@@ -77,128 +77,88 @@
 	const SHINY_STONE  ; 45
 	const DUSK_STONE   ; 46
 	const ICE_STONE    ; 47
-	const TINYMUSHROOM ; 48
-	const BIG_MUSHROOM ; 49
-	const PEARL        ; 4a
+	const OVAL_STONE   ; 48
+	const TINYMUSHROOM ; 49
+	const BIG_MUSHROOM ; 4a
+	const PEARL        ; 4b
 	const BIG_PEARL    ; 4b
-	const STARDUST     ; 4c
-	const STAR_PIECE   ; 4d
-	const NUGGET       ; 4e
-	const HEART_SCALE  ; 4f
-	const MAIL         ; 50
-	const CHERI_BERRY  ; 51
-	const CHESTO_BERRY ; 52
-	const PECHA_BERRY  ; 53
-	const RAWST_BERRY  ; 54
-	const ASPEAR_BERRY ; 55
-	const LEPPA_BERRY  ; 56
-	const ORAN_BERRY   ; 57
-	const PERSIM_BERRY ; 58
-	const LUM_BERRY    ; 59
-	const SITRUS_BERRY ; 5a
-	const BRIGHTPOWDER ; 5b
-	const EXP_SHARE    ; 5c
-	const QUICK_CLAW   ; 5d
-	const SILVERPOWDER ; 5e
-	const AMULET_COIN  ; 5f
-	const CLEANSE_TAG  ; 60
-	const SMOKE_BALL   ; 61
-	const FOCUS_BAND   ; 62
-	const EVERSTONE    ; 63
-	const EVIOLITE     ; 64
-	const LUCKY_EGG    ; 65
-	const SCOPE_LENS   ; 66
-	const LEFTOVERS    ; 67
-	const SOFT_SAND    ; 68
-	const HARD_STONE   ; 69
-	const MIRACLE_SEED ; 6a
-	const BLACKGLASSES ; 6b
-	const BLACK_BELT_I ; 6c
-	const MAGNET       ; 6d
-	const MYSTIC_WATER ; 6e
-	const SHARP_BEAK   ; 6f
-	const POISON_BARB  ; 70
-	const NEVERMELTICE ; 71
-	const SPELL_TAG    ; 72
-	const TWISTEDSPOON ; 73
-	const CHARCOAL     ; 74
-	const DRAGON_FANG  ; 75
-	const SILK_SCARF   ; 76
-	const METAL_POWDER ; 77
-	const DEEPSEATOOTH ; 78
-	const DEEPSEASCALE ; 79
-	const ELECTIRIZER  ; 7a
-	const MAGMARIZER   ; 7b
-	const RAZOR_CLAW   ; 7c
-	const RAZOR_FANG   ; 7d
-	const PLASMA_DRIVE ; 7e
-	const PLUME_FOSSIL ; 7f
-	const COVER_FOSSIL ; 80
-	const RELIC_COPPER ; 81
-	const RELIC_SILVER ; 82
-	const RELIC_GOLD   ; 83
-	const RELIC_VASE   ; 84
-	const RELIC_BAND   ; 85
-	const RELIC_STATUE ; 86
-	const RELIC_CROWN  ; 87
-	const CASTELIACONE ; 88
-	const RAGECANDYBAR ; 89
-	const BICYCLE      ; 8a
-	const ITEMFINDER   ; 8b
-	const COIN_CASE    ; 8c
-	const SUPER_ROD    ; 8d
-	const LIGHT_STONE  ; 8e
-	const DARK_STONE   ; 8f
-	const DRAGON_SKULL ; 90
-	const GRAM         ; 91
-	const LIBERTY_PASS ; 92
-	const ITEM_06      ; (TEMP) 06
-	const ITEM_19      ; (TEMP) 19
-	const ITEM_1E      ; (TEMP) 1e
-	const ITEM_2D      ; (TEMP) 2d
-	const ITEM_32      ; (TEMP) 32
-	const ITEM_38      ; (TEMP) 38
-	const ITEM_3A      ; (TEMP) 3a
-	const ITEM_3B      ; (TEMP) 3b
-	const ITEM_42      ; (TEMP) 42
-	const ITEM_43      ; (TEMP) 43
-	const ITEM_45      ; (TEMP) 45
-	const ITEM_46      ; (TEMP) 46
-	const ITEM_52      ; (TEMP) 52
-	const ITEM_67      ; (TEMP) 67
-	const ITEM_69      ; (TEMP) 69
-	const ITEM_76      ; (TEMP) 76
-	const ITEM_7F      ; (TEMP) 7f
-	const ITEM_80      ; (TEMP) 80
-	const ITEM_81      ; (TEMP) 81
-	const ITEM_85      ; (TEMP) 85
-	const ITEM_8F      ; (TEMP) 8f
-	const ITEM_91      ; (TEMP) 91
-	const ITEM_97      ; (TEMP) 97
-	const ITEM_99      ; (TEMP) 99
-	const ITEM_9A      ; (TEMP) 9a
-	const ITEM_9B      ; (TEMP) 9b
-	const ITEM_9C      ; (TEMP) 9c
-	const ITEM_A2      ; (TEMP) a2
-	const ITEM_AA      ; (TEMP) aa
-	const ITEM_AB      ; (TEMP) ab
-	const ITEM_AC      ; (TEMP) ac
-	const ITEM_B0      ; (TEMP) b0
-	const ITEM_B3      ; (TEMP) b3
-	const ITEM_B4      ; (TEMP) b4
-	const ITEM_B5      ; (TEMP) b5
-	const ITEM_B6      ; (TEMP) b6
-	const ITEM_B7      ; (TEMP) b7
-	const ITEM_B8      ; (TEMP) b8
-	const ITEM_B9      ; (TEMP) b9
-	const ITEM_BA      ; (TEMP) ba
-	const ITEM_BB      ; (TEMP) bb
-	const ITEM_BC      ; (TEMP) bc
-	const ITEM_BD      ; (TEMP) bd
-	const ITEM_BE      ; (TEMP) be
-	const ITEM_C3      ; (TEMP) c3
-	const ITEM_DC      ; (TEMP) dc
-	const ITEM_FA      ; (TEMP) fa
+	const STARDUST     ; 4d
+	const STAR_PIECE   ; 4e
+	const NUGGET       ; 4f
+	const HEART_SCALE  ; 50
+	const MAIL         ; 51
+	const CHERI_BERRY  ; 52
+	const CHESTO_BERRY ; 53
+	const PECHA_BERRY  ; 54
+	const RAWST_BERRY  ; 55
+	const ASPEAR_BERRY ; 56
+	const LEPPA_BERRY  ; 57
+	const ORAN_BERRY   ; 58
+	const PERSIM_BERRY ; 59
+	const LUM_BERRY    ; 5a
+	const SITRUS_BERRY ; 5b
+	const BRIGHTPOWDER ; 5c
+	const EXP_SHARE    ; 5d
+	const QUICK_CLAW   ; 5e
+	const SILVERPOWDER ; 5f
+	const AMULET_COIN  ; 60
+	const CLEANSE_TAG  ; 61
+	const SMOKE_BALL   ; 62
+	const FOCUS_BAND   ; 63
+	const EVERSTONE    ; 64
+	const EVIOLITE     ; 65
+	const LUCKY_EGG    ; 66
+	const SCOPE_LENS   ; 67
+	const METAL_COAT   ; 68
+	const LEFTOVERS    ; 69
+	const SOFT_SAND    ; 6a
+	const HARD_STONE   ; 6b
+	const MIRACLE_SEED ; 6c
+	const BLACKGLASSES ; 6d
+	const BLACK_BELT_I ; 6e
+	const MAGNET       ; 6f
+	const MYSTIC_WATER ; 70
+	const SHARP_BEAK   ; 71
+	const POISON_BARB  ; 72
+	const NEVERMELTICE ; 73
+	const SPELL_TAG    ; 74
+	const TWISTEDSPOON ; 75
+	const CHARCOAL     ; 76
+	const DRAGON_FANG  ; 77
+	const SILK_SCARF   ; 78
+	const METAL_POWDER ; 79
+	const DEEPSEATOOTH ; 7a
+	const DEEPSEASCALE ; 7b
+	const ELECTIRIZER  ; 7c
+	const MAGMARIZER   ; 7d
+	const RAZOR_CLAW   ; 7e
+	const RAZOR_FANG   ; 7f
+	const PLASMA_DRIVE ; 80
+	const PLUME_FOSSIL ; 81
+	const COVER_FOSSIL ; 82
+	const RELIC_COPPER ; 83
+	const RELIC_SILVER ; 84
+	const RELIC_GOLD   ; 85
+	const RELIC_VASE   ; 86
+	const RELIC_BAND   ; 87
+	const RELIC_STATUE ; 88
+	const RELIC_CROWN  ; 89
+	const CASTELIACONE ; 8a
+	const RAGECANDYBAR ; 8b
+	const BICYCLE      ; 8c
+	const ITEMFINDER   ; 8d
+	const COIN_CASE    ; 8e
+	const SUPER_ROD    ; 8f
+	const LIGHT_STONE  ; 90
+	const DARK_STONE   ; 91
+	const DRAGON_SKULL ; 92
+	const GRAM         ; 93
+	const LIBERTY_PASS ; 94
+	const ITEM_95      ; 95
+	const ITEM_96      ; 96
+	const ITEM_97      ; 97
+	const ITEM_98      ; 98
+	const ITEM_99      ; 99
 DEF NUM_ITEMS EQU const_value - 1
 
 DEF __tmhm_value__ = 1
@@ -285,12 +245,12 @@ MACRO add_hm
 ENDM
 
 DEF HM01 EQU const_value
-	add_hm CUT          ; f3
-	add_hm FLY          ; f4
-	add_hm SURF         ; f5
-	add_hm STRENGTH     ; f6
-	add_hm WATERFALL    ; f7
-	add_hm DIVE         ; f8
+	add_hm CUT          ; f9
+	add_hm FLY          ; fa
+	add_hm SURF         ; fb
+	add_hm STRENGTH     ; fc
+	add_hm WATERFALL    ; fd
+	add_hm DIVE         ; fe
 DEF NUM_HMS EQU __tmhm_value__ - NUM_TMS - 1
 
 DEF NUM_TM_HM EQU NUM_TMS + NUM_HMS

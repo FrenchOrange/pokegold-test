@@ -975,7 +975,7 @@ WeezingEvosAttacks:
 	db 0 ; no more level-up moves
 
 HappinyEvosAttacks:
-	db EVOLVE_LEVEL, 30, CHANSEY
+	db EVOLVE_HOLDING, OVAL_STONE, 1, CHANSEY
 	db 0 ; no more evolutions
 	db 1, TACKLE
 	db 0 ; no more level-up moves

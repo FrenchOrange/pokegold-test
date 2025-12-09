@@ -88,8 +88,6 @@ SpecialsPointers::
 	add_special DayCareMon2
 	add_special SelectRandomBugContestContestants
 	add_special ActivateFishingSwarm
-	add_special GiveShuckle
-	add_special ReturnShuckie
 	add_special BillsGrandfather
 	add_special CheckPokerus
 	add_special DisplayCoinCaseBalance

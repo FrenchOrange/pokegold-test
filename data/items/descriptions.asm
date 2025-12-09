@@ -72,6 +72,7 @@ ItemDescriptions:
 	dw EvoStoneDesc
 	dw EvoStoneDesc
 	dw EvoStoneDesc
+	dw EvoStoneDesc
 	dw TinyMushroomDesc
 	dw BigMushroomDesc
 	dw PearlDesc
@@ -103,6 +104,7 @@ ItemDescriptions:
 	dw EvioliteDesc
 	dw LuckyEggDesc
 	dw ScopeLensDesc
+	dw MetalCoatDesc
 	dw LeftoversDesc
 	dw SoftSandDesc
 	dw HardStoneDesc
@@ -147,48 +149,6 @@ ItemDescriptions:
 	dw DragonSkullDesc
 	dw GramDesc
 	dw LibertyPassDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
-	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
 	dw TeruSamaDesc
@@ -567,6 +527,10 @@ ScopeLensDesc:
 RazorClawDesc:
 	db   "Raises critical"
 	next "hit ratio. (HOLD)@"
+
+MetalCoatDesc:
+	db   "Powers up steel-"
+	next "type moves. (HOLD)@"
 
 LeftoversDesc:
 	db   "Restores HP during"

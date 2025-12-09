@@ -85,6 +85,7 @@ ItemEffects:
 	dw EvoStoneEffect      ; SHINY_STONE
 	dw EvoStoneEffect      ; DUSK_STONE
 	dw EvoStoneEffect      ; ICE_STONE
+	dw NoEffect            ; OVAL_STONE
 	dw NoEffect            ; TINYMUSHROOM
 	dw NoEffect            ; BIG_MUSHROOM
 	dw NoEffect            ; PEARL
@@ -116,6 +117,7 @@ ItemEffects:
 	dw NoEffect            ; EVIOLITE
 	dw NoEffect            ; LUCKY_EGG
 	dw NoEffect            ; SCOPE_LENS
+	dw NoEffect            ; METAL_COAT
 	dw NoEffect            ; LEFTOVERS
 	dw NoEffect            ; SOFT_SAND
 	dw NoEffect            ; HARD_STONE
@@ -160,53 +162,11 @@ ItemEffects:
 	dw NoEffect            ; DRAGON_SKULL
 	dw NoEffect            ; GRAM
 	dw NoEffect            ; LIBERTY_PASS
-	dw NoEffect            ; ITEM_06
-	dw NoEffect            ; ITEM_19
-	dw NoEffect            ; ITEM_1E
-	dw NoEffect            ; ITEM_2D
-	dw NoEffect            ; ITEM_32
-	dw NoEffect            ; ITEM_38
-	dw NoEffect            ; ITEM_3A
-	dw NoEffect            ; ITEM_3B
-	dw NoEffect            ; ITEM_42
-	dw NoEffect            ; ITEM_43
-	dw NoEffect            ; ITEM_45
-	dw NoEffect            ; ITEM_46
-	dw NoEffect            ; ITEM_52
-	dw NoEffect            ; ITEM_67
-	dw NoEffect            ; ITEM_69
-	dw NoEffect            ; ITEM_76
-	dw NoEffect            ; ITEM_7F
-	dw NoEffect            ; ITEM_8O
-	dw NoEffect            ; ITEM_81
-	dw NoEffect            ; ITEM_85
-	dw NoEffect            ; ITEM_8F
-	dw NoEffect            ; ITEM_91
+	dw NoEffect            ; ITEM_95
+	dw NoEffect            ; ITEM_96
 	dw NoEffect            ; ITEM_97
+	dw NoEffect            ; ITEM_98
 	dw NoEffect            ; ITEM_99
-	dw NoEffect            ; ITEM_9A
-	dw NoEffect            ; ITEM_9B
-	dw NoEffect            ; ITEM_9C
-	dw NoEffect            ; ITEM_A2
-	dw NoEffect            ; ITEM_AA
-	dw NoEffect            ; ITEM_AB
-	dw NoEffect            ; ITEM_AC
-	dw NoEffect            ; ITEM_B0
-	dw NoEffect            ; ITEM_B3
-	dw NoEffect            ; ITEM_B4
-	dw NoEffect            ; ITEM_B5
-	dw NoEffect            ; ITEM_B6
-	dw NoEffect            ; ITEM_B7
-	dw NoEffect            ; ITEM_B8
-	dw NoEffect            ; ITEM_B9
-	dw NoEffect            ; ITEM_BA
-	dw NoEffect            ; ITEM_BB
-	dw NoEffect            ; ITEM_BC
-	dw NoEffect            ; ITEM_BD
-	dw NoEffect            ; ITEM_BE
-	dw NoEffect            ; ITEM_C3
-	dw NoEffect            ; ITEM_DC
-	dw NoEffect            ; ITEM_FA
 	assert_table_length NUM_ITEMS
 
 PokeBallEffect:
