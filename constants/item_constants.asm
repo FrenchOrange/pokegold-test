@@ -180,57 +180,101 @@ ENDM
 
 ; see data/moves/tmhm_moves.asm for moves
 DEF TM01 EQU const_value
-	add_tm DYNAMICPUNCH ; (TEMP) bf
-	add_tm HEADBUTT     ; (TEMP) c0
-	add_tm CURSE        ; (TEMP) c1
-	add_tm ROLLOUT      ; (TEMP) c2
-	add_tm ROAR         ; (TEMP) c4
-	add_tm TOXIC        ; (TEMP) c5
-	add_tm ZAP_CANNON   ; (TEMP) c6
-	add_tm ROCK_SMASH   ; (TEMP) c7
-	add_tm PSYCH_UP     ; (TEMP) c8
-	add_tm HIDDEN_POWER ; (TEMP) c9
-	add_tm SUNNY_DAY    ; (TEMP) ca
-	add_tm SWEET_SCENT  ; (TEMP) cb
-	add_tm SNORE        ; (TEMP) cc
-	add_tm BLIZZARD     ; (TEMP) cd
-	add_tm HYPER_BEAM   ; (TEMP) ce
-	add_tm ICY_WIND     ; (TEMP) cf
-	add_tm PROTECT      ; (TEMP) d0
-	add_tm RAIN_DANCE   ; (TEMP) d1
-	add_tm GIGA_DRAIN   ; (TEMP) d2
-	add_tm ENDURE       ; (TEMP) d3
-	add_tm FRUSTRATION  ; (TEMP) d4
-	add_tm SOLARBEAM    ; (TEMP) d5
-	add_tm IRON_TAIL    ; (TEMP) d6
-	add_tm DRAGONBREATH ; (TEMP) d7
-	add_tm THUNDER      ; (TEMP) d8
-	add_tm EARTHQUAKE   ; (TEMP) d9
-	add_tm RETURN       ; (TEMP) da
-	add_tm DIG          ; (TEMP) db
-	add_tm PSYCHIC_M    ; (TEMP) dd
-	add_tm SHADOW_BALL  ; (TEMP) de
-	add_tm MUD_SLAP     ; (TEMP) df
-	add_tm DOUBLE_TEAM  ; (TEMP) e0
-	add_tm ICE_PUNCH    ; (TEMP) e1
-	add_tm SWAGGER      ; (TEMP) e2
-	add_tm SLEEP_TALK   ; (TEMP) e3
-	add_tm SLUDGE_BOMB  ; (TEMP) e4
-	add_tm SANDSTORM    ; (TEMP) e5
-	add_tm FIRE_BLAST   ; (TEMP) e6
-	add_tm SWIFT        ; (TEMP) e7
-	add_tm DEFENSE_CURL ; (TEMP) e8
-	add_tm THUNDERPUNCH ; (TEMP) e9
-	add_tm DREAM_EATER  ; (TEMP) ea
-	add_tm DETECT       ; (TEMP) eb
-	add_tm REST         ; (TEMP) ec
-	add_tm ATTRACT      ; (TEMP) ed
-	add_tm THIEF        ; (TEMP) ee
-	add_tm STEEL_WING   ; (TEMP) ef
-	add_tm FIRE_PUNCH   ; (TEMP) f0
-	add_tm FURY_CUTTER  ; (TEMP) f1
-	add_tm NIGHTMARE    ; (TEMP) f2
-	add_tm FLASH        ; (TEMP) f7
+	add_tm DYNAMICPUNCH ; (TEMP) 9a
+	add_tm HEADBUTT     ; (TEMP) 9b
+	add_tm CURSE        ; (TEMP) 9c
+	add_tm ROLLOUT      ; (TEMP) 9d
+	add_tm ROAR         ; 9e
+	add_tm TOXIC        ; 9f
+	add_tm ZAP_CANNON   ; (TEMP) a0
+	add_tm MIRROR_COAT  ; (TEMP) a1
+	add_tm MAGNITUDE    ; (TEMP) a2
+	add_tm HIDDEN_POWER ; a3
+	add_tm SUNNY_DAY    ; a4
+	add_tm SWEET_SCENT  ; (TEMP) a5
+	add_tm ICE_BEAM     ; a6
+	add_tm BLIZZARD     ; a7
+	add_tm HYPER_BEAM   ; a8
+	add_tm LIGHT_SCREEN ; a9
+	add_tm PROTECT      ; aa
+	add_tm RAIN_DANCE   ; ab
+	add_tm GIGA_DRAIN   ; (TEMP) ac
+	add_tm SAFEGUARD    ; ad
+	add_tm FRUSTRATION  ; ae
+	add_tm SOLARBEAM    ; af
+	add_tm IRON_TAIL    ; (TEMP) b0
+	add_tm THUNDERBOLT  ; b1
+	add_tm THUNDER      ; b2
+	add_tm EARTHQUAKE   ; b3
+	add_tm RETURN       ; b4
+	add_tm DIG          ; b5
+	add_tm PSYCHIC_M    ; b6
+	add_tm SHADOW_BALL  ; b7
+	add_tm MUD_SLAP     ; (TEMP) b8
+	add_tm DOUBLE_TEAM  ; b9
+	add_tm REFLECT      ; ba
+	add_tm DRAGONBREATH ; (TEMP) bb
+	add_tm FLAMETHROWER ; bc
+	add_tm SLUDGE_BOMB  ; bd
+	add_tm SANDSTORM    ; be
+	add_tm FIRE_BLAST   ; bf
+	add_tm SWIFT        ; (TEMP) c0
+	add_tm DEFENSE_CURL ; (TEMP) c1
+	add_tm THUNDERPUNCH ; (TEMP) c2
+	add_tm MEGAHORN     ; (TEMP) c3
+	add_tm DETECT       ; (TEMP) c4
+	add_tm REST         ; c5
+	add_tm ATTRACT      ; c6
+	add_tm THIEF        ; c7
+	add_tm STEEL_WING   ; (TEMP) c8
+	add_tm FIRE_PUNCH   ; (TEMP) c9
+	add_tm FURY_CUTTER  ; (TEMP) ca
+	add_tm NIGHTMARE    ; (TEMP) cb
+	add_tm PAY_DAY      ; (TEMP) cc
+	add_tm MEGA_KICK    ; (TEMP) cd
+	add_tm ROLLING_KICK ; (TEMP) ce
+	add_tm DRILL_PECK   ; (TEMP) cf
+	add_tm SUBMISSION   ; (TEMP) d0
+	add_tm TELEPORT     ; (TEMP) d1
+	add_tm MIMIC        ; (TEMP) d2
+	add_tm BONE_CLUB    ; (TEMP) d3
+	add_tm CLAMP        ; (TEMP) d4
+	add_tm SPIKE_CANNON ; (TEMP) d5
+	add_tm KINESIS      ; (TEMP) d6
+	add_tm GLARE        ; (TEMP) d7
+	add_tm BARRAGE      ; (TEMP) d8
+	add_tm BONEMERANG   ; (TEMP) d9
+	add_tm CONVERSION   ; (TEMP) da
+	add_tm SKETCH       ; (TEMP) db
+	add_tm TRIPLE_KICK  ; (TEMP) dc
+	add_tm MIND_READER  ; (TEMP) dd
+	add_tm SNORE        ; (TEMP) de
+	add_tm FLASH        ; (TEMP) df
+	add_tm CONVERSION2  ; (TEMP) e0
+	add_tm AEROBLAST    ; (TEMP) e1
+	add_tm THUNDER_WAVE ; e2
+	add_tm OCTAZOOKA    ; (TEMP) e3
+	add_tm SWORDS_DANCE ; e4
+	add_tm SPIKES       ; (TEMP) e5
+	add_tm PSYCH_UP     ; e6
+	add_tm FORESIGHT    ; (TEMP) e7
+	add_tm MILK_DRINK   ; (TEMP) e8
+	add_tm ROCK_SLIDE   ; e9
+	add_tm SLEEP_TALK   ; (TEMP) ea
+	add_tm HEAL_BELL    ; (TEMP) eb
+	add_tm PRESENT      ; (TEMP) ec
+	add_tm SACRED_FIRE  ; (TEMP) ed
+	add_tm DREAM_EATER  ; ee
+	add_tm CROSS_CHOP   ; (TEMP) ef
+	add_tm SWAGGER      ; f0
+	add_tm EXTREMESPEED ; (TEMP) f1
+	add_tm ANCIENTPOWER ; (TEMP) f2
+	add_tm SUBSTITUTE   ; f3
+	add_tm BATON_PASS   ; (TEMP) f4
+	add_tm FUTURE_SIGHT ; (TEMP) f5
+	add_tm BEAT_UP      ; (TEMP) f6
+	add_tm ROCK_SMASH   ; f7
+	add_tm MOONLIGHT    ; (TEMP) f8
 DEF NUM_TMS EQU __tmhm_value__ - 1
 
 MACRO add_hm

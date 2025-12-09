@@ -2621,7 +2621,7 @@ wSafariTimeRemaining:: dw
 
 wPhoneList:: ds CONTACT_LIST_SIZE + 1
 
-	ds 22
+	ds 3
 
 wLuckyNumberShowFlag:: db
 	ds 1
@@ -2647,12 +2647,8 @@ wBackupWarpNumber:: db
 wBackupMapGroup::   db
 wBackupMapNumber::  db
 
-	ds 3
-
 wLastSpawnMapGroup:: db
 wLastSpawnMapNumber:: db
-
-	ds 2
 
 wWarpNumber:: db
 wMapGroup:: db
@@ -2690,7 +2686,7 @@ wPartyMon{d:n}Nickname:: ds MON_NAME_LENGTH
 endr
 wPartyMonNicknamesEnd::
 
-	ds 22
+	ds 2
 
 wPokedexCaught:: flag_array NUM_POKEMON
 wEndPokedexCaught::
