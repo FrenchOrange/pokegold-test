@@ -1,6 +1,6 @@
 <PLAYER> is<LINE>moving around energetically!
 <PLAYER> looks happy<LINE>to meet <POKEMON>!
-<PLAYER> seems to want<LINE>to join <POKEMON>'s party...
+<PLAYER> seems to want<LINE>to join <POKEMON>'s party…
 Would you like to add<LINE>the Pokémon to your party?
 Would you like <PLAYER><LINE>to move to the Deepest Clearing?
 There's no more room in the Deepest<LINE>Clearing, so <PLAYER> could not move!

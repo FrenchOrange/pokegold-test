@@ -3,8 +3,8 @@ If you are a Trainer, will you show me<LINE>how you are raising your Pokémon<LI
 Oh, I understand!<LINE>You are a shy Trainer!
 Oh!<LINE>Which Pokémon will you show me?
 
-...Hmmm.<LINE>It's hard to tell...
-Well...it's a bit hard to tell how much<LINE>that Egg has grown.
+…Hmmm.<LINE>It's hard to tell…
+Well…it's a bit hard to tell how much<LINE>that Egg has grown.
 Oh! This <PLAYER> was level \xf000Ȃ\x0001\x0001<LINE>when you met, but now it's level \xf000Ȃ\x0001\x0002!
 You've raised it very well.<LINE>It's received a lot of love from you.
 You've raised it quite well.<LINE>I feel your love for this Pokémon.
@@ -16,14 +16,14 @@ What? It has not grown at all.<LINE>Still, if you travel with your Pokémon<LINE
 Welcome to the Pokémon Fan Club.<LINE>Shall I check how friendly your Pokémon<LINE>is toward you?
 
 I can't tell whether or not you and<LINE>the Egg are close friends.
-Oh, my. Your <PLAYER>...
+Oh, my. Your <PLAYER>…
 It is super friendly to you!<LINE>I'm a bit jealous!
 It is quite friendly to you!<LINE>You must be a kind person!
 It is friendly to you.<LINE>It must be happy with you.
-It is a little friendly to you...<LINE>That's what I'm getting.
-The relationship is neither good<LINE>nor bad... It looks neutral.
-Hmmm...<LINE>It may not like you very much.
-By any chance, you...<LINE>Are you a very strict person?<LINE>I feel that it really doesn't like you...
+It is a little friendly to you…<LINE>That's what I'm getting.
+The relationship is neither good<LINE>nor bad… It looks neutral.
+Hmmm…<LINE>It may not like you very much.
+By any chance, you…<LINE>Are you a very strict person?<LINE>I feel that it really doesn't like you…
 Oh, you are so shy! Come on,<LINE>don't hide your Pokémon from me.
 Muuun!
 Glibalugga!

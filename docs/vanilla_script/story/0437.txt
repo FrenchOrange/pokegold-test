@@ -2,13 +2,13 @@ Professor Juniper: This is a<LINE>Pokémon Center!<LINE>Don't you feel better as
 Bianca: Ooh, wait for me!
 Professor Juniper: A Pokémon Center is a<LINE>truly incredible place!<LINE>Do you know why?<LINE>Because your Pokémon can be healed!<LINE><LINE>And, what's more, it's absolutely free!<LINE>A Pokémon Center is a Trainer's<LINE>best friend!<LINE>Here, <PLAYER>, give it a try.
 Professor Juniper: Hey, <PLAYER>.<LINE>Where are you off to?<LINE>Humor me and talk to the lady at the<LINE>counter. Let her take your Pokémon.
-Professor Juniper: You should be talking<LINE>to the lady at the counter, not to me...
+Professor Juniper: You should be talking<LINE>to the lady at the counter, not to me…
 Bianca: All you need to do is give her<LINE>your Pokémon, <PLAYER>.
 Professor Juniper: OK. Now that your<LINE>Pokémon have rested, I'll show you how<LINE><LINE>to use the PC at a Pokémon Center.
 Professor Juniper: This is the PC.<LINE>It's free for any Trainer to use.<LINE>You can store Pokémon in your PC Boxes<LINE>or select Pokémon stored in your<LINE><LINE>PC Boxes to take along with you.<LINE>In addition, if you catch a new Pokémon<LINE>while you have six Pokémon traveling<LINE><LINE>with you, the Pokémon you just caught is<LINE><LINE>sent automatically to the PC network!<LINE>Surprising, isn't it? Amazing, even.<LINE>Here's something else that's cool.<LINE>If you select my PC, I'll evaluate the<LINE>progress you've made on your Pokédex!
-Bianca: Professor...<LINE>It says “Someone's PC"<LINE>on the screen. Who is Someone?
-Professor Juniper: Very good, Bianca.<LINE>That's a great observation!<LINE>Good question, and I'd like to say more,<LINE>but for now, just ignore that and<LINE><LINE>go ahead and use the PC.<LINE>“Someone" is the person who made the<LINE>Pokémon Storage System.<LINE>...Someone I'm sure you'll meet someday!<LINE>OK, let's move on!
+Bianca: Professor…<LINE>It says “Someone's PC"<LINE>on the screen. Who is Someone?
+Professor Juniper: Very good, Bianca.<LINE>That's a great observation!<LINE>Good question, and I'd like to say more,<LINE>but for now, just ignore that and<LINE><LINE>go ahead and use the PC.<LINE>“Someone" is the person who made the<LINE>Pokémon Storage System.<LINE>…Someone I'm sure you'll meet someday!<LINE>OK, let's move on!
 Professor Juniper: Now, this is the<LINE>Poké Mart.<LINE>This is the place to buy useful items and<LINE>sell the ones you don't need anymore!<LINE>That gentleman over there will<LINE>help you with a smile!
-Professor Juniper: So, let's<LINE>wrap this up.<LINE>I've given you the basics of being<LINE>a Trainer!<LINE>I'm going to head back to Nuvema Town.<LINE>One final thing...<LINE>When you get to Striaton City, go and<LINE>meet an inventor named Fennel.<LINE>She's a friend of mine from long ago, and<LINE>I'm sure she'll help you on your way!<LINE>Best of luck! I hope that your journeys<LINE>prove to be the adventure of a lifetime!
-Bianca: Ooh! What should I buy?<LINE>Potions and Poké Balls are definitely<LINE>important. Ummm...thinking...
+Professor Juniper: So, let's<LINE>wrap this up.<LINE>I've given you the basics of being<LINE>a Trainer!<LINE>I'm going to head back to Nuvema Town.<LINE>One final thing…<LINE>When you get to Striaton City, go and<LINE>meet an inventor named Fennel.<LINE>She's a friend of mine from long ago, and<LINE>I'm sure she'll help you on your way!<LINE>Best of luck! I hope that your journeys<LINE>prove to be the adventure of a lifetime!
+Bianca: Ooh! What should I buy?<LINE>Potions and Poké Balls are definitely<LINE>important. Ummm…thinking…
 Be sure to save what's happened up<LINE>to this point before you forget.<LINE><LINE>Then you can take a break.

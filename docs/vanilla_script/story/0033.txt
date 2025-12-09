@@ -1,11 +1,11 @@
 Burgh: That way!<LINE>M'hm. There, heading toward the Gym?!
 
 
-When work's finally over...<LINE>When my thrown Poké Ball rocks three<LINE>times and I hear that great “click"...<LINE>My life is full of things that give me joy!
-I'm a battling Clerk ⑭!<LINE>...But my Pokémon are weak.
+When work's finally over…<LINE>When my thrown Poké Ball rocks three<LINE>times and I hear that great “click"…<LINE>My life is full of things that give me joy!
+I'm a battling Clerk ⑭!<LINE>…But my Pokémon are weak.
 Busy, busy!<LINE>After I eat breakfast, I have to think<LINE>about lunch.<LINE>After eating lunch, I worry about dinner.<LINE>Every day's the same. What a busy life!
 Hey there, Trainer!<LINE>Are your Pokémon healthy?<LINE>Being healthy's the best, because when<LINE>you're healthy, you can do anything!
-...Grumble, grumble, grumble.<LINE>Should I change my Pokémon's moves,<LINE>or should I change my Pokémon?<LINE>Grumble, grumble...
+…Grumble, grumble, grumble.<LINE>Should I change my Pokémon's moves,<LINE>or should I change my Pokémon?<LINE>Grumble, grumble…
 Castelia City has so many people!<LINE>Sometimes there are people who are only<LINE>interested in themselves.
 My favorite way to spend my lunch break<LINE>is watching ships at the dock.
 Working women are beautiful, and<LINE>battling Pokémon are wonderful!
@@ -17,5 +17,5 @@ Ahead: Castelia Street<LINE>Ocean Side: Cruise Dock
 Ahead: Mode Street<LINE>Ocean Side: Prime Pier
 Ahead: Narrow Street<LINE>Ocean Side: Unity Pier
 Ahead: Pokémon Gym<LINE>Ocean Side: Liberty Pier
-Passerby Analytics HQ<LINE>...People pass by as they walk along.
+Passerby Analytics HQ<LINE>…People pass by as they walk along.
 Battle Company<LINE>Talented Trainers Welcome!

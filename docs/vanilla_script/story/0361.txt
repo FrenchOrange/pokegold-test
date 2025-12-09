@@ -1,6 +1,6 @@
-Cheren: <PLAYER>, stop!<LINE>You've got a Bolt Badge...<LINE>I've got a Bolt Badge...<LINE>Let's test who's stronger--you or me!<LINE>This time, I'm going to win!
+Cheren: <PLAYER>, stop!<LINE>You've got a Bolt Badge…<LINE>I've got a Bolt Badge…<LINE>Let's test who's stronger--you or me!<LINE>This time, I'm going to win!
 Cheren: Why?<LINE>Why can't I beat you?
-Elesa: Oh, you two are friends...<LINE>That's nice, how you're helping each<LINE>other get better by competing.
+Elesa: Oh, you two are friends…<LINE>That's nice, how you're helping each<LINE>other get better by competing.
 OK, let's go.
 ???: Oh!<LINE>Why, if it isn't Elesa!
 ???: Aren't festivals grand?<LINE>Life should be enjoyed!
@@ -11,10 +11,10 @@ Alder: I heard that remark.<LINE>You're quite a judgmental young person,<LINE><L
 Cheren: Um. I'm Cheren, from<LINE>Nuvema Town.<LINE>My goal as a Trainer is to<LINE>become the Champion.
 Alder: Hm. Traveling with a goal in mind<LINE>is a commendable thing.<LINE>And what do you plan to do<LINE>after becoming the Champion?
 Cheren: What else is there other than<LINE>striving to become stronger?<LINE>The strongest Trainer--<LINE>that's the Champion.
-Alder: Hmm. Becoming stronger...<LINE>Becoming stronger, you say...<LINE><LINE>Is that alone enough of a goal? Hmmm.<LINE>It's not that I'm trying to say your way<LINE>of thinking is wrong...
+Alder: Hmm. Becoming stronger…<LINE>Becoming stronger, you say…<LINE><LINE>Is that alone enough of a goal? Hmmm.<LINE>It's not that I'm trying to say your way<LINE>of thinking is wrong…
 In my travels, I've helped many people<LINE>learn to love Pokémon. I think that's<LINE><LINE>important, too.<LINE>If you play with those children,<LINE>you might gain more of an understanding.<LINE>Will you two have a Pokémon battle<LINE>with those two?
 Hey, you two. Come<LINE>here for a moment.
-Cheren: ...Understood.<LINE>But, before that...
+Cheren: …Understood.<LINE>But, before that…
 Cheren fully healed <LINE><PLAYER>'s Pokémon!
 Cheren: OK, let's battle.
 Alder: Nicely done! You didn't win, but<LINE>that was a good battle. Your Pokémon<LINE><LINE>looked like they were having fun.
@@ -25,25 +25,25 @@ I was scared of Pokémon, but Alder<LINE>taught me that they're nice and friendl
 Elesa: Let's roll.<LINE>The Driftveil Drawbridge is just ahead.
 Cheren: The Champion is the strongest<LINE>of the strong! That's all there is to it.
 Cheren: This way.
-Elesa: Now to contact him...
-It's me, Elesa.<LINE>Please lower the drawbridge.<LINE>I have a couple of Trainers here<LINE>who want to challenge you.<LINE>OK...<LINE>Thanks.
+Elesa: Now to contact him…
+It's me, Elesa.<LINE>Please lower the drawbridge.<LINE>I have a couple of Trainers here<LINE>who want to challenge you.<LINE>OK…<LINE>Thanks.
 Now, watch this!
-Elesa: I have a TV gig, so I've got to go.<LINE>The Gym Leader of the next town<LINE>may take some getting used to...<LINE><LINE>Do your best, both of you.
+Elesa: I have a TV gig, so I've got to go.<LINE>The Gym Leader of the next town<LINE>may take some getting used to…<LINE><LINE>Do your best, both of you.
 Cheren: What I am is a Trainer.<LINE>I prove I'm right by getting stronger<LINE>and winning in battle--<LINE><LINE>even against the Champion.
 Excuse me!<LINE>Please stop right there!
-The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to Driftveil's Gym<LINE>Leader, Clay, he could... Well, I'm not<LINE><LINE>sure how you'd reach him over there...<LINE>If you talk to Nimbasa City's Gym Leader,<LINE>Elesa, she might be able to do something.
-The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to Driftveil's Gym<LINE>Leader, Clay, he could... Well, I'm not<LINE><LINE>sure how you'd reach him over there...<LINE>If you talk to Nimbasa City's Gym Leader,<LINE>Elesa, she might be able to do something.
-A bridge would be meaningless<LINE>if no one ever crossed it.<LINE>Bridges connect the world...<LINE>That's as solid as a symbol can get.
+The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to Driftveil's Gym<LINE>Leader, Clay, he could… Well, I'm not<LINE><LINE>sure how you'd reach him over there…<LINE>If you talk to Nimbasa City's Gym Leader,<LINE>Elesa, she might be able to do something.
+The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to Driftveil's Gym<LINE>Leader, Clay, he could… Well, I'm not<LINE><LINE>sure how you'd reach him over there…<LINE>If you talk to Nimbasa City's Gym Leader,<LINE>Elesa, she might be able to do something.
+A bridge would be meaningless<LINE>if no one ever crossed it.<LINE>Bridges connect the world…<LINE>That's as solid as a symbol can get.
 Hum fiercely! My battle song!<LINE>Battle fiercely! My Pokémon!
-In battling you, I came to understand...<LINE>You're the best!<LINE>Here! This is for you!
+In battling you, I came to understand…<LINE>You're the best!<LINE>Here! This is for you!
 
 
 If you want your Pokémon to<LINE>hold this Electric Guitar,<LINE><LINE>go to the Musical Theater!<LINE><LINE>Cooler than cool!
 Cheren: Strength and strength alone<LINE>is what matters in this world.<LINE>So I believed, until I met Alder here.
 But, winning in Pokémon battles<LINE>isn't all there is to life.<LINE>Once I learned that lesson, my eyes<LINE>were opened to many different things.
-We all have our own brand of strength,<LINE>people and Pokémon both.<LINE>The strength to make our dreams<LINE>a reality, the strength to protect<LINE><LINE>what we hold most dear...
-Why do I think this way now?<LINE>It's thanks to you, <PLAYER>...<LINE>And Bianca...<LINE>And Alder...<LINE>If only N could see this, too, someday.
-I'm going to take a long, hard look<LINE>at myself on Victory Road.<LINE>I'm going to think about what I can do<LINE>and who I can become...<LINE>Visit me sometime, if you want.<LINE>We'll have a battle like old times.
+We all have our own brand of strength,<LINE>people and Pokémon both.<LINE>The strength to make our dreams<LINE>a reality, the strength to protect<LINE><LINE>what we hold most dear…
+Why do I think this way now?<LINE>It's thanks to you, <PLAYER>…<LINE>And Bianca…<LINE>And Alder…<LINE>If only N could see this, too, someday.
+I'm going to take a long, hard look<LINE>at myself on Victory Road.<LINE>I'm going to think about what I can do<LINE>and who I can become…<LINE>Visit me sometime, if you want.<LINE>We'll have a battle like old times.
 The Pokémon and the performers<LINE>all have amazing moves!
 I think being able to make people<LINE>smile is a super-awesome talent!<LINE>That's why Pokémon are so awesome!<LINE>Because they can make you smile!
 The street performers are my favorites.<LINE>They're so charming!

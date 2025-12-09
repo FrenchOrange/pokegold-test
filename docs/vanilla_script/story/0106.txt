@@ -5,9 +5,9 @@ Hey, hey! Let's jump on this! We'll trade<LINE>my <POKEMON> with your <PLAYER>!
 Let's start the Pokémon trade!
 Please take good care of my <POKEMON>!
 What I want is <PLAYER>.
-Oh...<LINE>You must love your Pokémon.<LINE>Well, if you ever change your mind,<LINE>let's trade!
+Oh…<LINE>You must love your Pokémon.<LINE>Well, if you ever change your mind,<LINE>let's trade!
 I'll raise the Pokémon you traded me!<LINE>If you become extra strong, I just might<LINE>let you have a battle with me!
 Hey, hey! Let's jump on this! <LINE>My \xf000Ă\x0001\x0000 and your Pokémon battle!
 I trained and trained the \xf000Ă\x0001\x0000<LINE>that you traded me! Don't be surprised<LINE><LINE>if it's too strong for you to handle!
-Oh... You don't feel like having a battle?<LINE>Well, if you ever change your mind, come<LINE>back and battle me!
-When I train \xf000Ă\x0001\x0000, it reminds me<LINE>of you...<LINE>Thanks for the trade!
+Oh… You don't feel like having a battle?<LINE>Well, if you ever change your mind, come<LINE>back and battle me!
+When I train \xf000Ă\x0001\x0000, it reminds me<LINE>of you…<LINE>Thanks for the trade!

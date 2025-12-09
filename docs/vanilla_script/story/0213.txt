@@ -3,19 +3,19 @@ Cedric: That building serenely towering<LINE>over everything is Dragonspiral Tow
 Bianca: Hey, <PLAYER>!
 Cedric: Oh, <PLAYER>!<LINE>And you must be Bianca.<LINE>I'm the other Professor Juniper.<LINE>The Professor Juniper who gave you<LINE>the Pokédex is my daughter.
 Bianca: Nice to meet you, professor!<LINE>Thanks to Professor Juniper,<LINE>I got to go on a journey and start<LINE><LINE>figuring out possibilities for my life.<LINE>I'm very, very grateful to her!
-Cedric: Is that right? Grand, grand.<LINE>Actually, we should chat later.<LINE><PLAYER>, Bianca,<LINE>here's the situation.<LINE>Some members of Team Plasma--quite<LINE>a large group--broke through the<LINE><LINE>tower wall and went inside.<LINE>Brycen and that young man--<LINE>I believe his name is Cheren--<LINE><LINE>the two of them went after<LINE><LINE>Team Plasma, but...
+Cedric: Is that right? Grand, grand.<LINE>Actually, we should chat later.<LINE><PLAYER>, Bianca,<LINE>here's the situation.<LINE>Some members of Team Plasma--quite<LINE>a large group--broke through the<LINE><LINE>tower wall and went inside.<LINE>Brycen and that young man--<LINE>I believe his name is Cheren--<LINE><LINE>the two of them went after<LINE><LINE>Team Plasma, but…
 Bianca: Professor, what's the<LINE>Dragonspiral Tower?
-Cedric: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>Dragonspiral Tower has stood tall since<LINE>long before Unova was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type Pokémon waits for<LINE><LINE>a person seeking truth to appear...<LINE>That's what is said.
-Cedric: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>Dragonspiral Tower has stood tall since<LINE>long before Unova was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type Pokémon waits for<LINE><LINE>a person pursuing ideals to appear...<LINE>That's what is said.
+Cedric: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>Dragonspiral Tower has stood tall since<LINE>long before Unova was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type Pokémon waits for<LINE><LINE>a person seeking truth to appear…<LINE>That's what is said.
+Cedric: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>Dragonspiral Tower has stood tall since<LINE>long before Unova was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type Pokémon waits for<LINE><LINE>a person pursuing ideals to appear…<LINE>That's what is said.
 Are you going to go after Team Plasma<LINE>like your friend did?<LINE>It's admirable of you to join the fight<LINE>against Team Plasma, but it's risky, too.
-Bianca: Don't worry!<LINE><PLAYER> and Cheren are both<LINE>really, really strong, and they've<LINE><LINE>beaten Team Plasma before.<LINE>But...I'm not all that strong, actually.<LINE>I admit it. I'm not very strong, so<LINE><LINE>I was thinking...<LINE>It would be nice if, maybe, I could...<LINE>Stay here and be your bodyguard?
+Bianca: Don't worry!<LINE><PLAYER> and Cheren are both<LINE>really, really strong, and they've<LINE><LINE>beaten Team Plasma before.<LINE>But…I'm not all that strong, actually.<LINE>I admit it. I'm not very strong, so<LINE><LINE>I was thinking…<LINE>It would be nice if, maybe, I could…<LINE>Stay here and be your bodyguard?
 Cedric: Why, thank you!<LINE>That makes me feel much safer!<LINE>Well, <PLAYER>!<LINE>It's up to you! Climb the tower!
 
 
 This is all I can give you,<LINE>but it might help you rest!
-Cedric: Still...<LINE>What could Team Plasma be after?
-Cedric: Still...<LINE>What could Team Plasma be after?
-Bianca: <PLAYER>...<LINE>Please don't do anything crazy.
+Cedric: Still…<LINE>What could Team Plasma be after?
+Cedric: Still…<LINE>What could Team Plasma be after?
+Bianca: <PLAYER>…<LINE>Please don't do anything crazy.
 
 
 
@@ -27,22 +27,22 @@ Bianca: <PLAYER>...<LINE>Please don't do anything crazy.
 
 
 
-Cedric: Astounding...<LINE>I never would have imagined the legendary<LINE>Dragon-type Pokémon would return now...
-Cheren: That guy called N...<LINE>Team Plasma's boss apparently<LINE>reawakened the legendary Pokémon.<LINE>He told <PLAYER> to look for the other<LINE>legendary Pokémon, then flew away...
+Cedric: Astounding…<LINE>I never would have imagined the legendary<LINE>Dragon-type Pokémon would return now…
+Cheren: That guy called N…<LINE>Team Plasma's boss apparently<LINE>reawakened the legendary Pokémon.<LINE>He told <PLAYER> to look for the other<LINE>legendary Pokémon, then flew away…
 Bianca: Huh?<LINE>There are two legendary<LINE>Dragon-type Pokémon?
 ???: Yes! Yes, there are!
 Cedric: Why, if it isn't Alder!<LINE>It's been a while! Have you been well?
 
-Alder: No time for chitchat!<LINE>That fearsome column of fire that<LINE>shot from the tower...<LINE>That Pokémon has the power to<LINE>destroy the world!<LINE>If it's on Team Plasma's side, and<LINE>Team Plasma tells everyone<LINE><LINE>to release their Pokémon...<LINE>No matter whether it comes from fear<LINE>or admiration...<LINE>The world can't help but change.<LINE>It will become a world where we are<LINE>separated from Pokémon...
-Alder: No time for chitchat!<LINE>Those violent flashes of lightning<LINE>that shot from the tower...<LINE>That Pokémon has the power to<LINE>destroy the world!<LINE>If it's on Team Plasma's side, and<LINE>Team Plasma tells everyone<LINE><LINE>to release their Pokémon...<LINE>No matter whether it comes from fear<LINE>or admiration...<LINE>The world can't help but change.<LINE>It will become a world where we are<LINE>separated from Pokémon...
-Cedric: Right...<LINE>Moreover, the boss of Team Plasma,<LINE>N, who reawakened Reshiram,<LINE><LINE>apparently said to look for the<LINE><LINE>other Pokémon, Zekrom.
-Cedric: Right...<LINE>Moreover, the boss of Team Plasma,<LINE>N, who reawakened Zekrom,<LINE><LINE>apparently said to look for the<LINE><LINE>other Pokémon, Reshiram.
+Alder: No time for chitchat!<LINE>That fearsome column of fire that<LINE>shot from the tower…<LINE>That Pokémon has the power to<LINE>destroy the world!<LINE>If it's on Team Plasma's side, and<LINE>Team Plasma tells everyone<LINE><LINE>to release their Pokémon…<LINE>No matter whether it comes from fear<LINE>or admiration…<LINE>The world can't help but change.<LINE>It will become a world where we are<LINE>separated from Pokémon…
+Alder: No time for chitchat!<LINE>Those violent flashes of lightning<LINE>that shot from the tower…<LINE>That Pokémon has the power to<LINE>destroy the world!<LINE>If it's on Team Plasma's side, and<LINE>Team Plasma tells everyone<LINE><LINE>to release their Pokémon…<LINE>No matter whether it comes from fear<LINE>or admiration…<LINE>The world can't help but change.<LINE>It will become a world where we are<LINE>separated from Pokémon…
+Cedric: Right…<LINE>Moreover, the boss of Team Plasma,<LINE>N, who reawakened Reshiram,<LINE><LINE>apparently said to look for the<LINE><LINE>other Pokémon, Zekrom.
+Cedric: Right…<LINE>Moreover, the boss of Team Plasma,<LINE>N, who reawakened Zekrom,<LINE><LINE>apparently said to look for the<LINE><LINE>other Pokémon, Reshiram.
 Alder: If I remember the myth,<LINE>Reshiram's fiery breath,<LINE><LINE>along with the other Pokémon,<LINE><LINE>devastated ancient Unova in an instant.<LINE>Even knowing that, N is still<LINE>wanting to awaken the other?!
 Alder: If I remember the myth,<LINE>Zekrom's powerful electricity,<LINE><LINE>along with the other Pokémon,<LINE><LINE>devastated ancient Unova in an instant.<LINE>Even knowing that, N is still<LINE>wanting to awaken the other?!
 Bianca: H-huh?!<LINE>Isn't it dangerous to bring back<LINE>a Pokémon that powerful?
-Alder: Miss, you are a very kind person.<LINE>Still, I don't know if other Pokémon<LINE>will be able to stand up to it.<LINE>Because, no matter what,<LINE>it is a legendary being...<LINE>I don't like the idea of taking orders<LINE>from N, but searching for the dragon--<LINE><LINE>the stone--might not be a bad plan.<LINE>We certainly can't let Team Plasma<LINE>reawaken both of them!<LINE>Since I've traveled all over Unova,<LINE>I have an idea of where it might be.<LINE>Let's head to the Relic Castle.<LINE><PLAYER>, everyone, I'm going!
+Alder: Miss, you are a very kind person.<LINE>Still, I don't know if other Pokémon<LINE>will be able to stand up to it.<LINE>Because, no matter what,<LINE>it is a legendary being…<LINE>I don't like the idea of taking orders<LINE>from N, but searching for the dragon--<LINE><LINE>the stone--might not be a bad plan.<LINE>We certainly can't let Team Plasma<LINE>reawaken both of them!<LINE>Since I've traveled all over Unova,<LINE>I have an idea of where it might be.<LINE>Let's head to the Relic Castle.<LINE><PLAYER>, everyone, I'm going!
 Cedric: I see. We'll leave that to you.<LINE>I'm going to investigate inside the tower.<LINE>Hopefully, I'll find something.
 Brycen: Then, I will go with you.
-Cheren: I think I understand better now.<LINE>Being able to do something for Pokémon--<LINE>for somebody at a time like this--is<LINE><LINE>strength... I'm sure of it.<LINE>And my strength is something that is<LINE>given to me by Pokémon.<LINE>OK, Champion, let's hurry!
-Bianca: <PLAYER>,<LINE>this has turned into a big deal.<LINE>So confusing... I dunno what to do...<LINE>Are you gonna go to the<LINE>Relic Castle, <PLAYER>?<LINE>Past Route 4, in the Desert Resort...<LINE>I hear that's where the Relic Castle is...
-Bianca: <PLAYER>,<LINE>look for the Desert Resort past Route 4.<LINE><LINE>I hear that's where the Relic Castle is...
+Cheren: I think I understand better now.<LINE>Being able to do something for Pokémon--<LINE>for somebody at a time like this--is<LINE><LINE>strength… I'm sure of it.<LINE>And my strength is something that is<LINE>given to me by Pokémon.<LINE>OK, Champion, let's hurry!
+Bianca: <PLAYER>,<LINE>this has turned into a big deal.<LINE>So confusing… I dunno what to do…<LINE>Are you gonna go to the<LINE>Relic Castle, <PLAYER>?<LINE>Past Route 4, in the Desert Resort…<LINE>I hear that's where the Relic Castle is…
+Bianca: <PLAYER>,<LINE>look for the Desert Resort past Route 4.<LINE><LINE>I hear that's where the Relic Castle is…

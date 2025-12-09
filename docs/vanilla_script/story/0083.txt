@@ -1,10 +1,10 @@
 
 Welcome to the musical!<LINE>I'm very pleased with your participation!<LINE>Participants for this musical are:
 \xf000Ā\x0001\x0003 will participate<LINE>with \xf000ā\x0001\x0002!
-And the show you'll be performing<LINE>is \xf000Ģ\x0001\x0000.<LINE>That is a popular show<LINE>among \xf000ģ\x0001\x0001.<LINE>Well, without further ado...<LINE>Let's play Dress Up!
+And the show you'll be performing<LINE>is \xf000Ģ\x0001\x0000.<LINE>That is a popular show<LINE>among \xf000ģ\x0001\x0001.<LINE>Well, without further ado…<LINE>Let's play Dress Up!
 I guess everyone is ready.<LINE>Let's go up on stage!
 Good job!<LINE>The Pokémon were in total sync!<LINE>It was the best musical ever! I am the<LINE>owner, but even I was greatly moved.<LINE>Since it's the best musical ever seen,<LINE>we have received many comments from<LINE><LINE>the audience!<LINE>There are comments for everyone,<LINE>so let me give them to you in order!
-Hmmm... Good job!<LINE>It was a great musical!<LINE>In fact, I've received comments for you<LINE>from the audience!<LINE>I am really pleased.<LINE>I will give them to you in order!
+Hmmm… Good job!<LINE>It was a great musical!<LINE>In fact, I've received comments for you<LINE>from the audience!<LINE>I am really pleased.<LINE>I will give them to you in order!
 Good job!<LINE>It was quite an interesting musical!<LINE>I've received comments for you<LINE>from the audience!<LINE>Well, I am so pleased.<LINE>I will give them to you in order!
 Good job!<LINE>It was a musical with some very<LINE>exciting moments!<LINE>By the way, I received comments for you<LINE>from the audience.<LINE>I am quite pleased.<LINE>I will give them to you in order.
 <PLAYER>'s Dress Up performance<LINE>was very \xf000ģ\x0001\x0001!
@@ -14,5 +14,5 @@ The Pokémon used Props to convey such<LINE>abundant expression, just as if they
 Watching your Pokémon's sharp moves,<LINE>I also felt \xf000ģ\x0001\x0001!
 Your Pokémon played its role very well.
 It looked like your Pokémon was making an<LINE>effort to live up to your expectations.<LINE>I will support your Pokémon on the side!
-It was not highly noticeable...<LINE>But I liked it! Keep it up!
+It was not highly noticeable…<LINE>But I liked it! Keep it up!
 Thank you very much for participating in<LINE>the musical today!<LINE>Please join another musical again!<LINE>Have a great day!

@@ -1,6 +1,6 @@
 How is your Pokédex coming along?<LINE>Can I see it?
-Let me see...<LINE>Oh, you've seen \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
-Let me see...<LINE>Oh, you've caught \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
+Let me see…<LINE>Oh, you've seen \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
+Let me see…<LINE>Oh, you've caught \xf000Ȃ\x0001\x0000 Pokémon in the<LINE>Unova region!
 This Pokédex is full of memories from your<LINE>journey. It's a treasure you can cherish<LINE><LINE>for your entire life.
 If you want to meet more Pokémon, you<LINE>should try walking through tall grass!
 It seems a little more like a Pokédex now!<LINE>You're getting off to a good start!
@@ -8,7 +8,7 @@ Some Pokémon are hard to find, but don't<LINE>give up! Keep checking the tall g
 Some Pokémon are only found in<LINE>certain caves!<LINE>You might want to go back and search<LINE>caves you've already passed through.
 Trainers have a lot of different Pokémon.<LINE>So battling them is a great way to fill up<LINE>your Pokédex, too!
 Wow, it's getting really full!<LINE>I'm sure looking over your Pokédex will<LINE>bring back memories of your journey.
-Over 100 Pokémon...<LINE>It's so much fun looking over all their<LINE>different characteristics!
+Over 100 Pokémon…<LINE>It's so much fun looking over all their<LINE>different characteristics!
 That is an excellent Pokédex!<LINE>Just a little more and it will be full!
 What a wonderful Pokédex!<LINE>A little more work, and it'll be complete!<LINE>I'm really glad I asked you to do this!
 Amazing! Truly amazing!<LINE>You've met all of the Pokémon in the<LINE>Unova region!<LINE>Congratulations!<LINE>Now here's your next challenge: see how<LINE>many of those Pokémon you can catch!<LINE><LINE>I'll keep evaluating for you!
@@ -30,8 +30,8 @@ You've caught so many Pokémon.<LINE>You might know more than me now!<LINE>I'm r
 With just a little more effort, you will<LINE>complete a perfect Pokédex!<LINE><LINE>You've come this far, so do your best!
 Amazing! Absolutely amazing!<LINE>You've caught every Pokémon<LINE>in the Unova region!<LINE>Congratulations!!
 So you're here to show me how your<LINE>Pokédex is coming along, right?
-I see!<LINE>You've caught \xf000Ȃ\x0001\x0000 Pokémon, then...
-Oh, really...<LINE>If you want me to have a look at<LINE>your Pokédex, come here again!
+I see!<LINE>You've caught \xf000Ȃ\x0001\x0000 Pokémon, then…
+Oh, really…<LINE>If you want me to have a look at<LINE>your Pokédex, come here again!
 Nationally, there are more than<LINE>600 Pokémon!<LINE>You'll have to be persistent and<LINE>catch them at your own pace.
 First, you might want to revisit places<LINE>you've already been.<LINE>Retrace your steps in the Unova region<LINE>and see what new Pokémon turn up!
 Remember Rule No. 1! To catch a Pokémon,<LINE>you first have to reduce its HP.<LINE>You're pretty good at this now,<LINE>but don't forget the basics!
@@ -43,9 +43,9 @@ There are several ways for Pokémon to<LINE>evolve. Some Pokémon even evolve<LI
 Have you heard of mass outbreaks?<LINE>Big groups of Pokémon appear during a<LINE>mass outbreak. It's a great chance to<LINE><LINE>catch them!
 You've caught more than 400<LINE>different Pokémon?!<LINE>That's incredible!<LINE>You're an amazing Trainer!
 Apparently, some Pokémon<LINE>evolve when they are leveled up<LINE><LINE>in a certain area.
-You've caught 500 different Pokémon...<LINE>My, the variation of these beings called<LINE>Pokémon certainly is surprising!<LINE>And the fact that you've caught so many<LINE>different kinds... That's pretty<LINE><LINE>surprising, too!
+You've caught 500 different Pokémon…<LINE>My, the variation of these beings called<LINE>Pokémon certainly is surprising!<LINE>And the fact that you've caught so many<LINE>different kinds… That's pretty<LINE><LINE>surprising, too!
 Have you been to the Poké Transfer Lab<LINE>on Route 15?<LINE>Mastering a facility like that is an<LINE>accomplishment for a Pokémon Trainer.
-Just a little more until you complete<LINE>your Pokédex, huh?<LINE>Catching this many Pokémon must mean...<LINE>You really like Pokémon, don't you!
+Just a little more until you complete<LINE>your Pokédex, huh?<LINE>Catching this many Pokémon must mean…<LINE>You really like Pokémon, don't you!
 Oh! That's a wonderful Pokédex.<LINE>How about it? Would you research Pokémon<LINE>with me?
 Oh! Just a little more until your<LINE>Pokédex is complete!<LINE>Make sure you go after the roaming<LINE>Pokémon and trade with friends to get<LINE><LINE>the ones you're missing!
-...<LINE>...<LINE>This blows me away! It's so wonderful,<LINE>I'm at a loss for words.<LINE>You... You've accomplished something<LINE>truly outstanding.<LINE>Filling up the National Pokédex makes you<LINE>a Trainer among Trainers!<LINE>I'm so happy I was able to meet a<LINE>fantastic Trainer like you!<LINE><LINE>I thank you from the bottom of my heart.
+…<LINE>…<LINE>This blows me away! It's so wonderful,<LINE>I'm at a loss for words.<LINE>You… You've accomplished something<LINE>truly outstanding.<LINE>Filling up the National Pokédex makes you<LINE>a Trainer among Trainers!<LINE>I'm so happy I was able to meet a<LINE>fantastic Trainer like you!<LINE><LINE>I thank you from the bottom of my heart.

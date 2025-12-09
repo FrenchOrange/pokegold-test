@@ -9,7 +9,7 @@ The power stored in this tree is called<LINE>Pass Power.<LINE>You can register o
 Entralink
 Pass Power
 Cancel
-Oh, someone showed up...<LINE>Welcome to the Entralink.<LINE>Hm?<LINE>Judging by the look of you, you don't<LINE>seem to know where you are.
+Oh, someone showed up…<LINE>Welcome to the Entralink.<LINE>Hm?<LINE>Judging by the look of you, you don't<LINE>seem to know where you are.
 This is an island called the Entralink.<LINE>It's located in the center of the<LINE><LINE>Unova region.<LINE>The Entralink is a mysterious place where<LINE>you can connect with someone's world.<LINE>If you go to someone's world by passing<LINE>through this island, you will be able to<LINE><LINE>meet an adventurer in the world.
 And you can help that adventurer.<LINE>Yes! If you want to help, cross a bridge<LINE>in this island and go to someone's world.<LINE>There must be someone who is waiting<LINE>for you there!
 This bridge will connect to someone<LINE>else's world.
@@ -48,6 +48,6 @@ Warp
 Cancel
 First, cross a bridge in the Entralink,<LINE>and go to someone's world.<LINE>There must be someone who is waiting<LINE>for you there.
 You've chosen a mission!<LINE>In order to accomplish the mission,<LINE><LINE>go find the adventurer!<LINE>The adventurer's location is shown on<LINE>the map below.<LINE>Touch the place on the map and you can<LINE>warp there.<LINE>Rely on the map, meet the adventurer,<LINE>and accomplish the mission!
-Wonderful! You accomplished the mission!<LINE>I didn't expect you to make it this far...<LINE>Your success brought happiness to the<LINE>Entralink, and the tree grew a little bit.<LINE>Mysterious power will gather here as this<LINE>tree grows bigger.<LINE>You may be able to receive this power!<LINE>Touch this tree and try to receive the<LINE>mysterious power...<LINE><LINE>Pass Power.
+Wonderful! You accomplished the mission!<LINE>I didn't expect you to make it this far…<LINE>Your success brought happiness to the<LINE>Entralink, and the tree grew a little bit.<LINE>Mysterious power will gather here as this<LINE>tree grows bigger.<LINE>You may be able to receive this power!<LINE>Touch this tree and try to receive the<LINE>mysterious power…<LINE><LINE>Pass Power.
 Oh, it seems you've failed in the mission.<LINE>Well, nobody's perfect.<LINE>Please cross the bridge and try it again!<LINE>The tip is to look at the map closely and<LINE>find the adventurer.
-Oooooh! You've received a Pass Power!<LINE>It's wonderful! Really wonderful!<LINE>Pass Power can help people who<LINE>passed by.<LINE>Check the Tag Log in your<LINE>C-Gear later.<LINE>...Well, that's really all I can<LINE>teach you.<LINE>The power of this Entralink is all yours.<LINE>Help a lot of adventurers via the<LINE>Entralink, and collect a lot of happiness.<LINE>Collect a lot of happiness, and get<LINE>all the powers!
+Oooooh! You've received a Pass Power!<LINE>It's wonderful! Really wonderful!<LINE>Pass Power can help people who<LINE>passed by.<LINE>Check the Tag Log in your<LINE>C-Gear later.<LINE>…Well, that's really all I can<LINE>teach you.<LINE>The power of this Entralink is all yours.<LINE>Help a lot of adventurers via the<LINE>Entralink, and collect a lot of happiness.<LINE>Collect a lot of happiness, and get<LINE>all the powers!

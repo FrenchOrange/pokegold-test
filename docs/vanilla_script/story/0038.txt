@@ -10,9 +10,9 @@ Huh? Oh, here you can buy the dessert<LINE>that everyone in Castelia City<LINE><
 How about Castelia City's famous<LINE>Casteliacone!<LINE>It's $100.<LINE>Would you like to buy one?
 Oh, you really aren't going to buy one?<LINE>They'll sell out soon!
 Thank you very much!<LINE>We hope you enjoy the cute appearance<LINE>and the naive flavor!
-Thank you very much!<LINE>...Huh? Oh, dear!<LINE>It looks like you don't have enough<LINE><LINE>money. Please come again sometime.
-Thank you very much!<LINE>...Huh? Oh, dear!<LINE>It looks like your Bag is full.<LINE>Please come again sometime.
-Even though you waited in line...<LINE>Well, please come again, OK?
+Thank you very much!<LINE>…Huh? Oh, dear!<LINE>It looks like you don't have enough<LINE><LINE>money. Please come again sometime.
+Thank you very much!<LINE>…Huh? Oh, dear!<LINE>It looks like your Bag is full.<LINE>Please come again sometime.
+Even though you waited in line…<LINE>Well, please come again, OK?
 We sell Castelia City's famous<LINE>Casteliacone here!<LINE>But the owner closes the<LINE>shop for the winter!<LINE>Please come again when it gets warm!
 Buy
 Cancel

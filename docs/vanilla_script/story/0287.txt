@@ -4,24 +4,24 @@ One can lose the forest for the trees.
 If you make a mistake and do not correct<LINE>it, that is a second mistake.
 Superior men understand what is right.<LINE>Inferior men understand what will sell.
 There are not two suns in the sky,<LINE>nor two sovereigns over the people.
-Well...<LINE>If anything should happen to our king,<LINE>it would be disastrous.<LINE>It would ruin Ghetsis's perfect plan!<LINE>Our lord N will be disappointed, but<LINE>the six of us shall defeat you here!
+Well…<LINE>If anything should happen to our king,<LINE>it would be disastrous.<LINE>It would ruin Ghetsis's perfect plan!<LINE>Our lord N will be disappointed, but<LINE>the six of us shall defeat you here!
 ???: Can ya manage that?
 Clay: Still standin', are ya, <PLAYER>?
-You...<LINE>You're Driftveil's...?!
+You…<LINE>You're Driftveil's…?!
 Clay: Hrrmph! Ain't just me!
-Lenora: So sorry...<LINE>Not only are we stronger than you,<LINE>but there are a lot of us!
+Lenora: So sorry…<LINE>Not only are we stronger than you,<LINE>but there are a lot of us!
 Accursed Gym Leaders!
-Elesa: Ignoring Team Plasma...<LINE>That would be a terrible thing<LINE>for us Gym Leaders to do.
+Elesa: Ignoring Team Plasma…<LINE>That would be a terrible thing<LINE>for us Gym Leaders to do.
 Burgh: Bianca asked us to come, too.
-Brycen: ...
+Brycen: …
 Skyla: I'm fine! Don't worry!
 Iris: No need to worry!
 Drayden: Holder of the Dark Stone,<LINE>please proceed!
 Drayden: Holder of the Light Stone,<LINE>please proceed!
 Giallo: Ghetsis called us the chosen ones.<LINE>He chose us and gathered us here<LINE>so we can change the world!<LINE><LINE>For us, defeat is impossible!
-Bronius: You shall not interfere with<LINE>Team Plasma... Or our king!
-Ryoku: We can only do our best and<LINE>leave the rest to fate.<LINE>We've done everything in our power.<LINE>All we can do now is believe in our<LINE><LINE>lord N...and wait.
-Gorm: A single fallen leaf signals the<LINE>start of autumn.<LINE>We know our history.<LINE>The emergence of this castle is<LINE>the harbinger of change in Unova...
+Bronius: You shall not interfere with<LINE>Team Plasma… Or our king!
+Ryoku: We can only do our best and<LINE>leave the rest to fate.<LINE>We've done everything in our power.<LINE>All we can do now is believe in our<LINE><LINE>lord N…and wait.
+Gorm: A single fallen leaf signals the<LINE>start of autumn.<LINE>We know our history.<LINE>The emergence of this castle is<LINE>the harbinger of change in Unova…
 Rood: Constant dripping wears away<LINE>the stone.<LINE>I've been waiting in the abyss for<LINE>this day. No one shall interfere!
 Zinzolin: It is the way of the universe to<LINE>take from excess and fill emptiness.<LINE>Taking Pokémon from people is restoring<LINE>balance to nature!
 Lenora: We have been and will continue<LINE>to be together with Pokémon.
@@ -29,6 +29,6 @@ Burgh: Your Pokémon, they are doing<LINE>their best for you, right?<LINE>Why wo
 Elesa: I do not appreciate<LINE>stubborn people.
 Clay: Things aren't gonna go th' way ya<LINE>fellas think they are!<LINE>I'm sure o' that!
 Skyla: Now! Acrobatics!!
-Brycen: ...
+Brycen: …
 Iris: I won't lose!<LINE>No way! No way! No way!
 Drayden: I can empathize with some of<LINE>what you say, but I can't forgive the<LINE><LINE>way you reject everything else!

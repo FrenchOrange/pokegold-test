@@ -3,13 +3,13 @@ You can't catch a Pokémon<LINE>if you don't have a Poké Ball!<LINE>There are m
 Skree skree!
 Hi, hi!<LINE>Let's play Pokémon rock-paper-scissors!
 Oh, that's no fun!
-Here goes!<LINE>Pokémon rock-paper-scissors...
-Your Pokémon is Fire type,<LINE>and mine is Grass type...<LINE>Grass type is weak against Fire type...<LINE>so I lose.
-Your Pokémon is Fire type,<LINE>and mine is Water type...<LINE>Fire type is weak against Water type...<LINE>so I win!
-Your Pokémon is Water type,<LINE>and mine is Fire type...<LINE>Fire type is weak against Water type...<LINE>so I lose.
-Your Pokémon is Water type,<LINE>and mine is Grass type...<LINE>Water type is weak against Grass type...<LINE>so I win!
-Your Pokémon is Grass type,<LINE>and mine is Water type...<LINE>Water type is weak against Grass type...<LINE>so I lose.
-Your Pokémon is Grass type,<LINE>and mine is Fire type...<LINE>Grass type is weak against Fire type...<LINE>so I win!
+Here goes!<LINE>Pokémon rock-paper-scissors…
+Your Pokémon is Fire type,<LINE>and mine is Grass type…<LINE>Grass type is weak against Fire type…<LINE>so I lose.
+Your Pokémon is Fire type,<LINE>and mine is Water type…<LINE>Fire type is weak against Water type…<LINE>so I win!
+Your Pokémon is Water type,<LINE>and mine is Fire type…<LINE>Fire type is weak against Water type…<LINE>so I lose.
+Your Pokémon is Water type,<LINE>and mine is Grass type…<LINE>Water type is weak against Grass type…<LINE>so I win!
+Your Pokémon is Grass type,<LINE>and mine is Water type…<LINE>Water type is weak against Grass type…<LINE>so I lose.
+Your Pokémon is Grass type,<LINE>and mine is Fire type…<LINE>Grass type is weak against Fire type…<LINE>so I win!
 FIRE
 GRASS
 WATER

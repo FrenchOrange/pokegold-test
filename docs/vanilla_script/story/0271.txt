@@ -1,30 +1,30 @@
 My favorite thing to do nowadays<LINE>is walking under the bridge!
 
-During the day, I sunbathe.<LINE>During the night, I moonbathe...<LINE><LINE>Nature sinks into my body.
+During the day, I sunbathe.<LINE>During the night, I moonbathe…<LINE><LINE>Nature sinks into my body.
 
 I will cross all the bridges in Unova!
 
-Derleth: Fweet fweet...<LINE>Fweeeeeet fweet fweet...
+Derleth: Fweet fweet…<LINE>Fweeeeeet fweet fweet…
 Derleth: What is piercing my mind is<LINE>a sad sound.<LINE>What is piercing my heart is<LINE>a cold night wind.
-Derleth: Fwee... Fwee...<LINE>Fffweeet fweet...
+Derleth: Fwee… Fwee…<LINE>Fffweeet fweet…
 Derleth: The only things that come out<LINE>of my mouth are my whistle tunes and<LINE><LINE>complaints about my life.<LINE>This bridge is a meeting place for people<LINE>like me who like to complain.
 Aickman: How about this? This sound!<LINE>Doesn't it get to your heart? Your mind?
-Aickman: I know my sound doesn't fit<LINE>this city, this town.<LINE>But I... I cannot change<LINE>my life, my style.
+Aickman: I know my sound doesn't fit<LINE>this city, this town.<LINE>But I… I cannot change<LINE>my life, my style.
 Aickman: This is my best friend, my pal.<LINE>It knows all my sorrow, all my tears.
-Aickman: Y-you have great sparkles...<LINE>Sparkles in your eyes.<LINE>Please make our hopes, our dreams,<LINE>come true for us.<LINE>Go grab the glory--go take on the world!
-Russo: La la la la la...
+Aickman: Y-you have great sparkles…<LINE>Sparkles in your eyes.<LINE>Please make our hopes, our dreams,<LINE>come true for us.<LINE>Go grab the glory--go take on the world!
+Russo: La la la la la…
 Russo: Ahem, ahem!<LINE>Now, something's not quite right.<LINE>This here microphone's all screwy.<LINE>I can sing real good, promise!
-Russo: Testing...<LINE>Check one, check two, check, check, yup.
+Russo: Testing…<LINE>Check one, check two, check, check, yup.
 Russo: Now, you're the first person in an<LINE>awful long time who's hung around to<LINE><LINE>listen and hear what I was singin' about.<LINE>Much obliged!
 Koontz: Singing gives life to my spirit.<LINE>Will you listen to the voice of my spirit?
 Koontz: Huh? Are you leaving already?<LINE>I am always here.
 Koontz: Oh, you want to listen to my song<LINE>after all! Yes!
-Koontz: My song...<LINE>Don't you like it?
+Koontz: My song…<LINE>Don't you like it?
 Welcome!<LINE>Thank you for making a reservation<LINE>for a battle!
 You are great!<LINE>I want to hire you.<LINE>What do you think?<LINE>Will you work here as a Waitress?
 You are great!<LINE>I want to hire you.<LINE>What do you think?<LINE>Will you work here as a Waiter?
 You should work here! What do you think?
-Aww... That's too bad, but I understand!
+Aww… That's too bad, but I understand!
 That's great! I'm so glad!<LINE>That said, do you already know<LINE>what you'll be doing?
 This shop is a special sandwich shop.<LINE>You'll take orders from customers.<LINE>Then, I'll make sandwiches to fill<LINE>their orders.
 You'll serve the sandwiches to the<LINE>customers who ordered them.<LINE>Please be careful, and don't serve them<LINE>to the wrong customers!
@@ -34,8 +34,8 @@ What kind of sandwich does customer<LINE>number \xf000Ȁ\x0001\x0000 want?
 Well done! Thank you!<LINE>Give me a second to make the sandwiches.
 The sandwiches are ready! Please<LINE>serve them to the correct customers.
 I think you missed a couple of people.<LINE>Please take everyone's order!
-Let me give you a review!<LINE>Your work was...<LINE>Perfect! The customers seem to<LINE>be satisfied, too.
-I have a review for you.<LINE>Your work was...<LINE>Well, you still need some practice.<LINE>But you'll get used to it soon!
+Let me give you a review!<LINE>Your work was…<LINE>Perfect! The customers seem to<LINE>be satisfied, too.
+I have a review for you.<LINE>Your work was…<LINE>Well, you still need some practice.<LINE>But you'll get used to it soon!
 This is a thank-you gift.<LINE>You've worked really hard!
 That's it for today. I would be happy if<LINE>you could come back again tomorrow!
 You're quitting? Well, that's OK.<LINE>Today is not busy, so it should be fine.
@@ -43,22 +43,22 @@ Oh! You're leaving the park.<LINE>Are you going to quit your Waitress job?
 Oh! You're leaving the park.<LINE>Are you going to quit your Waiter job?
 I'd like a \xf000ĉ\x0001\x0000 sandwich.<LINE>That's my Pokémon's favorite!
 You can eat here with your Pokémon.<LINE>It's a really good sandwich shop!
-Munch, munch...yummy!<LINE>My Pokémon is also happy.
-Munch, munch...? Hmmm.<LINE>It tastes a little different this time...
+Munch, munch…yummy!<LINE>My Pokémon is also happy.
+Munch, munch…? Hmmm.<LINE>It tastes a little different this time…
 We're really hungry today. So, a large<LINE>\xf000ĉ\x0001\x0000 sandwich, please!
 My Pokémon has a big appetite,<LINE>just like me!
-Gobble, gobble...delicious!<LINE>This is the highlight of my day!
-Gobble, gobble...delicious! But I don't<LINE>think this is what I ordered...
+Gobble, gobble…delicious!<LINE>This is the highlight of my day!
+Gobble, gobble…delicious! But I don't<LINE>think this is what I ordered…
 My Pokémon has gourmet tastes.<LINE>I'd like a \xf000ĉ\x0001\x0000 sandwich, please.
 A Berry dish for people and Pokémon!<LINE>The chef can show off her skill with it.
-Nibble, nibble...<LINE>Oh, the flavors are simply divine!
-Nibble, nibble...<LINE>Oh dear. It's lovely, but this is not<LINE>my order.
+Nibble, nibble…<LINE>Oh, the flavors are simply divine!
+Nibble, nibble…<LINE>Oh dear. It's lovely, but this is not<LINE>my order.
 Both my Pokémon and I are craving<LINE>a \xf000ĉ\x0001\x0000 sandwich! Please!
 I'm happy to be able to eat with<LINE>my Pokémon.
 Munch, munch. Open wide.<LINE>So happy!
-Munch, munch... Huh?<LINE>It tastes different.
+Munch, munch… Huh?<LINE>It tastes different.
 Myu myuweee.
-Skwee weep...
+Skwee weep…
 Pikaaaa!
 Kroooko!
 Cheri Berry

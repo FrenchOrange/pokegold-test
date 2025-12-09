@@ -5,7 +5,7 @@ This Prop Case lets you store Props for<LINE>decorating your Pokémon!<LINE>Firs
 Aw, I'm sorry, but that Pokémon can't<LINE>play Dress Up. Please choose a<LINE><LINE>different Pokémon next time.
 Hmm, I guess I get it! You are expressing<LINE>your Pokémon's innate charm by choosing<LINE><LINE>not to decorate it!<LINE>Honestly, though, I think using Props<LINE>would be better received in this musical.
 Now, now. Don't be like that.<LINE>Please reconsider and select a Pokémon!
-Then... It's time to play Dress Up!
+Then… It's time to play Dress Up!
 Wow! The two of you did a fantastic job<LINE>coordinating everything!<LINE><LINE>Utterly charming!
 If you have a Pokémon who can play<LINE>Dress Up, you can participate in the<LINE><LINE>Pokémon Musical!<LINE>Would you two please join us?<LINE>The receptionist can explain everything.<LINE>Let us say a brief farewell!<LINE>I eagerly anticipate seeing you on stage!
 Bianca: Oh, I don't know what to do!<LINE>Doing the musical would be totally cool,<LINE>but there's other stuff I wanna do.<LINE>OK, that's it! I made up my mind!<LINE>I'm going to see the sights in Nimbasa!<LINE>See ya, <PLAYER>!
@@ -13,8 +13,8 @@ We really want you to participate in<LINE>the musical!<LINE>I apologize in advan
 Wait! Please, wait!<LINE>You participated in a musical<LINE>with your friends, right?<LINE>I felt like you opened up new possibilities<LINE>for musicals!<LINE>That's why I feel impelled to give you<LINE>this present! Please accept it!
 I eagerly anticipate seeing you<LINE>on stage again!
 Your continued participation makes me<LINE>a happy owner!<LINE>You're attracting a lot of attention as<LINE>an up-and-coming stylist.<LINE>Of course, I'm watching you closely,<LINE>as well.<LINE>Please accept this as a token of<LINE>my appreciation.
-Ah, I eagerly anticipate seeing you<LINE>on stage again!<LINE>...Actually, it feels like I've said this<LINE>line before.<LINE>Well, that's OK. Because I'm the owner!
-Seeing your continued participation<LINE>makes me a happy owner.<LINE>Apparently, some audience members have<LINE>been calling you a top stylist as of late!<LINE>Best of all... How impressive am I for<LINE>recognizing your talent?<LINE>Please accept this as a token of<LINE>my gratitude!
+Ah, I eagerly anticipate seeing you<LINE>on stage again!<LINE>…Actually, it feels like I've said this<LINE>line before.<LINE>Well, that's OK. Because I'm the owner!
+Seeing your continued participation<LINE>makes me a happy owner.<LINE>Apparently, some audience members have<LINE>been calling you a top stylist as of late!<LINE>Best of all… How impressive am I for<LINE>recognizing your talent?<LINE>Please accept this as a token of<LINE>my gratitude!
 I hope you continue to enjoy the musical!
 Happy birthday!<LINE>I've got this festive Prop to give you!<LINE>It's a cake from me, the owner!<LINE>Of course, this is a Prop, so you should<LINE>attach it to your Pokémon and not eat it.<LINE>By the way, even if today isn't your<LINE>birthday, I won't take it back!<LINE>Why?<LINE>Because I'm the owner!
 I want to make Pokémon more glamorous<LINE>than ever before, so I'm researching the<LINE><LINE>styles others use when playing Dress Up.

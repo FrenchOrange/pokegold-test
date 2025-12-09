@@ -1,7 +1,7 @@
-Cheren: Oh... <PLAYER>!
-Clay: What a surprise. Seein' ya here<LINE>while I was inspectin' Twist Mountain.<LINE>Th' two of ya seem a bit more rugged<LINE>than the last time I saw ya.<LINE>A li'l bit, anyway...
+Cheren: Oh… <PLAYER>!
+Clay: What a surprise. Seein' ya here<LINE>while I was inspectin' Twist Mountain.<LINE>Th' two of ya seem a bit more rugged<LINE>than the last time I saw ya.<LINE>A li'l bit, anyway…
 Cheren: Is that so.
-Clay: By th' by... You folks seen that<LINE>Team Plasma crowd lately?<LINE>After all the trouble, we Gym Leaders<LINE>met up and had a chat.<LINE>But we've got no clue where they are.<LINE>It's like they're hidin' under a rock.<LINE>Well, not much to do but wait for 'em<LINE>to move.<LINE>Anyhow, this's none o' yer concern.<LINE>Squirts like the two of ya should just<LINE>enjoy travelin' with yer Pokémon.
-Twist Mountain's a fine place<LINE>to explore!<LINE>You'll have some fun if you just leave<LINE>this here path...<LINE>Weeell... Better ya just see it yerself,<LINE>'stead o' listenin' to me yammer.
+Clay: By th' by… You folks seen that<LINE>Team Plasma crowd lately?<LINE>After all the trouble, we Gym Leaders<LINE>met up and had a chat.<LINE>But we've got no clue where they are.<LINE>It's like they're hidin' under a rock.<LINE>Well, not much to do but wait for 'em<LINE>to move.<LINE>Anyhow, this's none o' yer concern.<LINE>Squirts like the two of ya should just<LINE>enjoy travelin' with yer Pokémon.
+Twist Mountain's a fine place<LINE>to explore!<LINE>You'll have some fun if you just leave<LINE>this here path…<LINE>Weeell… Better ya just see it yerself,<LINE>'stead o' listenin' to me yammer.
 Be seein' ya, sprouts!<LINE>Feel free to train yerselves on my<LINE>mountain fer as long's ya like.
 Cheren: I thought he was going to get us<LINE>involved in all that bother again, so I<LINE><LINE>was bracing myself before I knew it.<LINE>I'm going in first, but I'll be seeing you.

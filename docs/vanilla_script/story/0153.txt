@@ -6,11 +6,11 @@ Right now, the number of visitors in<LINE>Unity Tower is \xf000ȁ\x0001\x000b.
 Wow! So you like<LINE>\xf000Ĩ\x0001\x0006, then!
 Awesome! The ceiling is sooo high!<LINE>I wonder how many of me<LINE>you'd have to stack up to reach it?
 Coming to Unity Tower always<LINE>gets me excited!<LINE>Being here always reminds me of how big<LINE>the world really is!
-You're a new face.<LINE>Is this your first time here?<LINE>Unity Tower is the place where<LINE>Trainers come from all over the world.<LINE>That's why I work hard every day doing<LINE>security checks to protect those<LINE><LINE>young Trainers.<LINE>Don't loiter around here<LINE>and cause trouble.<LINE><LINE>...'Kay, you can pass.
+You're a new face.<LINE>Is this your first time here?<LINE>Unity Tower is the place where<LINE>Trainers come from all over the world.<LINE>That's why I work hard every day doing<LINE>security checks to protect those<LINE><LINE>young Trainers.<LINE>Don't loiter around here<LINE>and cause trouble.<LINE><LINE>…'Kay, you can pass.
 
-Seems like I've met you somewhere...<LINE>Anyway, don't get too wound up and fall.<LINE>When guests get hurt, it causes me<LINE>no end of trouble.<LINE>...'Kay, you can pass.
+Seems like I've met you somewhere…<LINE>Anyway, don't get too wound up and fall.<LINE>When guests get hurt, it causes me<LINE>no end of trouble.<LINE>…'Kay, you can pass.
 Oh! So you're a Trainer, then!<LINE>I see. You're far from family<LINE>and traveling the world, huh?<LINE>I suppose it's fine if you contact them<LINE>once in a while.<LINE>'Kay, you can pass.
-Oh, it's you.<LINE>Hmm... You like trading, do you now?<LINE>Well, that's all right, isn't it.<LINE>You're active--just like a young person<LINE><LINE>should be.<LINE>'Kay, you can pass.
+Oh, it's you.<LINE>Hmm… You like trading, do you now?<LINE>Well, that's all right, isn't it.<LINE>You're active--just like a young person<LINE><LINE>should be.<LINE>'Kay, you can pass.
 Oh, it's you.<LINE>Seems like you come here a lot.<LINE>Do you have friends all over the world?<LINE>I'd never have imagined a world like this<LINE>when I was young.<LINE>'Kay, you can pass.
 Oh, it's you, \xf000Ā\x0001\x0003!<LINE>Lately, lots of Trainers have been<LINE>looking for you.<LINE><LINE>You're just like a movie star, aren't ya?<LINE>When I was your age, the ladies<LINE>used to get worked up over me. Ha ha.<LINE>'Kay, you can pass.
 Hey, it's you, \xf000Ā\x0001\x0003!<LINE>Recently, it looks like there have been<LINE>lots of global Trainers like you.<LINE>That means--how do I put it--world peace<LINE>can't be far off!<LINE><LINE>Should I get my hopes up?<LINE>'Kay, pass on through!
@@ -19,8 +19,8 @@ Hey, \xf000Ā\x0001\x0003.<LINE>You've managed to trade with folks in<LINE>even 
 Hey, \xf000Ā\x0001\x0003.<LINE>Unity Tower is as lively as ever<LINE>with people who come here to see you.<LINE>Well, enjoy yourself today!
 Why, if it isn't \xf000Ā\x0001\x0003!<LINE>What? F-fifty countries?!<LINE>I've never seen a Trainer who has traded<LINE>with folks in over 50 countries!<LINE>How in the world did you manage that?<LINE>'Kay, please pass through--and feel free<LINE>to wander around!
 Hey, it's you, \xf000Ā\x0001\x0003.<LINE>After trading with this many people, you<LINE>must have friends all over the world!<LINE>Ha ha. If you go on a trip, no worries<LINE>about not knowing anyone, huh?<LINE>'Kay, please pass through!
-Why, if it isn't \xf000Ā\x0001\x0003!<LINE>I almost feel like I don't need to bother<LINE>with a security check for you anymore.<LINE><LINE>You can go ahead and pass.<LINE>...Gotcha!<LINE>I've been a security guard for 30 years!<LINE>I know trouble just waits for you<LINE>to let your guard down.<LINE><LINE>...'Kay, you can pass.
-Why, if it isn't \xf000Ā\x0001\x0003.<LINE>I'll just do a brief security check.<LINE>...W-what's this? Ooh, it's a kind of gum<LINE>I've never seen! Is it a new brand?<LINE><LINE>Maybe I'll buy some later.<LINE>'Kay, you can pass.
+Why, if it isn't \xf000Ā\x0001\x0003!<LINE>I almost feel like I don't need to bother<LINE>with a security check for you anymore.<LINE><LINE>You can go ahead and pass.<LINE>…Gotcha!<LINE>I've been a security guard for 30 years!<LINE>I know trouble just waits for you<LINE>to let your guard down.<LINE><LINE>…'Kay, you can pass.
+Why, if it isn't \xf000Ā\x0001\x0003.<LINE>I'll just do a brief security check.<LINE>…W-what's this? Ooh, it's a kind of gum<LINE>I've never seen! Is it a new brand?<LINE><LINE>Maybe I'll buy some later.<LINE>'Kay, you can pass.
 Why, if it isn't \xf000Ā\x0001\x0003.<LINE>Just a little more, and you'll have<LINE>traded with every place here, huh?<LINE>It's really reassuring to me that kids<LINE>like you are going to be the ones running<LINE><LINE>the world!<LINE><LINE>Just a little more to go. You can do it!<LINE>'Kay, you can pass!
 It's you, \xf000Ā\x0001\x0003!<LINE>I already heard!<LINE>You've finally managed to trade with<LINE>people from every location, right?<LINE>It might just be me, but Unity Tower<LINE>feels more exciting when you visit.<LINE><LINE>I'm sure it's happy to see you.<LINE>Hey, \xf000Ā\x0001\x0003, I'd like to give my<LINE>thanks as the Unity Tower guard for<LINE><LINE>making this building out in the middle<LINE><LINE>of nowhere so lively.<LINE>'Kay, you can pass. Think of this place<LINE>as your own backyard and feel free to go<LINE><LINE>where you please.
 Please select a floor.
@@ -37,7 +37,7 @@ I'd imagine your Pokédex is getting<LINE>pretty full, then?<LINE>Well, that's r
 Unity Tower is as lively as ever<LINE>with people who come here to see you.<LINE>Well, hope you enjoy yourself today.
 How in the world did you manage to trade<LINE>with so many different places?
 You must know a lot of people in<LINE>different places in the world.<LINE>Ha ha. Even if you go on a trip, no<LINE>worries about not knowing anyone, huh?
-I've been a guard for 30 years.<LINE>Today, all is well, too.<LINE><LINE>Mmm... That's great!
+I've been a guard for 30 years.<LINE>Today, all is well, too.<LINE><LINE>Mmm… That's great!
 I think I'll try buying that new gum<LINE>next time.
 When I see you, I suddenly feel very<LINE>sure that the future will be full of hope.
 When you visit, Unity Tower gets exciting!<LINE>Think of this place as your own backyard<LINE>and feel free to go where you please.

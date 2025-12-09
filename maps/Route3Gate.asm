@@ -9,10 +9,10 @@ Route3Gate_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  0,  3, NACRENE_CITY, 3
-	warp_event  0,  4, NACRENE_CITY, 4
-	warp_event  9,  3, ROUTE_3, 1
-	warp_event  9,  4, ROUTE_3, 2
+	warp_event  0,  4, NACRENE_CITY, 3
+	warp_event  0,  5, NACRENE_CITY, 4
+	warp_event  9,  4, ROUTE_3, 1
+	warp_event  9,  5, ROUTE_3, 2
 
 	def_coord_events
 

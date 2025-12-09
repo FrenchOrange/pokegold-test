@@ -1,12 +1,12 @@
 Cheren: <PLAYER>!<LINE>Since we both hold the Jet Badge now,<LINE>let's see which of us is stronger!
 Alder: That was a fine Pokémon battle!<LINE>I'm happy to see you are both growing<LINE>as Trainers!
-Cheren: If it isn't the Champion, Alder.<LINE>I'm weak, so I lost!<LINE>...And, honestly, it bothers me when you<LINE>call it a fine battle despite that.
+Cheren: If it isn't the Champion, Alder.<LINE>I'm weak, so I lost!<LINE>…And, honestly, it bothers me when you<LINE>call it a fine battle despite that.
 Alder: Oh, honestly, Cheren.<LINE>Just accept the compliment without the<LINE>stinging remark.<LINE>I've asked you this before, but what do<LINE>you plan to do after becoming strong?
 Cheren: If I get strong and become a<LINE>Champion, that will be the reason for<LINE><LINE>my existence.<LINE><LINE>I want to prove that I'm really living.
-Alder: Hmmm...<LINE>You remind me of Marshal.<LINE>Of course, having something you want<LINE>to become is important.<LINE>But what is even more important is<LINE>what you do with your newfound power.<LINE>Anyway, take this!
+Alder: Hmmm…<LINE>You remind me of Marshal.<LINE>Of course, having something you want<LINE>to become is important.<LINE>But what is even more important is<LINE>what you do with your newfound power.<LINE>Anyway, take this!
 Here--you, too.
 Alder: If you use the move Surf, you can<LINE>travel over water.<LINE>I shall see you again, young Trainers.<LINE>Don't forget about the needs of the<LINE>Pokémon at your side!
-Cheren: What I do with my power...<LINE>I don't know that answer yet. First, I<LINE>want to become a strong Trainer so<LINE><LINE>everyone will acknowledge that power!
-<PLAYER>...<LINE>Next time, I will win!
+Cheren: What I do with my power…<LINE>I don't know that answer yet. First, I<LINE>want to become a strong Trainer so<LINE><LINE>everyone will acknowledge that power!
+<PLAYER>…<LINE>Next time, I will win!
 You are <PLAYER>, aren't you?<LINE>Are you surprised that I know?<LINE>Clay told me.<LINE>Uh-oh! To go inside Twist Mountain,<LINE>you need to have a Gym Badge from the<LINE><LINE>Mistralton Gym!<LINE>The wild Pokémon here are tougher, and<LINE>we want to be sure you're ready!
 Twist Mountain ahead.<LINE>Watch out for wild Pokémon.

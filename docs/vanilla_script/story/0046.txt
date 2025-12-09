@@ -2,11 +2,11 @@ Your favorite is <PLAYER>, isn't it?
 Your favorite is that Egg, isn't it?
 Yes, I was right! I thought so!
 What? Your favorite isn't <PLAYER>?!
-...Oh? Your favorite really is that Egg,<LINE>isn't it?
+…Oh? Your favorite really is that Egg,<LINE>isn't it?
 I want to know<LINE>everyone's favorite kind of Pokémon!
 When you're tired, take a rest!<LINE>It's the same for people and Pokémon.
 Wanna recover Pokémon?<LINE>Oh, soooooorry!
 Do you know Geonet?
-You! You, using Geonet! Great!<LINE>I tell you this in confidence.<LINE>With the latest technology, we can trade<LINE>Pokémon with people far away!<LINE>...I know it sounds crazy,<LINE>but give it a try. You'll be surprised!
+You! You, using Geonet! Great!<LINE>I tell you this in confidence.<LINE>With the latest technology, we can trade<LINE>Pokémon with people far away!<LINE>…I know it sounds crazy,<LINE>but give it a try. You'll be surprised!
 Oh! You know Geonet!<LINE>Great, great!<LINE>This is even greater, lemme tell ya!<LINE>If you try Geonet, you can register<LINE>the place where you live!
 You see the globe on the second floor<LINE>of this Pokémon Center?<LINE>That is Geonet.<LINE>If you check on Geonet, you can register<LINE>the place where you live!

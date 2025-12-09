@@ -1,6 +1,6 @@
 By any chance, have you caught a<LINE>Pokémon called <PLAYER>?<LINE>I would be very happy if you would trade<LINE>my <POKEMON> for your <PLAYER>.
 My heart is beating so fast!<LINE>OK, let's trade!
 Thank you very much! Please treat my<LINE><POKEMON> with love!<LINE>I will also take good care of the<LINE><PLAYER> that you traded to me!
-I'd like to trade for a <PLAYER>...
+I'd like to trade for a <PLAYER>…
 Well, if you don't want to, I understand.<LINE>But if you ever change your mind, please<LINE>trade Pokémon with me!
 I am so grateful that you traded Pokémon<LINE>with me!<LINE>My research is making progress, and<LINE>above all, I'm happy because it is<LINE><LINE>friendly to me.

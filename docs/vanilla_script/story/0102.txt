@@ -1,7 +1,7 @@
-Well...<LINE>Think it's about time to see fer myself<LINE>what it is about yer skills that made a<LINE><LINE>Gym Leader like Elesa take such a<LINE><LINE>shine to ya.
+Well…<LINE>Think it's about time to see fer myself<LINE>what it is about yer skills that made a<LINE><LINE>Gym Leader like Elesa take such a<LINE><LINE>shine to ya.
 Mrrrmph. I see. But I sure don't like it!<LINE>Fer such a young 'un, ya have an imposin'<LINE>battle style.<LINE>I know ya got people who can dig up<LINE>yer potential.<LINE>Mrmph.<LINE>Here! Take this!
 <PLAYER> received the Quake Badge<LINE>from Clay!
-So this is yer fifth Badge, huh?<LINE>If that's so, Pokémon up to Lv. 60<LINE>will obey ya.<LINE>Also, I'll give ya this TM.<LINE>...Well, that was the plan, but I just<LINE>remembered there's somethin' I want.<LINE>Wait in front of the cave at the end of<LINE>Route 6, wouldja?
+So this is yer fifth Badge, huh?<LINE>If that's so, Pokémon up to Lv. 60<LINE>will obey ya.<LINE>Also, I'll give ya this TM.<LINE>…Well, that was the plan, but I just<LINE>remembered there's somethin' I want.<LINE>Wait in front of the cave at the end of<LINE>Route 6, wouldja?
 Clay: What's the problem?<LINE>Go wait in front of the cave at the end<LINE>of Route 6!
 I don't know how much potential ya got,<LINE>but if ya think ya can go, go wherever,<LINE><LINE>and if ya think ya can do somethin',<LINE><LINE>keep doin' it.<LINE>Do things how ya want!<LINE>Decide yer own limits.
 Clay: Mrrmph! You, huh?<LINE>Remember what I done told ya?<LINE>If ya think ya can go, go wherever,<LINE>and if ya think ya can do somethin',<LINE><LINE>keep doin' it.<LINE>Do things how ya want!<LINE>Decide yer own limits.

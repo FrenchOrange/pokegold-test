@@ -1,9 +1,9 @@
 The Xtransceiver is ringing.
 <PLAYER> picked up the Xtransceiver.
-That raised walkway...<LINE>If you stand still, you'll fall off, so you<LINE>have to keep moving.
+That raised walkway…<LINE>If you stand still, you'll fall off, so you<LINE>have to keep moving.
 Oh! Bold enough to come talk to me,<LINE>are you?<LINE>You're quite the Trainer. I like you!<LINE>Take this TM!
 When a Pokémon uses Charge Beam,<LINE>sometimes its Sp. Atk goes up.<LINE>If you're lucky, the power will just<LINE>keep going up!
-My, my...<LINE>That Pokémon has come again, too.
+My, my…<LINE>That Pokémon has come again, too.
 Now, now, child, don't you go heading into<LINE>the tall grass.<LINE><LINE>That Pokémon might be too much for you.
 We'll catch cold standin' around talkin'<LINE>in this wind and rain.<LINE>It's not much, but come stay<LINE>in my home a spell.
 Krrrkrrrkrrak!

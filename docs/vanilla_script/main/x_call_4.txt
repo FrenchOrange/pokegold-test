@@ -1,4 +1,4 @@
 Hello there!<LINE><PLAYER>,<LINE>do you have a second?
 Professor Juniper,<LINE>do you need something?
 I called Bianca too, but I guess<LINE>she didn't hear the call.<LINE>I wonder what she's caught up in.<LINE>Well, I suppose I'll just have<LINE><LINE>to call her again later.<LINE>OK! I'll be waiting for you two<LINE>in front of the gate to Nimbasa City!
-...Um, hello?!
+…Um, hello?!

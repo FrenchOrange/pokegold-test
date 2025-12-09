@@ -1,1 +1,1 @@
-<PLAYER> checked the PC!<LINE>Pokémon Basics...<LINE>People live alongside Pokémon in<LINE>this world.<LINE>The people who battle with Pokémon are<LINE>called Pokémon Trainers.
+<PLAYER> checked the PC!<LINE>Pokémon Basics…<LINE>People live alongside Pokémon in<LINE>this world.<LINE>The people who battle with Pokémon are<LINE>called Pokémon Trainers.

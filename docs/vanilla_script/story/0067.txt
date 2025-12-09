@@ -4,8 +4,8 @@ Day-Care Man: What kind of<LINE>nonsense is this?!
 Oh! A strong-looking Trainer!<LINE>Please help me!
 Team Plasma: If you're going to get in<LINE>our way, we'll take your Pokémon, too!
 Team Plasma: !!
-Team Plasma: This went downhill fast!<LINE>So I think... We'd better... Ruuuun!<LINE>Let's hide out at the amusement park!
-Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gratitude.<LINE>It's a brand-new Bike.<LINE>I'd always planned on riding around<LINE><LINE>Nimbasa City...<LINE><LINE>But I never ended up riding it.
+Team Plasma: This went downhill fast!<LINE>So I think… We'd better… Ruuuun!<LINE>Let's hide out at the amusement park!
+Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gratitude.<LINE>It's a brand-new Bike.<LINE>I'd always planned on riding around<LINE><LINE>Nimbasa City…<LINE><LINE>But I never ended up riding it.
 Day-Care Man: I have a Day Care<LINE>on Route 3!<LINE>If you have any Pokémon you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
 Bianca: Hey, <PLAYER>! Yoo-hoo!
 Bianca: <PLAYER>! Know what?
@@ -25,30 +25,30 @@ Sweetie, you keep going on your travels.
 Bianca's Dad: Hey! Who do you think<LINE>you are? This is a family matter!
 My name is Elesa.<LINE>I'm this town's Gym Leader.<LINE>I also happen to be a model.
 You know, there are many people<LINE>in this world.<LINE>There are people whose way of thinking<LINE>may be completely different from yours.<LINE><LINE>Sometimes, this means you may get hurt.
-Bianca's Dad: Of course!<LINE>That's exactly right!<LINE>It's because I'm worried about that...
-Elesa: But it's important to keep trying,<LINE>to learn about the differences between<LINE><LINE>yourself and others...<LINE>To learn that being different is OK.<LINE>And you shouldn't worry.<LINE>Trainers always have Pokémon<LINE>at their side.<LINE>Pokémon are wonderful. It's not only how<LINE>cute they can be, but also how much you<LINE><LINE>can depend on them...
-Bianca: Please!<LINE>I know there's gonna be painful stuff<LINE>like you're worrying about!<LINE><LINE>I know! Really, I get it!<LINE>But, like, listen...<LINE>There'll be tons of nice people, too.<LINE>Know what else? Since I've been<LINE>traveling with Pokémon, I've already<LINE><LINE>gotten tougher, I can totally tell.<LINE>So...please?
-Bianca's Dad: Hmm...<LINE>I guess.<LINE>If wanting to continue your journey<LINE>is selfishness on your part,<LINE><LINE>wanting to stop you is<LINE><LINE>selfishness on mine.<LINE>I'm surprised to find I'm the one<LINE>being childish--at my age!
+Bianca's Dad: Of course!<LINE>That's exactly right!<LINE>It's because I'm worried about that…
+Elesa: But it's important to keep trying,<LINE>to learn about the differences between<LINE><LINE>yourself and others…<LINE>To learn that being different is OK.<LINE>And you shouldn't worry.<LINE>Trainers always have Pokémon<LINE>at their side.<LINE>Pokémon are wonderful. It's not only how<LINE>cute they can be, but also how much you<LINE><LINE>can depend on them…
+Bianca: Please!<LINE>I know there's gonna be painful stuff<LINE>like you're worrying about!<LINE><LINE>I know! Really, I get it!<LINE>But, like, listen…<LINE>There'll be tons of nice people, too.<LINE>Know what else? Since I've been<LINE>traveling with Pokémon, I've already<LINE><LINE>gotten tougher, I can totally tell.<LINE>So…please?
+Bianca's Dad: Hmm…<LINE>I guess.<LINE>If wanting to continue your journey<LINE>is selfishness on your part,<LINE><LINE>wanting to stop you is<LINE><LINE>selfishness on mine.<LINE>I'm surprised to find I'm the one<LINE>being childish--at my age!
 This Gym Leader's comments helped me<LINE>wake up.<LINE>Bianca, I'm sure it's better that you<LINE>take the path you want to take now.<LINE>I hope that your journey will be fun.<LINE>Bon voyage!
-<PLAYER>, please...<LINE>Take care of my little girl, OK?
+<PLAYER>, please…<LINE>Take care of my little girl, OK?
 Bianca: Papa, I'll come home after<LINE>I find out what I really want to do!
-Elesa: I'm sure he traveled<LINE>as a Trainer himself, in the past...<LINE><LINE>Being a parent must be hard.
+Elesa: I'm sure he traveled<LINE>as a Trainer himself, in the past…<LINE><LINE>Being a parent must be hard.
 Did I meddle unnecessarily?<LINE>You looked troubled, so<LINE>I decided to chime in.
 By the way, if you're Trainers, please<LINE>stop by the Pokémon Gym.<LINE>I'll teach you a little something about<LINE>how tough a journey can get.
 I'm sorry, <PLAYER>.<LINE>I'll be waiting on Route 5.
 Bianca: She's so cool! Hah!<LINE>I want to be a totally cool woman<LINE><LINE>like Elesa!<LINE>Mm. I wonder how I'll get there.<LINE>Well, before that, I guess I need to<LINE>discover what I really want to do!<LINE><LINE>See you later, <PLAYER>!
 We athletes and our Pokémon<LINE>show excellent teamwork!<LINE>You can see it at Big Stadium and<LINE>Small Court, so please stop by!
 As it happens, Nimbasa City is a major<LINE>destination for Pokémon battles.<LINE>There are Pokémon Trainers in<LINE>lots of these buildings.
-Leisurely trips by train...<LINE>Riding from Gear Station to<LINE>Anville Town feels a bit like a dream.
+Leisurely trips by train…<LINE>Riding from Gear Station to<LINE>Anville Town feels a bit like a dream.
 Coming to flashy Nimbasa City makes<LINE>me feel light and happy, as if I were<LINE><LINE>holding an Air Balloon.
 There are performers<LINE>crowding around Route 5.<LINE>Seeing all the fun the Pokémon and<LINE>Trainers are having fills me with energy!
 I was a good girl, so I got to<LINE>go to the amusement park!
 Ferris wheel! Ferris wheel!<LINE>I love Ferris wheels!
 Nimbasa's Pokémon Gym is<LINE>in the amusement park!<LINE>No doubt it has a surprising gimmick!
-I won!<LINE>Then I lost...
+I won!<LINE>Then I lost…
 Gear Station has trains where<LINE>you can battle other Trainers.<LINE><LINE>The Battle Subway!
 You're a Trainer, aren't you?<LINE>Please just accept this without a word!
-If you have a Vs. Recorder, you can<LINE>record battles with friends or on the<LINE><LINE>Battle Subway!<LINE>Anyway, this woman of mystery will<LINE>go somewhere... That's right!<LINE><LINE>She'll go to the Battle Institute!
+If you have a Vs. Recorder, you can<LINE>record battles with friends or on the<LINE><LINE>Battle Subway!<LINE>Anyway, this woman of mystery will<LINE>go somewhere… That's right!<LINE><LINE>She'll go to the Battle Institute!
 Nimbasa City<LINE>Lit by the Flash of Lightning!
 Big Stadium<LINE>Baseball, Football, and Soccer
 Small Court<LINE>Tennis and Basketball

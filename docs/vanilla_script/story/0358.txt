@@ -3,13 +3,13 @@ Hey! Trainer!<LINE>There is a bit of a problem up ahead.<LINE>Sorry, but you can
 Deep in the desert ahead of here,<LINE>at the Desert Resort,<LINE><LINE>there are some ruins that have<LINE><LINE>become a little tourist destination!
 Cheren: I believe it would be wise for me<LINE>to catch some Ground-type Pokémon.<LINE>Or perhaps I should strengthen my<LINE>Pokémon. What's my best path forward?
 Cheren: Hey, <PLAYER>.<LINE>I've been waiting for you to get<LINE>the Insect Badge.<LINE>And now it's time to see which one of us<LINE>is the stronger Trainer!
-Cheren: It's now clear to me.<LINE>The reason you are so tough is the trust<LINE>between you and your Pokémon.<LINE>But...that shouldn't be a problem.<LINE>I can get more out of <PLAYER><LINE>and my other Pokémon, too.
+Cheren: It's now clear to me.<LINE>The reason you are so tough is the trust<LINE>between you and your Pokémon.<LINE>But…that shouldn't be a problem.<LINE>I can get more out of <PLAYER><LINE>and my other Pokémon, too.
 The Xtransceiver is ringing.
 <PLAYER> picked up the Xtransceiver.
 Cheren: Nimbasa City's gate is<LINE>straight down Route 4.
 When I look at the freeway,<LINE>I feel exhilarated!
-Ruins buried in the desert...<LINE>It's like a grand adventure in a story.
-Oh! Trainer, take a look at the sand.<LINE>Do you see how some areas are lighter?<LINE>And some of the sand looks...darker...<LINE>Pokémon are hiding in the darker sand!
+Ruins buried in the desert…<LINE>It's like a grand adventure in a story.
+Oh! Trainer, take a look at the sand.<LINE>Do you see how some areas are lighter?<LINE>And some of the sand looks…darker…<LINE>Pokémon are hiding in the darker sand!
 Route 4
 
 Trainer Tips!<LINE><LINE>Pokémon have a source of energy<LINE>for using moves.<LINE>It's called PP, meaning Power Points.<LINE>They have PP for each move.<LINE>When a move has no PP remaining,<LINE>that Pokémon cannot use that move.<LINE>That's a good time to head for<LINE>the Pokémon Center!

@@ -7,7 +7,7 @@ Glad you came!<LINE>Your \xf000Ă\x0001\x0000 and<LINE>\xf000Ă\x0001\x0001 are 
 Ah, it's you!<LINE>We were raising your Pokémon,<LINE>and my goodness, were we surprised!<LINE>Your Pokémon was holding an Egg!<LINE>We don't know how it got there,<LINE>but your Pokémon had it.<LINE>You do want it, don't you?
 <PLAYER> received the Egg from<LINE>the Day-Care Man.
 You take good care of it.
-You have no room for it right now...<LINE>Come back when you've made room.
+You have no room for it right now…<LINE>Come back when you've made room.
 I really will keep it.<LINE>You do want this Egg, yes?
 Well then, I'll hang on to it.<LINE>Thanks!
 I'm the Day-Care Lady.<LINE>We can raise Pokémon for you.<LINE>Would you like us to raise<LINE>your Pokémon?
@@ -23,7 +23,7 @@ We can raise two of your Pokémon.<LINE>Would you like us to raise another?
 You have energetic Pokémon.<LINE>Do you want your Pokémon back?
 By level, your <PLAYER> has<LINE>grown by about \xf000ȁ\x0001\x0001.
 If you want your <PLAYER> back,<LINE>it will cost $\xf000Ȅ\x0001\x0001.<LINE><LINE>Do you want it back?
-You don't have enough money...
+You don't have enough money…
 <POKEMON> took <PLAYER> back<LINE>from the Day-Care Lady.
 Do you want to take back the other<LINE>one, too? 
 Huh? Now, now.<LINE>If you leave that Pokémon with<LINE>me, you'll be left with just one.<LINE>You will be better off if you catch<LINE>some more, if I do say so myself.

@@ -6,7 +6,7 @@ An Archeologist with Backbone
 Curiosity is the spice of life!<LINE>Without it, life is bland!
 Castelia City Gym Leader<LINE>Burgh
 Premier Insect Artist
-Umm... That's right. You!<LINE>Use Bug-type Pokémon!
+Umm… That's right. You!<LINE>Use Bug-type Pokémon!
 Nimbasa City Gym Leader<LINE>Elesa
 The Shining Beauty
 May you always continue to be a person<LINE>who brightens your surroundings.

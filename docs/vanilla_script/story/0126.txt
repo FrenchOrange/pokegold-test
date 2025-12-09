@@ -1,4 +1,4 @@
-Hi! I'm Iris, the amazingly strong<LINE>Gym Leader!<LINE>Tell me... What Pokémon are you using?<LINE>How will you fight?<LINE>Ooh, I'm super curious, so let's just<LINE>get started!
+Hi! I'm Iris, the amazingly strong<LINE>Gym Leader!<LINE>Tell me… What Pokémon are you using?<LINE>How will you fight?<LINE>Ooh, I'm super curious, so let's just<LINE>get started!
 Whoooa!<LINE>That was so cool!<LINE>I'm sooo happy I could battle a Trainer<LINE>as strong as you!
 <PLAYER> received the Legend Badge<LINE>from Iris.
 Hey, that's your eighth Badge, right?<LINE>That's so cool!<LINE>Now every Pokémon will do what you ask,<LINE>no matter how big they are!<LINE>Know what? I'll give you this TM, too!
@@ -11,13 +11,13 @@ Wonderful.<LINE>I'm grateful we had a chance to meet<LINE>and battle.
 <PLAYER> received the Legend Badge<LINE>from Drayden!
 Well, now. You've obtained all of the<LINE>Gym Badges in Unova.<LINE>Now, all Pokémon will obediently follow<LINE>your commands.<LINE>I also want you to have this.<LINE>It's a TM I'm particularly fond of.<LINE>It's called Dragon Tail.
 Dragon Tail is a move that returns the<LINE>damaged Pokémon to its Poké Ball.<LINE>In other words, it switches your<LINE>opponent's Pokémon.
-Now, I have something to ask of you.<LINE>Head for the Pokémon League and<LINE>go after Alder.<LINE>The Pokémon League is past Route 10,<LINE>which runs from Opelucid City<LINE><LINE>to Victory Road.<LINE>I know Alder's strength, but I don't<LINE>know the depths of N's power...
-Pokémon and people do not age because of<LINE>the passage of time.<LINE>They get old when the energy flowing in<LINE>their hearts dries up.<LINE>This energy in our hearts is powered by<LINE>truth, ideals, or maybe dreams...<LINE>That probably changes with what you most<LINE>hope for in your life.
-Thanks for coming!<LINE>I happily welcome you!<LINE>But...<LINE>I may be a little rough on you!
+Now, I have something to ask of you.<LINE>Head for the Pokémon League and<LINE>go after Alder.<LINE>The Pokémon League is past Route 10,<LINE>which runs from Opelucid City<LINE><LINE>to Victory Road.<LINE>I know Alder's strength, but I don't<LINE>know the depths of N's power…
+Pokémon and people do not age because of<LINE>the passage of time.<LINE>They get old when the energy flowing in<LINE>their hearts dries up.<LINE>This energy in our hearts is powered by<LINE>truth, ideals, or maybe dreams…<LINE>That probably changes with what you most<LINE>hope for in your life.
+Thanks for coming!<LINE>I happily welcome you!<LINE>But…<LINE>I may be a little rough on you!
 Advancing or retreating is up to you.<LINE>But if you proceed, prepare yourself!<LINE>Moving forward halfheartedly is<LINE>disrespectful to your Pokémon!
 Welcome to the Opelucid Gym, the Unova<LINE>region's strongest and biggest trial!<LINE>First off, please take this Fresh Water.<LINE>It'll help you in the challenge ahead.
 Let me give you a brief explanation of<LINE>the trick to the Opelucid Gym!<LINE>The path around this Gym is shaped like<LINE>two dragons.<LINE>This path changes when you step on<LINE>the switches on the dragons' arms.<LINE>Pay attention to how the dragons'<LINE>necks move!
-You beat the Gym Leader?<LINE>Wow, that's amazing!<LINE>Oh, by the way, since I gave you all that<LINE>Fresh Water...<LINE><LINE>Don't you owe me some of your winnings?<LINE>...I'm kidding! It's just a joke!<LINE>No, seriously, congratulations!
+You beat the Gym Leader?<LINE>Wow, that's amazing!<LINE>Oh, by the way, since I gave you all that<LINE>Fresh Water…<LINE><LINE>Don't you owe me some of your winnings?<LINE>…I'm kidding! It's just a joke!<LINE>No, seriously, congratulations!
 Opelucid Pokémon Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:
 Opelucid Pokémon Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:<LINE><LINE><PLAYER>
 Opelucid Pokémon Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca

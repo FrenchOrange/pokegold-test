@@ -1,10 +1,10 @@
 Isn't it great? Isn't it spacious?<LINE>This is my dad's villa, and<LINE>I can use it freely!
-But when I came here, surprisingly there<LINE>was nothing to do, so now I'm bored.<LINE>As you may know, my dad is totally<LINE>obsessed with items at the ruins...
+But when I came here, surprisingly there<LINE>was nothing to do, so now I'm bored.<LINE>As you may know, my dad is totally<LINE>obsessed with items at the ruins…
 Hey, you're bored, aren't you?<LINE>Come here tomorrow, too!<LINE>I don't mind having a battle with you!
 Hey, you're bored, aren't you?<LINE>Come here tomorrow, too!<LINE>I don't mind having a battle with you!
 Oh, you came!<LINE>You have an extremely bored look<LINE>on your face.<LINE>I don't mind having a battle with you!
 
-Ah... You are not bored...
+Ah… You are not bored…
 Argh!<LINE>So frustrating! Whywhywhy?
 You're awesome!<LINE>I don't mind giving you a little credit!
 Oh, you seem to be having fun.
@@ -13,8 +13,8 @@ How are you, Trainer?<LINE>I won't lose today.
 In my father's villa, I have too much<LINE>time on my hands.<LINE>Please come for a visit tomorrow, too.<LINE>I will have a battle with you.
 In my father's villa, I have too much<LINE>time on my hands.<LINE>Please come for a visit tomorrow, too.<LINE>I will have a battle with you.
 You are as strong as usual.<LINE>But I wonder what will happen next time.
-How are you?<LINE>I am pleased you came here today, too.<LINE>May I trouble you for another battle?<LINE>Let me see...<LINE>First, please have a battle<LINE>with my little brother!
-None of the Riches is a match for you...<LINE>I admire your strength!
+How are you?<LINE>I am pleased you came here today, too.<LINE>May I trouble you for another battle?<LINE>Let me see…<LINE>First, please have a battle<LINE>with my little brother!
+None of the Riches is a match for you…<LINE>I admire your strength!
 Oh, it's quite lively for some reason.
 I truly appreciate you for having battles<LINE>with my grandchildren.<LINE>And now, I'd like to see in what ways<LINE>your skills exceed theirs.
 Hoho! Do you have confidence<LINE>in winning against me?
@@ -37,12 +37,12 @@ Today, for sure, I am going to win!<LINE>Now, try to defeat me!
 I may not look like it, but I am very<LINE>familiar with Pokémon.<LINE>I would like to have a battle with you<LINE>someday again.
 I may not look like it, but I am very<LINE>familiar with Pokémon.<LINE>Please have a battle with me again.
 Welcome.<LINE>Today for sure I'm going to show you<LINE>the real strength of the Riches!
-I didn't expect you to be this strong...
-It's a complete defeat...<LINE>The Riches sincerely wish every success<LINE>to you in the future.
+I didn't expect you to be this strong…
+It's a complete defeat…<LINE>The Riches sincerely wish every success<LINE>to you in the future.
 You! Do you still call yourself<LINE>one of the Riches?
 I am Miles, the next head of the Riches!<LINE>I will protect the honor of our family!
 No matter how often you try, <LINE>you cannot defeat me!<LINE>I will protect the honor<LINE>of The Riches!
 You may come back again tomorrow.<LINE>However, I have no intention of losing<LINE>in the name of the Riches.
 You came!<LINE>If you can defeat my family,<LINE>I will let you have a battle with me.
-Sigh.<LINE>I guess...it's still too early to identify<LINE>myself as the head of the family.
-Sigh.<LINE>I guess...it's still too early to identify<LINE>myself as the head of the family.<LINE>You should be proud of yourself<LINE>for defeating the distinguished<LINE><LINE>Trainer family, the Riches!
+Sigh.<LINE>I guess…it's still too early to identify<LINE>myself as the head of the family.
+Sigh.<LINE>I guess…it's still too early to identify<LINE>myself as the head of the family.<LINE>You should be proud of yourself<LINE>for defeating the distinguished<LINE><LINE>Trainer family, the Riches!

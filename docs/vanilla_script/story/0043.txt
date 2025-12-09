@@ -1,21 +1,21 @@
 Burgh: Come on! This way!
-Burgh: Team Plasma...<LINE>They took this young lady's Pokémon.
-Bianca: <PLAYER>, is there<LINE>anything we can do? My Munna...<LINE>Team Plasma took it...
-???: I heard this lady's scream and<LINE>ran after the thief as fast as I could.<LINE>But this city is so big and so crowded...<LINE>I'm afraid I lost them.
-Burgh: Iris...<LINE>You did everything you could.
+Burgh: Team Plasma…<LINE>They took this young lady's Pokémon.
+Bianca: <PLAYER>, is there<LINE>anything we can do? My Munna…<LINE>Team Plasma took it…
+???: I heard this lady's scream and<LINE>ran after the thief as fast as I could.<LINE>But this city is so big and so crowded…<LINE>I'm afraid I lost them.
+Burgh: Iris…<LINE>You did everything you could.
 Iris: But that's so bad!<LINE>Taking people's Pokémon is really bad!<LINE>'Cause it's really nice when<LINE>people and Pokémon are together!<LINE>They each have something the other<LINE>doesn't, and they help each other!
-Bianca: Iris...
+Bianca: Iris…
 Burgh: Agreed!<LINE>No fear--we will get that Pokémon back.
 Right, <PLAYER>?
 Right, <PLAYER>?
 Having said that, finding a person or a<LINE>Pokémon here in Castelia City will be<LINE><LINE>like finding a needle in a haystack.
-Team Plasma: I spy a Gym Leader?!<LINE>Last time went so well, I thought<LINE>I'd grab another Pokémon...<LINE><LINE>Rethinking...<LINE><LINE>I need to get out of here!
+Team Plasma: I spy a Gym Leader?!<LINE>Last time went so well, I thought<LINE>I'd grab another Pokémon…<LINE><LINE>Rethinking…<LINE><LINE>I need to get out of here!
 Burgh: <PLAYER>, let's go!<LINE>Iris! You stay by that young lady's side.
 Burgh: <PLAYER>, let's go!<LINE>Iris! You stay by that young lady's side.
 Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
 Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
 Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
 Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
-Bianca: Oh, Munna, I can't believe it.<LINE>Here I am, a Trainer, and I can't even<LINE>protect my own Pokémon... I'm sorry...
-When someone is getting under your skin<LINE>and you want to yell at them,<LINE><LINE>scream at the ocean!<LINE>...When you're alone, of course.
-That black boat...<LINE>What could it be?
+Bianca: Oh, Munna, I can't believe it.<LINE>Here I am, a Trainer, and I can't even<LINE>protect my own Pokémon… I'm sorry…
+When someone is getting under your skin<LINE>and you want to yell at them,<LINE><LINE>scream at the ocean!<LINE>…When you're alone, of course.
+That black boat…<LINE>What could it be?

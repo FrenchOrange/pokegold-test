@@ -5,6 +5,16 @@ Route17_MapScripts:
 
 	def_callbacks
 
+Route17Sign:
+	jumptext Route17SignText
+
+Route17SignText:
+	text "ROUTE 17"
+
+	para "Beware of rapidly"
+	line "flowing water!"
+	done
+
 Route17_MapEvents:
 	db 0, 0 ; filler
 
@@ -15,5 +25,6 @@ Route17_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event 46, 28, BGEVENT_READ, Route17Sign
 
 	def_object_events

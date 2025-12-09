@@ -1,19 +1,19 @@
 Cheren: Hey, <PLAYER>.<LINE>I just challenged the Gym Leader Burgh.
 He's a seasoned Gym Leader.<LINE>He made me work for that Gym Badge!<LINE>But for me, Bug-type Pokémon<LINE>aren't much of a challenge.
-I'm going to keep winning like this against<LINE>all of the Unova region's Gym Leaders!<LINE>Then, I'll head for the Pokémon League<LINE>and outperform the Champion!<LINE>If I do that, everyone will admit<LINE>what a strong Trainer I am...<LINE>That will make me feel truly alive...
-Burgh: Ah hah!<LINE>You're the one who fought<LINE>Team Plasma in Pinwheel Forest...<LINE>If I remember, your name is...<LINE><PLAYER>!<LINE>Come to challenge the Gym, I suppose?
-Burgh: Ah hah!<LINE>You're the one who fought<LINE>Team Plasma in Pinwheel Forest...<LINE>If I remember, your name is...<LINE><PLAYER>!<LINE>Come to challenge the Gym, I suppose?
-Aww. Sorry, but could you wait a bit?<LINE>I was informed that Team Plasma<LINE>has shown up!<LINE>In fact... Come with me!<LINE>I'm going to the dock at Prime Pier!
+I'm going to keep winning like this against<LINE>all of the Unova region's Gym Leaders!<LINE>Then, I'll head for the Pokémon League<LINE>and outperform the Champion!<LINE>If I do that, everyone will admit<LINE>what a strong Trainer I am…<LINE>That will make me feel truly alive…
+Burgh: Ah hah!<LINE>You're the one who fought<LINE>Team Plasma in Pinwheel Forest…<LINE>If I remember, your name is…<LINE><PLAYER>!<LINE>Come to challenge the Gym, I suppose?
+Burgh: Ah hah!<LINE>You're the one who fought<LINE>Team Plasma in Pinwheel Forest…<LINE>If I remember, your name is…<LINE><PLAYER>!<LINE>Come to challenge the Gym, I suppose?
+Aww. Sorry, but could you wait a bit?<LINE>I was informed that Team Plasma<LINE>has shown up!<LINE>In fact… Come with me!<LINE>I'm going to the dock at Prime Pier!
 Burgh: This is definitely the place.
-Team Plasma: No one's here! Not a soul!<LINE>No other Team Plasma members, nor any<LINE>of the Seven Sages, are inside.<LINE>...If you think I'm lying, why don't<LINE>we have a little battle and find out?
+Team Plasma: No one's here! Not a soul!<LINE>No other Team Plasma members, nor any<LINE>of the Seven Sages, are inside.<LINE>…If you think I'm lying, why don't<LINE>we have a little battle and find out?
 Team Plasma: Don't scare me like that.<LINE>Come on!
-Team Plasma: I...had a thought!<LINE>I'll take care of this weak-looking runt,<LINE>so you can show off by handling<LINE><LINE>that tough-looking guy over there!
+Team Plasma: I…had a thought!<LINE>I'll take care of this weak-looking runt,<LINE>so you can show off by handling<LINE><LINE>that tough-looking guy over there!
 Think about how a Pokémon feels when<LINE>it's being used by a pathetic Trainer!
 What's your problem with<LINE>taking people's Pokémon?!
 Burgh: Oh, please!<LINE><PLAYER>, I'll leave that one to you!
 Burgh: Oh, please!<LINE><PLAYER>, I'll leave that one to you!
 Burgh: Looks like our only<LINE>option is to battle them and go on in.
-Team Plasma: This is bad...<LINE>Badbadbadbadbadbadbad!<LINE>Bad for Team Plasma!<LINE>Or Plasbad, for short!<LINE>It's in my best interest to go<LINE>report to the Seven Sages right now!
+Team Plasma: This is bad…<LINE>Badbadbadbadbadbadbad!<LINE>Bad for Team Plasma!<LINE>Or Plasbad, for short!<LINE>It's in my best interest to go<LINE>report to the Seven Sages right now!
 Iris: Phew, we got lost.<LINE>Even with directions from the<LINE>Xtransceiver, I couldn't figure it out!
 Burgh: Team Plasma is inside.<LINE>The stolen Pokémon may be in<LINE>there as well.<LINE><LINE>OK, I'm going in!
 Iris: OK! This time, I'll join the fight!<LINE>Come on, Bianca. You, too!

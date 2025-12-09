@@ -1,7 +1,7 @@
 Cheren: <PLAYER>!<LINE>I heard from Professor Juniper.<LINE>We can have a Pokémon?
-...<LINE>...<LINE>What's keeping Bianca?
+…<LINE>…<LINE>What's keeping Bianca?
 Bianca: Am I a little late again?<LINE>So-oooo-orry!
-Cheren: Bianca...<LINE>I've known for ten years that you<LINE>have no sense of time, but...seriously...<LINE>Today's the day we can get a<LINE>Pokémon from Professor Juniper!
+Cheren: Bianca…<LINE>I've known for ten years that you<LINE>have no sense of time, but…seriously…<LINE>Today's the day we can get a<LINE>Pokémon from Professor Juniper!
 Bianca: I know. Sorry, <PLAYER>.<LINE>Sorry, Cheren.
 Bianca: So, where are the Pokémon?<LINE>They were delivered to <PLAYER>'s<LINE>house, so <PLAYER> gets first pick.
 Cheren: Naturally.
@@ -25,22 +25,22 @@ NO
 <PLAYER> chose<LINE><POKEMON>!
 Bianca: OK, I'll take this Pokémon!<LINE>Cheren, that one's yours!
 Cheren: Hey, how come you get to pick<LINE>out my Pokémon?<LINE>Oh, never mind. I wanted <POKEMON><LINE>from the start, anyway.
-Bianca: Everyone has chosen a Pokémon!<LINE>...So that's that!<LINE>Hey, I know!<LINE>Let's have a Pokémon battle!
-Cheren: Honestly, Bianca...<LINE>Even though they're still weak Pokémon,<LINE>you shouldn't have Pokémon battles<LINE><LINE>inside a house.
+Bianca: Everyone has chosen a Pokémon!<LINE>…So that's that!<LINE>Hey, I know!<LINE>Let's have a Pokémon battle!
+Cheren: Honestly, Bianca…<LINE>Even though they're still weak Pokémon,<LINE>you shouldn't have Pokémon battles<LINE><LINE>inside a house.
 Bianca: Don't be a worrywart!<LINE>These little ones are weak, like you said.<LINE>We have to let them battle so they'll get<LINE>stronger. It's settled, <PLAYER>!<LINE><LINE>Get ready for a Pokémon battle!
 
-...The box is empty.
+…The box is empty.
 
 
 
 
 
-Bianca: Wow...<LINE><PLAYER>, you're gonna be<LINE>an awesome Trainer someday, I can tell!<LINE>No doubt!
-Bianca: Wha...?<LINE>I got so absorbed in having my Pokémon<LINE>use moves, I won before even realizing...
-Cheren: Uh...<LINE>...<LINE>Bianca, would you take a look around?
+Bianca: Wow…<LINE><PLAYER>, you're gonna be<LINE>an awesome Trainer someday, I can tell!<LINE>No doubt!
+Bianca: Wha…?<LINE>I got so absorbed in having my Pokémon<LINE>use moves, I won before even realizing…
+Cheren: Uh…<LINE>…<LINE>Bianca, would you take a look around?
 Bianca: Wh-whoa!<LINE>What happened?!
-Wow! Pokémon are amaaaaazing!!<LINE>So little, but so strong!<LINE>I'm so glad that I get to have a Pokémon!<LINE>...Oh.<LINE>Um, sorry about your room, <PLAYER>.
-Cheren: You...are completely hopeless.<LINE>Here!<LINE>I'll restore your Pokémon for you.
+Wow! Pokémon are amaaaaazing!!<LINE>So little, but so strong!<LINE>I'm so glad that I get to have a Pokémon!<LINE>…Oh.<LINE>Um, sorry about your room, <PLAYER>.
+Cheren: You…are completely hopeless.<LINE>Here!<LINE>I'll restore your Pokémon for you.
 Cheren healed Bianca's Pokémon!
 <PLAYER>'s Pokémon needs<LINE>to be fixed up, too.
 Cheren healed <PLAYER>'s Pokémon!
@@ -51,10 +51,10 @@ Cheren: I believe you're right!<LINE>It'll be no problem for me to keep<LINE>the
 
 
 
-It's decided. You'll be my opponent...<LINE>in our first Pokémon battle!<LINE>Let's see what you can do, <POKEMON>!
+It's decided. You'll be my opponent…<LINE>in our first Pokémon battle!<LINE>Let's see what you can do, <POKEMON>!
 
-Cheren: I made a strange blunder<LINE>in my first battle, but<LINE><LINE>this feeling I have...<LINE><LINE>...I'm finally a Trainer.<LINE>But first, we'd better go apologize to<LINE>your mother about this messed-up room.
-Cheren: This feeling...<LINE>Finally, I'm a Trainer.<LINE>On top of that, we'd better go apologize<LINE>to your mother about this room.
+Cheren: I made a strange blunder<LINE>in my first battle, but<LINE><LINE>this feeling I have…<LINE><LINE>…I'm finally a Trainer.<LINE>But first, we'd better go apologize to<LINE>your mother about this messed-up room.
+Cheren: This feeling…<LINE>Finally, I'm a Trainer.<LINE>On top of that, we'd better go apologize<LINE>to your mother about this room.
 Bianca: Oh!<LINE>I'd better come, too!
 It's a Wii console!<LINE>It's not even scratched!
 The bed's a mess!

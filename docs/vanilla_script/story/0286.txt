@@ -3,27 +3,27 @@ Great! Please walk this way!
 Please visit us again.
 Which show would you like<LINE>to participate in?
 Please choose the Pokémon that<LINE>will participate.
-Oh, <PLAYER>, <PLAYER>...<LINE>I'm so very moved, I'm at a loss<LINE>for words...
+Oh, <PLAYER>, <PLAYER>…<LINE>I'm so very moved, I'm at a loss<LINE>for words…
 Your Pokémon gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!
-I'll come watch again, <PLAYER>.<LINE>That was so wonderful...<LINE>It may have changed my life.
+I'll come watch again, <PLAYER>.<LINE>That was so wonderful…<LINE>It may have changed my life.
 <PLAYER>! That musical was the<LINE>best ever!<LINE>It made me feel so energetic! Please<LINE>come back and perform for us again!
 Oh, that performance was so inspiring!<LINE>It was so full of hopes and dreams! It<LINE>made me feel like I could climb mountains!
 <PLAYER>! Great show today!<LINE>I'm moved no matter how many<LINE>times I see your performance!
 Everyone's talking about the musical<LINE>at work, and it's all thanks to you!<LINE>We all love your innovative Dress Up.<LINE>You're like our fashion muse!
 I'm so glad I got to see your Pokémon on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!
-Your performance... Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power...
+Your performance… Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power…
 Your performances are so very artistic!<LINE>If an artist like me tells you so, there's<LINE>no mistaking it!
-Oh, <PLAYER>, <PLAYER>...<LINE>I'm so very moved, I'm at a loss<LINE>for words...<LINE>Please take this Prop<LINE>as a token of my feelings!
+Oh, <PLAYER>, <PLAYER>…<LINE>I'm so very moved, I'm at a loss<LINE>for words…<LINE>Please take this Prop<LINE>as a token of my feelings!
 Your Pokémon gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!<LINE>Perhaps this Prop can enhance<LINE>your brilliance!
-I'll come watch again, <PLAYER>.<LINE>That was so wonderful...<LINE>It may have changed my life.<LINE>I hope you like this Prop...
+I'll come watch again, <PLAYER>.<LINE>That was so wonderful…<LINE>It may have changed my life.<LINE>I hope you like this Prop…
 <PLAYER>! That musical was the<LINE>best ever!<LINE>It made me feel so energetic! Please<LINE>come back and perform for us again!<LINE>Hey, maybe you can use this Prop<LINE>next time!
 Oh, that performance was so inspiring!<LINE>It was so full of hopes and dreams! It<LINE>made me feel like I could climb mountains!<LINE>Here, this is for you. Thank you for<LINE>the inspiration!
 <PLAYER>! Great show today!<LINE>I'm moved no matter how many<LINE>times I see your performance!<LINE>I'd love to see you use this on stage!
 Everyone's talking about the musical<LINE>at work, and it's all thanks to you!<LINE>We all love your innovative Dress Up.<LINE>You're like our fashion muse!<LINE>Maybe you could work this Prop into one<LINE>of your fabulous Dress Up designs!
 I'm so glad I got to see your Pokémon on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!<LINE>Here, please take this small token of<LINE>my appreciation.
-Your performance... Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power...<LINE>I charmed this so that it will be useful.
+Your performance… Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power…<LINE>I charmed this so that it will be useful.
 Your performances are so very artistic!<LINE>If an artist like me tells you so, there's<LINE>no mistaking it!<LINE>Here's a new Prop to use in your art!
-In fact, this person does not exist...
+In fact, this person does not exist…
 Received the \xf000\xff00\x0001\x0002\xf000Ċ\x0001\x0001\xf000\xff00\x0001\x0000!
 <PLAYER> put the \xf000Ċ\x0001\x0001<LINE>in the \xf000\xff00\x0001\x0002Prop Case\xf000\xff00\x0001\x0000!
 <PLAYER> put the \xf000Ċ\x0001\x0001<LINE>in the \xf000\xff00\x0001\x0002Prop Case\xf000\xff00\x0001\x0000!

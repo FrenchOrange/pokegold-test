@@ -1,6 +1,6 @@
 <PLAYER> received \xf000ȁ\x0001\x0001 BP!
-Saving your record data...<LINE>Don't turn off the power.
-Saving...<LINE>Don't turn off the power.
+Saving your record data…<LINE>Don't turn off the power.
+Saving…<LINE>Don't turn off the power.
 Congratulations! You've successfully<LINE>reached a seven-win streak!<LINE>Since you've won seven in a row,<LINE>I present you with these Battle Points!
 Congratulations!<LINE>You had a seven-win streak and<LINE>brilliantly beat the Subway Boss,<LINE><LINE>so I present you with these<LINE><LINE>Battle Points.
 And, <PLAYER>, now you have earned<LINE>the right to challenge<LINE><LINE>the Super Single Train!
@@ -17,7 +17,7 @@ What would you like to do?
 Continue Challenge
 Return to Nimbasa City
 Stay Here
-Awaiting your friend's response...
+Awaiting your friend's response…
 "Return to Nimbasa City" was chosen, so<LINE>your challenge<LINE><LINE>will end for now.
 <PLAYER>, you have been promoted<LINE>to Rank \xf000ȁ\x0001\x0001!
 Would you like to send these results<LINE>using Nintendo WFC?
@@ -25,8 +25,8 @@ There's still a lot more to go, but let's<LINE>do our best!
 There's still a lot more to go, but let's<LINE>do our best!
 We finally made it this far!<LINE>Our opponents will get tougher, but let's<LINE>do our best and not get discouraged!
 We finally made it this far!<LINE>Our opponents will get tougher, but let's<LINE>do our best and not get discouraged!
-We finally made it here!<LINE>...Could we be the best partners ever?!
-We finally made it here!<LINE>...Could we be the best partners ever?!
+We finally made it here!<LINE>…Could we be the best partners ever?!
+We finally made it here!<LINE>…Could we be the best partners ever?!
 This is the end of the Wi-Fi Train line.<LINE>When you want to return to Nimbasa City,<LINE>please talk to me again.<LINE>Please enjoy your time here.
 The challenge was interrupted.
 The selection was canceled.
@@ -35,56 +35,56 @@ I'm going to save up Battle Points and<LINE>get some items for my Pokémon to ho
 For each seven-win streak, the Trainers<LINE>and Pokémon who challenge you become<LINE><LINE>progressively tougher.
 I've decided to use only cute Pokémon!<LINE>Do you have any unique thing you're<LINE>particular about?
 OK! I'm all prepared!<LINE>All aboard for a battle journey!
-Phew...I'm worn out.<LINE>These Trainers are tough. I wonder<LINE>how far I'll get with my skills.
+Phew…I'm worn out.<LINE>These Trainers are tough. I wonder<LINE>how far I'll get with my skills.
 Have you heard of the Subway Bosses?<LINE>They appear only to strong Trainers,<LINE>and they challenge them to battles.<LINE>They are the Battle Subway's bosses.
-That last battle was tough...<LINE>I should've traded in my BP for a<LINE>better item.
+That last battle was tough…<LINE>I should've traded in my BP for a<LINE>better item.
 If you have wooon, the trip goes ooon!<LINE>Relying on Pokémon, this vagabooond!
 About time to take it to the next level.<LINE>Give it your best shot, too!
 The Trainers here are really tough<LINE>from the very start.
-My 42nd straight win...<LINE>Not too shabby, eh?
-Can't believe I won 84 straight...<LINE>Is this a dream or a hallucination?
+My 42nd straight win…<LINE>Not too shabby, eh?
+Can't believe I won 84 straight…<LINE>Is this a dream or a hallucination?
 You've got a 14-win streak!<LINE>Pretty good! Not bad!
 I hear the Super Train is endless!<LINE>In other words, if you keep winning, you<LINE>can keep going, on and on to wherever!
 I can go a lot further!<LINE>I can win a lot more!
 The eyes of the Trainers here are very<LINE>serious, or maybe you could say glinting.
-Is this the best this officer can do...?<LINE>The light from the passing trains seems<LINE>way too bright.
+Is this the best this officer can do…?<LINE>The light from the passing trains seems<LINE>way too bright.
 The Subway Boss was a suspicious,<LINE>strange fellow.<LINE>I still don't believe he was giving it<LINE>his all.
 Challenging people is also part of my<LINE>police training.
 I can legally go as wild as I want!<LINE>This place! It's paradise, isn't it?
 My journey has just started!<LINE>Neither of us can afford to lose!
 Being alone on the station's platform<LINE>somehow makes me feel a little sad.<LINE>People leave on their journeys here, and<LINE>it reminds me of those memories.
 The Subway Boss was a piece of cake!<LINE>Maybe I should cut loose on the<LINE>Super Train next time!
-The Trainers sure have become stronger.<LINE>I'm feeling a little uneasy...
-It looks like my Pokémon skill has<LINE>reached its peak power.<LINE>I couldn't let go of my dreams...<LINE>I'll hang them on you, stranger,<LINE><LINE>young Trainer.<LINE>And this is proof.<LINE>Please accept this, youngster...
+The Trainers sure have become stronger.<LINE>I'm feeling a little uneasy…
+It looks like my Pokémon skill has<LINE>reached its peak power.<LINE>I couldn't let go of my dreams…<LINE>I'll hang them on you, stranger,<LINE><LINE>young Trainer.<LINE>And this is proof.<LINE>Please accept this, youngster…
 I'm going to return to my home and<LINE>quietly cheer myself up with art!
-Oh ho ho ho...<LINE>I've already done better than I did<LINE>during my last challenge!
+Oh ho ho ho…<LINE>I've already done better than I did<LINE>during my last challenge!
 Battle between two excellent Trainers is<LINE>very artistic.
-For being called a Subway Boss,<LINE>that Trainer sure wasn't as strong<LINE><LINE>as “Boss" suggests.<LINE>It was almost as if...<LINE>As if they are simply gauging<LINE>how strong we really are.
+For being called a Subway Boss,<LINE>that Trainer sure wasn't as strong<LINE><LINE>as “Boss" suggests.<LINE>It was almost as if…<LINE>As if they are simply gauging<LINE>how strong we really are.
 Well then!<LINE>It's about time to get on<LINE>the train!
 Now just wait a minute, little Pokémon!<LINE>I'll let you battle lots and lots soon!
-Urk!<LINE>I got motion sickness on the train...
+Urk!<LINE>I got motion sickness on the train…
 You beat our boss, right?<LINE>Not half bad, hey!<LINE>And now, super Trainer, you've<LINE>earned the qualification to take on the<LINE><LINE>Super Train!<LINE>The Trainers on the Super Train are<LINE>really tough.<LINE>If you want to know the essence of the<LINE>Battle Subway, you should give it a try!
 I'd rather have an exciting battle than<LINE>slowly drive the train.
 Where did you come from?<LINE>And where are you going?
 We Depot Agents are the protectors of<LINE>peace and order in the station.<LINE>We are verrry opposed to littering on<LINE>the platform, shouting or playing<LINE><LINE>instruments, loitering, or any activities<LINE><LINE>that bother other people!
 Just like how a machine needs fine-tuning,<LINE>Pokémon need maintenance, too.<LINE>It's a necessity.<LINE>For example, rethinking the moves that a<LINE>Pokémon knows.
-No clumsy gimmicks...<LINE>No unnecessary items...<LINE>The only thing you can rely on is the<LINE>strength of you and your Pokémon.<LINE>This place is wonderful, isn't it?
-Over 100 straight victories...<LINE>If this is all due to your strength,<LINE>you're even a match for the Champion.
+No clumsy gimmicks…<LINE>No unnecessary items…<LINE>The only thing you can rely on is the<LINE>strength of you and your Pokémon.<LINE>This place is wonderful, isn't it?
+Over 100 straight victories…<LINE>If this is all due to your strength,<LINE>you're even a match for the Champion.
 The strength of the Trainers on<LINE>the Super Train is beyond imagination!
-I had a taste of it...<LINE>The rush of battle...<LINE>I shouldn't...<LINE>It's too wild...<LINE>But at this rate, I'm going to<LINE>end up on the path of battlers...
+I had a taste of it…<LINE>The rush of battle…<LINE>I shouldn't…<LINE>It's too wild…<LINE>But at this rate, I'm going to<LINE>end up on the path of battlers…
 Howdy! I'm a genius Pilot!<LINE>Unova's finest!<LINE>And I'm comin' in first here, too!
-I've seen elite Trainers like me<LINE>all over the place, but...<LINE>Seems like the battles will be tough<LINE>from here on.
+I've seen elite Trainers like me<LINE>all over the place, but…<LINE>Seems like the battles will be tough<LINE>from here on.
 Even for an elite Trainer such as myself,<LINE>it's starting to get hard.
 Hey, how are you doing?<LINE>I'm still going strong!
 I've a-done it--77 straight wins!<LINE>That number has a lucky sound!
-We've defeated over 300 Trainers...
-My my, what a weak-looking Trainer...<LINE>I think I would just get bored if I<LINE>battled you...<LINE>I'll give you this, so just get a little<LINE>tougher, OK?
-I'm only interested in strong<LINE>opponents...<LINE>If you get tougher, I wouldn't<LINE>mind battling you.
-Not many people left on the platform...<LINE>Guess that shows how hard it is<LINE>to keep winning on the Battle Subway.
-...<LINE>Huh? What? What do you want?<LINE>I'm busy planning my tactics for my<LINE>next battle.<LINE>I don't mean to be rude, but I really<LINE>need to concentrate. Would you mind<LINE><LINE>not talking to me right now?
+We've defeated over 300 Trainers…
+My my, what a weak-looking Trainer…<LINE>I think I would just get bored if I<LINE>battled you…<LINE>I'll give you this, so just get a little<LINE>tougher, OK?
+I'm only interested in strong<LINE>opponents…<LINE>If you get tougher, I wouldn't<LINE>mind battling you.
+Not many people left on the platform…<LINE>Guess that shows how hard it is<LINE>to keep winning on the Battle Subway.
+…<LINE>Huh? What? What do you want?<LINE>I'm busy planning my tactics for my<LINE>next battle.<LINE>I don't mean to be rude, but I really<LINE>need to concentrate. Would you mind<LINE><LINE>not talking to me right now?
 91 straight victories is nothing more<LINE>than a natural result for me.<LINE>My glorious record will just keep<LINE>going up!
-You...<LINE>You have the same eyes as me.<LINE>You love battling so much...<LINE>No, it's not just that...<LINE>Battling is your reason for living.<LINE>You and I are the same type, aren't we?<LINE>So...I'll give you this.
-You're continuing your battle, right?<LINE>That's because we are that type of<LINE>person, aren't we...
+You…<LINE>You have the same eyes as me.<LINE>You love battling so much…<LINE>No, it's not just that…<LINE>Battling is your reason for living.<LINE>You and I are the same type, aren't we?<LINE>So…I'll give you this.
+You're continuing your battle, right?<LINE>That's because we are that type of<LINE>person, aren't we…
 I'm going to leave a rockin' record and<LINE>turn into a big star!
 Hey, how are you doing?<LINE>I'm still going strong!
 There's more to Pokémon than it seems.<LINE>The world of Pokémon battling really gets<LINE>deeper and deeper.
@@ -95,25 +95,25 @@ All right! Bring out your Poké Balls!<LINE>Now is the time for a battle!
 You like battles, too!
 I can't believe a Veteran like me<LINE>would get into trouble like that.<LINE>Where in the world are the Trainers<LINE>here training?
 How are you doing, Trainer?<LINE>Are you starting to get tired yet?
-Mumble, mumble, mumble...<LINE>In order to bring good fortune, I always<LINE>think about my family before a battle.
-I've been watching you battle.<LINE>Nice technique and judgment... Not<LINE>surprising, after a win streak like yours.
+Mumble, mumble, mumble…<LINE>In order to bring good fortune, I always<LINE>think about my family before a battle.
+I've been watching you battle.<LINE>Nice technique and judgment… Not<LINE>surprising, after a win streak like yours.
 Not many people around.<LINE>But each person who is still here has<LINE>shown true strength.
 Even a Veteran can lose to a Preschooler<LINE>if they get careless.<LINE>Pokémon battling requires that you<LINE>always be on guard.
 Just a little more to 50 straight wins!<LINE>Suddenly, I'm all pumped up!
-You have the face of someone who<LINE>absolutely loves Pokémon battling.<LINE>Even now, you're still completely hooked<LINE>on battling. Amazing.<LINE>Hee hee...<LINE>You have a promising future!
+You have the face of someone who<LINE>absolutely loves Pokémon battling.<LINE>Even now, you're still completely hooked<LINE>on battling. Amazing.<LINE>Hee hee…<LINE>You have a promising future!
 You and I both have 91 straight wins!<LINE>Which of us will reach a 100-win<LINE>streak first?
-Dawn and dusk behind my battles...<LINE>The rocking train softly rattles...<LINE>How many hours have now passed<LINE>since we left Nimbasa in the past?
-This is the end of the line...<LINE>The trip sure ended quickly.<LINE>I don't want to go home yet.
-If you've made it this far, that means<LINE>you've won 14 in a row.<LINE>What a fluke! Fourteen is how old I am!<LINE>Ha ha ha...
+Dawn and dusk behind my battles…<LINE>The rocking train softly rattles…<LINE>How many hours have now passed<LINE>since we left Nimbasa in the past?
+This is the end of the line…<LINE>The trip sure ended quickly.<LINE>I don't want to go home yet.
+If you've made it this far, that means<LINE>you've won 14 in a row.<LINE>What a fluke! Fourteen is how old I am!<LINE>Ha ha ha…
 I'm going to let people know I'm still<LINE>as active as ever!
-It's the end of the line already...<LINE>I guess that means my Pokémon<LINE>battle journey is over for now.
-Phew...<LINE>This long journey is hard on this<LINE>old body.
+It's the end of the line already…<LINE>I guess that means my Pokémon<LINE>battle journey is over for now.
+Phew…<LINE>This long journey is hard on this<LINE>old body.
 Hmm. You've got 28 straight wins, huh?<LINE>This time, I want to keep going<LINE>with this momentum.
 You also beat the Subway Boss, right?<LINE>Someday I want to battle you, too!
 When my favorite Poké Ball begins<LINE>to shake, I tremble with excitement!<LINE>You're no ordinary Trainer, are you?<LINE>Perhaps you are the Champion somewhere?
-Winning battles feels good, but I've<LINE>traveled quite far...I wonder if I can<LINE><LINE>get back in time for work tomorrow...
-I finally have a 49-battle win streak.<LINE>If I can do this well at work, I wonder<LINE>if I can get promoted...
+Winning battles feels good, but I've<LINE>traveled quite far…I wonder if I can<LINE><LINE>get back in time for work tomorrow…
+I finally have a 49-battle win streak.<LINE>If I can do this well at work, I wonder<LINE>if I can get promoted…
 Both you and I have won more than<LINE>100 straight battles!<LINE>I may have too much time on my hands,<LINE>but so do you.<LINE>Take this to commemorate our meeting of<LINE>two similar people!
-It's a really precious Berry, but I don't<LINE>know how to use it other than to eat it<LINE><LINE>as a snack...
+It's a really precious Berry, but I don't<LINE>know how to use it other than to eat it<LINE><LINE>as a snack…
 It's a subway map of the Unova region.
-Communicating. Please stand by...
+Communicating. Please stand by…

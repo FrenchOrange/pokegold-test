@@ -9,21 +9,14 @@
 ◇ A Trainer from Nuvema Town challenged and successfully beat Iris, the Opelucid Gym Leader!
 ◇ A Trainer from Nuvema Town challenged and successfully beat Drayden, the Opelucid Gym Leader!
 ◇ “Tender loving care! They grow in no time!" Day Care on Route 3
-◇ “Names will bring you wonderful relationships!" Name Rater in Castelia City
 ◇ “Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
 ◇ “Run and battle! Trains never stop!" Battle Subway in Nimbasa City
 ◇ “Take your first step to stardom." Musical in Nimbasa City
 ◇ “We deliver to you what winds and waves have brought to us." Driftveil Market
 ◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
-◇ Striaton City is nestled in the forest, and the breeze smells like trees.
-◇ The stairs at the entrance help with heavy snow.
-◇ Striaton Gym is a restaurant where meals--and battles--are served.
 ◇ The garden full of green makes you feel warm inside.
 ◇ Next to the city is a Day Care, which many Trainers visit.
 ◇ You can learn the basics of Pokémon at the Trainers' School.
-◇ Striaton City is nestled in the forest, and the breeze smells like trees.
-◇ The stairs at the entrance help with heavy snow.
-◇ Striaton Gym is a restaurant where meals are served. And so are battles!
 ◇ Nacrene City is characterized by its stone pavement and warehouses.
 ◇ Pokémon research at the museum starts with their bones.
 ◇ Nacrene Gym is a museum where battles and knowledge are pursued.

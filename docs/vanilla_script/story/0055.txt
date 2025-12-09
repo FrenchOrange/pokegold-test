@@ -1,13 +1,13 @@
 My name is Mr. Lock.<LINE>I'm a magical clown who can<LINE>open anything.<LINE>Your name is <PLAYER>.<LINE>I'll see you again, I'm sure.
-You have a Lock Capsule in your Bag...<LINE>I am the only one in the whole world<LINE>who can open the capsule.<LINE>I can open it in the blink of an eye!
-Look! As you can see, I opened it swiftly<LINE>and with precision!<LINE>Inside the capsule...<LINE>What your heart most desires...<LINE><LINE>a Technical Machine!
-Hm. There's a letter with the<LINE>Technical Machine...
-“I entrust the Technical Machine in the<LINE>Lock Capsule to a trustworthy Trainer in<LINE><LINE>the Unova region.<LINE>Don't allow it to fall into the hands of<LINE>villains like Team Rocket..."
-More is written here...<LINE>“TM95 is Snarl.<LINE>It's a Dark-type Special Attack, and<LINE><LINE>it lowers the opponents' Sp. Atk stat."<LINE>So that's what it is...a move that tests<LINE>the sense of the user!
-Even though I opened the Lock Capsule,<LINE>I can't unlock a closed heart.<LINE>I am a sad clown, indeed...
+You have a Lock Capsule in your Bag…<LINE>I am the only one in the whole world<LINE>who can open the capsule.<LINE>I can open it in the blink of an eye!
+Look! As you can see, I opened it swiftly<LINE>and with precision!<LINE>Inside the capsule…<LINE>What your heart most desires…<LINE><LINE>a Technical Machine!
+Hm. There's a letter with the<LINE>Technical Machine…
+“I entrust the Technical Machine in the<LINE>Lock Capsule to a trustworthy Trainer in<LINE><LINE>the Unova region.<LINE>Don't allow it to fall into the hands of<LINE>villains like Team Rocket…"
+More is written here…<LINE>“TM95 is Snarl.<LINE>It's a Dark-type Special Attack, and<LINE><LINE>it lowers the opponents' Sp. Atk stat."<LINE>So that's what it is…a move that tests<LINE>the sense of the user!
+Even though I opened the Lock Capsule,<LINE>I can't unlock a closed heart.<LINE>I am a sad clown, indeed…
 I secretly invented a special machine.<LINE>Only people who know the secret<LINE>password can use it.
 There's more!
 This is the password that will enable you<LINE>to use the Relocator I invented!<LINE>It's a superb machine that will swiftly<LINE>fetch a special Pokémon or item<LINE><LINE>by connecting to a special network.
 I added a button on the main menu.<LINE>Please save the game, then go back to<LINE>the title screen!
-Unfortunately, it seems that you don't<LINE>remember the password...
+Unfortunately, it seems that you don't<LINE>remember the password…
 Did you find my Relocator useful?

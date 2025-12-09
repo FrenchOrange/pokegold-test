@@ -10,29 +10,29 @@ Great! Molto bene!
 You're just as skillful as I expected!<LINE>Poké Transfer is working!<LINE>But hey, <PLAYER>, you can't fool me!<LINE>I bet you can do even better than this.<LINE>A Trainer of your caliber can make<LINE>really good use of Poké Transfer!
 Wunderbar! Magnifique! Brilliant!<LINE>Your skill is impressive!<LINE>This is the very reason why we scientists<LINE>are doing research!<LINE>But, <PLAYER>! I think a Trainer with<LINE>your experience can make use of it<LINE><LINE>even more elegantly.<LINE>Please master your genius handling of<LINE>Poké Transfer, and show us how<LINE><LINE>it's done!
 Great! Greeeeeeat!<LINE>Poké Transfer is making<LINE>tremendous progress!<LINE>Well, it's unbelievable! ¡Es gigante!<LINE>I owe everything to you!<LINE>Please assist our research in the<LINE>future, too!<LINE>Please feel free to use Poké Transfer<LINE>anytime you want!
-...<LINE>G...<LINE>Great!<LINE>Greeeat!<LINE>F--a--n--t--a--s--t--i--c!<LINE>Your handling of Poké Transfer<LINE>is reeeally exhilarating!<LINE>Ohhhh, our invention is<LINE>near completion!<LINE>Come again very soon!<LINE>Come again immediately!<LINE>And please show us even more wonderful<LINE>handling of Poké Transfer!
+…<LINE>G…<LINE>Great!<LINE>Greeeat!<LINE>F--a--n--t--a--s--t--i--c!<LINE>Your handling of Poké Transfer<LINE>is reeeally exhilarating!<LINE>Ohhhh, our invention is<LINE>near completion!<LINE>Come again very soon!<LINE>Come again immediately!<LINE>And please show us even more wonderful<LINE>handling of Poké Transfer!
 Ohhhhhhhh.<LINE>Any moment! Any moment!<LINE>Poké Transfer is only one step away<LINE>from going down in history as a<LINE><LINE>fantastic invention!
-<PLAYER>!<LINE>As I thought, my instinct was right...<LINE>You are a prodigy! A genius!<LINE>There won't be anyone else who can<LINE>handle Poké Transfer in such a<LINE><LINE>professional manner.<LINE>Please use Poké Transfer anytime you<LINE>want in the future!<LINE>We will be here any time to continue to do<LINE>further research!<LINE>If you want to use Poké Transfer, please<LINE>let us know!
+<PLAYER>!<LINE>As I thought, my instinct was right…<LINE>You are a prodigy! A genius!<LINE>There won't be anyone else who can<LINE>handle Poké Transfer in such a<LINE><LINE>professional manner.<LINE>Please use Poké Transfer anytime you<LINE>want in the future!<LINE>We will be here any time to continue to do<LINE>further research!<LINE>If you want to use Poké Transfer, please<LINE>let us know!
 I put the Pokémon you caught<LINE>in your PC Box.
 But, it seems you could not<LINE>catch any Pokémon.
-Ugh...<LINE>There seems to be a communication error.<LINE>I'm afraid you have to try it again!
+Ugh…<LINE>There seems to be a communication error.<LINE>I'm afraid you have to try it again!
 Hi, hello!<LINE>You came here.<LINE>That means you are a visitor?<LINE>Huh? No?<LINE>You came all the way here?<LINE>Ah, you are a Trainer?<LINE>Are you in the middle of your journey?<LINE>Ah, this is your Trainer Card?
 W-w-what? You!<LINE>You have all the Gym Badges?!
-Great!<LINE>You may be able to...
+Great!<LINE>You may be able to…
 Professor Paaaaaark!
 Quick, quick!
 Oh, there you are!
 Professor!<LINE>Do you have a minute?<LINE>I think you do. Listen!<LINE>This kid is a Trainer who has all the<LINE>Gym Badges. All of them!<LINE>I am sure this Trainer can operate it!
-I have told you many times.<LINE>This invention is great indeed, but<LINE>without a professional Trainer...
+I have told you many times.<LINE>This invention is great indeed, but<LINE>without a professional Trainer…
 What? You have the Gym Badges?<LINE>ALL of them?!
 Fantastic!<LINE>Fantastico!
 Yahoooooooooooooooo!
-What a great day! Great! Unbelievable!<LINE>Hi, I am Professor Andrew Park!<LINE>You!<LINE>Er...
+What a great day! Great! Unbelievable!<LINE>Hi, I am Professor Andrew Park!<LINE>You!<LINE>Er…
 <PLAYER>!
-<PLAYER>! Are you willing to<LINE>participate in an ambitious experiment<LINE><LINE>that will make history?<LINE>This device is called Poké Transfer.<LINE>It connects...blah blah blah...<LINE>...called DS system...meanwhile...<LINE>...blah blah...of molecules...and then...<LINE>...while evoking...blah blah...<LINE>...ergo, energy particles will...<LINE>...blah blah...and if the frequency...<LINE>...as you see...with faraway Pokémon...<LINE>...the Alpha waves...blah blah...<LINE>...following which...reach convergence...<LINE>...blah blah...spectacular results!
+<PLAYER>! Are you willing to<LINE>participate in an ambitious experiment<LINE><LINE>that will make history?<LINE>This device is called Poké Transfer.<LINE>It connects…blah blah blah…<LINE>…called DS system…meanwhile…<LINE>…blah blah…of molecules…and then…<LINE>…while evoking…blah blah…<LINE>…ergo, energy particles will…<LINE>…blah blah…and if the frequency…<LINE>…as you see…with faraway Pokémon…<LINE>…the Alpha waves…blah blah…<LINE>…following which…reach convergence…<LINE>…blah blah…spectacular results!
 To put it more simply, if you use this<LINE>device, you may be able to bring Pokémon<LINE><LINE>here from other regions.<LINE>But just for safety's sake, the Pokémon<LINE>you're transferring shouldn't be holding<LINE><LINE>anything! So make sure to take their<LINE><LINE>items first.
-...So! You!
+…So! You!
 You are a fantastic Pokémon Trainer!<LINE>Will you participate in the great<LINE>experiment of the century?<LINE>You need two DS systems to use<LINE>Poké Transfer!<LINE>We will conduct the experiment with<LINE>another DS. Is that OK?
 Your Pokémon can't be holding items when<LINE>you transfer them. It's safer that way.<LINE>In rare cases, there are Pokémon that<LINE>cannot be transferred, but<LINE><LINE>Professor Park will explain it to you.
-With this research of mine, I also want to<LINE>have an impact on people in the future...<LINE><LINE>people living 100 or 200 years from now!
+With this research of mine, I also want to<LINE>have an impact on people in the future…<LINE><LINE>people living 100 or 200 years from now!
 Here, we are monitoring Poké Transfer.<LINE>We're keeping a careful eye to make sure<LINE>all the Pokémon have safe travels!

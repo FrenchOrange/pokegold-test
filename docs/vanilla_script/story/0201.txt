@@ -1,4 +1,4 @@
-Zinzolin: All of you--huddle around me!<LINE>I can't take this cold...
+Zinzolin: All of you--huddle around me!<LINE>I can't take this cold…
 Cheren: Whatever.<LINE>I can't believe you were really hiding.<LINE>It's a bother, but if you're cold,<LINE>shall I show you outside?
 Zinzolin: Pokémon are our king's friends.<LINE>While we're taking care of them, we can't<LINE>let any harm come to them here.<LINE>Everyone, drive these intruders away!
 Team Plasma: Understood,<LINE>Zinzolin of the Seven Sages!<LINE>Put 'em up, 'cause here we come!
@@ -6,7 +6,7 @@ Cheren: <PLAYER>!<LINE>Let's each take care of one side!
 Cheren: <PLAYER>, you take<LINE>care of those guys over there!
 Team Plasma: I'm one of the tougher<LINE>members of Team Plasma here!
 Team Plasma: How am I supposed to win<LINE>when I'm shaking 'cause of the cold?
-Team Plasma: S-s-so cold...<LINE>How can I win when I'm shivering so hard?
+Team Plasma: S-s-so cold…<LINE>How can I win when I'm shivering so hard?
 Team Plasma: For this group,<LINE>I'm pretty strong. I hope you know that!
 Team Plasma: In the middle of the night,<LINE>we gathered all the Pokémon we stole<LINE><LINE>in front of the container, so we could<LINE><LINE>transport them all at the same time.<LINE>Then Clay, that old guy, found us.<LINE>We had been captured!
 Team Plasma: In the middle of the night,<LINE>we gathered all the Pokémon we stole<LINE><LINE>in front of the container, so we could<LINE><LINE>transport them all at the same time.<LINE>Then Clay, that old guy, found us.<LINE>We had been captured!
@@ -14,27 +14,27 @@ Team Plasma: In this group,<LINE>I'm fairly strong, and that's a fact!
 Team Plasma: The Pokémon that work<LINE>with people may look like they're having<LINE><LINE>fun, but the truth is they're suffering.<LINE>There's no doubt about it!
 Team Plasma: The Pokémon that work<LINE>with people may look like they're having<LINE><LINE>fun, but the truth is they're suffering.<LINE>There's no doubt about it!
 Team Plasma: In my own way, I'm a strong<LINE>part of this Team Plasma group!
-Team Plasma: Hmm-mmm... I wonder why...<LINE>I'm getting sleepy for some reason.
-Team Plasma: I wonder why...<LINE>I'm getting sleepy for some reason.
+Team Plasma: Hmm-mmm… I wonder why…<LINE>I'm getting sleepy for some reason.
+Team Plasma: I wonder why…<LINE>I'm getting sleepy for some reason.
 
-Team Plasma: Um.<LINE>Running into the Cold Storage,<LINE><LINE>thinking it was a regular container...<LINE><LINE>How cold life can be...
+Team Plasma: Um.<LINE>Running into the Cold Storage,<LINE><LINE>thinking it was a regular container…<LINE><LINE>How cold life can be…
 Team Plasma: Me?<LINE>Losing to a Trainer like this?!
 Team Plasma: Achoo! Why did I end up<LINE>here when I'm allergic to the cold!
-Clay: Well, I'll be!<LINE>Hidin' in a chilly old place like this...
+Clay: Well, I'll be!<LINE>Hidin' in a chilly old place like this…
 You guys take these<LINE>Pokémon robbers!
 Worker: Roger!
 Come on!
 Eek!
 Ugh!
 Clay: You guys ain't so bad!<LINE>Yup, a promise is a promise.<LINE>Come on an' challenge my Gym!
-Cheren: Whatever...<LINE>Team Plasma's ideal...<LINE>Separating people and Pokémon...<LINE>It's exactly the same as not having<LINE>Pokémon in this world at all.<LINE><LINE>That bunch is a waste of oxygen.<LINE><PLAYER>...<LINE>It's cold, so I'm getting out of here.
+Cheren: Whatever…<LINE>Team Plasma's ideal…<LINE>Separating people and Pokémon…<LINE>It's exactly the same as not having<LINE>Pokémon in this world at all.<LINE><LINE>That bunch is a waste of oxygen.<LINE><PLAYER>…<LINE>It's cold, so I'm getting out of here.
 Zinzolin: So, you returned?<LINE>You're an odd Trainer.<LINE>All right. I've got time enough<LINE>to satisfy your curiosity.
-...Breathing.<LINE>Having a heart that beats.<LINE>That is simple existence and<LINE>nothing more for a living being.<LINE>That may be the definition of living,<LINE>but I don't think that defines life.
-The experiences of joy and suffering<LINE>are a vital part of being alive.<LINE>Ghetsis gave me the sensation<LINE>of being truly alive...<LINE>What did he mean to accomplish?<LINE>That isn't what's important.
+…Breathing.<LINE>Having a heart that beats.<LINE>That is simple existence and<LINE>nothing more for a living being.<LINE>That may be the definition of living,<LINE>but I don't think that defines life.
+The experiences of joy and suffering<LINE>are a vital part of being alive.<LINE>Ghetsis gave me the sensation<LINE>of being truly alive…<LINE>What did he mean to accomplish?<LINE>That isn't what's important.
 Right now, I'm shivering.<LINE>I'm suffering, but I'm alive.
-Pokémon and people live by being<LINE>together and relying on one another.<LINE><LINE>That might be how you feel.<LINE>If that's so, is it necessary to<LINE>separate people and Pokémon?<LINE>By talking to you, I've discovered that<LINE>there's much I need to think about...<LINE>I wish I had more to give you in thanks...<LINE>Here, take this.
-Zinzolin: My lord N said that he wanted<LINE>to make Pokémon perfect...<LINE>But, even if the relationship between<LINE>Pokémon and people stayed as it now is,<LINE><LINE>Pokémon can aspire to perfection...
+Pokémon and people live by being<LINE>together and relying on one another.<LINE><LINE>That might be how you feel.<LINE>If that's so, is it necessary to<LINE>separate people and Pokémon?<LINE>By talking to you, I've discovered that<LINE>there's much I need to think about…<LINE>I wish I had more to give you in thanks…<LINE>Here, take this.
+Zinzolin: My lord N said that he wanted<LINE>to make Pokémon perfect…<LINE>But, even if the relationship between<LINE>Pokémon and people stayed as it now is,<LINE><LINE>Pokémon can aspire to perfection…
 Looker: Indeed! I am an officer of the<LINE>International Police, and I demand to<LINE><LINE>hear all you know about Team Plasma!
-Zinzolin: It's too cold and I'm already<LINE>tired of shivering in here.<LINE>If you'll give me some time to think,<LINE>I'll tell you what I know.<LINE><LINE>So...take me with you.
+Zinzolin: It's too cold and I'm already<LINE>tired of shivering in here.<LINE>If you'll give me some time to think,<LINE>I'll tell you what I know.<LINE><LINE>So…take me with you.
 Looker: Thanks many times over!<LINE>Now, Ghetsis notwithstanding, there<LINE>yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>The thoughts they are contemplating,<LINE>the hopes they are anticipating,<LINE><LINE>these--these are what I want to know!<LINE><LINE>Until our next meeting!
-Looker: Thank you!<LINE><PLAYER>, of something we must speak.<LINE>A report has reached my ears of someone<LINE>far from here. Indeed, this someone<LINE><LINE>has spotted a person like N and a...<LINE><LINE>dragon Pokémon.<LINE>I plan to examine the exactitude<LINE>of this information. <LINE><LINE>I hope to see you again!
+Looker: Thank you!<LINE><PLAYER>, of something we must speak.<LINE>A report has reached my ears of someone<LINE>far from here. Indeed, this someone<LINE><LINE>has spotted a person like N and a…<LINE><LINE>dragon Pokémon.<LINE>I plan to examine the exactitude<LINE>of this information. <LINE><LINE>I hope to see you again!

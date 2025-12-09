@@ -25,10 +25,9 @@ FishGroups:
 	assert_table_length NUM_FISHGROUPS
 
 .Shore:
-	db  40 percent,     MAGIKARP, 40
-	db  70 percent,     time_group 1
-	db  90 percent + 1, MAGIKARP, 40
-	db 100 percent,     MAGIKARP, 40
+	db  40 percent,     BASCULIN, 10
+	db  90 percent + 1, BASCULIN, 10
+	db 100 percent,     BASCULIN, 10
 
 .Ocean:
 	db  40 percent,     MAGIKARP, 40

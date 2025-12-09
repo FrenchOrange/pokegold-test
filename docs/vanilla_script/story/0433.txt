@@ -1,4 +1,4 @@
 Cheren's Dad: Hey, <PLAYER>!<LINE>I heard it from the professor!<LINE>So, you're getting a Pokémon, eh?<LINE>Oh, you've already got it!<LINE>Hm, that sure is a cute Pokémon.<LINE>And you're all finally<LINE>starting your journeys as Trainers?<LINE>Well, let me read you a passage from<LINE>a book called “Adventure Rules."<LINE>“The X Button is vitally important<LINE>for Trainers." Never forget that.
-Cheren's Mom: That Cheren.<LINE>I'm sure he's at the laboratory. <LINE>He's so... How should I put it?<LINE>Diligent or, better, conscientious.
+Cheren's Mom: That Cheren.<LINE>I'm sure he's at the laboratory. <LINE>He's so… How should I put it?<LINE>Diligent or, better, conscientious.
 Cheren's Dad: Traveling is great!<LINE>You encounter so many things you've<LINE>never seen and things you don't yet<LINE><LINE>understand. Wherever you go, you'll<LINE><LINE>learn something new and grow up a little.
 Cheren's Mom: Why, <PLAYER>.<LINE>I hear the professor asked you to<LINE>complete the Pokédex.<LINE>Don't worry!<LINE>You'll always have Pokémon by your side.

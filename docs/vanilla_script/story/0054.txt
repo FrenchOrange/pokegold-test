@@ -1,8 +1,8 @@
 I am the Feeling Reader.<LINE>I've heard a lot of people take<LINE>Feeling Checks using the C-Gear.
 I am the Feeling Reader.<LINE>From the results of your Feeling Checks,<LINE>I'll tell you your lucky person<LINE><LINE>for today!<LINE>Are you interested?<LINE>Do you want to know your lucky person?
-The person who can make your day<LINE>exceptionally happy...<LINE>It's <PLAYER>!
+The person who can make your day<LINE>exceptionally happy…<LINE>It's <PLAYER>!
 Oh, you don't have to hesitate.<LINE>I will read it for free!
-The person who can make your day<LINE>exceptionally happy is...<LINE>Oh dear. You've taken a Feeling Check<LINE>only with <PLAYER>.<LINE>I suggest that you take Feeling Checks<LINE>with a lot of people!
+The person who can make your day<LINE>exceptionally happy is…<LINE>Oh dear. You've taken a Feeling Check<LINE>only with <PLAYER>.<LINE>I suggest that you take Feeling Checks<LINE>with a lot of people!
 You can't change the name of a Pokémon<LINE>you got from someone.<LINE>Because the name contains wishes<LINE>of the person who named it!
 Gesundheit: Gyu gyu?
 By taking a Feeling Check, you can get<LINE>a Sweet Heart. That's a good item, right?
