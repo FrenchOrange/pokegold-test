@@ -11,7 +11,7 @@
 
 	db 40 ; step cycles to hatch
 
-	INCBIN "gfx/pokemon/beldum/front.dimensions"
+	INCBIN "gfx/pokemon/metang/front.dimensions"
 
 	db GROWTH_SLOW ; growth rate
 	dn EGG_MINERAL, EGG_MINERAL ; egg groups

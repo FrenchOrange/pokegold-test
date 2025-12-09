@@ -11,7 +11,7 @@
 
 	db 120 ; step cycles to hatch
 
-	INCBIN "gfx/pokemon/latias/front.dimensions"
+	INCBIN "gfx/pokemon/latios/front.dimensions"
 
 	db GROWTH_SLOW ; growth rate
 	dn EGG_UNDISCOVERED, EGG_UNDISCOVERED ; egg groups
