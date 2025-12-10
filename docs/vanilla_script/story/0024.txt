@@ -1,12 +1,12 @@
-Welcome!<LINE>The director of the Nacrene Museum<LINE>and the Nacrene Gym's Leader<LINE><LINE>is me! Lenora!<LINE>Well then, challenger,<LINE>I'm going to research<LINE><LINE>how you battle with the<LINE><LINE>Pokémon you've so lovingly raised!
-Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a Pokémon Trainer<LINE>worthy of receiving this Basic Badge!
+Welcome!<LINE>The director of the Nacrene Museum<LINE>and the Nacrene Gym's Leader<LINE><LINE>is me! Lenora!<LINE>Well then, challenger,<LINE>I'm going to research<LINE><LINE>how you battle with the<LINE><LINE>POKéMON you've so lovingly raised!
+Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a POKéMON Trainer<LINE>worthy of receiving this Basic Badge!
 <PLAYER> received<LINE>the Basic Badge from Lenora!
-If you have two Badges, traded<LINE>Pokémon up to Lv. 30 will obey you.<LINE>Here, I also want you to have this TM.
+If you have two Badges, traded<LINE>POKéMON up to Lv. 30 will obey you.<LINE>Here, I also want you to have this TM.
 Retaliate does a lot more damage if an<LINE>ally fainted the turn before you use it!<LINE>If you master the timing, you can defeat<LINE>even strong opponents.
 Some problems you can't solve even if you<LINE>think about them your whole life.<LINE>Some problems have different answers<LINE>depending on the person.<LINE>Still, the reason I can't keep my<LINE>curiosity down is this:<LINE><LINE>I want to figure out the truth, but I<LINE><LINE>also have a desire for adventure!
 Deeear!
 Hawes: Dear! Come quickly!<LINE>Team Plasma is threatening to steal<LINE>some bones!
 Lenora: What? What's going on?!<LINE><PLAYER>!<LINE>You come, too!
-Lenora: Oh, it's you!<LINE>As always, you're raising your Pokémon<LINE>with a lot of love!<LINE>By the way, ol' Clay contacted me<LINE>recently.<LINE>He said you can find Pokémon Fossils<LINE>in Twist Mountain!<LINE>Go check it out if you like!
+Lenora: Oh, it's you!<LINE>As always, you're raising your POKéMON<LINE>with a lot of love!<LINE>By the way, ol' Clay contacted me<LINE>recently.<LINE>He said you can find POKéMON Fossils<LINE>in Twist Mountain!<LINE>Go check it out if you like!
 Lenora's research materials are stored<LINE>in an orderly fashion.
 The bones Lenora is using for research<LINE>are on display.

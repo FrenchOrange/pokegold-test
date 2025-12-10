@@ -23,8 +23,8 @@ You are…<LINE>…<LINE><LINE>…<LINE><LINE>…<LINE><LINE>inconceivably incor
 That marks the grand finale of<LINE>our Patrat show!<LINE><LINE>Thank you, one and all!
 You want to see the Patrat again?<LINE>There are a lot of preparations and<LINE>such to make, so come back tomorrow!
 Skreeet?
-Man: Son!<LINE>I have a deal for YOU! And for you alone.<LINE>Here's your chance. I will sell you the<LINE>secret Pokémon Magikarp…<LINE><LINE>For an unbelievable $500!<LINE>How about it? Interested?
-Man: Miss!<LINE>I have a deal for YOU! And for you alone.<LINE>Here's your chance. I will sell you the<LINE>secret Pokémon Magikarp…<LINE><LINE>For an unbelievable $500!<LINE>How about it? Interested?
+Man: Son!<LINE>I have a deal for YOU! And for you alone.<LINE>Here's your chance. I will sell you the<LINE>secret POKéMON Magikarp…<LINE><LINE>For an unbelievable $500!<LINE>How about it? Interested?
+Man: Miss!<LINE>I have a deal for YOU! And for you alone.<LINE>Here's your chance. I will sell you the<LINE>secret POKéMON Magikarp…<LINE><LINE>For an unbelievable $500!<LINE>How about it? Interested?
 <PLAYER> bought the Magikarp<LINE>for $500.
 Would you like to give a<LINE>nickname to this Magikarp?
 Looks like you don't have enough money.

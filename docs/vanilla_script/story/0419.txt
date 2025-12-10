@@ -1,11 +1,11 @@
 Rood: It smells of the sea here.<LINE>This place has the same ocean smell<LINE>as where I was born…
 Ghetsis wandered the lands of this world<LINE>all over, collecting knowledge of all kinds<LINE><LINE>while searching for like-minded people.<LINE>From the moment we met, he<LINE>understood what I desired.
-The ability to understand the minds and<LINE>the needs of others…<LINE>This is an ability that everyone needs<LINE>to survive.<LINE>My lord N is a kind and excellent person<LINE>who understands the hearts of Pokémon.<LINE>But, conversely, perhaps his ability to<LINE>understand the hearts and feelings<LINE><LINE>of people is not developed enough.
+The ability to understand the minds and<LINE>the needs of others…<LINE>This is an ability that everyone needs<LINE>to survive.<LINE>My lord N is a kind and excellent person<LINE>who understands the hearts of POKéMON.<LINE>But, conversely, perhaps his ability to<LINE>understand the hearts and feelings<LINE><LINE>of people is not developed enough.
 But… Even that was part of the<LINE>perfection of Ghetsis's plan.<LINE>When it comes to Ghetsis, I cannot<LINE>separate the truths from the lies.<LINE>See this? I received it from Ghetsis,<LINE>but I no longer need it.<LINE><LINE>I hope you can put it to good use.
-Rood: Someday, if my lord N develops the<LINE>ability to understand the feelings<LINE><LINE>of people as well as Pokémon,<LINE><LINE>I would like us to gather again.<LINE>More than anything, I want to see<LINE>N confront Ghetsis.
+Rood: Someday, if my lord N develops the<LINE>ability to understand the feelings<LINE><LINE>of people as well as POKéMON,<LINE><LINE>I would like us to gather again.<LINE>More than anything, I want to see<LINE>N confront Ghetsis.
 Looker: Ah… And now,<LINE>about Team Plasma…<LINE>I am an officer of the<LINE>International Police, and there are so<LINE><LINE>many things you must tell me at once!
 Rood: If that is what you desire…
 Looker: Many thanks!<LINE>Now, Ghetsis notwithstanding,<LINE>there yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>What it is they are thinking,<LINE>what it may be they are hoping,<LINE><LINE>this is the information I have need of.<LINE><LINE>Quick and soon, say I!
-Looker: Thank you a lot!<LINE>Eh, <PLAYER>…<LINE>On a topic I must speak to you.<LINE>Having received such a report, of<LINE>someone far from here, who has seen<LINE><LINE>a person like N and…a dragon Pokémon.<LINE>I am on my way to verify the veracity<LINE>of this information.<LINE><LINE>We will meet again one day!
+Looker: Thank you a lot!<LINE>Eh, <PLAYER>…<LINE>On a topic I must speak to you.<LINE>Having received such a report, of<LINE>someone far from here, who has seen<LINE><LINE>a person like N and…a dragon POKéMON.<LINE>I am on my way to verify the veracity<LINE>of this information.<LINE><LINE>We will meet again one day!
 
 

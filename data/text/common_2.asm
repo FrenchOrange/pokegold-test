@@ -555,7 +555,8 @@ _MailMovedFromBoxText::
 _WasSentToBillsPCText::
 	text_ram wStringBuffer1
 	text " was"
-	line "sent to BILL's PC."
+	line "transferred to"
+	cont "<AMANITA>'s PC."
 	prompt
 
 _PCGottaHavePokemonText::
@@ -794,7 +795,7 @@ _PokecenterPCWhoseText::
 	done
 
 _PokecenterBillsPCText::
-	text "BILL's PC"
+	text "AMANITA's PC"
 	line "accessed."
 
 	para "#MON Storage"

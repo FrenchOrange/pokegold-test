@@ -9,4 +9,4 @@ Your party is full. Please make room<LINE>to receive the gift.
 Another \xf000ĉ\x0001\x0000? You already<LINE>have too many to accept any more.
 <PLAYER> received<LINE>\xf000Đ\x0001\x0001!
 <PLAYER> already<LINE>knows \xf000Đ\x0001\x0001.
-<PLAYER> obtained<LINE>a Pokémon Egg!
+<PLAYER> obtained<LINE>a POKéMON Egg!

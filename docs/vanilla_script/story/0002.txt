@@ -3,15 +3,15 @@ Leo: Check me out! The excitement<LINE>of the big city has made me stronger!
 Looks like I wasn't wound up enough…<LINE>I need a little more urban atmosphere.
 Maybe all of this excitement is<LINE>a little too much for me…
 Living in a fast-paced environment<LINE>helps with a person's growth.<LINE><LINE>This city is a model for those words.
-Silvia: My glasses have locked onto you!<LINE>Let's have a Pokémon battle!
+Silvia: My glasses have locked onto you!<LINE>Let's have a POKéMON battle!
 Th-there’s a crack in my glasses.<LINE>That was a smashing battle!
 The time I've spent here has been<LINE>really fun and wonderful!<LINE>But, being this surrounded by excitement<LINE>makes you miss nature somehow!
 All the buildings reflected in my glasses<LINE>are dazzling enough to make me dizzy!
-Dave: Hey! You've got it goin' on!<LINE>Let's get a Pokémon battle goin'<LINE><LINE>to see who's got it goin' on the most!
+Dave: Hey! You've got it goin' on!<LINE>Let's get a POKéMON battle goin'<LINE><LINE>to see who's got it goin' on the most!
 No one's got it goin' on more than you!<LINE>You can hang out with all the tough guys!
 The life of a tough guy in the city is<LINE>a little much.<LINE>White Forest is looking better<LINE>all the time.
 This city is big and tough, just like me!<LINE>What do you think of me now? I've got it<LINE><LINE>goin' on as much as it will go! Right?
-Britney: Hey there! You over thataway!<LINE>Have a Pokémon battle with me!<LINE>Bring heaps of cute Pokémon, OK?
+Britney: Hey there! You over thataway!<LINE>Have a POKéMON battle with me!<LINE>Bring heaps of cute POKéMON, OK?
 Whoa, what was that?!<LINE>You are way strong!<LINE>There's no chance I'm keepin' up!
 All the racket in this city is getting<LINE>to be too much.<LINE>I want to lie on my back in the<LINE>wide-open spaces!
 I have to try somethin' awful to keep up<LINE>with city life! But I still enjoy it a bit.
@@ -19,7 +19,7 @@ Robbie: In Black City, my groove's<LINE>getting into a groove! And in battle,<LI
 Ooh, now I'm grooveless.<LINE>But I'll get my groove back, so<LINE><LINE>let's battle again sometime!
 Aaah! I've grooved my way into a rut!<LINE>I want to take a break in White Forest!
 Developing and developing.<LINE>Black City changes every day!<LINE><LINE>I love that about this place!
-Miki: Hello!<LINE>I'm a fan of sudden beginnings!<LINE>Let's get right to the Pokémon battle!
+Miki: Hello!<LINE>I'm a fan of sudden beginnings!<LINE>Let's get right to the POKéMON battle!
 Oh, gosh. I already lost?<LINE>Sudden endings, I'm not such a fan of!
 It's too busy and noisy, and it's enough<LINE>to make a slow-paced person like me<LINE><LINE>dizzy. I want to relax in White Forest.
 I was worried, since I'm a little laid back<LINE>and do things at my own speed,<LINE><LINE>that Black City and I aren't a good fit.<LINE>But it'll work out, and it's fun here!
@@ -31,7 +31,7 @@ Karenna: Faster! Faster! I'm ready<LINE>to go! Please spar with me!
 Thank you very much! I still haven't<LINE>trained enough. I need to be faster!
 There are many things to learn from<LINE>battle, but to improve on what I learned,<LINE><LINE>I want to run and train in the forest.
 There is a lot to learn from battles!<LINE>I want to battle more and more!
-Doug: Hello, hello! Nice to work with you!<LINE>How about a Pokémon battle to celebrate<LINE>our new acquaintance?
+Doug: Hello, hello! Nice to work with you!<LINE>How about a POKéMON battle to celebrate<LINE>our new acquaintance?
 Hey! You must be Unova's best!
 Black City has everything! But if there's<LINE>one thing it's missing, it's…<LINE>Nature! Relaxation! I want to relax!
 Black City is full of hustle and bustle!<LINE>I'm sure my work will progress here!
@@ -43,62 +43,62 @@ Marie: Take deep, deep breaths before<LINE>battle. When your mind is clear,<LINE
 I overthought things, and I lost…<LINE>Sometimes just acting on instinct<LINE>might be better.
 I was working on my paper, but now<LINE>I've got writer's block.<LINE>Maybe getting some fresh air in<LINE>White Forest would clear my head.
 Black City is really exciting, and there's<LINE>always so much going on.<LINE><LINE>It gives me lots of ideas!
-Lena: Since I started my journey as a<LINE>Pokémon Trainer, I haven't lost<LINE><LINE>many battles.<LINE>Can you make me lose?
+Lena: Since I started my journey as a<LINE>POKéMON Trainer, I haven't lost<LINE><LINE>many battles.<LINE>Can you make me lose?
 Oh. I really lost, didn't I…?<LINE>It's strange. I'm usually calm, but now<LINE><LINE>I'm a little frustrated.
 In the end, everything returns<LINE>to nature, no matter what.<LINE>So that's why White Forest may<LINE>be so calming…
 People build buildings because<LINE>they fear the power of nature.<LINE><LINE>That's why I feel so calm here…
-Carlos: Oh! Hello!<LINE>We must've met here because of fate!<LINE>Let's have a Pokémon battle!
+Carlos: Oh! Hello!<LINE>We must've met here because of fate!<LINE>Let's have a POKéMON battle!
 Black City battles really<LINE>make a person excited, huh?
 Hmmm. I think I'd like<LINE>to see somewhere else soon.
 Black City has so much to see.<LINE>I never get tired of it!
-Molly: If you look at everything while<LINE>walking, you make eye contact with<LINE><LINE>various Trainers.<LINE>Which Pokémon will you use, Trainer who<LINE>met my gaze?
+Molly: If you look at everything while<LINE>walking, you make eye contact with<LINE><LINE>various Trainers.<LINE>Which POKéMON will you use, Trainer who<LINE>met my gaze?
 When you don't feel confident,<LINE>lower your eyes as you walk.<LINE><LINE>That is a bit of wisdom.
 When there is this much commotion,<LINE>it's hard to calm down.<LINE><LINE>I want to relax somewhere quiet.
 Black City always feels like it is<LINE>going forward. It's really cool, isn't it?
-Frederic: Oh! Have a look at this!<LINE>My Pokémon is saying it wants to battle<LINE>with yours!
-My Pokémon is saying that was<LINE>a good battle.<LINE>Don't you think my Pokémon<LINE>is truly well mannered?
-I love this place, but my Pokémon<LINE>seems unsatisfied.<LINE><LINE>Maybe I should take it to White Forest.
+Frederic: Oh! Have a look at this!<LINE>My POKéMON is saying it wants to battle<LINE>with yours!
+My POKéMON is saying that was<LINE>a good battle.<LINE>Don't you think my POKéMON<LINE>is truly well mannered?
+I love this place, but my POKéMON<LINE>seems unsatisfied.<LINE><LINE>Maybe I should take it to White Forest.
 This is definitely the best place for me.<LINE>The constant change and development<LINE>really put me in high spirits.
 Lynette: How do you do?<LINE>Would you please let me see<LINE>if you are strong or not?
 Ah, you are a strong person!<LINE>I can feel it in my heart.
 I've grown a little tired of looking for<LINE>my Prince Charming.
 There are many strong people in this<LINE>city, so I never get bored!<LINE>I want to meet more and more<LINE>strong people!
-Pierce: Phew! What a thrilling lifestyle!<LINE>Want to taste the thrill with<LINE>a Pokémon battle?
+Pierce: Phew! What a thrilling lifestyle!<LINE>Want to taste the thrill with<LINE>a POKéMON battle?
 That felt like being on the edge!<LINE>It was thrilling and fun!
-Aaahhh. I'm even getting tired of<LINE>thrilling things. I want to pass time<LINE><LINE>slowly and simply with my Pokémon…
+Aaahhh. I'm even getting tired of<LINE>thrilling things. I want to pass time<LINE><LINE>slowly and simply with my POKéMON…
 Black City is great. It has culture,<LINE>and you can live comfortably.<LINE>I think when you're picking a place<LINE>to live, living comfortably is important!
-Gene: I can't remember how many<LINE>Pokémon I've encountered…<LINE>Why don't you test your powers<LINE>against someone like me?
+Gene: I can't remember how many<LINE>POKéMON I've encountered…<LINE>Why don't you test your powers<LINE>against someone like me?
 Hmmm… I still have a long way to<LINE>go as a Trainer.
-I want to meet more Pokémon<LINE>in my day-to-day life.
+I want to meet more POKéMON<LINE>in my day-to-day life.
 You can keep battling more and more<LINE>and test your power here!<LINE><LINE>Black City is a great city!
 Piper: Fight efficiently and without<LINE>waste! That is my policy!
 Your efficient fighting style<LINE>is truly wonderful!
 Maybe there's more to life<LINE>than efficiency…
 Efficiency is everything in<LINE>battling and in business.<LINE>Black City is efficient.<LINE>I like that in a place!
-Miho: I'm adorable, and so is my Pokémon!<LINE>Do you think you can win against us?
+Miho: I'm adorable, and so is my POKéMON!<LINE>Do you think you can win against us?
 How can we lose when we're so cute?
-I've been thinking lately that it would be<LINE>better for my Pokémon and me to get back<LINE><LINE>to nature…
+I've been thinking lately that it would be<LINE>better for my POKéMON and me to get back<LINE><LINE>to nature…
 You can get everything in Black City, so<LINE>I'm sure I can find things that will help<LINE><LINE>me become cuter and stronger!
 Shane: You strong? I'm sure you are!<LINE>I'll check by battling with you!
 I see…<LINE>I must be weak, then…
 I'm a little tired of living a life where<LINE>I'm worried about how people see me.
 In Black City, I can always confirm what<LINE>kind of guy I am by battling others.<LINE><LINE>It's easy to understand.
-Ralph: My feelings! I'll use a Pokémon<LINE>battle to get them through!
+Ralph: My feelings! I'll use a POKéMON<LINE>battle to get them through!
 Did some of my excitement<LINE>get through to you?
 Recently, I've been thinking I don't<LINE>just want to try and get my feelings<LINE><LINE>through to people, but I also want<LINE><LINE>to listen a little better…<LINE>I want to live the slow life in<LINE>White Forest.
 In Black City, you can quickly let me know<LINE>how you feel!<LINE>This directness feels really great!
-Eliza: I want this! I want that! But what<LINE>I really want is to beat you in a<LINE><LINE>Pokémon battle!
+Eliza: I want this! I want that! But what<LINE>I really want is to beat you in a<LINE><LINE>POKéMON battle!
 My oh my…<LINE>I lost!
 Even if I buy a lot of stuff, I'm still<LINE>unsatisfied… I have times like that!
 In Black City, you can get whatever<LINE>you want! You can live securely!
-Collin: Pokémon battles are good<LINE>for business!<LINE>I'll defeat you and take advantage of<LINE>the business opportunity!
+Collin: POKéMON battles are good<LINE>for business!<LINE>I'll defeat you and take advantage of<LINE>the business opportunity!
 My business opportunity!<LINE>It's going up in smoke!!
 Business opportunities don't just come<LINE>rolling your way…<LINE>Maybe White Forest is a better fit<LINE>for me…
 Time is limited!<LINE>I want to always give things my all<LINE>so I don't regret anything!
-Ken: I've dedicated my life to Pokémon<LINE>battling. I will win as a specialist!
-I apparently still haven't done enough<LINE>research on Pokémon battling.
-All I think about every day is<LINE>Pokémon battling.<LINE>But maybe it would be better<LINE>to think about other things, too…<LINE><LINE>I think that sometimes.
-If I'm in Black City, I can focus on<LINE>Pokémon battling and get really good!<LINE>I'll try to master one thing!
+Ken: I've dedicated my life to POKéMON<LINE>battling. I will win as a specialist!
+I apparently still haven't done enough<LINE>research on POKéMON battling.
+All I think about every day is<LINE>POKéMON battling.<LINE>But maybe it would be better<LINE>to think about other things, too…<LINE><LINE>I think that sometimes.
+If I'm in Black City, I can focus on<LINE>POKéMON battling and get really good!<LINE>I'll try to master one thing!
 Jacques: Win or lose!<LINE>Contests have a clear answer!<LINE>I'm going to research<LINE>your battling style.
 The result is a loss.<LINE>It's a beautiful, clear answer.
 Just one answer…<LINE>I think there may be a way of research<LINE>that looks for something besides that.
@@ -110,13 +110,13 @@ Black City has lots of ways to kill time,<LINE>so I never get bored! It's great!
 Herman: I can't be tied down to a single<LINE>place… I wander around, and today's<LINE><LINE>another battle!
 I lost! This city doesn't fit me well.
 Just staying in one place…<LINE>I'd like to try living like that.
-Wandering and having Pokémon battles!<LINE>I like living like this!
-Emi: Pokémon battling…<LINE>That is the goal for my journey!
+Wandering and having POKéMON battles!<LINE>I like living like this!
+Emi: POKéMON battling…<LINE>That is the goal for my journey!
 I couldn't win! But this is one of the<LINE>thrills of battling!
 Recently, I've been thinking I would like<LINE>to take a more leisurely trip without any<LINE><LINE>particular destination in mind.
-In Black City, I can enjoy Pokémon<LINE>battles, and it fits my<LINE><LINE>journey perfectly!
-Grace: I am about to show you the beauty<LINE>of artistic Pokémon battling!<LINE><LINE>Please be overwhelmed!
-The combination of you and your Pokémon<LINE>was very beautiful!!
+In Black City, I can enjoy POKéMON<LINE>battles, and it fits my<LINE><LINE>journey perfectly!
+Grace: I am about to show you the beauty<LINE>of artistic POKéMON battling!<LINE><LINE>Please be overwhelmed!
+The combination of you and your POKéMON<LINE>was very beautiful!!
 There is a limit to the beauty a person<LINE>can create…<LINE><LINE>I feel like that when I look at this city.
 My heart dances in delight at the<LINE>calculated beauty of a city built<LINE><LINE>by people!
 Black City<LINE>Prosperous and Vibrant

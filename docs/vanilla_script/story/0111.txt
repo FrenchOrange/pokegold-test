@@ -1,9 +1,9 @@
-I am grateful that you came all this way!<LINE>Are you a Trainer?<LINE>Ooh, you have a Pokédex!<LINE>It's so marvelous!<LINE>I wonder if you'd please do me a favor.
+I am grateful that you came all this way!<LINE>Are you a Trainer?<LINE>Ooh, you have a POKéDEX!<LINE>It's so marvelous!<LINE>I wonder if you'd please do me a favor.
 Oh, Trainer. I'm so pleased that you<LINE>came all the way here!<LINE>I'm wondering if you would do me a favor<LINE>today, too.
-I would like to see a Pokémon that has<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.
-I would like to see a Pokémon that<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.<LINE>Oh, my, my, my!<LINE>Your <POKEMON> can<LINE>use \xf000ć\x0001\x0000!<LINE>Did you go to the trouble of teaching it<LINE>to your Pokémon? Marvelous!<LINE>This is a small token of my appreciation.<LINE>Please don't hesitate to accept this.
+I would like to see a POKéMON that has<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.
+I would like to see a POKéMON that<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.<LINE>Oh, my, my, my!<LINE>Your <POKEMON> can<LINE>use \xf000ć\x0001\x0000!<LINE>Did you go to the trouble of teaching it<LINE>to your POKéMON? Marvelous!<LINE>This is a small token of my appreciation.<LINE>Please don't hesitate to accept this.
 I'm touched that you came all the way<LINE>here, yet you are being so unkind.
 
-Oh, my goodness. Your <POKEMON> can<LINE>use \xf000ć\x0001\x0000!<LINE>You went to all the trouble of teaching<LINE>it to your Pokémon? That's so touching!<LINE>This is a small token of my appreciation.<LINE>Please don't hesitate to accept this.
+Oh, my goodness. Your <POKEMON> can<LINE>use \xf000ć\x0001\x0000!<LINE>You went to all the trouble of teaching<LINE>it to your POKéMON? That's so touching!<LINE>This is a small token of my appreciation.<LINE>Please don't hesitate to accept this.
 I wonder what \xf000ć\x0001\x0000 looks like<LINE>when it is actually used.<LINE>I am sure you can use it skillfully!
-You know there are many kinds<LINE>of Pokémon?<LINE>Different kinds of Pokémon can learn<LINE>different kinds of moves.
+You know there are many kinds<LINE>of POKéMON?<LINE>Different kinds of POKéMON can learn<LINE>different kinds of moves.

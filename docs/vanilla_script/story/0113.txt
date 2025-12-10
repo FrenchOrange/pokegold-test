@@ -1,13 +1,13 @@
 Hee-hee!<LINE>I've been waiting for you.<LINE>Did you enjoy flying with the help of<LINE>the Mistralton Gym cannons?<LINE>They're my pride and joy!<LINE>This time, let's try something else!
-You're an amazing Pokémon Trainer.<LINE>My Pokémon and I are happy,<LINE>because for the first time in a while,<LINE><LINE>we could fight with our full strength.<LINE>This is an official League Gym Badge.<LINE>I think it will look good on you.
+You're an amazing POKéMON Trainer.<LINE>My POKéMON and I are happy,<LINE>because for the first time in a while,<LINE><LINE>we could fight with our full strength.<LINE>This is an official League Gym Badge.<LINE>I think it will look good on you.
 <PLAYER> received the<LINE>Jet Badge from Skyla.
-Wow, hot stuff!<LINE>With that many Gym Badges,<LINE>Pokémon up to Lv. 70 will obey you.<LINE>Also, as thanks for a Pokémon battle<LINE>that made me very happy,<LINE><LINE>I want you to have this TM.
+Wow, hot stuff!<LINE>With that many Gym Badges,<LINE>POKéMON up to Lv. 70 will obey you.<LINE>Also, as thanks for a POKéMON battle<LINE>that made me very happy,<LINE><LINE>I want you to have this TM.
 My present to you is Acrobatics.<LINE>If the user doesn't have a held item,<LINE><LINE>its power doubles.<LINE><LINE>It's a pretty technical move.<LINE>Be sure to compensate for the<LINE>lack of a held item!<LINE>By the way, when I flew over<LINE>Twist Mountain on the way<LINE><LINE>to Icirrus City…<LINE>Team Plasma--is that the name?<LINE>Anyway, they were heading for the city.<LINE>What kind of people are they?
 Icirrus City, where you'll find the next<LINE>Gym, is past Route 7, just after you<LINE><LINE>cross Twist Mountain.<LINE>It's a hop, skip, and a jump when flying,<LINE>but it's a really challenging walk.<LINE>Heads up! Make sure you're ready for it!
-Skyla: Are you and your Pokémon well?<LINE>Our battle together was so much fun.<LINE>Now, my Pokémon and I have started<LINE>training again.<LINE>I don't usually let people travel in my<LINE>cargo plane, but battling with you was<LINE><LINE>such a blast that I'd make an exception.
+Skyla: Are you and your POKéMON well?<LINE>Our battle together was so much fun.<LINE>Now, my POKéMON and I have started<LINE>training again.<LINE>I don't usually let people travel in my<LINE>cargo plane, but battling with you was<LINE><LINE>such a blast that I'd make an exception.
 Please take this Fresh Water!
-Just between you and me…<LINE>Rock, Electric, Ice… Flying types have<LINE>more weaknesses than people know about.<LINE>If you use Pokémon and moves of those<LINE>types, victory is practically yours!<LINE>By the way, to proceed in this Gym,<LINE>you climb in the cannons to move forward.<LINE>The cannons go up, down, left, and right.<LINE>You can get in them from anywhere!
+Just between you and me…<LINE>Rock, Electric, Ice… Flying types have<LINE>more weaknesses than people know about.<LINE>If you use POKéMON and moves of those<LINE>types, victory is practically yours!<LINE>By the way, to proceed in this Gym,<LINE>you climb in the cannons to move forward.<LINE>The cannons go up, down, left, and right.<LINE>You can get in them from anywhere!
 Woo! Not many people look that good<LINE>being shot out of a cannon…<LINE><LINE>You make it look easy!<LINE>And congratulations on your victory<LINE>against the Gym Leader.
-Mistralton Pokémon Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:
-Mistralton Pokémon Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-Mistralton Pokémon Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca
+Mistralton POKéMON Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:
+Mistralton POKéMON Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:<LINE><LINE><PLAYER>
+Mistralton POKéMON Gym<LINE>Gym Leader: Skyla<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca

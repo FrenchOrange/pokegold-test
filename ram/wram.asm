@@ -2312,11 +2312,11 @@ wPlayerData::
 wPlayerData1::
 wPlayerID:: dw
 
-wPlayerName:: ds NAME_LENGTH
-wMomsName::   ds NAME_LENGTH
-wRivalName::  ds NAME_LENGTH
-wRedsName::   ds NAME_LENGTH
-wGreensName:: ds NAME_LENGTH
+wPlayerName::   ds NAME_LENGTH
+wAmanitasName:: ds NAME_LENGTH
+wRivalName::    ds NAME_LENGTH
+wRedsName::     ds NAME_LENGTH
+wGreensName::   ds NAME_LENGTH
 
 wSavedAtLeastOnce:: db
 wSpawnAfterChampion:: db

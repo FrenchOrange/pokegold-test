@@ -1,2 +1,2 @@
-Both you and your Pokémon are healthy<LINE>and energetic!<LINE>If you get tired, please talk to me.<LINE>I'll let you take a nice long rest.
-Oh, your Pokémon look pretty tired.<LINE>Don't be shy. Take a nice long rest!
+Both you and your POKéMON are healthy<LINE>and energetic!<LINE>If you get tired, please talk to me.<LINE>I'll let you take a nice long rest.
+Oh, your POKéMON look pretty tired.<LINE>Don't be shy. Take a nice long rest!

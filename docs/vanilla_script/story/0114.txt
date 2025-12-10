@@ -1,8 +1,8 @@
-When a Pokémon learns the move<LINE>Hidden Power, somehow I can tell<LINE><LINE>what type that move will be!<LINE>Should I tell you what type of<LINE>Hidden Power your Pokémon will learn?
-Now that I'm aware of my hidden power,<LINE>I can tell you what type of Hidden Power<LINE><LINE>your Pokémon will learn!<LINE><LINE>Do you want to know?
-If this Pokémon were to learn<LINE>Hidden Power, the move's type<LINE><LINE>would be \xf000ă\x0001\x0000!
-The type of this Pokémon's<LINE>Hidden Power would be \xf000ă\x0001\x0000!
+When a POKéMON learns the move<LINE>Hidden Power, somehow I can tell<LINE><LINE>what type that move will be!<LINE>Should I tell you what type of<LINE>Hidden Power your POKéMON will learn?
+Now that I'm aware of my hidden power,<LINE>I can tell you what type of Hidden Power<LINE><LINE>your POKéMON will learn!<LINE><LINE>Do you want to know?
+If this POKéMON were to learn<LINE>Hidden Power, the move's type<LINE><LINE>would be \xf000ă\x0001\x0000!
+The type of this POKéMON's<LINE>Hidden Power would be \xf000ă\x0001\x0000!
 If you want to know, ask me, and I'll<LINE>activate my hidden power for you!
 It's not possible for an Egg to use<LINE>Hidden Power!
-I'm sorry, but this Pokémon can't learn<LINE>to use Hidden Power.
+I'm sorry, but this POKéMON can't learn<LINE>to use Hidden Power.
 The Entree and Pass Power…<LINE>What in the world is the Entralink?

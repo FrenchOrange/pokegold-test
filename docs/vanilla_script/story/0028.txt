@@ -1,17 +1,17 @@
-Hi! Do you have a Pokémon called<LINE><PLAYER>?<LINE>Would you like to trade your <PLAYER><LINE>for my <POKEMON>?
+Hi! Do you have a POKéMON called<LINE><PLAYER>?<LINE>Would you like to trade your <PLAYER><LINE>for my <POKEMON>?
 Wow. Thanks!<LINE>Then, let's trade!
 Yay! Please take good care of<LINE>my <POKEMON>!<LINE>I will take good care of your <PLAYER>!
 I'd like to trade for a <PLAYER>…
-It's OK if you don't want to…<LINE>But if you change your mind, let's<LINE>trade Pokémon!
-Thanks to our Pokémon, you and I<LINE>became friends!
+It's OK if you don't want to…<LINE>But if you change your mind, let's<LINE>trade POKéMON!
+Thanks to our POKéMON, you and I<LINE>became friends!
 The \xf000Ă\x0001\x0000 that I got from you has<LINE>grown up and become very strong!<LINE>Let's have a battle!
-Yay! I'll show off how I trained<LINE>this Pokémon!
+Yay! I'll show off how I trained<LINE>this POKéMON!
 I want to show you how \xf000Ă\x0001\x0000<LINE>has grown up…
-I had a great time!<LINE>I traded my Pokémon with yours, and<LINE>on top of that, we had a great battle.<LINE>I'm so happy to be with Pokémon!
-Oh my, what a lovely Trainer!<LINE>What kind of Pokémon do you have?<LINE>Oh, your <PLAYER>…
+I had a great time!<LINE>I traded my POKéMON with yours, and<LINE>on top of that, we had a great battle.<LINE>I'm so happy to be with POKéMON!
+Oh my, what a lovely Trainer!<LINE>What kind of POKéMON do you have?<LINE>Oh, your <PLAYER>…
 It's very friendly toward you!<LINE>It must be happy with you.
 It's a little bit friendly to you…<LINE>Something like that.
 Hmmm…<LINE>It may still take some time.
 Fwish fwish!
 Pwoof…
-Pokémon you get through trades<LINE>grow up fast. But be careful!<LINE>If a traded Pokémon grows up too much,<LINE>it won't listen to you.<LINE>But if you have a lot of Badges, you'll<LINE>be OK.
+POKéMON you get through trades<LINE>grow up fast. But be careful!<LINE>If a traded POKéMON grows up too much,<LINE>it won't listen to you.<LINE>But if you have a lot of Badges, you'll<LINE>be OK.

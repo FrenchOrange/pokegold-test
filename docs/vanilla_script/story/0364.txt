@@ -1,6 +1,6 @@
 This is the Season Research Lab.<LINE>Twist Mountain, just beyond Mistralton,<LINE>has snow, depending on the season.
-Some Pokémon change their appearance<LINE>depending on the season.<LINE>Could that also be considered<LINE>a type of evolution?
-We research changes in nature that<LINE>occur due to the seasons.<LINE>Consider the Pokémon called <PLAYER>,<LINE>which lives in this forest.<LINE>Its appearance is said to change<LINE>according to the season.<LINE>This characteristic is of great interest<LINE>to us.<LINE>We want to research this Pokémon and<LINE>observe its seasonal changes.<LINE>That's why we developed a marvelous<LINE>climate-control system that transcends<LINE><LINE>the seasons and allows us to freely<LINE><LINE>adjust temperature and humidity!
+Some POKéMON change their appearance<LINE>depending on the season.<LINE>Could that also be considered<LINE>a type of evolution?
+We research changes in nature that<LINE>occur due to the seasons.<LINE>Consider the POKéMON called <PLAYER>,<LINE>which lives in this forest.<LINE>Its appearance is said to change<LINE>according to the season.<LINE>This characteristic is of great interest<LINE>to us.<LINE>We want to research this POKéMON and<LINE>observe its seasonal changes.<LINE>That's why we developed a marvelous<LINE>climate-control system that transcends<LINE><LINE>the seasons and allows us to freely<LINE><LINE>adjust temperature and humidity!
 Up to this point, everything has been<LINE>fine…but we are very busy, and we<LINE><LINE>haven't really had a chance to catch<LINE><LINE>many <PLAYER> to study.<LINE>So, this is what we would like to ask you.<LINE>First, please capture a <PLAYER>.<LINE>Then, when its appearance changes,<LINE>could you bring it back to the lab?<LINE>Then, when we've confirmed the change to<LINE>the <PLAYER> you bring us, we will also<LINE><LINE>go search for that season's <PLAYER>.
 How about it?<LINE>If you don't mind, would you please show<LINE>us what <PLAYER> looks like now?
 <PLAYER>'s Spring Form!<LINE>The luster of its body and its coloring is<LINE>like a flower field in the spring!<LINE>The scent emanating from it is also<LINE>very floral.<LINE>Thank you so much! I want to go catch<LINE>my own <PLAYER> right away!
@@ -9,9 +9,9 @@ How about it?<LINE>If you don't mind, would you please show<LINE>us what <PLAYER
 <PLAYER>'s Winter Form.<LINE>The luster of its body and its coloring<LINE>is like the slope of a mountain!<LINE>The scent emanating from it<LINE>is also like fresh snow.<LINE>Thank you so much! I want to go catch<LINE>my own <PLAYER> right away!
 Thank you very much!<LINE>But we've already caught<LINE>that Form of <PLAYER>.
 Oh, I see.<LINE>We would be really grateful if you could<LINE>assist us with our research, but if<LINE><LINE>you're too busy…
-Oh! It's you!<LINE>Thanks to you, we've caught all of<LINE>the Forms of <PLAYER>.<LINE>Now we can thoroughly study the<LINE>relationship between Pokémon, seasons,<LINE><LINE>and climate.<LINE>Thank you very much.<LINE>It isn't much, but please accept this.
+Oh! It's you!<LINE>Thanks to you, we've caught all of<LINE>the Forms of <PLAYER>.<LINE>Now we can thoroughly study the<LINE>relationship between POKéMON, seasons,<LINE><LINE>and climate.<LINE>Thank you very much.<LINE>It isn't much, but please accept this.
 This is the only place in the world where<LINE>you can see <PLAYER>'s four seasonal<LINE><LINE>Forms all at one time.<LINE>They've kind of become our mascots!
-I hate to say this, but that Pokémon is<LINE>not the <PLAYER> we're looking for.
+I hate to say this, but that POKéMON is<LINE>not the <PLAYER> we're looking for.
 Dreee!
 Dreee! Dree dree!
 Dreen! Droooon!

@@ -1,8 +1,8 @@
 
-Hi there!<LINE>Welcome to the world of Pokémon!
-My name is Professor Juniper.<LINE>Everyone calls me the Pokémon Professor!
-That's right! This world is widely<LINE>inhabited by mysterious creatures<LINE><LINE>called Pokémon!
-Pokémon have mysterious powers.<LINE>They come in many shapes<LINE><LINE>and live in many different places.<LINE>We humans live happily with Pokémon!<LINE>Living and working together,<LINE><LINE>we complement each other.<LINE>We help each other out to<LINE>accomplish difficult tasks.<LINE>Having Pokémon battle one another<LINE>is particularly popular, and it deepens<LINE><LINE>the bonds between people and Pokémon.<LINE><LINE>And that is why I research Pokémon.
+Hi there!<LINE>Welcome to the world of POKéMON!
+My name is Professor Juniper.<LINE>Everyone calls me the POKéMON Professor!
+That's right! This world is widely<LINE>inhabited by mysterious creatures<LINE><LINE>called POKéMON!
+POKéMON have mysterious powers.<LINE>They come in many shapes<LINE><LINE>and live in many different places.<LINE>We humans live happily with POKéMON!<LINE>Living and working together,<LINE><LINE>we complement each other.<LINE>We help each other out to<LINE>accomplish difficult tasks.<LINE>Having POKéMON battle one another<LINE>is particularly popular, and it deepens<LINE><LINE>the bonds between people and POKéMON.<LINE><LINE>And that is why I research POKéMON.
 Well, that's enough from me…<LINE>Could you tell me about yourself?
 Are you a boy?<LINE>Or a girl?
 
@@ -16,8 +16,8 @@ So your name's <PLAYER>.<LINE>What a wonderful name!
 Well then. I'm going to introduce you<LINE>to your two best friends!
 This young man is Cheren.<LINE>He can be a little difficult, but<LINE>he's a very honest person.
 This young woman is Bianca.<LINE>She's a little flighty,<LINE>but she works very hard.
-I think you three have potential,<LINE>so I'm going to give you<LINE><LINE>a very, very important Pokémon.
-<PLAYER>!<LINE>The moment you choose the<LINE>Pokémon that will accompany<LINE><LINE>you on your journey,<LINE><LINE>your story will truly begin.<LINE>During your journey, you will meet many<LINE>Pokémon and people with different<LINE><LINE>personalities and points of view!<LINE>I really hope you find what is important<LINE>to you in all of these travels…<LINE>That's right! Befriend<LINE>new people and Pokémon and<LINE><LINE>grow as a person!<LINE>That is the most important goal<LINE>for your journey!<LINE>Let's go visit the world of Pokémon!
+I think you three have potential,<LINE>so I'm going to give you<LINE><LINE>a very, very important POKéMON.
+<PLAYER>!<LINE>The moment you choose the<LINE>POKéMON that will accompany<LINE><LINE>you on your journey,<LINE><LINE>your story will truly begin.<LINE>During your journey, you will meet many<LINE>POKéMON and people with different<LINE><LINE>personalities and points of view!<LINE>I really hope you find what is important<LINE>to you in all of these travels…<LINE>That's right! Befriend<LINE>new people and POKéMON and<LINE><LINE>grow as a person!<LINE>That is the most important goal<LINE>for your journey!<LINE>Let's go visit the world of POKéMON!
 
 
 

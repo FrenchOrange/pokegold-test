@@ -1,14 +1,14 @@
-Hey! Hey, you!<LINE>What was the first Pokémon you received?<LINE>…<LINE>…<LINE><PLAYER>! Really?<LINE>Then <POKEMON> could be a big help!
-Your <PLAYER> does not do well against<LINE>\xf000ă\x0001\x0002-type Pokémon!<LINE>Say, do you want this <POKEMON> of mine?
-Oh? You can only have six Pokémon<LINE>at a time with you, that's all.<LINE>If you want this Pokémon, you'll have<LINE>to store one of your others in the PC<LINE><LINE>at the Pokémon Center.
+Hey! Hey, you!<LINE>What was the first POKéMON you received?<LINE>…<LINE>…<LINE><PLAYER>! Really?<LINE>Then <POKEMON> could be a big help!
+Your <PLAYER> does not do well against<LINE>\xf000ă\x0001\x0002-type POKéMON!<LINE>Say, do you want this <POKEMON> of mine?
+Oh? You can only have six POKéMON<LINE>at a time with you, that's all.<LINE>If you want this POKéMON, you'll have<LINE>to store one of your others in the PC<LINE><LINE>at the POKéMON Center.
 My, my. If you want it, come back and<LINE>talk to me again, OK?
 OK. Here you go!<LINE>It can use Fire-type moves, so that<LINE>makes it hot against Grass types!
 OK. Here you go!<LINE>It can use Water-type moves, so that<LINE>makes it cool against Fire types!
 OK. Here you go!<LINE>It can use Grass-type moves, so that<LINE>makes it great against Water types!
 <PLAYER> received <POKEMON>!
 Give a nickname to the <POKEMON><LINE>you received?
-If you have many types of Pokémon,<LINE>something will work out, no matter<LINE><LINE>what kind of Pokémon you have to face.
-Bianca: Hi, <PLAYER>! Are you looking<LINE>for the mysterious Pokémon, too?
+If you have many types of POKéMON,<LINE>something will work out, no matter<LINE><LINE>what kind of POKéMON you have to face.
+Bianca: Hi, <PLAYER>! Are you looking<LINE>for the mysterious POKéMON, too?
 Bianca: I'm just really, really wondering<LINE>how showing dreams works…
 Bianca: Hey!<LINE>Did you hear a sound coming<LINE>from the other side of that wall?<LINE>Come on! Let's go see!
 Muuuun…
@@ -17,27 +17,27 @@ Bianca: Oh! Wait!
 ???: Come on! Come on!<LINE>Make some Dream Mist!
 Munna: …Mu!
 Bianca: Huh?<LINE>Who are you?!<LINE>What are you doing?
-???: Are you talking about us?<LINE>We're Team Plasma.<LINE>We battle day and night to liberate<LINE>Pokémon from foolish humans!
-Team Plasma: What are we doing?<LINE>The Pokémon Munna and Musharna<LINE>emit a mysterious vapor called<LINE><LINE>Dream Mist, which shows people's dreams.<LINE>We're going to use that to make people<LINE>want to release their Pokémon…<LINE>We'll show them dreams<LINE>to manipulate their hearts.
+???: Are you talking about us?<LINE>We're Team Plasma.<LINE>We battle day and night to liberate<LINE>POKéMON from foolish humans!
+Team Plasma: What are we doing?<LINE>The POKéMON Munna and Musharna<LINE>emit a mysterious vapor called<LINE><LINE>Dream Mist, which shows people's dreams.<LINE>We're going to use that to make people<LINE>want to release their POKéMON…<LINE>We'll show them dreams<LINE>to manipulate their hearts.
 Munna: Mu… Naa…
 Team Plasma: Come on!<LINE>Spit out that Dream Mist!
-Bianca: You're kicking a Pokémon<LINE>to make it give off Dream Mist?<LINE>That's mean! Why?<LINE>You're Trainers too, right?
-Team Plasma: That's right.<LINE>We're Pokémon Trainers too, but<LINE>we're fighting for a different reason.<LINE>Unlike you two, we're fighting for<LINE>the freedom of Pokémon!
-Team Plasma: And setting Pokémon free<LINE>means that we win Pokémon battles and<LINE><LINE>take Pokémon by force!<LINE>So, on that note, we are going to rescue<LINE>your Pokémon from you!
+Bianca: You're kicking a POKéMON<LINE>to make it give off Dream Mist?<LINE>That's mean! Why?<LINE>You're Trainers too, right?
+Team Plasma: That's right.<LINE>We're POKéMON Trainers too, but<LINE>we're fighting for a different reason.<LINE>Unlike you two, we're fighting for<LINE>the freedom of POKéMON!
+Team Plasma: And setting POKéMON free<LINE>means that we win POKéMON battles and<LINE><LINE>take POKéMON by force!<LINE>So, on that note, we are going to rescue<LINE>your POKéMON from you!
 Bianca: Whaaat!<LINE>Don't hurt <PLAYER>!
 Team Plasma: Were you not taking them<LINE>seriously because they're kids?<LINE>Well, whatever, I'm next!
 Team Plasma: …I can't<LINE>believe we lost!<LINE>But we have to <LINE>obtain the Dream Mist!
 Come on!<LINE>Make with the Dream Mist!
 Bianca: Knock it off!
 Ghetsis: What are you two doing<LINE>goofing off?
-Ghetsis: We, Team Plasma,<LINE>shall separate Pokémon<LINE><LINE>from foolish people!
+Ghetsis: We, Team Plasma,<LINE>shall separate POKéMON<LINE><LINE>from foolish people!
 Ghetsis: If you cannot<LINE>fulfill your duties…
 Team Plasma: T-this isn't…<LINE>Ghetsis when he is gathering followers…<LINE>Or Ghetsis when he is trying<LINE><LINE>to control people by tricking them<LINE><LINE>with speeches!
 Team Plasma: Yeah…<LINE>This is Ghetsis when a plan has failed,<LINE>and he is about to issue punishment…
 Team Plasma: At any rate, let's hurry<LINE>and say we're sorry so he forgives us!
 ???: Shaaar!
 Bianca: …What was that just now?<LINE>That person called Ghetsis<LINE>appeared all over the place, and<LINE><LINE>it wasn't real, right?!<LINE>…Could it have been a dream?
-And that Pokémon…
+And that POKéMON…
 Oh!
 Fennel: I couldn't wait, so I came over!<LINE>…Is that Musharna?!
 Musharna: Musha?
@@ -47,14 +47,14 @@ Bianca: Oh, Fennel.<LINE>Well, you see, Munna was here…<LINE>But Team Plasma a
 Fennel: I think I followed that…<LINE>See, Musharna evolves from Munna.<LINE>So, seeing Munna in trouble, it<LINE><LINE>used its power--making dreams<LINE><LINE>into reality--to save Munna.<LINE>Which means…wait a second!
 Is this Dream Mist?!
 With this, I can complete my research!<LINE>You two come to my house later, OK?
-Bianca: Phew. How random was that?<LINE><PLAYER>, why don't you go<LINE>to Fennel's house?<LINE>Me? Well, I'm going to go look<LINE>for the Pokémon we saw just now.
-Bianca: <PLAYER>, why don't you go<LINE>to Fennel's house?<LINE>Me? Well, I'm going to go look<LINE>for the Pokémon we saw just now.
+Bianca: Phew. How random was that?<LINE><PLAYER>, why don't you go<LINE>to Fennel's house?<LINE>Me? Well, I'm going to go look<LINE>for the POKéMON we saw just now.
+Bianca: <PLAYER>, why don't you go<LINE>to Fennel's house?<LINE>Me? Well, I'm going to go look<LINE>for the POKéMON we saw just now.
 Gorm: Boo!
 Were you surprised?<LINE>Oh, Trainer-who-destroyed-our-castle,<LINE>I was quite surprised by you!
-If you surprise them, both Pokémon<LINE>and people leave themselves open.<LINE>While they're in a state of surprise,<LINE>they can't use their powers<LINE><LINE>like they normally would.<LINE>Our intention was to surprise people<LINE>by making our castle appear and<LINE><LINE>showing off the legendary Pokémon…<LINE>At that moment, we planned to deeply<LINE>impress people's hearts with the<LINE><LINE>awesome power of Team Plasma<LINE><LINE>and the brilliance of our new world.
-Now that I've seen the strength of<LINE>spirit in you and the Gym Leaders,<LINE><LINE>I wonder how effective that strategy<LINE><LINE>would have been, after all.<LINE>Maybe that strength of spirit<LINE>is what's needed to take Pokémon<LINE><LINE>to the next level?<LINE>Hm… I'm sorry to have wasted your time<LINE>with this silly conversation.<LINE><LINE>Take this with you.
+If you surprise them, both POKéMON<LINE>and people leave themselves open.<LINE>While they're in a state of surprise,<LINE>they can't use their powers<LINE><LINE>like they normally would.<LINE>Our intention was to surprise people<LINE>by making our castle appear and<LINE><LINE>showing off the legendary POKéMON…<LINE>At that moment, we planned to deeply<LINE>impress people's hearts with the<LINE><LINE>awesome power of Team Plasma<LINE><LINE>and the brilliance of our new world.
+Now that I've seen the strength of<LINE>spirit in you and the Gym Leaders,<LINE><LINE>I wonder how effective that strategy<LINE><LINE>would have been, after all.<LINE>Maybe that strength of spirit<LINE>is what's needed to take POKéMON<LINE><LINE>to the next level?<LINE>Hm… I'm sorry to have wasted your time<LINE>with this silly conversation.<LINE><LINE>Take this with you.
 Gorm: My lord N's dream…<LINE>You were the one who put a stop to that.<LINE><LINE>Please don't ever forget that.
 Looker: Ah… And now,<LINE>about Team Plasma…<LINE>I am an officer of the<LINE>International Police, and there are so<LINE><LINE>many things you must tell me at once!
 Gorm: Musharna is said to appear here.<LINE>Its Dream Mist makes you see dreams,<LINE>but they are nothing but illusions.<LINE>The dreams you realize with your<LINE>own abilities are the real dreams.
 Looker: Accept my thanks!<LINE>Now, Ghetsis notwithstanding,<LINE>there yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>What it is they are thinking,<LINE>what it may be they are hoping,<LINE><LINE>this is the information I pursue.<LINE><LINE>Until we meet again!
-Looker: A thousand thanks!<LINE>Eh, <PLAYER>…<LINE>On a topic I must speak to you.<LINE>Having received such a report, of<LINE>someone far from here, who has seen<LINE><LINE>a person like N and…a dragon Pokémon.<LINE>I am on my way to ascertain the<LINE>certainty of this information.<LINE><LINE>We will meet again one day!
+Looker: A thousand thanks!<LINE>Eh, <PLAYER>…<LINE>On a topic I must speak to you.<LINE>Having received such a report, of<LINE>someone far from here, who has seen<LINE><LINE>a person like N and…a dragon POKéMON.<LINE>I am on my way to ascertain the<LINE>certainty of this information.<LINE><LINE>We will meet again one day!

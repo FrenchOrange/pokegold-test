@@ -1,19 +1,19 @@
-Ahem!<LINE>I am the chairman who loves Pokémon the<LINE>most among Pokéfans in the entire world!
-If you are a Trainer, will you show me<LINE>how you are raising your Pokémon<LINE><LINE>with loving care?
+Ahem!<LINE>I am the chairman who loves POKéMON the<LINE>most among Pokéfans in the entire world!
+If you are a Trainer, will you show me<LINE>how you are raising your POKéMON<LINE><LINE>with loving care?
 Oh, I understand!<LINE>You are a shy Trainer!
-Oh!<LINE>Which Pokémon will you show me?
+Oh!<LINE>Which POKéMON will you show me?
 
 …Hmmm.<LINE>It's hard to tell…
 Well…it's a bit hard to tell how much<LINE>that Egg has grown.
 Oh! This <PLAYER> was level \xf000Ȃ\x0001\x0001<LINE>when you met, but now it's level \xf000Ȃ\x0001\x0002!
 You've raised it very well.<LINE>It's received a lot of love from you.
-You've raised it quite well.<LINE>I feel your love for this Pokémon.
+You've raised it quite well.<LINE>I feel your love for this POKéMON.
 You've raised it well.<LINE>You must be affectionate.
-I see! Although it's just a smidgen,<LINE>I can feel your love for your Pokémon.
-That is a token of gratitude for showing<LINE>me your great love for your Pokémon!
-Well, you showed me good stuff!<LINE>Please keep raising your Pokémon<LINE>with loving care!
-What? It has not grown at all.<LINE>Still, if you travel with your Pokémon<LINE>from now on, I am sure it will grow!
-Welcome to the Pokémon Fan Club.<LINE>Shall I check how friendly your Pokémon<LINE>is toward you?
+I see! Although it's just a smidgen,<LINE>I can feel your love for your POKéMON.
+That is a token of gratitude for showing<LINE>me your great love for your POKéMON!
+Well, you showed me good stuff!<LINE>Please keep raising your POKéMON<LINE>with loving care!
+What? It has not grown at all.<LINE>Still, if you travel with your POKéMON<LINE>from now on, I am sure it will grow!
+Welcome to the POKéMON Fan Club.<LINE>Shall I check how friendly your POKéMON<LINE>is toward you?
 
 I can't tell whether or not you and<LINE>the Egg are close friends.
 Oh, my. Your <PLAYER>…
@@ -24,6 +24,6 @@ It is a little friendly to you…<LINE>That's what I'm getting.
 The relationship is neither good<LINE>nor bad… It looks neutral.
 Hmmm…<LINE>It may not like you very much.
 By any chance, you…<LINE>Are you a very strict person?<LINE>I feel that it really doesn't like you…
-Oh, you are so shy! Come on,<LINE>don't hide your Pokémon from me.
+Oh, you are so shy! Come on,<LINE>don't hide your POKéMON from me.
 Muuun!
 Glibalugga!

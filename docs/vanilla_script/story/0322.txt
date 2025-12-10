@@ -55,8 +55,8 @@ I see… That's too bad.<LINE>Talk to me again sometime.
 Oh… My apologies.<LINE>Another person invited me.
 
 Thank you! I know where it is!<LINE>I'll go on ahead to Black City!
-Karenna: Ahhh… Bring it on!<LINE>I've decided to go to Black City!<LINE>Pokémon battling is gonna be super hot!
-Karenna: I've trained and trained. My<LINE>Pokémon and I might be a little tired…
+Karenna: Ahhh… Bring it on!<LINE>I've decided to go to Black City!<LINE>POKéMON battling is gonna be super hot!
+Karenna: I've trained and trained. My<LINE>POKéMON and I might be a little tired…
 Karenna: I wanna test the results<LINE>of my training in Black City!
 Karenna: I want to test the results of<LINE>my training in Black City!<LINE>Hey! Could you take me to Black City?
 No way…<LINE>Well, next time then, OK?
@@ -138,7 +138,7 @@ All riiight!<LINE>Exciting urban living, here I come! <LINE>Hey, thanks!
 Gene: I'm going to move to Black City!<LINE>Time to go see what I'm made of, eh?
 Gene: I'd sure like to go to a place<LINE>where I can test my skill as a Trainer.
 Gene: Your Black City<LINE>looks pretty fun, eh?<LINE><LINE>I'd like to go visit it.
-Gene: I love Pokémon, and I'm<LINE>wanting to test my skill as a<LINE><LINE>Trainer with the Pokémon I've caught.<LINE>Could you take me to Black City?
+Gene: I love POKéMON, and I'm<LINE>wanting to test my skill as a<LINE><LINE>Trainer with the POKéMON I've caught.<LINE>Could you take me to Black City?
 Whaaat! That's disappointing…<LINE>I'll wait for the next opportunity!
 Hmph! <LINE>I've definitely changed my mind.<LINE>I've decided to go to another Black City.
 
@@ -191,10 +191,10 @@ A Clerk ⑭ has to be patient.<LINE>I'll wait until you are ready to take me!
 Oh! I just thought of another business<LINE>opportunity!<LINE><LINE>Sorry, but I'm going somewhere else!
 
 All right!<LINE>In Black City, I'm going to make the<LINE>business opportunity mine!
-Ken: I'm leaving for Black City!<LINE>I'm going to become a master of<LINE>Pokémon battles in a new city!
-Ken: In White Forest,<LINE>I cannot master Pokémon battling…
-Ken: Your Black City seems like<LINE>a bustling place for Pokémon battles.<LINE><LINE>I'm jealous.
-Ken: I want to live where<LINE>I can become a master Pokémon battler.<LINE>Will you please take me to your city?
+Ken: I'm leaving for Black City!<LINE>I'm going to become a master of<LINE>POKéMON battles in a new city!
+Ken: In White Forest,<LINE>I cannot master POKéMON battling…
+Ken: Your Black City seems like<LINE>a bustling place for POKéMON battles.<LINE><LINE>I'm jealous.
+Ken: I want to live where<LINE>I can become a master POKéMON battler.<LINE>Will you please take me to your city?
 Really.<LINE>Fine, I'll ask someone else.
 I've changed my mind.<LINE>I'm going to go to a different Black City.
 
@@ -226,7 +226,7 @@ All right! Thanks!<LINE>I'm looking forward to my next trip!
 Emi: I'm setting off for my next city!<LINE>Black City! It looks like fun, right?
 Emi: Oh, I want to set off for my<LINE>next city soon!
 Emi: Black City sounds nice!<LINE>I'd like to go there!
-Emi: The goal of my next<LINE>trip is Pokémon battles!<LINE>Hey, will you take me to Black City?
+Emi: The goal of my next<LINE>trip is POKéMON battles!<LINE>Hey, will you take me to Black City?
 What?!<LINE>Too bad…
 Uh, I've given up on that!<LINE>I decided to go to a<LINE>different Black City!
 
@@ -296,7 +296,7 @@ Oh… My apologies.<LINE>Another person invited me.
 
 Thank you!<LINE>I know the location!<LINE>I'll go on ahead to<LINE>White Forest!
 Karenna: Aaaahh… Bring it on!<LINE>I've decided to go to White Forest!<LINE>Training is gonna be super hot!
-Karenna: I've battled and battled.<LINE>My Pokémon and I<LINE><LINE>might be a little tired…
+Karenna: I've battled and battled.<LINE>My POKéMON and I<LINE><LINE>might be a little tired…
 Karenna: To get the most<LINE>out of my battling, I must train!
 Karenna: I want to get the most from<LINE>my battles by training!<LINE>Hey! If you want, would you take<LINE>me to White Forest?!
 No way…<LINE>Well, next time then, OK?
@@ -352,9 +352,9 @@ I was invited by someone else…<LINE>Sorry, but I'm going there.
 
 Thank you!<LINE>I'll head there right now!<LINE>See you in White Forest!<LINE>Thanks again!
 Frederic: Sorry, but I'm leaving for<LINE>White Forest. I'm preparing for<LINE><LINE>my move now. If you need something,<LINE><LINE>tell me in White Forest!
-Frederic: My Pokémon are<LINE>stubbornly insisting we go<LINE><LINE>to White Forest!
-Frederic: White Forest, huh…<LINE>My Pokémon are noisily insisting on going.
-Frederic: White Forest, huh…<LINE>My Pokémon are noisily insisting on going.<LINE>Oh hey, I need a favor!<LINE>Could you take me to White Forest?
+Frederic: My POKéMON are<LINE>stubbornly insisting we go<LINE><LINE>to White Forest!
+Frederic: White Forest, huh…<LINE>My POKéMON are noisily insisting on going.
+Frederic: White Forest, huh…<LINE>My POKéMON are noisily insisting on going.<LINE>Oh hey, I need a favor!<LINE>Could you take me to White Forest?
 What? Have you no respect<LINE>for your elders? If you come around,<LINE><LINE>I'll be waiting, young one.
 Sorry!<LINE>I'd completely forgotten, but my<LINE>destination has already been decided.
 
@@ -366,7 +366,7 @@ Lynette: I'm tired of searching for<LINE>my destiny.<LINE>If it's OK with you, c
 My! I can't believe you are so<LINE>rude as to refuse my request.
 I've changed my mind.<LINE>I found a different, wonderful<LINE>person…<LINE><LINE>I'm ever so sorry.
 
-I'd like to thank you.<LINE>I'll try to enjoy a leisurely<LINE>life with Pokémon.
+I'd like to thank you.<LINE>I'll try to enjoy a leisurely<LINE>life with POKéMON.
 Pierce: I'm a-goin' to White Forest.<LINE>I'd like to live the slow life.
 Pierce: Ah, the cultured life<LINE>is restless and exhausting.
 Pierce: Hmmm. Your White Forest seems to<LINE>be a comfortable place. I'm jealous…
@@ -375,14 +375,14 @@ What a shame…<LINE>Au revoir, lovely country life!
 Hey! Sorry!<LINE>I decided to go to a different<LINE>White Forest! Lo siento!
 
 Thank you for taking me with you.<LINE>I'm going to enjoy the relaxed<LINE>life for awhile.
-Gene: I'm going to move to White Forest!<LINE>I'm excited about the Pokémon I will<LINE><LINE>encounter in nature!
-Gene: Hmmm…<LINE>I'm tired of testing myself as a Trainer.<LINE>I want to live the kind of life where I<LINE><LINE>meet Pokémon every day!
-Gene: It looks like you can meet a lot<LINE>of Pokémon in your White Forest!<LINE>It seems charming.
-Gene: Testing my abilities was<LINE>exciting, but I'm tired of it!<LINE><LINE>I want to live while watching Pokémon.<LINE>Could you take me to White Forest?
+Gene: I'm going to move to White Forest!<LINE>I'm excited about the POKéMON I will<LINE><LINE>encounter in nature!
+Gene: Hmmm…<LINE>I'm tired of testing myself as a Trainer.<LINE>I want to live the kind of life where I<LINE><LINE>meet POKéMON every day!
+Gene: It looks like you can meet a lot<LINE>of POKéMON in your White Forest!<LINE>It seems charming.
+Gene: Testing my abilities was<LINE>exciting, but I'm tired of it!<LINE><LINE>I want to live while watching POKéMON.<LINE>Could you take me to White Forest?
 Whaaat! That's disappointing…<LINE>I'll wait for the next opportunity!
 Hmph! I've definitely changed my mind.<LINE>I've decided to go to<LINE>a different White Forest.
 
-Ha ha!<LINE>I'm looking forward to a life where I can<LINE>leisurely encounter Pokémon!<LINE><LINE>Hey, thanks!
+Ha ha!<LINE>I'm looking forward to a life where I can<LINE>leisurely encounter POKéMON!<LINE><LINE>Hey, thanks!
 Piper: I'm moving to White Forest now!<LINE>I'm looking forward to a fresh start!
 Piper: Somehow I grew a little<LINE>tired of pursuing efficiency…<LINE>I want to relax in White Forest.
 Piper: I hear that your White Forest is<LINE>relaxing and has beautiful natural<LINE><LINE>scenery. I envy you…
@@ -391,9 +391,9 @@ Oh…<LINE>That's too bad.
 I'm sorry. I've changed my mind.<LINE>I've decided to go to a<LINE>different White Forest.
 
 Thank you!<LINE>I'm looking forward to leisurely<LINE>passing time in White Forest!
-Miho: I'm going to move to White Forest!<LINE>I look forward to living<LINE>with cute Pokémon!
+Miho: I'm going to move to White Forest!<LINE>I look forward to living<LINE>with cute POKéMON!
 Miho: Recently, I'm tired of<LINE>decorating myself…<LINE>I want to live the slow life<LINE>in White Forest.
-Miho: I'm jealous. That White Forest<LINE>looks like it has many cute Pokémon in it!
+Miho: I'm jealous. That White Forest<LINE>looks like it has many cute POKéMON in it!
 Miho: I'm tired of shopping and<LINE>being fashionable.<LINE>I want to go to White Forest where<LINE>I can be more in my natural state.<LINE><LINE>Would you take me?
 What?! Cheapskate.
 I'm such a flirt…<LINE>Truth is: I found someone else.<LINE>I decided to go to their White Forest.<LINE>I'm sorry.
@@ -407,14 +407,14 @@ Too bad. I wanted to go to<LINE>your city.
 Sorry! I decided to follow<LINE>someone else. My bad.
 
 Thanks a lot!<LINE>I think I can live just like I am<LINE>in White Forest!
-Ralph: I'm leaving for White Forest right<LINE>now! I want to share my feelings with<LINE><LINE>a lot of different people and Pokémon!
-Ralph: Sigh…<LINE>I want to share my feelings<LINE><LINE>with more people and Pokémon.<LINE><LINE>I want to live like that…
+Ralph: I'm leaving for White Forest right<LINE>now! I want to share my feelings with<LINE><LINE>a lot of different people and POKéMON!
+Ralph: Sigh…<LINE>I want to share my feelings<LINE><LINE>with more people and POKéMON.<LINE><LINE>I want to live like that…
 Ralph: Your White Forest…<LINE>Seems like everyone can communicate<LINE>their feelings to each other.<LINE><LINE>I'm jealous…
-Ralph: Recently, I've been wanting to<LINE>live where I communicate what I'm<LINE><LINE>feeling not only to my opponent, but to<LINE><LINE>more people and Pokémon as well.<LINE>Please take me to your White Forest!
+Ralph: Recently, I've been wanting to<LINE>live where I communicate what I'm<LINE><LINE>feeling not only to my opponent, but to<LINE><LINE>more people and POKéMON as well.<LINE>Please take me to your White Forest!
 What… I'm shocked you don't<LINE>understand my feelings…
 Oh!<LINE>I have another place I want to go<LINE>because of a different thing that<LINE><LINE>came up! Sorry!
 
-I'm really happy.<LINE>Now, I can live a life where I communicate<LINE>my feelings to many people and Pokémon.
+I'm really happy.<LINE>Now, I can live a life where I communicate<LINE>my feelings to many people and POKéMON.
 Eliza: I'm leaving for White Forest!<LINE>I wonder what kind of place it is?
 Eliza: You can get anything in<LINE>Black City, but it feels<LINE><LINE>like something's missing.
 Eliza: White Forest seems<LINE>spiritually fulfilling.<LINE><LINE>I'm jealous that you can live like that…
@@ -432,9 +432,9 @@ Oh! I just thought of another<LINE>business opportunity!<LINE><LINE>Sorry, but I
 
 All right!<LINE>In White Forest, I'm going<LINE>to be a success!
 Ken: I'm leaving for White Forest!<LINE>I'm going to obtain a wide variety<LINE>of knowledge in a new place!
-Ken: In Black City, all I do<LINE>is Pokémon battling…<LINE>If I think about it, there's something<LINE>missing for me as a Trainer.<LINE>I want to spend time in an environment<LINE>that will give me a wider point of view.
-Ken: Your White Forest seems like a<LINE>place with a lot of Pokémon.<LINE>I'm jealous, because you can widen your<LINE>horizons.
-Ken: As a Pokémon Trainer, I want to look<LINE>at Pokémon from a wider point of view.<LINE>Will you please take me to your forest?
+Ken: In Black City, all I do<LINE>is POKéMON battling…<LINE>If I think about it, there's something<LINE>missing for me as a Trainer.<LINE>I want to spend time in an environment<LINE>that will give me a wider point of view.
+Ken: Your White Forest seems like a<LINE>place with a lot of POKéMON.<LINE>I'm jealous, because you can widen your<LINE>horizons.
+Ken: As a POKéMON Trainer, I want to look<LINE>at POKéMON from a wider point of view.<LINE>Will you please take me to your forest?
 Really.<LINE>I'll ask someone else.
 I've changed my mind.<LINE>I'm going to go to a<LINE>different White Forest.
 

@@ -204,13 +204,15 @@ CardFlip:
 	call StartGameCornerGame
 	ret
 
-UnusedMemoryGame:
-	call CheckCoinsAndCoinCase
-	ret c
-	ld a, BANK(_MemoryGame)
-	ld hl, _MemoryGame
-	call StartGameCornerGame
+UpdateAmanitasName:
+	ld hl, .Amanita
+	ld de, wAmanitasName
+	ld bc, NAME_LENGTH
+	call CopyBytes
+
 	ret
+
+.Amanita: db "AMANITA@"
 
 StartGameCornerGame:
 	call FarQueueScript

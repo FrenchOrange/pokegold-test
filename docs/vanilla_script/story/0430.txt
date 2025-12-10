@@ -1,33 +1,33 @@
-Cheren: <PLAYER>!<LINE>I heard from Professor Juniper.<LINE>We can have a Pokémon?
+Cheren: <PLAYER>!<LINE>I heard from Professor Juniper.<LINE>We can have a POKéMON?
 …<LINE>…<LINE>What's keeping Bianca?
 Bianca: Am I a little late again?<LINE>So-oooo-orry!
-Cheren: Bianca…<LINE>I've known for ten years that you<LINE>have no sense of time, but…seriously…<LINE>Today's the day we can get a<LINE>Pokémon from Professor Juniper!
+Cheren: Bianca…<LINE>I've known for ten years that you<LINE>have no sense of time, but…seriously…<LINE>Today's the day we can get a<LINE>POKéMON from Professor Juniper!
 Bianca: I know. Sorry, <PLAYER>.<LINE>Sorry, Cheren.
-Bianca: So, where are the Pokémon?<LINE>They were delivered to <PLAYER>'s<LINE>house, so <PLAYER> gets first pick.
+Bianca: So, where are the POKéMON?<LINE>They were delivered to <PLAYER>'s<LINE>house, so <PLAYER> gets first pick.
 Cheren: Naturally.
-The Pokémon are waiting for us<LINE>inside that gift box.<LINE>OK, <PLAYER>, you go first and take<LINE>a peek at the gift box.<LINE>I want to meet the Pokémon right now!
+The POKéMON are waiting for us<LINE>inside that gift box.<LINE>OK, <PLAYER>, you go first and take<LINE>a peek at the gift box.<LINE>I want to meet the POKéMON right now!
 Cheren: Aren't you going to check<LINE>out the gift box? Where are you going?
-Cheren: Would you get a move on<LINE>and open the gift box already?<LINE>I'm sure the Pokémon are just as<LINE>excited to meet us!
-Bianca: Ooh!<LINE>What kind of Pokémon could they be?
+Cheren: Would you get a move on<LINE>and open the gift box already?<LINE>I'm sure the POKéMON are just as<LINE>excited to meet us!
+Bianca: Ooh!<LINE>What kind of POKéMON could they be?
 <PLAYER> opened the gift box!
-I've brought three Pokémon,<LINE>one for you and one for each<LINE>of your friends. Please settle<LINE>your choices politely.<LINE>Enjoy your Pokémon!<LINE>                --Professor Juniper
+I've brought three POKéMON,<LINE>one for you and one for each<LINE>of your friends. Please settle<LINE>your choices politely.<LINE>Enjoy your POKéMON!<LINE>                --Professor Juniper
 
 
 
-\xf000봂\x0000The Water-type Pokémon<LINE>\xf000봂\x0000<POKEMON>
-\xf000봂\x0000The Fire-type Pokémon<LINE>\xf000봂\x0000<POKEMON>
-\xf000봂\x0000The Grass-type Pokémon<LINE>\xf000봂\x0000<POKEMON>
-Choose a Pokémon.
-Is this the Pokémon you want?
+\xf000봂\x0000The Water-type POKéMON<LINE>\xf000봂\x0000<POKEMON>
+\xf000봂\x0000The Fire-type POKéMON<LINE>\xf000봂\x0000<POKEMON>
+\xf000봂\x0000The Grass-type POKéMON<LINE>\xf000봂\x0000<POKEMON>
+Choose a POKéMON.
+Is this the POKéMON you want?
 Pick this one!
 YES
 NO
 <PLAYER> chose<LINE><POKEMON>!
-Bianca: OK, I'll take this Pokémon!<LINE>Cheren, that one's yours!
-Cheren: Hey, how come you get to pick<LINE>out my Pokémon?<LINE>Oh, never mind. I wanted <POKEMON><LINE>from the start, anyway.
-Bianca: Everyone has chosen a Pokémon!<LINE>…So that's that!<LINE>Hey, I know!<LINE>Let's have a Pokémon battle!
-Cheren: Honestly, Bianca…<LINE>Even though they're still weak Pokémon,<LINE>you shouldn't have Pokémon battles<LINE><LINE>inside a house.
-Bianca: Don't be a worrywart!<LINE>These little ones are weak, like you said.<LINE>We have to let them battle so they'll get<LINE>stronger. It's settled, <PLAYER>!<LINE><LINE>Get ready for a Pokémon battle!
+Bianca: OK, I'll take this POKéMON!<LINE>Cheren, that one's yours!
+Cheren: Hey, how come you get to pick<LINE>out my POKéMON?<LINE>Oh, never mind. I wanted <POKEMON><LINE>from the start, anyway.
+Bianca: Everyone has chosen a POKéMON!<LINE>…So that's that!<LINE>Hey, I know!<LINE>Let's have a POKéMON battle!
+Cheren: Honestly, Bianca…<LINE>Even though they're still weak POKéMON,<LINE>you shouldn't have POKéMON battles<LINE><LINE>inside a house.
+Bianca: Don't be a worrywart!<LINE>These little ones are weak, like you said.<LINE>We have to let them battle so they'll get<LINE>stronger. It's settled, <PLAYER>!<LINE><LINE>Get ready for a POKéMON battle!
 
 …The box is empty.
 
@@ -36,27 +36,27 @@ Bianca: Don't be a worrywart!<LINE>These little ones are weak, like you said.<LI
 
 
 Bianca: Wow…<LINE><PLAYER>, you're gonna be<LINE>an awesome Trainer someday, I can tell!<LINE>No doubt!
-Bianca: Wha…?<LINE>I got so absorbed in having my Pokémon<LINE>use moves, I won before even realizing…
+Bianca: Wha…?<LINE>I got so absorbed in having my POKéMON<LINE>use moves, I won before even realizing…
 Cheren: Uh…<LINE>…<LINE>Bianca, would you take a look around?
 Bianca: Wh-whoa!<LINE>What happened?!
-Wow! Pokémon are amaaaaazing!!<LINE>So little, but so strong!<LINE>I'm so glad that I get to have a Pokémon!<LINE>…Oh.<LINE>Um, sorry about your room, <PLAYER>.
-Cheren: You…are completely hopeless.<LINE>Here!<LINE>I'll restore your Pokémon for you.
-Cheren healed Bianca's Pokémon!
-<PLAYER>'s Pokémon needs<LINE>to be fixed up, too.
-Cheren healed <PLAYER>'s Pokémon!
-Cheren: It's amazing that you won<LINE>without your Pokémon's losing any<LINE><LINE>energy, which is called HP.<LINE>But you used some of the moves'<LINE>Power Points, or PP, though.
+Wow! POKéMON are amaaaaazing!!<LINE>So little, but so strong!<LINE>I'm so glad that I get to have a POKéMON!<LINE>…Oh.<LINE>Um, sorry about your room, <PLAYER>.
+Cheren: You…are completely hopeless.<LINE>Here!<LINE>I'll restore your POKéMON for you.
+Cheren healed Bianca's POKéMON!
+<PLAYER>'s POKéMON needs<LINE>to be fixed up, too.
+Cheren healed <PLAYER>'s POKéMON!
+Cheren: It's amazing that you won<LINE>without your POKéMON's losing any<LINE><LINE>energy, which is called HP.<LINE>But you used some of the moves'<LINE>Power Points, or PP, though.
 Bianca: Hey, Cheren!<LINE>How about you battle, too?<LINE>With all you know, I'm sure you can<LINE>battle without turning the room into<LINE><LINE>a disaster area like I did!
 Cheren: I believe you're right!<LINE>It'll be no problem for me to keep<LINE>the room from getting any messier.<LINE>Besides, it's not fair if you two are the<LINE>only ones who get to have fun battling!
 
 
 
 
-It's decided. You'll be my opponent…<LINE>in our first Pokémon battle!<LINE>Let's see what you can do, <POKEMON>!
+It's decided. You'll be my opponent…<LINE>in our first POKéMON battle!<LINE>Let's see what you can do, <POKEMON>!
 
 Cheren: I made a strange blunder<LINE>in my first battle, but<LINE><LINE>this feeling I have…<LINE><LINE>…I'm finally a Trainer.<LINE>But first, we'd better go apologize to<LINE>your mother about this messed-up room.
 Cheren: This feeling…<LINE>Finally, I'm a Trainer.<LINE>On top of that, we'd better go apologize<LINE>to your mother about this room.
 Bianca: Oh!<LINE>I'd better come, too!
 It's a Wii console!<LINE>It's not even scratched!
 The bed's a mess!
-It's an award for completing<LINE>the Unova Pokédex!
-It's an award for completing<LINE>the National Mode Pokédex!
+It's an award for completing<LINE>the Unova POKéDEX!
+It's an award for completing<LINE>the National Mode POKéDEX!

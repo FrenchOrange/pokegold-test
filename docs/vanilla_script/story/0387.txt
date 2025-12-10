@@ -1,20 +1,20 @@
 Cheren: Stop!<LINE><PLAYER>!
-Drayden and Professor Juniper told me.<LINE>You're heading for the<LINE><LINE>Pokémon League, right?
+Drayden and Professor Juniper told me.<LINE>You're heading for the<LINE><LINE>POKéMON League, right?
 Cheren: Since it's Alder…<LINE>Since it's the Champion,<LINE><LINE>I think it will be all right.<LINE>Worst-case scenario…<LINE>you'll be battling Team Plasma's boss, N.<LINE>I need to know if you can handle it!
 Cheren: Now is not the time for modesty.<LINE>Worst-case scenario, you'll be battling<LINE>Team Plasma's boss, N!<LINE>I need proof you can handle it!
-Cheren: Yep, you are something else.<LINE>And I mean that sincerely.<LINE>Right. Now, I have to make<LINE>your Pokémon healthy.
-Cheren fully healed<LINE><PLAYER>'s Pokémon!
+Cheren: Yep, you are something else.<LINE>And I mean that sincerely.<LINE>Right. Now, I have to make<LINE>your POKéMON healthy.
+Cheren fully healed<LINE><PLAYER>'s POKéMON!
 Cheren: Right now, there's no way<LINE>I can compete with you, <PLAYER>.<LINE>If there is anything I can do to help in<LINE>the battle with N, just say so…
 Bianca: <PLAYER>…<LINE>There's not much I can do to help you,<LINE>but I want you to have these!
 Bianca: Still, it's kind of funny.<LINE>Everyone's so different.
 Cheren: Funny?<LINE>At a time like this…
-Bianca: Come on, Cheren.<LINE>Could you smile just for once?<LINE>Taking everything so seriously all the<LINE>time isn't going to change anything.<LINE>You know… Since we've met our Pokémon<LINE>and walked the same roads together,<LINE><LINE>a lot has happened…<LINE><LINE>We've all changed a lot!<LINE>We found out that the things we want<LINE>to do and the things we can do<LINE><LINE>are different for each of us, right?<LINE>That's what's made our journey<LINE>so worth it.<LINE><LINE>Somehow, all this just makes me happy.
+Bianca: Come on, Cheren.<LINE>Could you smile just for once?<LINE>Taking everything so seriously all the<LINE>time isn't going to change anything.<LINE>You know… Since we've met our POKéMON<LINE>and walked the same roads together,<LINE><LINE>a lot has happened…<LINE><LINE>We've all changed a lot!<LINE>We found out that the things we want<LINE>to do and the things we can do<LINE><LINE>are different for each of us, right?<LINE>That's what's made our journey<LINE>so worth it.<LINE><LINE>Somehow, all this just makes me happy.
 Cheren: …So that's what you mean.<LINE>…You are right that we're all different<LINE>and we should do the things<LINE><LINE>that we can do.
 
-Cheren: There are as many<LINE>truths and ideals as there<LINE><LINE>are people and Pokémon.<LINE>The most important thing is<LINE>that we help one another out.<LINE>That's why people and Pokémon<LINE>are always by each other's side.<LINE><LINE>That's what I've come to think lately…<LINE><PLAYER>!<LINE>If anything happens to you or Alder,<LINE><LINE>I will do everything I can to help you.<LINE>That's why I have to keep training and<LINE>getting stronger.<LINE><LINE>Just…don't be reckless, OK?
+Cheren: There are as many<LINE>truths and ideals as there<LINE><LINE>are people and POKéMON.<LINE>The most important thing is<LINE>that we help one another out.<LINE>That's why people and POKéMON<LINE>are always by each other's side.<LINE><LINE>That's what I've come to think lately…<LINE><PLAYER>!<LINE>If anything happens to you or Alder,<LINE><LINE>I will do everything I can to help you.<LINE>That's why I have to keep training and<LINE>getting stronger.<LINE><LINE>Just…don't be reckless, OK?
 Bianca: He's gone.
 <PLAYER>!<LINE>Me, too! I'll do my best to help if I can!<LINE>So…<LINE>Umm…<LINE>I wish I could say something, like,<LINE>totally inspiring, you know?<LINE>Umm…<LINE>OK… Best foot forward!
 You made it this far. Well done.<LINE>That's an impressive accomplishment.<LINE>To show the respect I feel for you,<LINE>I would like to present you with this gift.
-It's a Dusk Stone.<LINE>This item makes certain Pokémon evolve.<LINE>I used one to evolve a Lampent<LINE>from the Celestial Tower.
+It's a Dusk Stone.<LINE>This item makes certain POKéMON evolve.<LINE>I used one to evolve a Lampent<LINE>from the Celestial Tower.
 Route 10
 Badge Check Gates<LINE>Open the gates and change history!

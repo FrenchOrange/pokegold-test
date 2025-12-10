@@ -1,16 +1,16 @@
-Cheren: When a Pokémon is poisoned,<LINE>its HP decreases while it is battling.
+Cheren: When a POKéMON is poisoned,<LINE>its HP decreases while it is battling.
 Hey, <PLAYER>.<LINE>Have you come looking for the<LINE>Gym Leader?
-He was here talking about Pokémon<LINE>types until just a few moments ago…<LINE>Maybe you walked right past him?
+He was here talking about POKéMON<LINE>types until just a few moments ago…<LINE>Maybe you walked right past him?
 Nothing improves your skill as a Trainer<LINE>like real battles.<LINE>That's why challenging Gym Leaders is<LINE>great practice.
 By the way, <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
 Cheren: <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
 Really? I really want to try out my<LINE>items, so I'll just wait here until you<LINE><LINE>decide you're ready.
 Cheren: Well, let's see how effective<LINE>my items are…<LINE>Or maybe I should test how well I can<LINE>battle without items…?<LINE>Anyway, this is an indoor match, so let's<LINE>battle without getting too rough!
 Cheren: So learning to use items well is<LINE>definitely important, then.<LINE>Oh, here. <PLAYER>, I'll give you<LINE>these Berries.
-Cheren: If you give a Pokémon this kind<LINE>of Berry to hold, it will eat it to heal up<LINE><LINE>when its HP goes down in battle.<LINE>But if you give Pokémon man-made items<LINE>like Potions to hold, they can't<LINE><LINE>use them.<LINE>Well, good luck, then.
-This Trainers' School exists to meet the<LINE>demands of Trainers who want to know<LINE><LINE>more about Pokémon because they<LINE><LINE>love them!
-Pokémon have mysterious powers<LINE>called Abilities.<LINE>Abilities have a variety of effects, and<LINE>many of those effects are activated when<LINE><LINE>Pokémon are in battle!
-There is a technique that lets you<LINE>cancel evolution!<LINE>I'll read the book about it to you.<LINE>Are you ready?<LINE>“You can surprise a Pokémon and stop its<LINE>evolution by pressing the B Button when<LINE><LINE>a Pokémon is evolving."
+Cheren: If you give a POKéMON this kind<LINE>of Berry to hold, it will eat it to heal up<LINE><LINE>when its HP goes down in battle.<LINE>But if you give POKéMON man-made items<LINE>like Potions to hold, they can't<LINE><LINE>use them.<LINE>Well, good luck, then.
+This Trainers' School exists to meet the<LINE>demands of Trainers who want to know<LINE><LINE>more about POKéMON because they<LINE><LINE>love them!
+POKéMON have mysterious powers<LINE>called Abilities.<LINE>Abilities have a variety of effects, and<LINE>many of those effects are activated when<LINE><LINE>POKéMON are in battle!
+There is a technique that lets you<LINE>cancel evolution!<LINE>I'll read the book about it to you.<LINE>Are you ready?<LINE>“You can surprise a POKéMON and stop its<LINE>evolution by pressing the B Button when<LINE><LINE>a POKéMON is evolving."
 Some moves can only be taught with TMs.<LINE>TMs can be used over and over, so you<LINE>might want to use them a lot.<LINE>If you don't like the move you taught,<LINE>you can always use a different TM.
 Would you like to take a quiz about<LINE>status conditions?
 So here is the question:<LINE>Which of the following items<LINE>cures poison?
@@ -18,18 +18,18 @@ Antidote
 Parlyz Heal
 Awakening
 Ding ding ding!<LINE>Right answer!<LINE>Now for the next question.
-The item that cures paralysis is<LINE>Parlyz Heal, but…<LINE>Which of the following items<LINE>wakes up a sleeping Pokémon?
+The item that cures paralysis is<LINE>Parlyz Heal, but…<LINE>Which of the following items<LINE>wakes up a sleeping POKéMON?
 Ding ding ding! We have a winner!<LINE>Fantastic answer!<LINE>Since you know so much about status<LINE>conditions, I'll give you this!
 Full Heal does exactly what the name<LINE>suggests--it heals all status conditions!
 Come talk to me if you want<LINE>to take a quiz.
 Buzzzzz!<LINE>Too bad… That's incorrect.<LINE>Please try again sometime!
-The blackboard explains Pokémon<LINE>status changes in battle.
+The blackboard explains POKéMON<LINE>status changes in battle.
 What do you want to read about?
-If poisoned, a Pokémon steadily loses HP<LINE>when battling.<LINE>The poison lingers after the battle.<LINE>To cure it, use an Antidote.
+If poisoned, a POKéMON steadily loses HP<LINE>when battling.<LINE>The poison lingers after the battle.<LINE>To cure it, use an Antidote.
 Paralysis reduces the Speed stat<LINE>and may prevent movement.<LINE>It remains after battle, so use a<LINE>Parlyz Heal.
-If a Pokémon falls asleep, it will be<LINE>unable to attack.<LINE>The Pokémon may wake up on its own,<LINE>but if a battle ends while it is<LINE><LINE>sleeping, it will stay asleep.<LINE>Wake it up using an Awakening.
+If a POKéMON falls asleep, it will be<LINE>unable to attack.<LINE>The POKéMON may wake up on its own,<LINE>but if a battle ends while it is<LINE><LINE>sleeping, it will stay asleep.<LINE>Wake it up using an Awakening.
 A burn reduces the Attack stat and<LINE>steadily reduces the victim's HP.<LINE>A burn lingers after battle.<LINE>Cure a burn using a Burn Heal.
-If a Pokémon is frozen, it becomes<LINE>completely helpless.<LINE>The Pokémon may thaw out on its own,<LINE>but if a battle ends while it is<LINE><LINE>frozen, it will stay frozen.<LINE>Thaw it out using an Ice Heal.
+If a POKéMON is frozen, it becomes<LINE>completely helpless.<LINE>The POKéMON may thaw out on its own,<LINE>but if a battle ends while it is<LINE><LINE>frozen, it will stay frozen.<LINE>Thaw it out using an Ice Heal.
 Poison
 Paralysis
 Sleep

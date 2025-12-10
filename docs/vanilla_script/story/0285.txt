@@ -1,10 +1,10 @@
-I am researching Pokémon Fossils here.
-You have a Fossil, don't you?<LINE>Shall I turn it back into a Pokémon?
-Which Fossil should I turn back<LINE>into a Pokémon?
-All right!<LINE>I will turn the \xf000ĉ\x0001\x0000 back<LINE>into a Pokémon!
+I am researching POKéMON Fossils here.
+You have a Fossil, don't you?<LINE>Shall I turn it back into a POKéMON?
+Which Fossil should I turn back<LINE>into a POKéMON?
+All right!<LINE>I will turn the \xf000ĉ\x0001\x0000 back<LINE>into a POKéMON!
 Oh, you'd like to keep it as a Fossil? OK!
 
-The Fossil you gave me turned back into<LINE>a Pokémon!<LINE>This is <PLAYER>!<LINE>Please take good care of it.
+The Fossil you gave me turned back into<LINE>a POKéMON!<LINE>This is <PLAYER>!<LINE>Please take good care of it.
 <PLAYER> received<LINE><POKEMON>!
 Would you like to give a nickname to the<LINE>newly received <PLAYER>?
 Oh, I'm sorry. Your party is full.<LINE>I will keep it with extra care, so please<LINE>come back to pick it up when you can!

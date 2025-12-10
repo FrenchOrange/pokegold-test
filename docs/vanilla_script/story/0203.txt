@@ -1,40 +1,40 @@
 …<LINE>…Come.
 …<LINE>My lord N, we brought the one<LINE>you wanted.
 N: \xf000븉\x0001\x0001Ah, yes.<LINE>That was the Shadow Triad, just now.<LINE>Ghetsis enlisted them in Team Plasma.<LINE>Apparently, they were the ones who<LINE>prepared the Galvantula nest<LINE><LINE>at the cave entrance.\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001Chargestone Cave…<LINE>I like this place.<LINE>Formulas express electricity and<LINE>its connection to Pokémon…<LINE>If people did not exist,<LINE>this would be an ideal place.<LINE>You have been chosen, you know.<LINE>Does it surprise you I said that?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Chargestone Cave…<LINE>I like this place.<LINE>Formulas express electricity and<LINE>its connection to POKéMON…<LINE>If people did not exist,<LINE>this would be an ideal place.<LINE>You have been chosen, you know.<LINE>Does it surprise you I said that?\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Of course.<LINE>Such news should be a surprise.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Hmph.<LINE>If you don't understand what that<LINE>means, it's not likely to surprise you.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001I told Ghetsis about you<LINE>and your friends.<LINE>After I did, he apparently used the<LINE>Shadow Triad to find out about you.<LINE>Cheren is pursuing the ideal of strength.<LINE>Poor Bianca has faced the sad truth that<LINE>not everyone can become stronger.<LINE>And you are not swayed either way--<LINE>more of a neutral presence.<LINE><LINE>Which is apparently a good thing.<LINE>Team Plasma will be waiting for you ahead.<LINE>Ghetsis wants to see what kind of<LINE>Pokémon Trainer you really are.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001I told Ghetsis about you<LINE>and your friends.<LINE>After I did, he apparently used the<LINE>Shadow Triad to find out about you.<LINE>Cheren is pursuing the ideal of strength.<LINE>Poor Bianca has faced the sad truth that<LINE>not everyone can become stronger.<LINE>And you are not swayed either way--<LINE>more of a neutral presence.<LINE><LINE>Which is apparently a good thing.<LINE>Team Plasma will be waiting for you ahead.<LINE>Ghetsis wants to see what kind of<LINE>POKéMON Trainer you really are.\xf000븉\x0001\x0000
 Heeey!
 Guess what!
 Bianca: <PLAYER>, did you know this?<LINE>The floating stones move<LINE>when you touch them!
 Right, Professor?
 Professor Juniper: Hi there!<LINE>How are you, <PLAYER>?
-This place is always charged with<LINE>lots of electricity that Pokémon like!<LINE>The electric charges react from one<LINE>stone to another, and that's why<LINE><LINE>some of the stones are floating!<LINE>But not all of the stones can be pushed.
-My father asked me to research Klink,<LINE>which is a Pokémon that looks like a gear,<LINE><LINE>because I'm researching the origins<LINE><LINE>of Pokémon and the era they appeared.<LINE>He knows how to get what he wants from<LINE>people, but I was already interested in<LINE><LINE>this anyway, so it's a lot of fun!<LINE>Oh, yeah! <PLAYER>, this is for you!
-Professor Juniper: Giving that Lucky Egg<LINE>to a Pokémon to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong Pokémon will make<LINE>it easier to fill your Pokédex pages!
-Professor Juniper: <PLAYER>!<LINE>Are you working on your Pokédex?<LINE>Keep encountering lots of Pokémon,<LINE>so you can keep filling in those pages!
+This place is always charged with<LINE>lots of electricity that POKéMON like!<LINE>The electric charges react from one<LINE>stone to another, and that's why<LINE><LINE>some of the stones are floating!<LINE>But not all of the stones can be pushed.
+My father asked me to research Klink,<LINE>which is a POKéMON that looks like a gear,<LINE><LINE>because I'm researching the origins<LINE><LINE>of POKéMON and the era they appeared.<LINE>He knows how to get what he wants from<LINE>people, but I was already interested in<LINE><LINE>this anyway, so it's a lot of fun!<LINE>Oh, yeah! <PLAYER>, this is for you!
+Professor Juniper: Giving that Lucky Egg<LINE>to a POKéMON to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong POKéMON will make<LINE>it easier to fill your POKéDEX pages!
+Professor Juniper: <PLAYER>!<LINE>Are you working on your POKéDEX?<LINE>Keep encountering lots of POKéMON,<LINE>so you can keep filling in those pages!
 Bianca: I'm the professor's bodyguard!<LINE>Well, that's probably not necessary, but<LINE>you have to protect important things!
 Professor Juniper: Hi there!<LINE>Did you find something?<LINE>I think we're just about<LINE>done collecting data.
 This cave has been around since the<LINE>distant past, but…<LINE>Data to prove that Klink existed more<LINE>than a hundred years ago can't be found.<LINE>So that must mean…<LINE>Klink suddenly appeared a hundred<LINE>years ago!
-Where Pokémon came from<LINE>and where they are going…<LINE>If we can learn that, I believe<LINE>we can get along even better!
-Bianca: Know what, <PLAYER>?<LINE>Pokémon are mysterious!<LINE>I wonder why these amazing<LINE>little guys stay by our sides.
-Where Pokémon came from<LINE>and where they are going…<LINE>If we can learn that, I believe<LINE>we can get along even better!
-Bianca: I plan on staying here<LINE>and catching Pokémon!<LINE><LINE>Traveling is about encounters, you know!
+Where POKéMON came from<LINE>and where they are going…<LINE>If we can learn that, I believe<LINE>we can get along even better!
+Bianca: Know what, <PLAYER>?<LINE>POKéMON are mysterious!<LINE>I wonder why these amazing<LINE>little guys stay by our sides.
+Where POKéMON came from<LINE>and where they are going…<LINE>If we can learn that, I believe<LINE>we can get along even better!
+Bianca: I plan on staying here<LINE>and catching POKéMON!<LINE><LINE>Traveling is about encounters, you know!
 …<LINE>…Come.
 …<LINE>There are stairs going down ahead.<LINE>Team Plasma is waiting for you there.
-N: \xf000븉\x0001\x0001Many different values mix together,<LINE>and the world becomes gray…<LINE><LINE>That is unforgivable!<LINE>I will separate Pokémon and people, and<LINE>black and white will be clearly distinct!<LINE>Only then will Pokémon become<LINE>perfect beings!<LINE>Yes, that is my dream!<LINE>That is the dream I must fulfill!<LINE><PLAYER>, do you have a dream<LINE>of your own?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Many different values mix together,<LINE>and the world becomes gray…<LINE><LINE>That is unforgivable!<LINE>I will separate POKéMON and people, and<LINE>black and white will be clearly distinct!<LINE>Only then will POKéMON become<LINE>perfect beings!<LINE>Yes, that is my dream!<LINE>That is the dream I must fulfill!<LINE><PLAYER>, do you have a dream<LINE>of your own?\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001You have a dream…<LINE>That's wonderful.<LINE>I'll learn just what kind of dream<LINE>you have--in battle!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001As if a person without a dream<LINE>could ever understand me!<LINE>Eh… I guess…<LINE>I have to crush your will here!\xf000븉\x0001\x0000
 
-N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue the truth with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary Pokémon!\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue my ideals with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary Pokémon!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue the truth with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue my ideals with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
 Bianca: <PLAYER>!
 Just a little further to Mistralton City!
 Professor Juniper: Bianca,<LINE>you have good ears.<LINE>I can't believe you heard<LINE><PLAYER>'s voice from that far away.<LINE><PLAYER>, who is this Trainer?
-N: \xf000븉\x0001\x0001Professor Juniper,<LINE>what are you thinking?<LINE>You appear to have no qualms about the<LINE>relationship between Pokémon and people.<LINE>You put Pokémon into categories using<LINE>arbitrary rules and think you can<LINE><LINE>understand them like that…<LINE><LINE>The very idea of a Pokédex revolts me.<LINE>What do you have to say for yourself?\xf000븉\x0001\x0000
-Professor Juniper: Oh, my.<LINE>Looks like you're not my biggest fan.<LINE>Your opinion is understandable.<LINE>It happens to be different from mine,<LINE><LINE>which is equally understandable.<LINE>How about if all people get to decide for<LINE>themselves how to relate to Pokémon?
-N: \xf000븉\x0001\x0001You're saying I should just allow<LINE>people to think whatever they want and<LINE><LINE>treat Pokémon however they want,<LINE><LINE>no matter whether the Pokémon suffer?<LINE>I refuse to tolerate the existence<LINE>of a world like that!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Professor Juniper,<LINE>what are you thinking?<LINE>You appear to have no qualms about the<LINE>relationship between POKéMON and people.<LINE>You put POKéMON into categories using<LINE>arbitrary rules and think you can<LINE><LINE>understand them like that…<LINE><LINE>The very idea of a POKéDEX revolts me.<LINE>What do you have to say for yourself?\xf000븉\x0001\x0000
+Professor Juniper: Oh, my.<LINE>Looks like you're not my biggest fan.<LINE>Your opinion is understandable.<LINE>It happens to be different from mine,<LINE><LINE>which is equally understandable.<LINE>How about if all people get to decide for<LINE>themselves how to relate to POKéMON?
+N: \xf000븉\x0001\x0001You're saying I should just allow<LINE>people to think whatever they want and<LINE><LINE>treat POKéMON however they want,<LINE><LINE>no matter whether the POKéMON suffer?<LINE>I refuse to tolerate the existence<LINE>of a world like that!\xf000븉\x0001\x0000
 Professor Juniper: Well, I didn't expect<LINE>him to change his mind right away.<LINE>But I hope he'll spend a little time<LINE>trying to understand how others feel.
-Now, then…<LINE>I think I'll go collect a little more data.<LINE>For Pokémon and people to get<LINE>along better, we need to take steps<LINE><LINE>to learn more about them!
+Now, then…<LINE>I think I'll go collect a little more data.<LINE>For POKéMON and people to get<LINE>along better, we need to take steps<LINE><LINE>to learn more about them!
 Bianca: Umm, <PLAYER>!<LINE>I'm gonna go with Professor Juniper<LINE>now 'cause I'm her bodyguard!

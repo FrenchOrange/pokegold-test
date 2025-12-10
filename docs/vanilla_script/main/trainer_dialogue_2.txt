@@ -2,7 +2,7 @@ Have we met or not? I don't remember.<LINE>Well, nice to meet you!
 Yahoo! Ya-hoooooo!<LINE>I won again!
 No way! Nooo way…<LINE>I lost again…
 All right!<LINE>I will show you my power!
-Amazed? Surprised?<LINE>By the power of my Pokémon?!
+Amazed? Surprised?<LINE>By the power of my POKéMON?!
 You are incredible!<LINE>I am astonished and surprised!
 May… May I help you?!
 Oh! Oh!<LINE>Yes, we can?!
@@ -10,7 +10,7 @@ Un-un-unbelievable!
 Don't let your guard down,<LINE>or you may cry when a kid beats you…
 I may be young, but I don't think<LINE>I will lose, even against grown-ups.
 Fweh! I am just a kid!<LINE>You are fighting for keeps!
-Let's have an awesome<LINE>Pokémon battle!
+Let's have an awesome<LINE>POKéMON battle!
 Mmmph! Mmmmmph!<LINE>You see, it's fun to win!
 You are pretty amazing!<LINE>And you have totally exhausted me…
 Very serious from the very beginning.<LINE>Are you ever really prepared for this?
@@ -19,21 +19,21 @@ Seriously, I lost. I am seriously depressed.<LINE>But you are seriously cool.
 Go easy on me!<LINE>This is my first battle…
 I can't believe I won my first battle!<LINE>Say, did you go easy on me?
 Ouch! That hurts!!<LINE>But… You are great…
-You… You know,<LINE>these Pokémon are my friends.
+You… You know,<LINE>these POKéMON are my friends.
 I… I… I am sorry…<LINE>I just wanted to introduce them to you.
-Just being with these Pokémon<LINE>makes me happy…
+Just being with these POKéMON<LINE>makes me happy…
 …Heehee. I'm confident in calculation<LINE>and analysis.
 Heheh. Exactly as I planned…<LINE>I don't feel like losing.
 Ohhhh… Calculation and analysis<LINE>are no match for coincidence…
-We're about to have a Pokémon battle.<LINE>At the very least, we say hello!
+We're about to have a POKéMON battle.<LINE>At the very least, we say hello!
 That could have gone better,<LINE>but thank you very much.
 I feel like crying in frustration,<LINE>but thank you very much.
 I am studying every single day…<LINE>So I am taking a break for a change.
-You see, playing with Pokémon is fun.<LINE>I want to study Pokémon.
-Ah, my Pokémon lost…<LINE>I may be better at studying.
-I want to be a Pokémon research<LINE>scientist when I grow up.
-I'm wondering if Pokémon research<LINE>projects require test subjects…
-I must do my best to learn<LINE>more about Pokémon.
+You see, playing with POKéMON is fun.<LINE>I want to study POKéMON.
+Ah, my POKéMON lost…<LINE>I may be better at studying.
+I want to be a POKéMON research<LINE>scientist when I grow up.
+I'm wondering if POKéMON research<LINE>projects require test subjects…
+I must do my best to learn<LINE>more about POKéMON.
 Ah… You look strong…<LINE>I hope I will be all right…
 Oops, you were not as strong<LINE>as I expected… Looks can be deceiving.
 I could tell you are a strong Trainer!<LINE>What you see is what you get.
@@ -42,7 +42,7 @@ I will keep winning, winning, winning…<LINE>I will be No. 1!
 If I lose at such an early stage,<LINE>I cannot be No. 1.
 Wha--? You wanna fight with me?<LINE>I suppoooose…
 Ah, I shoulda known.<LINE>Don't blame me.
-Oh, wow. I am no match for you.<LINE>Your Pokémon are great.
+Oh, wow. I am no match for you.<LINE>Your POKéMON are great.
 Mrrrrr… Mmrr grrr…<LINE>Grrrrr… Mrrrrr…
 Grrrrr… Mmrrrr…<LINE>…Oh? Did I win?
 Grrrrmmm… Mrrr…<LINE>Oh? Is that it?
@@ -55,15 +55,15 @@ Are you really an ordinary person?<LINE>What do you eat?
 I am a nouveau riche celebrity,<LINE>so I am stingy with my money!
 Unfortunately, you lost.<LINE>Now, give me your lunch money!
 I lost, but I won't give you<LINE>my lunch money!
-My mom chose my Pokémon.<LINE>I don't think I will lose.
+My mom chose my POKéMON.<LINE>I don't think I will lose.
 You see! I am fine as long as<LINE>I listen to my mom.
 Mommy! Mommy! Where are you?<LINE>Please come and hug me!
 A Trainer who looks gorgeous!<LINE>I hope your battle is just as beautiful.
 Such a looker lost against me?!<LINE>I am a little disappointed.
 Oh my, the battle was also gorgeous.<LINE>I find myself drawn to you.
-What kind of Pokémon do you like?<LINE>Hey, hey. Let me see!
-Your taste in Pokémon is excellent, <LINE>but you are a disappointment as a Trainer.
-Your taste in Pokémon is truly awful,<LINE>but you are a first-class Trainer!
+What kind of POKéMON do you like?<LINE>Hey, hey. Let me see!
+Your taste in POKéMON is excellent, <LINE>but you are a disappointment as a Trainer.
+Your taste in POKéMON is truly awful,<LINE>but you are a first-class Trainer!
 I am sorry--I lied.<LINE>I am not a rich girl.
 Everybody paid more attention to me<LINE>when I pretended to be rich.
 The truth is I am just the daughter<LINE>of a Clerk ⑭.
@@ -75,12 +75,12 @@ Little baby is a winna!<LINE>Tank you! Tank you!
 Da Preschooler lost!<LINE>Tank you anyways!
 I am a genius Preschooler!<LINE>I am already prepping for college.
 You lost against a Preschooler…<LINE>How old are you again?
-I am confident in studying, but<LINE>I am just a beginner in Pokémon battles.
+I am confident in studying, but<LINE>I am just a beginner in POKéMON battles.
 I am a hero!<LINE>I refuse to lose!
 I AM a hero!<LINE>I beat the bad person!
 A hero never loses.<LINE>A hero never dies.
 I am very strong.<LINE>I will never lose.
-Daddy gave me these Pokémon!<LINE>They've got to be strong!
+Daddy gave me these POKéMON!<LINE>They've got to be strong!
 AAAAAAAAAH!
 I thinks it are strange<LINE>it complaining when they lose.
 When I win, I are glad!<LINE>Hip, hip, hurray!
@@ -88,9 +88,9 @@ Boo!! I did lost… I are frustrated,<LINE>but I guess things my own fault.
 Are you going to bully me?
 You didn't bully me. I like you!
 You bullied me, but I like you<LINE>'cause you are strong!
-Gmmmmm! Pokémon!<LINE>Give it all you've got!
-Mmmmph! Yahoo! Yahoo!<LINE>Thank you very much, Pokémon!
-Boooooo! Come on, Pokémon.<LINE>Try harder!
+Gmmmmm! POKéMON!<LINE>Give it all you've got!
+Mmmmph! Yahoo! Yahoo!<LINE>Thank you very much, POKéMON!
+Boooooo! Come on, POKéMON.<LINE>Try harder!
 I am four years old! I will do my best!<LINE>Trainer, do your best, too!
 I am four years old! I did my best!<LINE>Trainer, you are weak.
 I am four years old! I did my best!<LINE>Trainer, you did your best, too!
@@ -119,32 +119,32 @@ I hope to work hard, save money,<LINE>and have a quiet life.
 Everybody has a different dream.<LINE>I just want to have a normal life.
 I want to have security and happiness<LINE>rather than chasing a big dream.
 Hey! Welcome! <LINE>We have very fresh ingredients!
-What do you think of my Pokémon?<LINE>They are fresh!
+What do you think of my POKéMON?<LINE>They are fresh!
 Thank you very much!<LINE>How were mine?
-Didn't you come here for<LINE>a Pokémon battle?
+Didn't you come here for<LINE>a POKéMON battle?
 Don't be scared, or<LINE>you will never win.
 You are a strong Trainer.<LINE>Please forgive me.
 Hiya, honey! Welcome!<LINE>Have you decided what you'll have?
-Order up! One humiliation<LINE>in a Pokémon battle, over easy.
-Order up! One glorious victory<LINE>in a Pokémon battle, sunny side up.
+Order up! One humiliation<LINE>in a POKéMON battle, over easy.
+Order up! One glorious victory<LINE>in a POKéMON battle, sunny side up.
 Meow, meow, it's a battle, meow.<LINE>(That sounds stupid, doesn't it?)
 Yeah! Meow! I won, meow!<LINE>(I seriously want to quit this job.)
 Meowww… I lost, meowww.<LINE>(Seriously, I am sooo embarrassed.)
-My love for Pokémon is stronger than<LINE>anybody else's. Love can do anything.
-This victory proves<LINE>my true love for Pokémon.
+My love for POKéMON is stronger than<LINE>anybody else's. Love can do anything.
+This victory proves<LINE>my true love for POKéMON.
 Love should conquer all. Love should<LINE>help me win, shouldn't it?
-Oh, do you want to see the Pokémon<LINE>that I am proudest of?
-What do you think about my <LINE>dear Pokémon? Aren't they great?
-Oh, my goodness!<LINE>My poor Pokémon…
+Oh, do you want to see the POKéMON<LINE>that I am proudest of?
+What do you think about my <LINE>dear POKéMON? Aren't they great?
+Oh, my goodness!<LINE>My poor POKéMON…
 For the honor of the branch office!<LINE>Here I go!
 I am the branch manager of the Pokéfan.<LINE>I won!
 Pfft. Good-bye for now, child!<LINE>I'll remember this!
-I lost a lot of things because<LINE>I love Pokémon too much…
-I've devoted my life to Pokémon. <LINE>I see things differently than you do.
+I lost a lot of things because<LINE>I love POKéMON too much…
+I've devoted my life to POKéMON. <LINE>I see things differently than you do.
 I cannot win even with my devotion.<LINE>What shall I do?!
-Listen. I love love love Pokémon.
-I will be a Pokémon in my next life.
-I love your Pokémon, too!<LINE>Please let me pet them!
+Listen. I love love love POKéMON.
+I will be a POKéMON in my next life.
+I love your POKéMON, too!<LINE>Please let me pet them!
 I am not good at battling, but<LINE>this is one of the duties of a Pokéfan.
 I kept the honor of the Pokéfan.<LINE>Hahaha.
 Cheers, all you Pokéfans!!<LINE>May the Pokéfan last forever!
@@ -171,9 +171,9 @@ I know you are the best.<LINE>I will never let you go.
 I like you.<LINE>Please be my friend.
 I won't go easy on you just because<LINE>you're a kid. Bring it on!
 Heh. You cannot have a battle<LINE>if you are afraid of losing.
-Humph. I am still weak.<LINE>I feel sorry for my Pokémon…
-I am bad and stupid, but<LINE>I am very serious about Pokémon.
-I feel peaceful only when I am with Pokémon.
+Humph. I am still weak.<LINE>I feel sorry for my POKéMON…
+I am bad and stupid, but<LINE>I am very serious about POKéMON.
+I feel peaceful only when I am with POKéMON.
 I hope you will find something<LINE>you can be serious about.
 My shiny bald head is my secret.
 The more I shave my head,<LINE>the stronger I can be.
@@ -187,7 +187,7 @@ You have to follow your own dream!
 I am a Biker.<LINE>But I've never ridden a bike.
 I am a Biker.<LINE>I don't have any friends yet.
 I am a Biker.<LINE>I've never won yet.
-My Pokémon are on the rise! I raised<LINE>them with special yeast bread!
+My POKéMON are on the rise! I raised<LINE>them with special yeast bread!
 You'll get well again if you<LINE>eat my special bread.
 You are strong.<LINE>Are you eating my special bread?
 One loaf, two loaves… No matter how<LINE>many times I count, one loaf is missing.
@@ -236,7 +236,7 @@ Sensitivity is important for battles, too.<LINE>You! Feel it!
 You need to feel it more! More!<LINE>Otherwise you cannot win!
 Ahh! I sense it!<LINE>I sense your hypersensitive sensitivity!
 Everybody grows bit by bit<LINE>if somebody cherishes them.
-I have cherished these Pokémon<LINE>since they were small.
+I have cherished these POKéMON<LINE>since they were small.
 You are also here <LINE>because someone cherished you.
 These days, when children fight,<LINE>their parents fight on their behalf.
 Children of childish parents.<LINE>What kind of adults will they become?
@@ -245,19 +245,19 @@ Iaaaa! You are cute!<LINE>I want to take you home as my own!
 Your face is cute even when you've lost!<LINE>I want to comfort you, little one!
 Ooooh! You are really cute!<LINE>I want to raise you as my own!
 I'll show you we can break you.<LINE>We've trained in the field!
-How were my Pokémon?<LINE>They're very powerful, aren't they?
+How were my POKéMON?<LINE>They're very powerful, aren't they?
 That's strange! I wonder why…<LINE>I shouldn't be outmuscled.
 Oh, you look very active!<LINE>What say we battle?
 OK! It's done!<LINE>How are my partners?
 Goood, you are young!<LINE>My partners were totally crushed!
-Pokémon battles after work<LINE>are the one thing I truly enjoy.
-Ahhhhhhhhh!<LINE>That's why I cannot quit training Pokémon.
+POKéMON battles after work<LINE>are the one thing I truly enjoy.
+Ahhhhhhhhh!<LINE>That's why I cannot quit training POKéMON.
 Urrrrrrrgh. It hurts.<LINE>It hurts for a single man like me.
-Pokémon are popular at work, too.<LINE>Old guys can enjoy these battles!
+POKéMON are popular at work, too.<LINE>Old guys can enjoy these battles!
 Am I good for a guy who just<LINE>battles during his lunch breaks?
-Old guys and kids can both enjoy<LINE>battling with Pokémon.
+Old guys and kids can both enjoy<LINE>battling with POKéMON.
 Keep pedaling even when your legs<LINE>crumble. This is the secret of Cyclists.
-A Pokémon trained by cycling<LINE>could never lose against a person like you.
+A POKéMON trained by cycling<LINE>could never lose against a person like you.
 My cycling has no limits.<LINE>I will challenge you again someday.
 My steel-wheeled friend brought me here.<LINE>Isn't it the greatest ever?
 This is my best friend forever!<LINE>Always reliable and true as steel!
@@ -293,15 +293,15 @@ My boss is seriously annoying!<LINE>I believe I'll take it out on you!
 Thank you for having a battle with me.<LINE>I feel much better.
 You should choose your company carefully,<LINE>because you cannot choose your boss.
 Are you my next patient?<LINE>Get over here!
-Good, good. I am glad<LINE>that you and your Pokémon are obedient.
+Good, good. I am glad<LINE>that you and your POKéMON are obedient.
 Wait! You, wait!<LINE>The surgery has not started yet!
 When there is a patient, I will be there.<LINE>That is my job.
 Please put yourself at ease!<LINE>Your Doctor is here.
 If you are hurt, please call me.<LINE>I'll be there for you.
 Please go easy on me.<LINE>I just finished my night shift.
-After all that work, let's relax<LINE>with some Pokémon battles!
+After all that work, let's relax<LINE>with some POKéMON battles!
 Yawn… I'm sleepy…<LINE>I can't stay awake any longer…
-How are you and your Pokémon?
+How are you and your POKéMON?
 I will inject you with my energy!
 People can do so much<LINE>as long as they have energy!
 A Gentleman should have<LINE>a liking for battles.
@@ -316,18 +316,18 @@ Did you enjoy the battle with me?
 Oh-ho! Let's have a unique<LINE>and elegant battle.
 Ah-ha! I was not confident, <LINE>but this is a delightful surprise.
 Eeeeee! I'll remember this!
-Obedient Pokémon, selfish Pokémon…<LINE>Pokémon have unique characteristics.
-You should not get angry at your Pokémon,<LINE>even when you lose.
-It is important to nurture and train<LINE>each Pokémon's characteristics.
-Do you discipline your Pokémon?<LINE>Pampering them too much is no good.
-You need to discipline Pokémon you<LINE>love when they are misbehaving.
-Too much praise can spoil<LINE>both Pokémon and people.
-Pokémon never betray you.<LINE>They will return the love you give them.
-This proves my love has been received<LINE>by my Pokémon.
+Obedient POKéMON, selfish POKéMON…<LINE>POKéMON have unique characteristics.
+You should not get angry at your POKéMON,<LINE>even when you lose.
+It is important to nurture and train<LINE>each POKéMON's characteristics.
+Do you discipline your POKéMON?<LINE>Pampering them too much is no good.
+You need to discipline POKéMON you<LINE>love when they are misbehaving.
+Too much praise can spoil<LINE>both POKéMON and people.
+POKéMON never betray you.<LINE>They will return the love you give them.
+This proves my love has been received<LINE>by my POKéMON.
 It's about time for me to give someone<LINE>my affection, though.
-Shall I give you a tip for<LINE>training good Pokémon?
-The tip for training good Pokémon is<LINE>to catch good Pokémon.
-You don't seem to need any tips<LINE>for training good Pokémon.
+Shall I give you a tip for<LINE>training good POKéMON?
+The tip for training good POKéMON is<LINE>to catch good POKéMON.
+You don't seem to need any tips<LINE>for training good POKéMON.
 Glad you made it! It won't be<LINE>an easy job from here.
 Haha! You see!?<LINE>You are not ready yet.
 Earlier I got a little carried away,<LINE>but what job was I talking about?
@@ -349,11 +349,11 @@ I will be rich someday and<LINE>put you to shame.
 I don't care who you are<LINE>or where you come from.
 How should we act?<LINE>That is all that matters, isn't it?
 A label is not important, is it?<LINE>After all, you are you, aren't you?
-Pokémon battles and study sessions<LINE>are much the same. Let's be efficient!
+POKéMON battles and study sessions<LINE>are much the same. Let's be efficient!
 You are too inefficient.<LINE>You need to be more quick and responsive.
 How did I lose against such a slacker?<LINE>I cannot believe it!
 I have money to burn,<LINE>so I don't want anything.
-The only thing I enjoy<LINE>is a Pokémon battle…
+The only thing I enjoy<LINE>is a POKéMON battle…
 Just because I am rich<LINE>does not mean I am especially happy.
 Yes! I am a Rich Boy!
 Well, good-bye!<LINE>You have been beaten by a Rich Boy!
@@ -364,22 +364,22 @@ It's good when you battle for fun.<LINE>If it's too serious, you won't enjoy it�
 Yesterday was a party. Today is a<LINE>battle. I am rich. I always have fun!
 I do not have to work,<LINE>because I am loaded with cash.
 All play makes me a dull girl.<LINE>Do you think I don't know that?
-I'm proud of these Pokémon!<LINE>Go on, rush the enemy position!
-My Pokémon are mighty!<LINE>I will carve my name in history!
+I'm proud of these POKéMON!<LINE>Go on, rush the enemy position!
+My POKéMON are mighty!<LINE>I will carve my name in history!
 I won't cry… I won't.<LINE>Someday, I will be able to win.
 I came here for my big brother<LINE>who always hides in his room.
 My big brother the hermit,<LINE>I won for you! Come out and play!
 I wish my brother would<LINE>come out of his room and play with me…
 Hello me old china,<LINE>time for the rhyma!
-Bit of a Pokémon read and write,<LINE>Trainer, many clinks!
+Bit of a POKéMON read and write,<LINE>Trainer, many clinks!
 Even if you dipper, you'll be fine.<LINE>Best of friar, Trainer!
 All Dad and Mom do is mumble<LINE>at their computers! That's no fun!
-I don't like Dad, or Mom, or computers!<LINE>All I need are my Pokémon!
+I don't like Dad, or Mom, or computers!<LINE>All I need are my POKéMON!
 Instead of mumbling to computers,<LINE>I wish they would talk to me…
 A globe-trotting young adventurer.<LINE>That's me!
-Seeing Pokémon all over the world is<LINE>the purpose of my journey.
+Seeing POKéMON all over the world is<LINE>the purpose of my journey.
 Adventure is calling me.<LINE>Farewell! See you again!
-Let's take it easy<LINE>with Pokémon and with life.
+Let's take it easy<LINE>with POKéMON and with life.
 It's OK to bust your tail. But you need<LINE>to have some breathing room.
 No problem. No problem.<LINE>I will have another chance.
 I've traveled 3,000 miles searching<LINE>for a husband! A journey to nowhere.
@@ -404,7 +404,7 @@ Join the Pokéfans.<LINE>Your life will be happy!
 If you join the Pokéfans,<LINE>you'll be strong like me!
 If you join the Pokéfans,<LINE>your life will be saved!
 I am not a regular Pokéfan.<LINE>I am a major mega-Pokéfan!
-I love Pokémon.<LINE>I love love Pokémon!
+I love POKéMON.<LINE>I love love POKéMON!
 You'll remember this!<LINE>I am a big Pokéfan!
 I think I am a Pokéfan,<LINE>therefore I am a Pokéfan.
 The Pokéfan is power.
@@ -420,7 +420,7 @@ Oh no? It's over already?<LINE>Hiker is bored!!
 This is important, so remember this!<LINE>Don't judge a book by its cover!
 Despite my appearance, I am the head<LINE>of a certain outfit. Don't tell anyone.
 Don't tell anyone that I am playing here.
-The boss does not have freedom.<LINE>I feel like a captured Pokémon.
+The boss does not have freedom.<LINE>I feel like a captured POKéMON.
 The truth is, I want to have a quiet life<LINE>fishing all day, every day.
 Ah… I don't want to do anything but fish.<LINE>I am tired of winning and losing.
 At my time of life, it doesn't matter<LINE>if I win or lose.
@@ -436,14 +436,14 @@ Don't look at miserable me!<LINE>Go away!
 You have your way.<LINE>I have my way.
 I will go my way 'cause<LINE>I don't have any other way.
 Your way must be rocky.<LINE>Good luck. I am behind you all the way.
-Hey, you! Don't mess with me,<LINE>or I will destroy your Pokémon!
+Hey, you! Don't mess with me,<LINE>or I will destroy your POKéMON!
 Thought you might make trouble for me,<LINE>but what a wimpy attack!
 How could I lose to such a wimpy move?<LINE>Gah, that bugs the snot out of me!
 My dad and mom are both Veterans,<LINE>but I am a loser…
 I wonder if my mom and dad will be sad<LINE>if they see that I've become a Roughneck.
 I cannot be like my mom and dad.<LINE>So I will live as a Roughneck.
-My partner has turned to dust,<LINE>but his Pokémon is my Pokémon now.
-Are you watching me, my long-lost partner?<LINE>That Pokémon of yours, we get along…
+My partner has turned to dust,<LINE>but his POKéMON is my POKéMON now.
+Are you watching me, my long-lost partner?<LINE>That POKéMON of yours, we get along…
 He was trash, but now he is eternal,<LINE>like the stars in the sky… Ah, my partner!
 I am no good at speaking…<LINE>So my bike speaks…
 Zooooom! Zoom whoosh!<LINE>Zooooom! Zoom zam!
@@ -451,11 +451,11 @@ Vroom! Vroom! Vroom!<LINE>Vrooooooooom! Vroom!
 All right! Are you ready?<LINE>Don't mess with a Biker!
 I'm a Biker, so I'm more obsessed<LINE>with speed than anyone else!!
 The truth is we are good guys.<LINE>We cannot do bad things at all!
-Like uncooked dough,<LINE>my Pokémon are sticky!
+Like uncooked dough,<LINE>my POKéMON are sticky!
 Now you're stuck, aren't ya?
-Well, your Pokémon are quite springy, too.
-As I bake bread, I will bake your<LINE>Pokémon, too.
-Oh my… Your Pokémon are like<LINE>burned bread.
+Well, your POKéMON are quite springy, too.
+As I bake bread, I will bake your<LINE>POKéMON, too.
+Oh my… Your POKéMON are like<LINE>burned bread.
 Ah, how frustrating and disappointing!<LINE>You burned me with that last move…
 Just as I knead the dough,<LINE>I'll knead you into shape.
 Wanna be kneaded a little more?<LINE>Or shall I sandwich you with bread?
@@ -466,7 +466,7 @@ Laugh at miserable me--I lost against<LINE>amazing you. Laugh and you'll feel be
 You think you can win against me?<LINE>It might not go as smoothly as you think.
 Don't underestimate me just because<LINE>I am a Harlequin.
 No. This can't be happening.<LINE>You're not an ordinary person.
-Observe my beautiful Pokémon magic!<LINE>Please watch closely!
+Observe my beautiful POKéMON magic!<LINE>Please watch closely!
 I know a few gimmicks and tricks,<LINE>'cause this is magic.
 Tricks and magic are my bread and butter.<LINE>Any Harlequin knows their worth!
 Tedious talk is unnecessary…<LINE>I will just break you…
@@ -479,25 +479,25 @@ This outfit is not a uniform,<LINE>it's what I like to wear. I made it myself.
 This is a uniform from an anime.<LINE>Doesn't it look good on me?
 I want to live in a world of games,<LINE>anime, and comics forever.
 I'm not cut out for a regular job,<LINE>so I live on art.
-I envy Pokémon, 'cause they are<LINE>carefree. I want to be a Pokémon.
+I envy POKéMON, 'cause they are<LINE>carefree. I want to be a POKéMON.
 Bah, if I can do a regular job,<LINE>I will quit doing this stinking art.
-Every time a Pokémon uses a move,<LINE>my heart will tremble!
-Nothing stirs the soul<LINE>more than Pokémon moves.
-Aha! Pokémon moves are so beautiful!<LINE>I could almost faint!
+Every time a POKéMON uses a move,<LINE>my heart will tremble!
+Nothing stirs the soul<LINE>more than POKéMON moves.
+Aha! POKéMON moves are so beautiful!<LINE>I could almost faint!
 I will make you cry,<LINE>'cause you just don't know when to quit.
 A state of deep sorrow and confusion<LINE>can also be art.
 Someday, you will appreciate the value<LINE>of defeat and sorrow.
 Our job is hard,<LINE>'cause it's such physical work.
 My work gave me these great muscles.
 Don't underestimate the power of kids.<LINE>Like I did with you!
-Raising Pokémon and raising kids.<LINE>Both are very hard.
-When my Pokémon do well like this,<LINE>I forget my everyday troubles.
+Raising POKéMON and raising kids.<LINE>Both are very hard.
+When my POKéMON do well like this,<LINE>I forget my everyday troubles.
 Even I raise them with tender care,<LINE>because I am their Trainer…
 Hey, you!<LINE>I promise I will take it easy on you!
 Heheh… I will take it easy on you. Heh.
 Sometimes even grown-ups want<LINE>someone to take care of them.
-The job site is quite dangerous, but<LINE>I'll have to keep working with Pokémon.
-I have trained my Pokémon well,<LINE>and it's ready to go to the job site.
+The job site is quite dangerous, but<LINE>I'll have to keep working with POKéMON.
+I have trained my POKéMON well,<LINE>and it's ready to go to the job site.
 Ugh. I cannot make money tomorrow<LINE>'cause I am injured.
 Welcome!
 Only the winner!<LINE>Only the winner can celebrate.
@@ -520,9 +520,9 @@ Don't! Please don't touch my Bicycle.<LINE>You'll cover it with your filthy fing
 Speed is the key in a battle!<LINE>Dash! Dash! Dash!
 If I compare how I'm feeling right now to a<LINE>race, it is just like crossing the finish line!
 I cannot take your nonsense anymore!<LINE>I am moving back to my mother's place.
-Hey, you! Take out all the Pokémon<LINE>you have here!
-Huh? That's all you have?<LINE>Aren't you hiding a few more Pokémon?
-I see. There seems to be nothing<LINE>suspicious about you or your Pokémon.
+Hey, you! Take out all the POKéMON<LINE>you have here!
+Huh? That's all you have?<LINE>Aren't you hiding a few more POKéMON?
+I see. There seems to be nothing<LINE>suspicious about you or your POKéMON.
 I'll protect my peace by myself.
 My peace remains protected.
 Please don't disturb my peace and quiet.
@@ -544,9 +544,9 @@ Hey! Don't run away!<LINE>You need to be scrubbed more!
 These fruits of stubbornness were raised<LINE>stubbornly by a stubborn old man.
 This stubborn old man raised them.<LINE>My persistence is different from yours!
 There's a fine line between persistence<LINE>and stubbornness. I may retire soon.
-I'm good at driving, but<LINE>I'm not good at dealing with Pokémon.
+I'm good at driving, but<LINE>I'm not good at dealing with POKéMON.
 Oh, it went unexpectedly well.<LINE>By any chance, am I a technician?
-My train does what I need. It's harder to<LINE>convince living Pokémon to do things my way.
+My train does what I need. It's harder to<LINE>convince living POKéMON to do things my way.
 I've never left this place even once<LINE>since I was born.
 I wonder if I will live here<LINE>for the rest of my life…
 I wonder how long I will stay here…<LINE>What is there outside this world?
@@ -568,13 +568,13 @@ You realized that I am a fake Nurse!<LINE>Yes, I am just a uniform collector.
 Even if you are injured, I will treat you.<LINE>So let's fight hard.
 Sorry! I went too far. Do you require<LINE>immediate hospitalization?
 You went too far! I will bill you<LINE>the cost of my medical expenses!
-I raised these very special Pokémon<LINE>using a special method.
-Pokémon will be strong or weak<LINE>depending on how you raise them.
+I raised these very special POKéMON<LINE>using a special method.
+POKéMON will be strong or weak<LINE>depending on how you raise them.
 Ugh… It wasn't supposed to be like this.<LINE>Did I blend the essence wrong?
-Shall I share an exclusive tip<LINE>for training great Pokémon?
-You'll be perfect if you buy my book<LINE>of Pokémon training tips.
-You'll be fine if you buy my DVD<LINE>of Pokémon training tips.
-Pokémon are my family!<LINE>See the solidarity of my family!
+Shall I share an exclusive tip<LINE>for training great POKéMON?
+You'll be perfect if you buy my book<LINE>of POKéMON training tips.
+You'll be fine if you buy my DVD<LINE>of POKéMON training tips.
+POKéMON are my family!<LINE>See the solidarity of my family!
 Well done, brothers and sisters!<LINE>Our family solidarity is invincible!
 NO! My family!<LINE>What have you done?!
 What you like and what you're good at<LINE>are different, or at least separate.
@@ -613,9 +613,9 @@ Dedicating yourself to something<LINE>can cause loneliness.
 Hyuck-yuck-yuck… Please lend me<LINE>a hand for my experiment.
 Hyuck-yuck-yuck… I did it.<LINE>The experiment was a huge success.
 Ho-hum. This is not good…<LINE>This experiment was a failure…
-You must face off against<LINE>my extremely powered-up Pokémon!
+You must face off against<LINE>my extremely powered-up POKéMON!
 Well, this is a natural outcome.<LINE>The power of science is awesome.
-Your Pokémon have even more awesome<LINE>strength than the power of science.
+Your POKéMON have even more awesome<LINE>strength than the power of science.
 If you lose, I'll have you help me<LINE>in my latest experiment!
 Ho hi ho. You lost! You will help science<LINE>as my new assistant.
 Pah. I was sooo close to signing you up<LINE>as my new assistant.
@@ -628,9 +628,9 @@ Eeek!
 Speech can be utter nonsense.<LINE>Pretty words only taint battles…
 Trainers who treat battles as a sport<LINE>are the height of vileness…
 Defeat is worth nothing.<LINE>Losers don't need words…
-He-he-he. If you lose,<LINE>I will turn you into a Pokémon.
-He-he-he. Well, from today on,<LINE>you are already a Pokémon.
-Next time I see you, I will turn you<LINE>into a Pokémon with my power.
+He-he-he. If you lose,<LINE>I will turn you into a POKéMON.
+He-he-he. Well, from today on,<LINE>you are already a POKéMON.
+Next time I see you, I will turn you<LINE>into a POKéMON with my power.
 Argh… I have a headache…<LINE>I have such a headache…
 I don't need psychic powers.<LINE>Please stop this headache…
 If I don't keep using my power for battles,<LINE>my headache won't go away…
@@ -642,7 +642,7 @@ OK! The evil spirit<LINE>that possessed you has disappeared.
 Evil spirit!<LINE>Leave the Trainer at once!
 I praise your courage for challenging me!<LINE>I am the one with the strongest kick.
 Haha… I probably did not have to use<LINE>my strongest kick on you.
-Oh… The Pokémon did the fighting.<LINE>My strong kick didn't help a bit.
+Oh… The POKéMON did the fighting.<LINE>My strong kick didn't help a bit.
 'Suuup! I'll give it all I've got!<LINE>Let's do our best!!
 'Sup! That's enough!<LINE>Please value your life!
 'Suuuuup! Good work. I tried everything<LINE>I could, but I'm disappointed.
@@ -655,8 +655,8 @@ It's sad to say good-bye,<LINE>but we're running out of time.
 Are you ready?<LINE>I'll take the gloves off.
 Well, well… You're not even in my league.<LINE>This is like bullying.
 Aww… I cannot believe I lost!<LINE>Who are you?!
-I would like to do the fighting<LINE>instead of my Pokémon if I could.
-Pokémon battles are not enough of a<LINE>challenge. I want to make this personal.
+I would like to do the fighting<LINE>instead of my POKéMON if I could.
+POKéMON battles are not enough of a<LINE>challenge. I want to make this personal.
 Ah, I tingle with excitement.<LINE>I would like to fight…
 Halt at once! You over there!<LINE>Let us cross lances!
 Trainer, you are at my mercy!
@@ -667,17 +667,17 @@ It doesn't matter to the vastness<LINE>of nature whether I win or lose…
 Despite my appearance, I am a city boy.<LINE>So I yearn for country life.
 Do you have a hometown?<LINE>If so, you should go back and visit there.
 I don't have a hometown to go back to,<LINE>'cause I was born and raised in the city.
-It's my mission to protect nature<LINE>and all Pokémon living there!
+It's my mission to protect nature<LINE>and all POKéMON living there!
 If villains disturb the natural order,<LINE>I will put them all in jail!
 Protect Mother Nature!<LINE>Otherwise, I will put you in jail!
-We need a lot of money to protect<LINE>Mother Nature and her Pokémon.
-Please donate money for a rich natural<LINE>environment and for the Pokémon.
-We protect forests and Pokémon by<LINE>saving money and planting trees.
+We need a lot of money to protect<LINE>Mother Nature and her POKéMON.
+Please donate money for a rich natural<LINE>environment and for the POKéMON.
+We protect forests and POKéMON by<LINE>saving money and planting trees.
 Let me stop your winning streak here.
 Ah. You still have much to learn.<LINE>Let me give you a crash course!
-You didn't win alone. You couldn't have won<LINE>without your Pokémon.
+You didn't win alone. You couldn't have won<LINE>without your POKéMON.
 You seem to be quite confident.<LINE>I'll sink you straight away.
-I am devoting my body and soul<LINE>to Pokémon battles!
+I am devoting my body and soul<LINE>to POKéMON battles!
 AAAAAAAAH! I am sooooo scared!<LINE>I will never do it again… Sorrrry!
 I'm working very hard, but<LINE>that doesn't mean I am strong.
 You're a strong Trainer,<LINE>so I think I was just lucky this time.
@@ -688,7 +688,7 @@ I'm still not popular even though<LINE>I've been recognized as an Ace.
 The lead character of this story…<LINE>I'll tell you who it is!
 The lead character of the story is me!<LINE>You are just an extra!
 Of course, you are the lead character!
-We would like to hold a Pokémon battle<LINE>against the strongest foe.
+We would like to hold a POKéMON battle<LINE>against the strongest foe.
 We cannot believe we spent time<LINE>on such a childish battle! Leave at once!
 Ho-ho-ho! That is to our liking!<LINE>We find ourselves quite satisfied!
 A person who wants to fight, fight, and<LINE>fight forever. That's the way of the Ace.
@@ -706,8 +706,8 @@ What? This kid is a fast learner?<LINE>Ha ha ha… I had no idea!
 Argh. Cough, cough. I don't feel well.<LINE>Please show a little kindness.
 I lied when I said I didn't feel well!<LINE>Veterans do anything to win!
 You're very sharp!<LINE>You did not fall for my illness act.
-I will give you a taste<LINE>of a Veteran's well-trained Pokémon.
-How were the Veteran's Pokémon?<LINE>Defeat is bitter, isn't it?
+I will give you a taste<LINE>of a Veteran's well-trained POKéMON.
+How were the Veteran's POKéMON?<LINE>Defeat is bitter, isn't it?
 You have served me a spicy defeat.<LINE>And yet defeat is also part of life.
 Oh, you are so cute!<LINE>Come, I promise to be nice in this battle.
 You are so cute, really…<LINE>I want to see you again. I'll be waiting.
@@ -716,11 +716,11 @@ Oh, you are still a child.<LINE>Who said you could come here?
 You're not bad, but you're immature.<LINE>Come back when you've learned something.
 I thought you were a child.<LINE>Hee hee… You are tough…
 Don't call me a Veteran!<LINE>A woman's mind is always blooming.
-I'm not finished with love or Pokémon.<LINE>I'll stay fit and ready all my life.
+I'm not finished with love or POKéMON.<LINE>I'll stay fit and ready all my life.
 I have pains in my eyes, my shoulder, and<LINE>my back, but my heart is forever young.
-I am the strongest Backpacker.<LINE>I have a lot of Pokémon in my Bag.
+I am the strongest Backpacker.<LINE>I have a lot of POKéMON in my Bag.
 Hahaha! I am as big as my backpack,<LINE>aren't I? Aren't I?
-I have more Pokémon in my Bag!<LINE>Wait, my Bag has a hole…
+I have more POKéMON in my Bag!<LINE>Wait, my Bag has a hole…
 I am not traveling for freedom.
 You're carrying bulky luggage,<LINE>but do you really need it?
 My Bag is as wide as the sky.<LINE>In other words, my Bag is empty.
@@ -730,18 +730,18 @@ Ah, I'm sinking fast. All I can think about<LINE>is where my next meal is coming
 Neither my husband nor I have money,<LINE>so we are hitchhiking on our honeymoon.
 Newly married, and such a big trip…<LINE>I'm worried about our future.
 On top of that, I have lost track of him…<LINE>Where can he be wandering?
-Hey! Hey! <LINE>Please check out my cute Pokémon!
-How about that?<LINE>I'm proud of these Pokémon.
-Oh no, don't bother them like that!<LINE>Please leave my Pokémon alone.
+Hey! Hey! <LINE>Please check out my cute POKéMON!
+How about that?<LINE>I'm proud of these POKéMON.
+Oh no, don't bother them like that!<LINE>Please leave my POKéMON alone.
 Being a Waiter is my disguise,<LINE>and it helps me live quietly.
 On my days off, the real me is ready.<LINE>I'm an Ace Trainer!
 I'm struggling to make a living,<LINE>so I've been in disguise a long time.
-My Pokémon are the strongest.<LINE>I don't think I will lose.
-Do you think you can win against me<LINE>with such wimpy Pokémon?
+My POKéMON are the strongest.<LINE>I don't think I will lose.
+Do you think you can win against me<LINE>with such wimpy POKéMON?
 Ah… It's hard.<LINE>It sure is frustrating to lose.
-Don't you think a restaurant<LINE>for Pokémon is a fun idea?
-I wonder if people will like<LINE>a full-course meal for Pokémon.
-It's a restaurant for Pokémon,<LINE>not a restaurant of Pokémon!
+Don't you think a restaurant<LINE>for POKéMON is a fun idea?
+I wonder if people will like<LINE>a full-course meal for POKéMON.
+It's a restaurant for POKéMON,<LINE>not a restaurant of POKéMON!
 Harrumph! Haroooo!
 Harooo!
 Harrumph!!
@@ -760,8 +760,8 @@ A man with the heart of a boy<LINE>is just a wheedling child.
 How much did this parasol cost?<LINE>Why, it is a cheap disposable.
 I am a Parasol Lady, but I cannot<LINE>spend money for a parasol.
 A parasol is just a tool. It’s fine<LINE>as long as it protects me from the rain.
-I can really cut loose in Pokémon<LINE>battles without being scolded.
-Nobody scolds me. That's why<LINE>Pokémon battles are the best!
+I can really cut loose in POKéMON<LINE>battles without being scolded.
+Nobody scolds me. That's why<LINE>POKéMON battles are the best!
 You like a big fight, don't ya?<LINE>You are my pal.
 My computer friends said I wouldn't be<LINE>taken lightly with this look.
 I won, but I was so scared…<LINE>Maybe I am not cut out for this.
@@ -793,7 +793,7 @@ I really feel blah.<LINE>Well, I will go home now.
 A child like you cannot understand<LINE>the beauty that I am pursuing.
 I am a servant of beauty.<LINE>Ugly defeat does not suit me.
 Perhaps the beauty I've been looking for…<LINE>is you?
-I paint pictures and live with Pokémon.<LINE>I am enjoying my life!
+I paint pictures and live with POKéMON.<LINE>I am enjoying my life!
 The sting of defeat will be a good<LINE>memory as you grow older.
 Experience hardships when you are young,<LINE>'cause old bodies cannot take them.
 My schoolkids are sleeping.<LINE>I'm shooting for the top during nap time!
@@ -808,11 +808,11 @@ Well, even if you work diligently,<LINE>things don't always go well.
 I've arrived from a distant island.<LINE>May I please trouble you for a battle?
 I have won.
 I was utterly inexperienced. I'd be <LINE>grateful if I could be your pupil.
-I am so obsessed with Pokémon<LINE>that my wife is as mad as a hornet.
-Pokémon battles are so much fun.<LINE>No way I can quit.
-I don't want to go home, 'cause my wife<LINE>is as scary as a legendary Pokémon.
-Our lives have plenty of ordinary days.<LINE>I gotta have Pokémon!
-Only Pokémon rescue me<LINE>from boring and monotonous days.
+I am so obsessed with POKéMON<LINE>that my wife is as mad as a hornet.
+POKéMON battles are so much fun.<LINE>No way I can quit.
+I don't want to go home, 'cause my wife<LINE>is as scary as a legendary POKéMON.
+Our lives have plenty of ordinary days.<LINE>I gotta have POKéMON!
+Only POKéMON rescue me<LINE>from boring and monotonous days.
 When I look at a special person like you,<LINE>I just melt.
 I used to be like you.<LINE>I was full of hopes and dreams.
 Dreams are important.<LINE>But if all you have is your dreamworld…
@@ -823,18 +823,18 @@ OK, OK, I got it…<LINE>Let's call it a day.
 It's OK if I have training wheels.<LINE>It’s OK if my Bike doesn't accelerate.
 It's OK if you go your own way.<LINE>You'll reach your goal someday.
 It's OK if you lose.<LINE>It's OK, 'cause you have a Bicycle.
-You ain't never even gonna see<LINE>my Pokémon's moves.
+You ain't never even gonna see<LINE>my POKéMON's moves.
 You're slow, ain't ya?
 You're right quick! <LINE>Who are ya, anyways?
 I just got married, and we'll be<LINE>expanding our family soon.
 You know what I need.<LINE>Can you spare a few dollars?
-Oh, I should really get home,<LINE>but Pokémon battles are so much fun…
+Oh, I should really get home,<LINE>but POKéMON battles are so much fun…
 Take a good look<LINE>at this Clerk ⑭'s sheer strength!
 You got me!<LINE>You have the best skills in the world!
 I put on a smile when I'm crying inside.<LINE>That's a Clerk ⑭'s sad smile.
-I will show you the harsh side<LINE>of Pokémon battles.
+I will show you the harsh side<LINE>of POKéMON battles.
 That's not good.<LINE>I was too generous today.
-Did you burn the image of my Pokémon<LINE>into your mind?
+Did you burn the image of my POKéMON<LINE>into your mind?
 Who do you think I am?<LINE>I am a mighty Policeman!
 That's for disobeying me!<LINE>I am a big guy!
 You won a battle against a Policeman…<LINE>I will arrest you someday.
@@ -853,9 +853,9 @@ I think the train is great, because it runs<LINE>the same route over and over.
 You're good at your job<LINE>and very strong.
 I expected too much from you.<LINE>You are lucky that this is not business.
 A person who can juggle<LINE>work and play is pretty cool.
-I've been with these Pokémon<LINE>since I was a child.
-Pokémon are like family to me.
-I don't think I want to have children.<LINE>I'd rather focus on my Pokémon family.
+I've been with these POKéMON<LINE>since I was a child.
+POKéMON are like family to me.
+I don't think I want to have children.<LINE>I'd rather focus on my POKéMON family.
 Hi, I am a physician!<LINE>Hey! Let me give you a shot!
 Come now, let me give you a shot!<LINE>Don’t worry. It won't hurt!
 You have strong arms!<LINE>So let me give you a shot now!
@@ -866,19 +866,19 @@ Do you want a shot?<LINE>Or an IV drip?
 You want both a shot and an IV.<LINE>You are greedy!
 Argh. It's sickening!<LINE>You're such a drip.
 In this job,<LINE>I've seen a lot of strange things.
-I don't know why, but Ghost-type <LINE>Pokémon seem attracted to me.
+I don't know why, but Ghost-type <LINE>POKéMON seem attracted to me.
 Ahhh, I lost… By the way,<LINE>who is that standing behind you?
 I have raised them too long.<LINE>They are beyond my control…
 It's over…<LINE>Nobody can stop them…
 Finally, they calmed down…<LINE>You saved me. Thank you!
-I will test the Pokémon<LINE>you have been training.
+I will test the POKéMON<LINE>you have been training.
 Bah! Is that the best you can do?<LINE>I expected more from you…
-Wow! You are awesome!<LINE>What great Pokémon you've trained!
-Take a look at these Pokémon--I raised<LINE>'em myself. They make me right proud.
-I am right proud of these Pokémon.<LINE>They're my friends and my treasures.
+Wow! You are awesome!<LINE>What great POKéMON you've trained!
+Take a look at these POKéMON--I raised<LINE>'em myself. They make me right proud.
+I am right proud of these POKéMON.<LINE>They're my friends and my treasures.
 You are a strong one, sure enuff.<LINE>But I don't intend to lose next time!
-I am the top Breeder.<LINE>I can tame any kind of Pokémon.
-You see? My Pokémon are very loyal, <LINE>aren't they?
+I am the top Breeder.<LINE>I can tame any kind of POKéMON.
+You see? My POKéMON are very loyal, <LINE>aren't they?
 They are too attached to me.<LINE>They are not fit for battling.
 Arghhhh! Who is gentle?!<LINE>I will bring you down!
 Arghh! Arghh! <LINE>I am NOT a Gentleman!
@@ -916,16 +916,16 @@ You're quite a Trainer!<LINE>Be my apprentice!
 
 
 
-Thank you for riding<LINE>the Battle Subway today.<LINE><LINE>I am the Subway Boss Ingo.<LINE>I will choose the next destination<LINE>based on your talent.<LINE>Do you understand Pokémon well?<LINE>Can you hold on to your principle?<LINE><LINE>Will you go on to victory or defeat?<LINE>All aboard!
+Thank you for riding<LINE>the Battle Subway today.<LINE><LINE>I am the Subway Boss Ingo.<LINE>I will choose the next destination<LINE>based on your talent.<LINE>Do you understand POKéMON well?<LINE>Can you hold on to your principle?<LINE><LINE>Will you go on to victory or defeat?<LINE>All aboard!
 Ah. Your battle was not bad at all.<LINE>However, we seem to have done slightly<LINE>better than you.<LINE>We would really like to battle with you again!<LINE>Please ride the Battle Subway again!
 Bravo!!<LINE>Your talent has brought you<LINE>to the destination called Victory!<LINE>However, your journey has just started.<LINE>When you choose your next destination,<LINE>go full speed ahead!
 Welcome! I've been waiting for you!<LINE>Let me introduce myself…<LINE>I am the Subway Boss Ingo.<LINE>What can I see after winning,<LINE>winning, and winning?<LINE>Where is my destination?<LINE>I've kept thinking, and<LINE>I've learned one thing.<LINE>That is, you cannot know what happens<LINE>after winning without winning.<LINE>Therefore, I will exert every possible<LINE>effort to battle with you.<LINE>All aboard!
 I have won this time, but<LINE>your talent is very strong!<LINE>Your tactics…reading…<LINE>You have great skills.<LINE>That's right! I would like to<LINE>battle you again and again!<LINE>Please ride the Battle Subway again soon!
 Bravo!<LINE>Excellent!!<LINE>I am glad that I fought so hard<LINE>against a wonderful Trainer like you.<LINE>That's right!<LINE>You grow stronger by matching yourself<LINE><LINE>against a strong opponent.<LINE>Please do your best and run<LINE>toward the destination,<LINE><LINE>an even higher state.
-I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of<LINE>two Pokémon.<LINE>And I like winning<LINE>more than anything else.<LINE>So let's start a great battle<LINE>in which every Pokémon uses<LINE><LINE>various moves.
+I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of<LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>So let's start a great battle<LINE>in which every POKéMON uses<LINE><LINE>various moves.
 I am Emmet.<LINE>I won against you.<LINE>But I think I just got lucky.<LINE>In a Double Battle, if you misread one thing,<LINE>the rest will be totally different.<LINE>You know.<LINE>Please win 20 battles in a row, and<LINE><LINE>fight with me!
 I am Emmet.<LINE>I lost against you.<LINE>Because you are the strongest Trainer<LINE>I've fought lately.<LINE><LINE>You're a verrrrry strong Trainer!<LINE>Yup! It was fun!<LINE>Ride the trains some more!
-Hi, do you remember me?<LINE>I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of <LINE>two Pokémon.<LINE>And I like winning<LINE>more than anything else.<LINE>This time, I am really serious.<LINE>Really serious.<LINE>Because if a battle is not serious,<LINE>it is not fun.
+Hi, do you remember me?<LINE>I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of <LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>This time, I am really serious.<LINE>Really serious.<LINE>Because if a battle is not serious,<LINE>it is not fun.
 I am Emmet.<LINE>I won against you.<LINE>But this is not the end.<LINE>I am sure you will show up<LINE>here again.<LINE>I will wait for it and<LINE>win against you again.<LINE>Because I am a<LINE>Subway Boss. I am Emmet.
 I am Emmet.<LINE>I am a Subway Boss,<LINE>but I lost against you again.<LINE>But I feel good.<LINE>Because it was very fun!<LINE>You want to win, and<LINE>I don't want to lose.<LINE><LINE>That's real.<LINE>When we clash in battles,<LINE>I feel very excited!
 I am a Subway Boss, Ingo.<LINE>The fellow over to the side is<LINE>also a Subway Boss, Emmet.<LINE>Will a Multi Battle help us cover<LINE>each other's weakness?<LINE>Or will you show your<LINE>overwhelming power?<LINE>I look forward to seeing<LINE>how well you fight. <LINE>However, it is difficult to win<LINE>unless you and your partner<LINE><LINE>are in total sync.
@@ -936,7 +936,7 @@ I am Emmet.<LINE>I won together with Ingo.<LINE>But if we fight again,<LINE>we w
 I am Emmet.<LINE>I lost together with Ingo.<LINE>Your combination is<LINE>the best, perfect!<LINE><LINE>You're verrrrry strong Trainers.<LINE>Yup! It was so much fun!
 Let me introduce myself again.<LINE>I am a Subway Boss, Ingo!<LINE>Well, there is nothing else to say<LINE>for the person who comes<LINE><LINE>all the way here.<LINE>Let's have the greatest battle,<LINE>better than ever before.
 We, Ingo and Emmet, are a<LINE>two-car train.<LINE>This time, we were able to work toward<LINE>a victory.<LINE>Well, will you stop here?<LINE>Or will you challenge us again?<LINE>It's up to you.<LINE>But let me say one thing.<LINE>There is no terminal called End<LINE>in your life!
-Bravo!!<LINE>Really excellent!<LINE>The best combination of<LINE>you and your Pokémon.<LINE><LINE>It is incredible!<LINE>When you and someone else combine,<LINE>your engine powers something special!<LINE>If you like, please challenge us<LINE>with a different combination.
+Bravo!!<LINE>Really excellent!<LINE>The best combination of<LINE>you and your POKéMON.<LINE><LINE>It is incredible!<LINE>When you and someone else combine,<LINE>your engine powers something special!<LINE>If you like, please challenge us<LINE>with a different combination.
 What I do. What I say.<LINE>Always the same.<LINE>Follow the rules.<LINE>Safe driving!<LINE>Follow the schedules.<LINE>Everyone smile!<LINE>Check safety.<LINE>Everything's ready!<LINE>Aim for victory!<LINE>All aboard!
 I am Emmet.<LINE>We won, but<LINE>I am not really satisfied.<LINE>I can tell that you won't give up.<LINE>Because you will be much, much stronger.<LINE>That's why we are waiting<LINE>for you to come back!
-I am Emmet.<LINE>We lost against you again.<LINE>But I am satisfied.<LINE>You are too strong!<LINE>The strength you have,<LINE>your trust in your Pokémon,<LINE><LINE>their never-ending support!<LINE>Yep! It was the most fun battle ever!<LINE>Please come back soon!
+I am Emmet.<LINE>We lost against you again.<LINE>But I am satisfied.<LINE>You are too strong!<LINE>The strength you have,<LINE>your trust in your POKéMON,<LINE><LINE>their never-ending support!<LINE>Yep! It was the most fun battle ever!<LINE>Please come back soon!

@@ -1,20 +1,20 @@
-\xf000Ă\x0001\x0000 seems to want to get out of<LINE>the Poké Ball!<LINE>Will you let it out?
-The Poké Ball has stopped moving…
+\xf000Ă\x0001\x0000 seems to want to get out of<LINE>the POKé BALL!<LINE>Will you let it out?
+The POKé BALL has stopped moving…
 \xf000Ă\x0001\x0000 came jumping out!
-Ooh! That Pokémon! It couldn't be…<LINE>A bright red mane…and a lush tail…and<LINE>a single, noble horn!<LINE>It's exactly like the old legend!
-Long ago, when a war between people<LINE>started an intense fire in this forest,<LINE><LINE>a single young Pokémon was separated<LINE><LINE>from its parents.<LINE>Cobalion, Terrakion, and Virizion<LINE>teamed up to take care of this Pokémon.
+Ooh! That POKéMON! It couldn't be…<LINE>A bright red mane…and a lush tail…and<LINE>a single, noble horn!<LINE>It's exactly like the old legend!
+Long ago, when a war between people<LINE>started an intense fire in this forest,<LINE><LINE>a single young POKéMON was separated<LINE><LINE>from its parents.<LINE>Cobalion, Terrakion, and Virizion<LINE>teamed up to take care of this POKéMON.
 The three acted as its parents and<LINE>taught it the knowledge and the moves<LINE><LINE>it needed to survive…
-The young Pokémon grew rapidly, and<LINE>developed a power that surpassed its<LINE><LINE>three caretakers.<LINE>However… One day, that Pokémon<LINE>disappeared from the forest.<LINE>No one knows why. But when I think about<LINE>it… Young ones are always reckless and<LINE><LINE>drawn to adventure…
+The young POKéMON grew rapidly, and<LINE>developed a power that surpassed its<LINE><LINE>three caretakers.<LINE>However… One day, that POKéMON<LINE>disappeared from the forest.<LINE>No one knows why. But when I think about<LINE>it… Young ones are always reckless and<LINE><LINE>drawn to adventure…
 It looks like they are all happy to see<LINE>one another again!<LINE>I wonder if those three are trying to<LINE>teach Keldeo something?
 Cobalion, Terrakion, and Virizion are<LINE>trying to teach \xf000Ă\x0001\x0000 the new move<LINE><LINE>Secret Sword!<LINE>Teach Secret Sword to \xf000Ă\x0001\x0000?
 
 
 
-If it weren't for you, these Pokémon<LINE>never would have been able to meet again<LINE><LINE>here in this forest that holds so many<LINE><LINE>memories for them.<LINE>I'm sure they are very happy that they<LINE>were able to meet a Trainer like you.
-It seems like it's looking for the three<LINE>legendary Pokémon that raised it:<LINE><LINE>Cobalion, Terrakion, and Virizion.<LINE>Maybe something will happen if you bring<LINE>them here, too…
+If it weren't for you, these POKéMON<LINE>never would have been able to meet again<LINE><LINE>here in this forest that holds so many<LINE><LINE>memories for them.<LINE>I'm sure they are very happy that they<LINE>were able to meet a Trainer like you.
+It seems like it's looking for the three<LINE>legendary POKéMON that raised it:<LINE><LINE>Cobalion, Terrakion, and Virizion.<LINE>Maybe something will happen if you bring<LINE>them here, too…
 How you raise Keldeo is up to you…<LINE>Sometimes it's necessary to think about<LINE>things carefully rather than acting on<LINE><LINE>the spur of the moment.
-For Keldeo and the three legendary<LINE>Pokémon of the Unova region--Cobalion,<LINE><LINE>Terrakion, and Virizion--this forest<LINE><LINE>has a special meaning.<LINE>It seems like it would be best if you knew<LINE>this story, as well.<LINE>Would you mind listening to an old man's<LINE>story for a moment?
+For Keldeo and the three legendary<LINE>POKéMON of the Unova region--Cobalion,<LINE><LINE>Terrakion, and Virizion--this forest<LINE><LINE>has a special meaning.<LINE>It seems like it would be best if you knew<LINE>this story, as well.<LINE>Would you mind listening to an old man's<LINE>story for a moment?
 When you want to teach Keldeo this move,<LINE>you must bring Cobalion, Terrakion,<LINE><LINE>and Virizion.
-A verdant forest and clear water… For<LINE>Pokémon, this forest is like a paradise.<LINE>It's also very important for people,<LINE>so I want to take good care of it!
+A verdant forest and clear water… For<LINE>POKéMON, this forest is like a paradise.<LINE>It's also very important for people,<LINE>so I want to take good care of it!
 Would you like to teach Keldeo this<LINE>move again?
 If you don't get to do something you<LINE>wanted to do, it sure stays with you.

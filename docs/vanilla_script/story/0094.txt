@@ -1,5 +1,5 @@
 A sports game, like baseball or football,<LINE>starts at a certain time every day.<LINE>That's in Big Stadium!
 In the Small Court, you can find games of<LINE>basketball and tennis.
 Oh…?<LINE>Oh, my!<LINE>Your <PLAYER> seems to like you!<LINE>That's so nice to see. Makes me want<LINE>to give you this!
-If a Pokémon holds a Soothe Bell, it will<LINE>become more friendly to you.
+If a POKéMON holds a Soothe Bell, it will<LINE>become more friendly to you.
 Oh…?<LINE>Oh, my!<LINE>Your <PLAYER>'s feelings<LINE>toward you seem to be neutral.<LINE>If you can win its friendship,<LINE>I will give you something nice!

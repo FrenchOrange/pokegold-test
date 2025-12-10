@@ -2,7 +2,7 @@ It's full of cardboard boxes with<LINE>electrical appliances in them.
 It's full of cardboard boxes with<LINE>electrical appliances in them.<LINE>Oh? Rotom would like to investigate the<LINE>motors of the electrical appliances…<LINE>Is that OK?
 Rotom reluctantly gave up<LINE>on entering a motor…
 Which Rotom will you allow<LINE>to enter a motor?
-That Pokémon can't enter a motor.
+That POKéMON can't enter a motor.
 An Egg can't enter a motor.
 Which appliance's motor will you<LINE>allow \xf000Ă\x0001\x0000 to enter?
 Microwave oven

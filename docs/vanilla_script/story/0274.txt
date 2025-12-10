@@ -2,11 +2,11 @@ Oh! A Trainer!<LINE>Let me introduce myself. I am a member<LINE>of the Hip Wader
 Hey, Trainer!<LINE>Why don't you join the Hip Waders<LINE>and do some fishing?
 That's the way the tide turns, huh?<LINE>But, I won't give up. If you change your<LINE>mind, come see me again!
 Awesome! Now you are the second member<LINE>of the Hip Waders!
-Here we go! I'll announce the<LINE>Official Hip Waders Catch of the Day!<LINE>The Pokémon we're fishing for<LINE>today is <PLAYER>!<LINE><LINE>If you catch one, please show it to me!
+Here we go! I'll announce the<LINE>Official Hip Waders Catch of the Day!<LINE>The POKéMON we're fishing for<LINE>today is <PLAYER>!<LINE><LINE>If you catch one, please show it to me!
 The Official Hip Waders Catch of the Day<LINE>is <PLAYER>!<LINE><LINE>Have you caught one already?
 That's great! Show it to me!
 Oh! This is a great <PLAYER>!<LINE>That's why you're the second member of<LINE>the Hip Waders!<LINE>Cool! Take these with you!
-Oh! This is a great <PLAYER>!<LINE>…But when it comes to the<LINE>Official Hip Waders Catch of the Day,<LINE><LINE>a Pokémon you caught before today<LINE><LINE>doesn't count. Sorry!
+Oh! This is a great <PLAYER>!<LINE>…But when it comes to the<LINE>Official Hip Waders Catch of the Day,<LINE><LINE>a POKéMON you caught before today<LINE><LINE>doesn't count. Sorry!
 Oh! This is a great <PLAYER>!<LINE>But it's not the Official Hip Waders<LINE>Catch of the Day. Sorry!
 The Official Hip Waders Catch of the Day<LINE>is <PLAYER>!<LINE><LINE>I'm counting on you, Member No. 2!
 The appeal of fishing…<LINE>That's something you have to discover<LINE>through experience, rather than<LINE><LINE>listening to me explaining about it!<LINE>Right, Member No. 2?

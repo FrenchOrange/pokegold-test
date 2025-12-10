@@ -30,9 +30,9 @@ Connecting with someone
 Cancel
 The Entree Forest connects dreams<LINE>and reality.<LINE>People say dreams come true here.
 Is there anything you'd like to know<LINE>about the Entree Forest?
-The Entree Forest is a place where<LINE>dreams come true.<LINE>When a dreaming Pokémon wakes up in<LINE>Game Sync, its dream will come true in<LINE><LINE>this forest.
-Pokémon that your Pokémon met in its<LINE>dream will show up in the Entralink<LINE><LINE>in a Forest Clearing.<LINE>Pokémon in a Forest Clearing will be<LINE>your friends for sure!<LINE>If you move the Pokémon to the Deepest<LINE>Clearing, they will wait for you there.
-When your Pokémon wakes up from a<LINE>dream, please come to this forest.
+The Entree Forest is a place where<LINE>dreams come true.<LINE>When a dreaming POKéMON wakes up in<LINE>Game Sync, its dream will come true in<LINE><LINE>this forest.
+POKéMON that your POKéMON met in its<LINE>dream will show up in the Entralink<LINE><LINE>in a Forest Clearing.<LINE>POKéMON in a Forest Clearing will be<LINE>your friends for sure!<LINE>If you move the POKéMON to the Deepest<LINE>Clearing, they will wait for you there.
+When your POKéMON wakes up from a<LINE>dream, please come to this forest.
 Entree Forest
 Forest Clearing and Deepest Clearing
 Cancel

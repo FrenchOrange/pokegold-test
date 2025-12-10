@@ -11,7 +11,7 @@ Certainly.<LINE>Please come back again.
 Thank you for sailing with us on the<LINE>Royal Unova.<LINE>Have a nice day!
 We are closed for the day.<LINE>Please come again tomorrow.
 Congratulations!<LINE>You've defeated all the Trainers<LINE>on the ship!<LINE>Please accept this prize.
-The Royal Unova is now in preparation.<LINE>We are working very hard to ready the<LINE>ship for the best Pokémon Trainers.
+The Royal Unova is now in preparation.<LINE>We are working very hard to ready the<LINE>ship for the best POKéMON Trainers.
 Get On Board
 About the Ship
 Cancel

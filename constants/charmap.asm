@@ -11,7 +11,7 @@
 	charmap "<RED>",     $38 ; wRedsName
 	charmap "<GREEN>",   $39 ; wGreensName
 	charmap "<ENEMY>",   $3f
-	charmap "<MOM>",     $49 ; wMomsName
+	charmap "<AMANITA>", $49 ; wAmanitasName
 	charmap "<PKMN>",    $4a ; "<PK><MN>"
 	charmap "<_CONT>",   $4b ; implements "<CONT>"
 	charmap "<SCROLL>",  $4c

@@ -1,5 +1,5 @@
-There are medicinal herbs that make<LINE>Pokémon healthy.
-The medicinal herbs imported from<LINE>another region work very well!<LINE>But Pokémon don't seem to like them,<LINE>because they taste a little bitter.
+There are medicinal herbs that make<LINE>POKéMON healthy.
+The medicinal herbs imported from<LINE>another region work very well!<LINE>But POKéMON don't seem to like them,<LINE>because they taste a little bitter.
 Welcome! This is straight from the farm!<LINE>Moomoo Milk--one bottle for $500.<LINE>Would you like some for your trip?
 Here it is! Your Moomoo Milk!
 Oh, my!<LINE>Your Bag is full!
@@ -11,11 +11,11 @@ One dozen
 No thanks!
 Oh, I'm sorry. I'm all sold out.<LINE>That Charles guy bought<LINE>everything I had.
 You! Glad you came!<LINE>You want something good?
-Then, show me a Pokémon Lv. 30 or more!
+Then, show me a POKéMON Lv. 30 or more!
 Oh! Strong!<LINE>You, great!<LINE>Take this!
-Oh! You--not so good yet!<LINE>After training Pokémon,<LINE>come back here again!
+Oh! You--not so good yet!<LINE>After training POKéMON,<LINE>come back here again!
 You, modest!<LINE>You should just want something good!
-You! Glad you came!<LINE>Get good at Expert Belts! <LINE>If a Pokémon has an Expert Belt, the<LINE>power of its moves is slightly boosted<LINE><LINE>when they are super effective!
+You! Glad you came!<LINE>Get good at Expert Belts! <LINE>If a POKéMON has an Expert Belt, the<LINE>power of its moves is slightly boosted<LINE><LINE>when they are super effective!
 There must be a convenient town where<LINE>everything is imported and everything<LINE><LINE>is available.
 Somewhere, there's a laid-back town<LINE>where people value the year's seasons.<LINE>I heard we've imported a lot of goods<LINE>from that town!
 Looking at seasonal vegetables is fun.<LINE>Because when the seasons change,<LINE>the vegetables available change!

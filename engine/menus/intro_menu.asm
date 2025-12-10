@@ -187,8 +187,8 @@ InitializeNPCNames:
 	ld de, wRivalName
 	call .Copy
 
-	ld hl, .Mom
-	ld de, wMomsName
+	ld hl, .Amanita
+	ld de, wAmanitasName
 	call .Copy
 
 	ld hl, .Red
@@ -203,10 +203,10 @@ InitializeNPCNames:
 	call CopyBytes
 	ret
 
-.Rival:  db "???@"
-.Red:    db "RED@"
-.Green:  db "GREEN@"
-.Mom:    db "MOM@"
+.Rival:   db "???@"
+.Red:     db "RED@"
+.Green:   db "GREEN@"
+.Amanita: db "SOMEONE@"
 
 InitializeWorld:
 	call ShrinkPlayer

@@ -15,7 +15,7 @@ Oh, it's you.<LINE>Seems like you come here a lot.<LINE>Do you have friends all 
 Oh, it's you, \xf000Ā\x0001\x0003!<LINE>Lately, lots of Trainers have been<LINE>looking for you.<LINE><LINE>You're just like a movie star, aren't ya?<LINE>When I was your age, the ladies<LINE>used to get worked up over me. Ha ha.<LINE>'Kay, you can pass.
 Hey, it's you, \xf000Ā\x0001\x0003!<LINE>Recently, it looks like there have been<LINE>lots of global Trainers like you.<LINE>That means--how do I put it--world peace<LINE>can't be far off!<LINE><LINE>Should I get my hopes up?<LINE>'Kay, pass on through!
 Oh, it's you, \xf000Ā\x0001\x0003!<LINE>It feels like since you've started<LINE>coming, Unity Tower has gotten busier.<LINE>There's been a lot more work for this<LINE>old guy, but that's a problem I'm<LINE><LINE>happy to have.<LINE>Keep up the good work!
-Hey, \xf000Ā\x0001\x0003.<LINE>You've managed to trade with folks in<LINE>even more places, huh?<LINE>That's really something!<LINE>I'd imagine your Pokédex is getting<LINE><LINE>pretty full, then?<LINE>Wow, you're amazing!<LINE>'Kay, pass on through.
+Hey, \xf000Ā\x0001\x0003.<LINE>You've managed to trade with folks in<LINE>even more places, huh?<LINE>That's really something!<LINE>I'd imagine your POKéDEX is getting<LINE><LINE>pretty full, then?<LINE>Wow, you're amazing!<LINE>'Kay, pass on through.
 Hey, \xf000Ā\x0001\x0003.<LINE>Unity Tower is as lively as ever<LINE>with people who come here to see you.<LINE>Well, enjoy yourself today!
 Why, if it isn't \xf000Ā\x0001\x0003!<LINE>What? F-fifty countries?!<LINE>I've never seen a Trainer who has traded<LINE>with folks in over 50 countries!<LINE>How in the world did you manage that?<LINE>'Kay, please pass through--and feel free<LINE>to wander around!
 Hey, it's you, \xf000Ā\x0001\x0003.<LINE>After trading with this many people, you<LINE>must have friends all over the world!<LINE>Ha ha. If you go on a trip, no worries<LINE>about not knowing anyone, huh?<LINE>'Kay, please pass through!
@@ -33,7 +33,7 @@ Do you know people all over the world?<LINE>I never would've imagined a world<LI
 When I was your age, the ladies<LINE>used to get worked up over me. Ha ha!
 Recently, it looks like there have been<LINE>lots of global Trainers like you.
 It feels like since you started coming,<LINE>Unity Tower has gotten busier.<LINE>Keep up the good work!
-I'd imagine your Pokédex is getting<LINE>pretty full, then?<LINE>Well, that's really something.
+I'd imagine your POKéDEX is getting<LINE>pretty full, then?<LINE>Well, that's really something.
 Unity Tower is as lively as ever<LINE>with people who come here to see you.<LINE>Well, hope you enjoy yourself today.
 How in the world did you manage to trade<LINE>with so many different places?
 You must know a lot of people in<LINE>different places in the world.<LINE>Ha ha. Even if you go on a trip, no<LINE>worries about not knowing anyone, huh?

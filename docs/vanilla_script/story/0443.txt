@@ -1,15 +1,15 @@
-This is a Poké Ball I got in the past.<LINE>I'm going to give it to you.
-You can't catch a Pokémon<LINE>if you don't have a Poké Ball!<LINE>There are many types of Poké Balls,<LINE>so use the best one for the job.
+This is a POKé BALL I got in the past.<LINE>I'm going to give it to you.
+You can't catch a POKéMON<LINE>if you don't have a POKé BALL!<LINE>There are many types of POKé BALLS,<LINE>so use the best one for the job.
 Skree skree!
-Hi, hi!<LINE>Let's play Pokémon rock-paper-scissors!
+Hi, hi!<LINE>Let's play POKéMON rock-paper-scissors!
 Oh, that's no fun!
-Here goes!<LINE>Pokémon rock-paper-scissors…
-Your Pokémon is Fire type,<LINE>and mine is Grass type…<LINE>Grass type is weak against Fire type…<LINE>so I lose.
-Your Pokémon is Fire type,<LINE>and mine is Water type…<LINE>Fire type is weak against Water type…<LINE>so I win!
-Your Pokémon is Water type,<LINE>and mine is Fire type…<LINE>Fire type is weak against Water type…<LINE>so I lose.
-Your Pokémon is Water type,<LINE>and mine is Grass type…<LINE>Water type is weak against Grass type…<LINE>so I win!
-Your Pokémon is Grass type,<LINE>and mine is Water type…<LINE>Water type is weak against Grass type…<LINE>so I lose.
-Your Pokémon is Grass type,<LINE>and mine is Fire type…<LINE>Grass type is weak against Fire type…<LINE>so I win!
+Here goes!<LINE>POKéMON rock-paper-scissors…
+Your POKéMON is Fire type,<LINE>and mine is Grass type…<LINE>Grass type is weak against Fire type…<LINE>so I lose.
+Your POKéMON is Fire type,<LINE>and mine is Water type…<LINE>Fire type is weak against Water type…<LINE>so I win!
+Your POKéMON is Water type,<LINE>and mine is Fire type…<LINE>Fire type is weak against Water type…<LINE>so I lose.
+Your POKéMON is Water type,<LINE>and mine is Grass type…<LINE>Water type is weak against Grass type…<LINE>so I win!
+Your POKéMON is Grass type,<LINE>and mine is Water type…<LINE>Water type is weak against Grass type…<LINE>so I lose.
+Your POKéMON is Grass type,<LINE>and mine is Fire type…<LINE>Grass type is weak against Fire type…<LINE>so I win!
 FIRE
 GRASS
 WATER

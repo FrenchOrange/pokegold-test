@@ -48,9 +48,9 @@ Hisashi  Sogabe
 Sosuke  Tamada
 Katsumi  Ohno
 Masao  Taya
-Director  of  Pokémon  Characters
+Director  of  POKéMON  Characters
 Ken  Sugimori
-Pokémon  Character  Design
+POKéMON  Character  Design
 Ken  Sugimori
 Takao  Unno
 Motofumi  Fujiwara
@@ -101,7 +101,7 @@ Digital  Movie--Main  Design
 James  Turner
 Concept  Illustration
 Keiko  Moritsugu
-Pokémon  Concept  &  Pokédex  Text
+POKéMON  Concept  &  POKéDEX  Text
 Kenji  Matsushima
 Music
 Lead
@@ -110,7 +110,7 @@ Go  Ichinose
 Hitomi  Sato
 Junichi  Masuda
 Minako  Adachi
-Pokémon  Voice  Design
+POKéMON  Voice  Design
 Go  Ichinose
 Sound  Effects
 Minako  Adachi
@@ -175,7 +175,7 @@ Survey  Radar  &  Tag  Mode  Design
 Shigeru  Ohmori
 Wi-Fi  Battle  System  Design
 Teruyuki  Shimoyamada
-Pokémon  &  Trainer  Parameter  Design
+POKéMON  &  Trainer  Parameter  Design
 Koji  Nishino
 Shigeki  Morimoto
 Kazumasa  Iwao
@@ -341,8 +341,8 @@ Satoru  Iwata
 Tsunekazu  Ishihara
 Developed  By
 GAME  FREAK  inc.
-Pokémon  Black  Version
-Pokémon  White  Version
+POKéMON  Black  Version
+POKéMON  White  Version
 
 
 

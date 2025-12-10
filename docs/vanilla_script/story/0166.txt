@@ -1,15 +1,15 @@
 Professor Juniper: Hi there, <PLAYER>!
-I heard about these Pokémon statues,<LINE>and I came to look into their origins!
-I've learned that each of these Pokémon<LINE>statues is actually a real Pokémon!<LINE>It's called Darmanitan. It's sleeping,<LINE>so it's become like a stone.
+I heard about these POKéMON statues,<LINE>and I came to look into their origins!
+I've learned that each of these POKéMON<LINE>statues is actually a real POKéMON!<LINE>It's called Darmanitan. It's sleeping,<LINE>so it's become like a stone.
 When I quickly measured how long<LINE>they've existed…<LINE>It was amazing! Around 2,500 years!<LINE>Seems like they went to sleep that<LINE><LINE>long ago.<LINE>That means they've been here since<LINE>before this place was in ruins, when<LINE><LINE>the Relic Castle was flourishing.<LINE>Perhaps they were guarding the city.
-These Pokémon…<LINE>They are either in a state of hibernation<LINE>or meditation, so if you wake them, they<LINE><LINE>will become active once again.<LINE>And the item that wakes up Darmanitan is<LINE>actually…this RageCandyBar!<LINE>That's why I will share one with you,<LINE>too, <PLAYER>!
-Well, I'm headed back to the<LINE>Pokémon Research Lab.<LINE><LINE>Be seeing you!
-It appears to be a statue of a Pokémon.
-Give the RageCandyBar to the<LINE>Pokémon statue?
-The ancient Pokémon statue responded to<LINE>the RageCandyBar.<LINE>The Pokémon was a sleeping Darmanitan!<LINE>The awakened Darmanitan attacked!
+These POKéMON…<LINE>They are either in a state of hibernation<LINE>or meditation, so if you wake them, they<LINE><LINE>will become active once again.<LINE>And the item that wakes up Darmanitan is<LINE>actually…this RageCandyBar!<LINE>That's why I will share one with you,<LINE>too, <PLAYER>!
+Well, I'm headed back to the<LINE>POKéMON Research Lab.<LINE><LINE>Be seeing you!
+It appears to be a statue of a POKéMON.
+Give the RageCandyBar to the<LINE>POKéMON statue?
+The ancient POKéMON statue responded to<LINE>the RageCandyBar.<LINE>The POKéMON was a sleeping Darmanitan!<LINE>The awakened Darmanitan attacked!
 Cheren: Stop, <PLAYER>!
 Cheren: That's the entrance to the<LINE>Relic Castle.<LINE>You're impressive, <PLAYER>,<LINE>making it here before I did.
-Dealing with the Desert Resort's Pokémon<LINE>took longer than I would've thought.<LINE>I only made it all the way out here<LINE>thanks to my Pokémon.
+Dealing with the Desert Resort's POKéMON<LINE>took longer than I would've thought.<LINE>I only made it all the way out here<LINE>thanks to my POKéMON.
 Alder went on ahead. Let's hurry.
 Cheren: It's hard to put into words…<LINE>but I'll never forgive them for this!
 Alder: What could that guy called<LINE>N possibly want?<LINE>Could he be trying to prove he is<LINE>right by winning the battle of the<LINE><LINE>two dragons?
@@ -18,9 +18,9 @@ The Xtransceiver is ringing.
 <PLAYER> picked up the Xtransceiver.
 Alder: I could hear Professor Juniper's<LINE>voice from clear over here!<LINE><LINE>Seems like something big is happening.<LINE>I wonder what is waiting at the museum<LINE>in Nacrene City.<LINE><LINE>I'll go on ahead!
 Cheren: I'll look around here once more.<LINE>I don't want to believe what<LINE>that Ghetsis says…<LINE>You should head for the<LINE>Nacrene City Museum.
-I came clear out to the Desert Resort<LINE>to train, but…<LINE>There are so many Ground-type Pokémon,<LINE>and I'm already in tatters…
+I came clear out to the Desert Resort<LINE>to train, but…<LINE>There are so many Ground-type POKéMON,<LINE>and I'm already in tatters…
 You're the first person to come<LINE>clear out here to talk to me!<LINE>I'm so moved!<LINE>So, I'll give you this!
-If a Pokémon holds this Soft Sand, the<LINE>power of its Ground-type moves goes up!
-According to what I've heard, that<LINE>Relic Castle is the ruins of a city built<LINE><LINE>by the hero of old and the dragon<LINE><LINE>Pokémon that accompanied the hero.
+If a POKéMON holds this Soft Sand, the<LINE>power of its Ground-type moves goes up!
+According to what I've heard, that<LINE>Relic Castle is the ruins of a city built<LINE><LINE>by the hero of old and the dragon<LINE><LINE>POKéMON that accompanied the hero.
 
 Oh! A sea of sand! I don't need<LINE>Go-Goggles here!<LINE>Oh, I've come here all the way from<LINE>the Hoenn region.

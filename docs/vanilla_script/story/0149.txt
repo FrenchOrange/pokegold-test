@@ -1,25 +1,25 @@
-N: \xf000븉\x0001\x0001It's over!<LINE>Never again will Pokémon be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Reshiram!\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001It's over!<LINE>Never again will Pokémon be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Zekrom!\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001You may have the title of Champion…<LINE>But you can't stop me with just a title.<LINE><LINE>Your soft heart has left you weak.<LINE>Years ago, you lost your Pokémon,<LINE>your partner, to sickness.<LINE>In order to forget the pain in your<LINE>heart, you wandered Unova…<LINE>Who knows how long it's been since you've<LINE>had to fight with your full strength?<LINE>I actually kind of like that<LINE>about you, though.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001As a Trainer who far outmatches<LINE>the Champion,<LINE><LINE>I shall issue an order across Unova:<LINE>Trainers of the world,<LINE>free your Pokémon!\xf000븉\x0001\x0000
-Alder: I beg you!<LINE>Separating people from Pokémon…<LINE>Do anything but that!
+N: \xf000븉\x0001\x0001It's over!<LINE>Never again will POKéMON be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Reshiram!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001It's over!<LINE>Never again will POKéMON be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Zekrom!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001You may have the title of Champion…<LINE>But you can't stop me with just a title.<LINE><LINE>Your soft heart has left you weak.<LINE>Years ago, you lost your POKéMON,<LINE>your partner, to sickness.<LINE>In order to forget the pain in your<LINE>heart, you wandered Unova…<LINE>Who knows how long it's been since you've<LINE>had to fight with your full strength?<LINE>I actually kind of like that<LINE>about you, though.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001As a Trainer who far outmatches<LINE>the Champion,<LINE><LINE>I shall issue an order across Unova:<LINE>Trainers of the world,<LINE>free your POKéMON!\xf000븉\x0001\x0000
+Alder: I beg you!<LINE>Separating people from POKéMON…<LINE>Do anything but that!
 N: \xf000븉\x0001\x0001You and I both put our beliefs on the<LINE>line and fought with all our strength.<LINE>And I won.<LINE>Do not say another word.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001…I've been waiting.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001In the future I envisioned, you obtained<LINE>a stone. And, indeed, you have.<LINE>That Dark Stone…<LINE>Reshiram is responding to it.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001In the future I envisioned, you obtained<LINE>a stone. And, indeed, you have.<LINE>That Light Stone…<LINE>Zekrom is responding to it.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Stop.<LINE>This is not a suitable place<LINE>for the legendary dragons!\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001From the ground, rise up!<LINE>The castle of Team Plasma!<LINE><LINE>Surround the Pokémon League!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001From the ground, rise up!<LINE>The castle of Team Plasma!<LINE><LINE>Surround the POKéMON League!\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001What has just appeared is<LINE>Team Plasma's castle.<LINE>The king's words will resound<LINE>from the heights to all below.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001You must come to the castle, as well.<LINE>Everything will be decided there.<LINE>Whether Pokémon will be liberated<LINE>from people,<LINE><LINE>or whether Pokémon and people<LINE><LINE>will live together…<LINE>We will see whose belief is stronger…<LINE>And our result will change the world.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001You must come to the castle, as well.<LINE>Everything will be decided there.<LINE>Whether POKéMON will be liberated<LINE>from people,<LINE><LINE>or whether POKéMON and people<LINE><LINE>will live together…<LINE>We will see whose belief is stronger…<LINE>And our result will change the world.\xf000븉\x0001\x0000
 Cheren: Mr. Alder, you're a wreck.<LINE>It's not fitting for the Champion.
 Alder: You did well to get this far.
-Cheren: Somehow, I beat the<LINE>Pokémon League, but it wasn't easy.
+Cheren: Somehow, I beat the<LINE>POKéMON League, but it wasn't easy.
 Alder: Er… I have to congratulate you.
 Cheren: I became stronger because<LINE>I understood what I want to do.
-<PLAYER>!<LINE>Tell N this…<LINE>Some people grow stronger by being<LINE>with Pokémon.<LINE>My Pokémon and I are proof. Together,<LINE>we learned and became stronger.
+<PLAYER>!<LINE>Tell N this…<LINE>Some people grow stronger by being<LINE>with POKéMON.<LINE>My POKéMON and I are proof. Together,<LINE>we learned and became stronger.
 Cheren: I'll look after Alder. You go on.
-Alder: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my Pokémon.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if Pokémon and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
-Alder: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my Pokémon.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if Pokémon and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
-Alder: I am grateful for<LINE>what you did about N.<LINE>I don't know what he's thinking now,<LINE>but I'm sure he realizes<LINE><LINE>that different people and Pokémon<LINE><LINE>have their own paths to follow.<LINE>Say now, how about a match with the<LINE>strongest Trainer in the Unova region?
-Alder: I've really been looking forward<LINE>to deciding who's the strongest<LINE><LINE>Pokémon Trainer in the Unova region!<LINE>Kiai!
+Alder: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my POKéMON.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if POKéMON and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
+Alder: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my POKéMON.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if POKéMON and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
+Alder: I am grateful for<LINE>what you did about N.<LINE>I don't know what he's thinking now,<LINE>but I'm sure he realizes<LINE><LINE>that different people and POKéMON<LINE><LINE>have their own paths to follow.<LINE>Say now, how about a match with the<LINE>strongest Trainer in the Unova region?
+Alder: I've really been looking forward<LINE>to deciding who's the strongest<LINE><LINE>POKéMON Trainer in the Unova region!<LINE>Kiai!
 Alder: Well done!<LINE>You certainly are an unmatched talent!<LINE>Come with me!

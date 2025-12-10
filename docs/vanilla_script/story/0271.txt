@@ -41,20 +41,20 @@ That's it for today. I would be happy if<LINE>you could come back again tomorrow
 You're quitting? Well, that's OK.<LINE>Today is not busy, so it should be fine.
 Oh! You're leaving the park.<LINE>Are you going to quit your Waitress job?
 Oh! You're leaving the park.<LINE>Are you going to quit your Waiter job?
-I'd like a \xf000ĉ\x0001\x0000 sandwich.<LINE>That's my Pokémon's favorite!
-You can eat here with your Pokémon.<LINE>It's a really good sandwich shop!
-Munch, munch…yummy!<LINE>My Pokémon is also happy.
+I'd like a \xf000ĉ\x0001\x0000 sandwich.<LINE>That's my POKéMON's favorite!
+You can eat here with your POKéMON.<LINE>It's a really good sandwich shop!
+Munch, munch…yummy!<LINE>My POKéMON is also happy.
 Munch, munch…? Hmmm.<LINE>It tastes a little different this time…
 We're really hungry today. So, a large<LINE>\xf000ĉ\x0001\x0000 sandwich, please!
-My Pokémon has a big appetite,<LINE>just like me!
+My POKéMON has a big appetite,<LINE>just like me!
 Gobble, gobble…delicious!<LINE>This is the highlight of my day!
 Gobble, gobble…delicious! But I don't<LINE>think this is what I ordered…
-My Pokémon has gourmet tastes.<LINE>I'd like a \xf000ĉ\x0001\x0000 sandwich, please.
-A Berry dish for people and Pokémon!<LINE>The chef can show off her skill with it.
+My POKéMON has gourmet tastes.<LINE>I'd like a \xf000ĉ\x0001\x0000 sandwich, please.
+A Berry dish for people and POKéMON!<LINE>The chef can show off her skill with it.
 Nibble, nibble…<LINE>Oh, the flavors are simply divine!
 Nibble, nibble…<LINE>Oh dear. It's lovely, but this is not<LINE>my order.
-Both my Pokémon and I are craving<LINE>a \xf000ĉ\x0001\x0000 sandwich! Please!
-I'm happy to be able to eat with<LINE>my Pokémon.
+Both my POKéMON and I are craving<LINE>a \xf000ĉ\x0001\x0000 sandwich! Please!
+I'm happy to be able to eat with<LINE>my POKéMON.
 Munch, munch. Open wide.<LINE>So happy!
 Munch, munch… Huh?<LINE>It tastes different.
 Myu myuweee.

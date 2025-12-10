@@ -1,3 +1,3 @@
 Hello, boy!<LINE>Do you have a villa in Undella?<LINE>You are rich!<LINE>As a token of our new acquaintance,<LINE>please accept this!
 Hello, girl!<LINE>Do you have a villa in Undella?<LINE>You are rich!<LINE>As a token of our new acquaintance,<LINE>please accept this!
-Isn't the Prism Scale beautiful?<LINE>It may be good to let a Pokémon hold it.
+Isn't the Prism Scale beautiful?<LINE>It may be good to let a POKéMON hold it.

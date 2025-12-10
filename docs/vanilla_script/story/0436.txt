@@ -1,36 +1,36 @@
-Professor Juniper: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your Pokémon is truly one<LINE>of the joys of being a Trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a Trainer to know!
+Professor Juniper: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your POKéMON is truly one<LINE>of the joys of being a Trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a Trainer to know!
 Please listen, everyone.<LINE>We have something important to talk<LINE>to you about. Wait here for a moment.
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
 
-Cheren: Wasn't that the professor<LINE>waiting in front of the Pokémon Center?<LINE>I know about the Pokémon Center<LINE>already. Anyway, I want to battle soon!<LINE>Real battles are the best way to become<LINE>stronger, you know!
+Cheren: Wasn't that the professor<LINE>waiting in front of the POKéMON Center?<LINE>I know about the POKéMON Center<LINE>already. Anyway, I want to battle soon!<LINE>Real battles are the best way to become<LINE>stronger, you know!
 Sounds like something's going<LINE>on in the plaza!
 Well, let's have a little look-see.
 Cheren: <PLAYER>, come here a sec.
-My name is Ghetsis.<LINE>I am here representing Team Plasma.<LINE>Today, ladies and gentlemen, I would like<LINE>to talk to you about Pokémon liberation.
+My name is Ghetsis.<LINE>I am here representing Team Plasma.<LINE>Today, ladies and gentlemen, I would like<LINE>to talk to you about POKéMON liberation.
 Huh?
 What?
-Ghetsis: I'm sure most of you believe<LINE>that we humans and Pokémon are partners<LINE><LINE>that have come to live together because<LINE><LINE>we want and need each other.<LINE>However…<LINE>Is that really the truth?<LINE>Have you ever considered that perhaps<LINE>we humans…<LINE><LINE>only assume that this is the truth?
-Pokémon are subject to the selfish<LINE>commands of Trainers…<LINE>They get pushed around when they are<LINE>our “partners" at work…<LINE>Can anyone say with confidence that<LINE>there is no truth in what I'm saying?
+Ghetsis: I'm sure most of you believe<LINE>that we humans and POKéMON are partners<LINE><LINE>that have come to live together because<LINE><LINE>we want and need each other.<LINE>However…<LINE>Is that really the truth?<LINE>Have you ever considered that perhaps<LINE>we humans…<LINE><LINE>only assume that this is the truth?
+POKéMON are subject to the selfish<LINE>commands of Trainers…<LINE>They get pushed around when they are<LINE>our “partners" at work…<LINE>Can anyone say with confidence that<LINE>there is no truth in what I'm saying?
 Yikes!
 No way.
 I don't know…
-Ghetsis: Now, ladies and gentlemen,<LINE>Pokémon are different from humans.<LINE>They are living beings that contain<LINE>unknown potential.<LINE>They are living beings from whom we<LINE>humans have much to learn.<LINE>Tell me, what is our responsibility toward<LINE>these wonderful beings called Pokémon?
+Ghetsis: Now, ladies and gentlemen,<LINE>POKéMON are different from humans.<LINE>They are living beings that contain<LINE>unknown potential.<LINE>They are living beings from whom we<LINE>humans have much to learn.<LINE>Tell me, what is our responsibility toward<LINE>these wonderful beings called POKéMON?
 What could it be?
 Liberation?
-Ghetsis: That's right!<LINE>We must liberate the Pokémon!<LINE>Then, and only then, will humans<LINE>and Pokémon truly be equals.<LINE>Everyone, I end my words here today by<LINE>imploring you to consider the relationship<LINE><LINE>between people and Pokémon…<LINE><LINE>and the correct way to proceed.<LINE>We sincerely appreciate your attention.
+Ghetsis: That's right!<LINE>We must liberate the POKéMON!<LINE>Then, and only then, will humans<LINE>and POKéMON truly be equals.<LINE>Everyone, I end my words here today by<LINE>imploring you to consider the relationship<LINE><LINE>between people and POKéMON…<LINE><LINE>and the correct way to proceed.<LINE>We sincerely appreciate your attention.
 Older Man: About that speech…<LINE>What do you think we should do?
-Younger Man: Liberate Pokémon?<LINE>That's not even possible!
-???: \xf000븉\x0001\x0001Your Pokémon…<LINE>Just now, it was saying…\xf000븉\x0001\x0000
-Cheren: Slow down. You talk too fast.<LINE>And what's this about Pokémon…talking?<LINE>That's an odd thing to say.
+Younger Man: Liberate POKéMON?<LINE>That's not even possible!
+???: \xf000븉\x0001\x0001Your POKéMON…<LINE>Just now, it was saying…\xf000븉\x0001\x0000
+Cheren: Slow down. You talk too fast.<LINE>And what's this about POKéMON…talking?<LINE>That's an odd thing to say.
 ???: \xf000븉\x0001\x0001Yes, they're talking.<LINE>Oh.<LINE>Then, you two can't hear it, either…<LINE><LINE>How sad.<LINE>My name is N.\xf000븉\x0001\x0001
-Cheren: My name is Cheren,<LINE>and this is <PLAYER>.<LINE>We were asked to complete the Pokédex,<LINE>and we just left on our journey.<LINE>My main goal is to become the<LINE>Champion, though.
-N: \xf000븉\x0001\x0001The Pokédex, eh?<LINE>So… You're going to confine many, many<LINE>Pokémon in Poké Balls for that, then.<LINE>I'm a Trainer, too,<LINE>but I can't help wondering…<LINE>Are Pokémon really happy that way?\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001Well, <PLAYER>, is it?<LINE>Let me hear your Pokémon's voice again!\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001As long as Pokémon are confined<LINE>in Poké Balls…<LINE>Pokémon will never become<LINE>perfect beings.<LINE>I have to change the world for<LINE>Pokémon, because they're my friends.\xf000븉\x0001\x0000
-Cheren: Huh… Strange guy.<LINE>But I'm not going to worry about it.<LINE>Trainers and Pokémon help<LINE>each other out!<LINE>Listen, I'm going on ahead.<LINE>I want to battle the Gym Leader<LINE>in the next town--Striaton City.<LINE>Aim to battle Gym Leader after<LINE>Gym Leader. The best way for a Trainer<LINE><LINE>to become stronger is to challenge<LINE><LINE>the Gym Leaders in each area.
-What's this?<LINE>You and your Pokémon<LINE>somehow resemble each other!
-Let me give you the benefit of<LINE>my experience.<LINE>You listening? The number of Pokémon<LINE>you can take with you at one time is six!
-Pokémon do everything in<LINE>their power for people.<LINE>People treat these Pokémon<LINE>with love and affection.<LINE>That's what I think our<LINE>mutual relationship is.
+Cheren: My name is Cheren,<LINE>and this is <PLAYER>.<LINE>We were asked to complete the POKéDEX,<LINE>and we just left on our journey.<LINE>My main goal is to become the<LINE>Champion, though.
+N: \xf000븉\x0001\x0001The POKéDEX, eh?<LINE>So… You're going to confine many, many<LINE>POKéMON in POKé BALLS for that, then.<LINE>I'm a Trainer, too,<LINE>but I can't help wondering…<LINE>Are POKéMON really happy that way?\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Well, <PLAYER>, is it?<LINE>Let me hear your POKéMON's voice again!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001As long as POKéMON are confined<LINE>in POKé BALLS…<LINE>POKéMON will never become<LINE>perfect beings.<LINE>I have to change the world for<LINE>POKéMON, because they're my friends.\xf000븉\x0001\x0000
+Cheren: Huh… Strange guy.<LINE>But I'm not going to worry about it.<LINE>Trainers and POKéMON help<LINE>each other out!<LINE>Listen, I'm going on ahead.<LINE>I want to battle the Gym Leader<LINE>in the next town--Striaton City.<LINE>Aim to battle Gym Leader after<LINE>Gym Leader. The best way for a Trainer<LINE><LINE>to become stronger is to challenge<LINE><LINE>the Gym Leaders in each area.
+What's this?<LINE>You and your POKéMON<LINE>somehow resemble each other!
+Let me give you the benefit of<LINE>my experience.<LINE>You listening? The number of POKéMON<LINE>you can take with you at one time is six!
+POKéMON do everything in<LINE>their power for people.<LINE>People treat these POKéMON<LINE>with love and affection.<LINE>That's what I think our<LINE>mutual relationship is.
 Beautiful scenery and relaxing sounds…<LINE>Oh, man. I sure do loooove this place.<LINE>Sure makes me feel happy.
-Some wild Pokémon jump out of the<LINE>tall grass and attack…<LINE>But you can make friends with those<LINE>Pokémon if you reach out to them!
+Some wild POKéMON jump out of the<LINE>tall grass and attack…<LINE>But you can make friends with those<LINE>POKéMON if you reach out to them!

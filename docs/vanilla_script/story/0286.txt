@@ -1,26 +1,26 @@
-Welcome to the Pokémon Musical!<LINE>Here you can participate in<LINE>a musical alone.<LINE>Would you like to participate?
+Welcome to the POKéMON Musical!<LINE>Here you can participate in<LINE>a musical alone.<LINE>Would you like to participate?
 Great! Please walk this way!
 Please visit us again.
 Which show would you like<LINE>to participate in?
-Please choose the Pokémon that<LINE>will participate.
+Please choose the POKéMON that<LINE>will participate.
 Oh, <PLAYER>, <PLAYER>…<LINE>I'm so very moved, I'm at a loss<LINE>for words…
-Your Pokémon gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!
+Your POKéMON gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!
 I'll come watch again, <PLAYER>.<LINE>That was so wonderful…<LINE>It may have changed my life.
 <PLAYER>! That musical was the<LINE>best ever!<LINE>It made me feel so energetic! Please<LINE>come back and perform for us again!
 Oh, that performance was so inspiring!<LINE>It was so full of hopes and dreams! It<LINE>made me feel like I could climb mountains!
 <PLAYER>! Great show today!<LINE>I'm moved no matter how many<LINE>times I see your performance!
 Everyone's talking about the musical<LINE>at work, and it's all thanks to you!<LINE>We all love your innovative Dress Up.<LINE>You're like our fashion muse!
-I'm so glad I got to see your Pokémon on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!
+I'm so glad I got to see your POKéMON on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!
 Your performance… Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power…
 Your performances are so very artistic!<LINE>If an artist like me tells you so, there's<LINE>no mistaking it!
 Oh, <PLAYER>, <PLAYER>…<LINE>I'm so very moved, I'm at a loss<LINE>for words…<LINE>Please take this Prop<LINE>as a token of my feelings!
-Your Pokémon gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!<LINE>Perhaps this Prop can enhance<LINE>your brilliance!
+Your POKéMON gleamed like a superstar!<LINE>I want to follow in your<LINE>stylish footsteps!<LINE>Perhaps this Prop can enhance<LINE>your brilliance!
 I'll come watch again, <PLAYER>.<LINE>That was so wonderful…<LINE>It may have changed my life.<LINE>I hope you like this Prop…
 <PLAYER>! That musical was the<LINE>best ever!<LINE>It made me feel so energetic! Please<LINE>come back and perform for us again!<LINE>Hey, maybe you can use this Prop<LINE>next time!
 Oh, that performance was so inspiring!<LINE>It was so full of hopes and dreams! It<LINE>made me feel like I could climb mountains!<LINE>Here, this is for you. Thank you for<LINE>the inspiration!
 <PLAYER>! Great show today!<LINE>I'm moved no matter how many<LINE>times I see your performance!<LINE>I'd love to see you use this on stage!
 Everyone's talking about the musical<LINE>at work, and it's all thanks to you!<LINE>We all love your innovative Dress Up.<LINE>You're like our fashion muse!<LINE>Maybe you could work this Prop into one<LINE>of your fabulous Dress Up designs!
-I'm so glad I got to see your Pokémon on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!<LINE>Here, please take this small token of<LINE>my appreciation.
+I'm so glad I got to see your POKéMON on<LINE>stage. I'm overwhelmed with emotion!<LINE>I'm not exaggerating!<LINE>Here, please take this small token of<LINE>my appreciation.
 Your performance… Before I knew what<LINE>was happening, I was drawn into it.<LINE>It's almost as if it had some<LINE>strange power…<LINE>I charmed this so that it will be useful.
 Your performances are so very artistic!<LINE>If an artist like me tells you so, there's<LINE>no mistaking it!<LINE>Here's a new Prop to use in your art!
 In fact, this person does not exist…
@@ -41,8 +41,8 @@ Join group
 Cancel
 
 
-Welcome to the Pokémon Musical!<LINE>Here you and your friends can<LINE>perform together!<LINE>Would you like to participate?
-I'm sorry, but you don't have an<LINE>eligible Pokémon in your party.<LINE>Please come back again with<LINE>different Pokémon!
+Welcome to the POKéMON Musical!<LINE>Here you and your friends can<LINE>perform together!<LINE>Would you like to participate?
+I'm sorry, but you don't have an<LINE>eligible POKéMON in your party.<LINE>Please come back again with<LINE>different POKéMON!
 
 Would you like to use<LINE>Infrared Communication or<LINE><LINE>DS Wireless Communications?
 Infrared Communication
@@ -54,17 +54,17 @@ Launch DS Wireless Communications?
 Thank you for waiting.<LINE>This way, please!\xf000븂\x0001<
 Participate in the musical?
 
-Welcome to the Pokémon Musical!<LINE>This is a changing room for Dress Up only.<LINE>Would you like to Dress Up your Pokémon?
+Welcome to the POKéMON Musical!<LINE>This is a changing room for Dress Up only.<LINE>Would you like to Dress Up your POKéMON?
 This way, please!
-Would you like to Dress Up your Pokémon?
+Would you like to Dress Up your POKéMON?
 What would you like me to explain?
-What's the Pokémon Musical?
-The Pokémon Musical is a show where<LINE>Pokémon wearing Props perform on stage.<LINE><LINE>Anyone can participate!<LINE>We encourage all Trainers to show the<LINE>world how charming their Pokémon are!<LINE>The audience is looking forward to seeing<LINE>how you Dress Up your Pokémon, and how<LINE><LINE>your Pokémon perform!
+What's the POKéMON Musical?
+The POKéMON Musical is a show where<LINE>POKéMON wearing Props perform on stage.<LINE><LINE>Anyone can participate!<LINE>We encourage all Trainers to show the<LINE>world how charming their POKéMON are!<LINE>The audience is looking forward to seeing<LINE>how you Dress Up your POKéMON, and how<LINE><LINE>your POKéMON perform!
 How to Participate
 You can join the musical from any of the<LINE>three reception areas.<LINE>The reception area in the center is for<LINE>participating alone.<LINE>When you participate alone, you will<LINE>be joined by other Trainers from around<LINE><LINE>the Unova region.<LINE>If you want to put on a musical with your<LINE>friends, go to the left reception area.<LINE>You'll be asked to pick a Leader who<LINE>will choose which show to perform,<LINE><LINE>and the others will join the group.<LINE>The reception area to the right is where<LINE>you go to Dress Up only.
-Eligible Pokémon
-The Pokémon that will participate in the<LINE>musical are chosen from your party at<LINE><LINE>the reception area.<LINE>Because of their shape, some Pokémon<LINE>have a hard time wearing certain Props.<LINE>You might want to try Dress Up in the<LINE>changing room first if you're worried!
+Eligible POKéMON
+The POKéMON that will participate in the<LINE>musical are chosen from your party at<LINE><LINE>the reception area.<LINE>Because of their shape, some POKéMON<LINE>have a hard time wearing certain Props.<LINE>You might want to try Dress Up in the<LINE>changing room first if you're worried!
 Dress Up
-Oh, Dress Up is my favorite part! That's<LINE>where you put the Props you've collected<LINE><LINE>on the Pokémon that will be performing.<LINE>Depending on the Pokémon, you can put<LINE>the Props in different places.<LINE>When you use Props that fit the theme of<LINE>the show you've chosen, the audience<LINE><LINE>will notice your Pokémon more!<LINE>Sometimes a Prop that doesn't fit the<LINE>theme will also make your Pokémon<LINE><LINE>stand out.<LINE>If you want to get an idea of how it's<LINE>done, you can watch how other people<LINE><LINE>Dress Up and then try it yourself!
+Oh, Dress Up is my favorite part! That's<LINE>where you put the Props you've collected<LINE><LINE>on the POKéMON that will be performing.<LINE>Depending on the POKéMON, you can put<LINE>the Props in different places.<LINE>When you use Props that fit the theme of<LINE>the show you've chosen, the audience<LINE><LINE>will notice your POKéMON more!<LINE>Sometimes a Prop that doesn't fit the<LINE>theme will also make your POKéMON<LINE><LINE>stand out.<LINE>If you want to get an idea of how it's<LINE>done, you can watch how other people<LINE><LINE>Dress Up and then try it yourself!
 Shows
-You can choose which show to perform<LINE>when you participate in the musical.<LINE>There is no need for Trainers to give<LINE>commands, but if your Pokémon is carrying<LINE><LINE>a Prop in its arms, it can use that Prop<LINE><LINE>to show off and appeal to the audience.<LINE>Depending on how you Dress Up your<LINE>Pokémon, the reactions from the audience<LINE><LINE>will change!
+You can choose which show to perform<LINE>when you participate in the musical.<LINE>There is no need for Trainers to give<LINE>commands, but if your POKéMON is carrying<LINE><LINE>a Prop in its arms, it can use that Prop<LINE><LINE>to show off and appeal to the audience.<LINE>Depending on how you Dress Up your<LINE>POKéMON, the reactions from the audience<LINE><LINE>will change!

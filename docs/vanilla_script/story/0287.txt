@@ -23,9 +23,9 @@ Bronius: You shall not interfere with<LINE>Team Plasma… Or our king!
 Ryoku: We can only do our best and<LINE>leave the rest to fate.<LINE>We've done everything in our power.<LINE>All we can do now is believe in our<LINE><LINE>lord N…and wait.
 Gorm: A single fallen leaf signals the<LINE>start of autumn.<LINE>We know our history.<LINE>The emergence of this castle is<LINE>the harbinger of change in Unova…
 Rood: Constant dripping wears away<LINE>the stone.<LINE>I've been waiting in the abyss for<LINE>this day. No one shall interfere!
-Zinzolin: It is the way of the universe to<LINE>take from excess and fill emptiness.<LINE>Taking Pokémon from people is restoring<LINE>balance to nature!
-Lenora: We have been and will continue<LINE>to be together with Pokémon.
-Burgh: Your Pokémon, they are doing<LINE>their best for you, right?<LINE>Why would you want to be separated<LINE>from them like that?
+Zinzolin: It is the way of the universe to<LINE>take from excess and fill emptiness.<LINE>Taking POKéMON from people is restoring<LINE>balance to nature!
+Lenora: We have been and will continue<LINE>to be together with POKéMON.
+Burgh: Your POKéMON, they are doing<LINE>their best for you, right?<LINE>Why would you want to be separated<LINE>from them like that?
 Elesa: I do not appreciate<LINE>stubborn people.
 Clay: Things aren't gonna go th' way ya<LINE>fellas think they are!<LINE>I'm sure o' that!
 Skyla: Now! Acrobatics!!

@@ -1,2 +1,2 @@
-Use a Poké Ball after<LINE>lowering its HP!
-Professor Juniper used<LINE>a Poké Ball!
+Use a POKé BALL after<LINE>lowering its HP!
+Professor Juniper used<LINE>a POKé BALL!

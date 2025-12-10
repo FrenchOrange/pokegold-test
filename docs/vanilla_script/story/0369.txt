@@ -2,13 +2,13 @@ The Xtransceiver is ringing.
 <PLAYER> picked up the Xtransceiver.
 That raised walkway…<LINE>If you stand still, you'll fall off, so you<LINE>have to keep moving.
 Oh! Bold enough to come talk to me,<LINE>are you?<LINE>You're quite the Trainer. I like you!<LINE>Take this TM!
-When a Pokémon uses Charge Beam,<LINE>sometimes its Sp. Atk goes up.<LINE>If you're lucky, the power will just<LINE>keep going up!
-My, my…<LINE>That Pokémon has come again, too.
-Now, now, child, don't you go heading into<LINE>the tall grass.<LINE><LINE>That Pokémon might be too much for you.
+When a POKéMON uses Charge Beam,<LINE>sometimes its Sp. Atk goes up.<LINE>If you're lucky, the power will just<LINE>keep going up!
+My, my…<LINE>That POKéMON has come again, too.
+Now, now, child, don't you go heading into<LINE>the tall grass.<LINE><LINE>That POKéMON might be too much for you.
 We'll catch cold standin' around talkin'<LINE>in this wind and rain.<LINE>It's not much, but come stay<LINE>in my home a spell.
 Krrrkrrrkrrak!
 Whhhwhhhwhhh!!
-Whew, what a storm!<LINE>Apparently it's that Pokémon's doing!
+Whew, what a storm!<LINE>Apparently it's that POKéMON's doing!
 Route 7
 Celestial Tower<LINE>A place of rest for innocent spirits
-Trainer Tips!<LINE><LINE>The number of Exp. Points you get<LINE>after a battle is based on levels.<LINE>When your Pokémon is weaker than<LINE>its opponent, it will get more.<LINE>But if your Pokémon is stronger,<LINE>it won't get as many.
+Trainer Tips!<LINE><LINE>The number of Exp. Points you get<LINE>after a battle is based on levels.<LINE>When your POKéMON is weaker than<LINE>its opponent, it will get more.<LINE>But if your POKéMON is stronger,<LINE>it won't get as many.

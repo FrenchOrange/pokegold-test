@@ -1,17 +1,17 @@
 Cheren: <PLAYER>!<LINE>This bothersome bunch doesn't<LINE>really listen to reason.
-Team Plasma: That child cannot use<LINE>a Pokémon to its full potential.<LINE>Doesn't that make the Pokémon sad?<LINE>It's the same thing for all your Pokémon,<LINE>so hand them over to us now!<LINE>Better yet…<LINE>We'll just take them!
+Team Plasma: That child cannot use<LINE>a POKéMON to its full potential.<LINE>Doesn't that make the POKéMON sad?<LINE>It's the same thing for all your POKéMON,<LINE>so hand them over to us now!<LINE>Better yet…<LINE>We'll just take them!
 Team Plasma: Wha…? How could we lose<LINE>when we have right on our side?!
-Cheren: Not bad, <PLAYER>.<LINE>OK, go return the Pokémon to that girl.
+Cheren: Not bad, <PLAYER>.<LINE>OK, go return the POKéMON to that girl.
 You don't need to return it!
 Team Plasma: How troublesome.<LINE>Not only do you fail to understand, but<LINE>you actually got in our way, to boot.
 Team Plasma: There's two of you<LINE>and two of us.<LINE>We'll show you our combined power<LINE>and teach you that we are right!
-Cheren: So, there were more of them…<LINE>Still, why are Pokémon robbers<LINE>acting so self-righteous?
+Cheren: So, there were more of them…<LINE>Still, why are POKéMON robbers<LINE>acting so self-righteous?
 <PLAYER>!<LINE>We've been friends our whole lives.<LINE>We've got each other's back when it<LINE><LINE>counts. Let's show them how it's done!
-Team Plasma: In order to liberate<LINE>Pokémon from foolish people,<LINE><LINE>we will take their Pokémon!
-Cheren: Whatever…<LINE>What a waste of time.<LINE>Come on, what reason could possibly<LINE>justify stealing Pokémon from people?
-Team Plasma: Pokémon Trainers<LINE>like you are making Pokémon suffer…
-Cheren: What do you mean, Trainers are<LINE>making Pokémon suffer?<LINE><LINE>I don't get that at all!
-Team Plasma: We'll give you back<LINE>the Pokémon…<LINE>But be aware of how this Pokémon suffers<LINE>from being used by people.
+Team Plasma: In order to liberate<LINE>POKéMON from foolish people,<LINE><LINE>we will take their POKéMON!
+Cheren: Whatever…<LINE>What a waste of time.<LINE>Come on, what reason could possibly<LINE>justify stealing POKéMON from people?
+Team Plasma: POKéMON Trainers<LINE>like you are making POKéMON suffer…
+Cheren: What do you mean, Trainers are<LINE>making POKéMON suffer?<LINE><LINE>I don't get that at all!
+Team Plasma: We'll give you back<LINE>the POKéMON…<LINE>But be aware of how this POKéMON suffers<LINE>from being used by people.
 Team Plasma: Someday, open your eyes<LINE>to your own complicity.
-Cheren: Trainers bring out<LINE>their Pokémon's strength.<LINE>Pokémon believe in their<LINE>Trainers and respond to that.<LINE>I don't understand what about<LINE>that makes Pokémon suffer!
-OK, <PLAYER>,<LINE>I'll return the Pokémon.
+Cheren: Trainers bring out<LINE>their POKéMON's strength.<LINE>POKéMON believe in their<LINE>Trainers and respond to that.<LINE>I don't understand what about<LINE>that makes POKéMON suffer!
+OK, <PLAYER>,<LINE>I'll return the POKéMON.

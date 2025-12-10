@@ -15,9 +15,9 @@
 ◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
 ◇ The garden full of green makes you feel warm inside.
 ◇ Next to the city is a Day Care, which many Trainers visit.
-◇ You can learn the basics of Pokémon at the Trainers' School.
+◇ You can learn the basics of POKéMON at the Trainers' School.
 ◇ Nacrene City is characterized by its stone pavement and warehouses.
-◇ Pokémon research at the museum starts with their bones.
+◇ POKéMON research at the museum starts with their bones.
 ◇ Nacrene Gym is a museum where battles and knowledge are pursued.
 ◇ Many young artists use the warehouses as their studios.
 ◇ The theme of the museum is the comparison between culture and nature.
@@ -34,7 +34,7 @@
 ◇ Nimbasa City is a place of feverish excitement. Some say that's why it hosts so many battles.
 ◇ Heated tennis matches! Glowing basketball matches! The excitement awaits you at Small Court!
 ◇ They say someone who loved battles also happened to be a railway maniac, and that's why we now have the Battle Subway.
-◇ Sometimes, scouts spot potentially popular Pokémon at the Musical Theater.
+◇ Sometimes, scouts spot potentially popular POKéMON at the Musical Theater.
 ◇ Star players are here at the stadium today! You might spot your favorite players.
 ◇ The famous roller coaster is where you least expect it.
 ◇ Enjoy wonderful views, exciting heights, and heart-pounding encounters at the Rondez-View Ferris Wheel!
@@ -47,7 +47,7 @@
 ◇ The city's orange roofs enhance the beauty of sunset.
 ◇ The spectacular view of the soaring Charizard Bridge is a must-see.
 ◇ The port features a huge Cold Storage area full of refrigerated containers.
-◇ Pokémon can be found in the Cold Storage area.
+◇ POKéMON can be found in the Cold Storage area.
 ◇ Driftveil City is a major ocean port.
 
 
@@ -76,19 +76,19 @@
 ◇ It is believed that Opelucid City has the longest history in the world.
 ◇ Opelucid City still makes good use of old technologies.
 ◇ The city produces many archeologists every year.
-◇ The buildings here are said to be able to withstand the weight of a hundred weighty Pokémon.
-◇ Opelucid City is where the latest Poké Balls are developed.
+◇ The buildings here are said to be able to withstand the weight of a hundred weighty POKéMON.
+◇ Opelucid City is where the latest POKé BALLS are developed.
 ◇ The buildings use state-of-the-art materials.
 ◇ Opelucid City is famous for its solid security.
 ◇ The latest communication network makes life pleasant.
-◇ The buildings here are said to be able to withstand the weight of a hundred weighty Pokémon.
-◇ Opelucid City is where the latest Poké Balls are developed.
+◇ The buildings here are said to be able to withstand the weight of a hundred weighty POKéMON.
+◇ Opelucid City is where the latest POKé BALLS are developed.
 ◇ The buildings use state-of-the-art materials.
 ◇ Opelucid City is famous for its solid security.
 ◇ People have no sense of time in Lacunosa Town. They don't even have clocks at home.
 ◇ People in Lacunosa Town finish work when the sun sets.
 ◇ The whole city can be seen from the huge bridge.
-◇ People have spotted a mysterious Pokémon in the nearby forest.
+◇ People have spotted a mysterious POKéMON in the nearby forest.
 ◇ All the roads and buildings in Lacunosa Town are made of stone.
 ◇ Lacunosa Town perks up in the afternoon.
 ◇ Many people sunbathe on a sunny day.
@@ -106,9 +106,9 @@
 ◇ White Forest is a place full of nature.
 ◇ The people love nature and live enmeshed with it.
 ◇ The people plant trees to help the forest grow.
-◇ Nature-loving Pokémon Breeders gather here.
-◇ Some Pokémon rarely seen elsewhere can be found here, thanks to nature's bounty.
-◇ The things Pokémon drop here are considered the gifts of nature.
+◇ Nature-loving POKéMON Breeders gather here.
+◇ Some POKéMON rarely seen elsewhere can be found here, thanks to nature's bounty.
+◇ The things POKéMON drop here are considered the gifts of nature.
 ◇ Many people would like to live in the city, and the population is constantly changing.
 ◇ White Forest is a place full of wide stretches of natural growth.
 ◇ The people love nature and live in complete harmony with it.

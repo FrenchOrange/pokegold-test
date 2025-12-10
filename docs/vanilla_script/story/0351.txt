@@ -4,15 +4,15 @@ Mom: <PLAYER>?
 I finally caught up with you…<LINE>And look how far you've come already!<LINE>Professor Juniper said that you were<LINE>probably headed for Striaton City by now.<LINE>I have another present for you.<LINE><PLAYER>! Try these on!
 <PLAYER> received a pair of<LINE>\xf000\xff00\x0001\x0002Running Shoes\xf000\xff00\x0001\x0000!
 When you're wearing the Running Shoes,<LINE>you can go anywhere in a flash!<LINE>Let me read you the instructions…<LINE>“Hold the B Button to run faster than<LINE>normal. Put on the Running Shoes and<LINE><LINE>tear around to your heart's content!"<LINE>That's what it says.<LINE>I bought these a long time ago<LINE>and stashed them away somewhere.<LINE>I found them when I was cleaning up.<LINE>Guess it's good to clean occasionally!
-<PLAYER>, you understand that<LINE>you're never really alone, right?<LINE>You're with Pokémon, you have friends,<LINE>and you're always in my thoughts.<LINE>That's all right, then. Enjoy your trip!
+<PLAYER>, you understand that<LINE>you're never really alone, right?<LINE>You're with POKéMON, you have friends,<LINE>and you're always in my thoughts.<LINE>That's all right, then. Enjoy your trip!
 Bianca: Ohhhhh! Hi, <PLAYER>!
 Bianca: <PLAYER>! C'mon, <PLAYER>!
-Bianca: Hey, listen!<LINE>Let's have a Pokémon battle!<LINE>Pleeeease? The Pokémon I caught<LINE>have become a little stronger!<LINE>Ready or not, here I come!
-Bianca: Woo-hoo!<LINE>You are a tough cookie, <PLAYER>.<LINE>I'm gonna work hard on training my<LINE>Pokémon so we won't lose anymore!<LINE><LINE>OK, bye-bye!
+Bianca: Hey, listen!<LINE>Let's have a POKéMON battle!<LINE>Pleeeease? The POKéMON I caught<LINE>have become a little stronger!<LINE>Ready or not, here I come!
+Bianca: Woo-hoo!<LINE>You are a tough cookie, <PLAYER>.<LINE>I'm gonna work hard on training my<LINE>POKéMON so we won't lose anymore!<LINE><LINE>OK, bye-bye!
 Hey, you!<LINE>I'm gonna do something amazing!<LINE>Wanna watch?
 OK! Wait one second!
 Wooo!
 Hey! Were you watching?<LINE>You can take a shortcut by<LINE>jumping off ledges! Amazing, eh?
 No need to be shy!
-When your Pokémon don't have<LINE>enough energy to fight…<LINE><LINE>Just walk on the road!<LINE>Pokémon only appear in the tall grass!
-Battles between Pokémon Trainers<LINE>are serious affairs you can't run from!
+When your POKéMON don't have<LINE>enough energy to fight…<LINE><LINE>Just walk on the road!<LINE>POKéMON only appear in the tall grass!
+Battles between POKéMON Trainers<LINE>are serious affairs you can't run from!

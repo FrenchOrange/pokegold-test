@@ -3,10 +3,10 @@ Tennis players are practicing <LINE>in Small Court now!<LINE>People can watch th
 There is a basketball game<LINE>in Small Court now!
 Basketball players are practicing <LINE>in Small Court now!<LINE>People can watch them practicing!
 We love sports.<LINE>Watching games is great, but we enjoy<LINE><LINE>watching practices, too!
-New styles of basketball and tennis<LINE>created by people and Pokémon…<LINE><LINE>These may be advanced forms of sports.
-If you speak to athletes during a<LINE>practice, they may challenge you to a<LINE><LINE>Pokémon battle!
-First-rank Smashers are waiting for you<LINE>in the court with their Pokémon!
-First-rank Hoopsters are waiting for you<LINE>in the court with their Pokémon!
+New styles of basketball and tennis<LINE>created by people and POKéMON…<LINE><LINE>These may be advanced forms of sports.
+If you speak to athletes during a<LINE>practice, they may challenge you to a<LINE><LINE>POKéMON battle!
+First-rank Smashers are waiting for you<LINE>in the court with their POKéMON!
+First-rank Hoopsters are waiting for you<LINE>in the court with their POKéMON!
 I am sorry.<LINE>But you cannot enter the court<LINE>because a game is in progress.
 I am sorry.<LINE>But you cannot enter the court<LINE>because a game is in progress.
 I am sorry.<LINE>But you cannot enter the court<LINE>because a game is in progress.

@@ -1,29 +1,29 @@
 
 
 Cheren: Professor Juniper, I'm sorry<LINE>to have kept you waiting.
-Professor Juniper: Now that everyone's<LINE>here, I'll explain.<LINE>The Pokédex's pages update automatically<LINE>whenever you meet a Pokémon!<LINE>Moreover, it's set up so that<LINE>you obtain even more information<LINE><LINE>when you catch a Pokémon!<LINE>To make this clear, I'm going to<LINE>demonstrate how to catch a Pokémon!
-Professor Juniper: Did you see that,<LINE>just now?<LINE>Here's how it goes, step by step.<LINE>First, reduce the Pokémon's HP!<LINE>Pokémon that still have all of<LINE>their energy are difficult to catch.<LINE>If you can, use your Pokémon's moves to<LINE>make the Pokémon you want to catch<LINE><LINE>fall asleep. Or paralyze it!<LINE>And to wrap this up in the best way,<LINE>I have a gift for you--some Poké Balls!
+Professor Juniper: Now that everyone's<LINE>here, I'll explain.<LINE>The POKéDEX's pages update automatically<LINE>whenever you meet a POKéMON!<LINE>Moreover, it's set up so that<LINE>you obtain even more information<LINE><LINE>when you catch a POKéMON!<LINE>To make this clear, I'm going to<LINE>demonstrate how to catch a POKéMON!
+Professor Juniper: Did you see that,<LINE>just now?<LINE>Here's how it goes, step by step.<LINE>First, reduce the POKéMON's HP!<LINE>POKéMON that still have all of<LINE>their energy are difficult to catch.<LINE>If you can, use your POKéMON's moves to<LINE>make the POKéMON you want to catch<LINE><LINE>fall asleep. Or paralyze it!<LINE>And to wrap this up in the best way,<LINE>I have a gift for you--some POKé BALLS!
 
-Professor Juniper: Poké Balls are used<LINE>for catching Pokémon and for carrying<LINE><LINE>the Pokémon you catch!<LINE>I'm going on ahead.<LINE>I'll be waiting for you in Accumula Town!
-Cheren: She forgot to say that Pokémon<LINE>jump out at you in the tall grass.
+Professor Juniper: POKé BALLS are used<LINE>for catching POKéMON and for carrying<LINE><LINE>the POKéMON you catch!<LINE>I'm going on ahead.<LINE>I'll be waiting for you in Accumula Town!
+Cheren: She forgot to say that POKéMON<LINE>jump out at you in the tall grass.
 I'm heading to Accumula Town, too.
-Bianca: I think I'll go, too.<LINE>I'm looking forward to the next town<LINE>so I can go shopping for Poké Balls!
+Bianca: I think I'll go, too.<LINE>I'm looking forward to the next town<LINE>so I can go shopping for POKé BALLS!
 Bianca: Wait a minute!<LINE>Hey, listen!<LINE><PLAYER>, Cheren,<LINE><LINE>I thought of something fun!
 Cheren: But we need to get going!<LINE>I'd imagine the professor's waiting, too.
-Bianca: Would you just listen a sec?<LINE>Seriously!<LINE>Why don't we see who can catch<LINE>the most Pokémon?<LINE>The person carrying the most Pokémon,<LINE>including the one received from<LINE><LINE>Professor Juniper, is the winner!
-Cheren: Huh.<LINE>Actually, that sounds interesting.<LINE>It will fill up Pokédex pages, so I'm<LINE>sure it will please the professor, too.<LINE>OK, then. Until we reach Accumula Town,<LINE>take care of healing your Pokémon<LINE><LINE>at your own house.
+Bianca: Would you just listen a sec?<LINE>Seriously!<LINE>Why don't we see who can catch<LINE>the most POKéMON?<LINE>The person carrying the most POKéMON,<LINE>including the one received from<LINE><LINE>Professor Juniper, is the winner!
+Cheren: Huh.<LINE>Actually, that sounds interesting.<LINE>It will fill up POKéDEX pages, so I'm<LINE>sure it will please the professor, too.<LINE>OK, then. Until we reach Accumula Town,<LINE>take care of healing your POKéMON<LINE><LINE>at your own house.
 Bianca: Me and <PLAYER><LINE>will do the best for sure!
-Cheren: <PLAYER>, are you going to<LINE>compare yourself with Bianca?<LINE>Both Bianca and I have two Pokémon<LINE>with us.
-Bianca: How about it, <PLAYER>?<LINE>Do you want to compare which one<LINE>of us has the most Pokémon with them?
+Cheren: <PLAYER>, are you going to<LINE>compare yourself with Bianca?<LINE>Both Bianca and I have two POKéMON<LINE>with us.
+Bianca: How about it, <PLAYER>?<LINE>Do you want to compare which one<LINE>of us has the most POKéMON with them?
 Bianca: Hmm…<LINE>Guess I'll be waiting here, then.
-Bianca: Wow, \xf000Ȁ\x0001\x0000?! That's awesome!<LINE>Are you excited to have that many<LINE>Pokémon with you?
-Bianca: Seems the number of Pokémon<LINE><PLAYER> has is…<LINE>Two!<LINE>We all have the same number, then!
-Bianca: What? What? What?<LINE>You only have <PLAYER>?!<LINE>If you don't catch any Pokémon, won't<LINE><PLAYER> get lonely?
-Cheren: Incidentally, if you check your<LINE>Pokédex, you'll see how many Pokémon<LINE><LINE>you've found and how many<LINE><LINE>you've caught.<LINE>I'm off to Accumula Town!<LINE>The professor is waiting.
+Bianca: Wow, \xf000Ȁ\x0001\x0000?! That's awesome!<LINE>Are you excited to have that many<LINE>POKéMON with you?
+Bianca: Seems the number of POKéMON<LINE><PLAYER> has is…<LINE>Two!<LINE>We all have the same number, then!
+Bianca: What? What? What?<LINE>You only have <PLAYER>?!<LINE>If you don't catch any POKéMON, won't<LINE><PLAYER> get lonely?
+Cheren: Incidentally, if you check your<LINE>POKéDEX, you'll see how many POKéMON<LINE><LINE>you've found and how many<LINE><LINE>you've caught.<LINE>I'm off to Accumula Town!<LINE>The professor is waiting.
 
 The Xtransceiver is ringing.
 <PLAYER> picked up the Xtransceiver.
 Cheren: Well, I'm going on ahead.
-Is your Pokémon's HP all right?<LINE>When your Pokémon's HP decreases while<LINE>you're on the road, it can be<LINE><LINE>a big problem, so I'll give you this.<LINE>Put it in your Bag's Medicine Case.
-When your Pokémon's HP decreases,<LINE>they no longer have the energy to fight.<LINE>So, don't push your Pokémon too hard,<LINE>and let them rest often.
-Wild Pokémon are hiding in the tall grass.<LINE>What does this mean for you?<LINE>It means when you want to battle<LINE>or capture wild Pokémon,<LINE><LINE>you should go walk in the tall grass.
+Is your POKéMON's HP all right?<LINE>When your POKéMON's HP decreases while<LINE>you're on the road, it can be<LINE><LINE>a big problem, so I'll give you this.<LINE>Put it in your Bag's Medicine Case.
+When your POKéMON's HP decreases,<LINE>they no longer have the energy to fight.<LINE>So, don't push your POKéMON too hard,<LINE>and let them rest often.
+Wild POKéMON are hiding in the tall grass.<LINE>What does this mean for you?<LINE>It means when you want to battle<LINE>or capture wild POKéMON,<LINE><LINE>you should go walk in the tall grass.

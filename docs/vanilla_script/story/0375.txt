@@ -1,9 +1,9 @@
 Kid! Have you caught any <PLAYER>?<LINE>If you have, would you trade your<LINE><PLAYER> for my <POKEMON>?
-OK! Let's start our Pokémon trade!
-Oh! Oh! What a cute Pokémon!<LINE>Please cherish <POKEMON>, too.
+OK! Let's start our POKéMON trade!
+Oh! Oh! What a cute POKéMON!<LINE>Please cherish <POKEMON>, too.
 Hey! Come on, now!<LINE>I want to trade for a <PLAYER>…
 I see… Well, come talk to me again if you<LINE>change your mind!
-Trading Pokémon lets you get to know<LINE>other Trainers!
-I love the Pokémon moves Mega Drain<LINE>and Giga Drain!<LINE>Your opponent's HP is reduced, and the<LINE>user's HP increases!
+Trading POKéMON lets you get to know<LINE>other Trainers!
+I love the POKéMON moves Mega Drain<LINE>and Giga Drain!<LINE>Your opponent's HP is reduced, and the<LINE>user's HP increases!
 Fwoo-ooo-ooosh…
 Tralalala! ♪
