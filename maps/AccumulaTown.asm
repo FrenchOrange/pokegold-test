@@ -10,6 +10,15 @@ AccumulaTownFlypointCallback:
 	setflag ENGINE_FLYPOINT_ACCUMULA
 	endcallback
 
+AccumulaTownSign:
+	jumptext AccumulaTownSignText
+
+AccumulaTownSignText:
+	text "ACCUMULA TOWN"
+	line "The Fast-Growing"
+	cont "Town!"
+	done
+
 AccumulaTown_MapEvents:
 	db 0, 0 ; filler
 
@@ -24,6 +33,7 @@ AccumulaTown_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event 14, 16, BGEVENT_READ, AccumulaTownSign
 
 	def_object_events
 

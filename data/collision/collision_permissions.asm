@@ -157,7 +157,7 @@ CollisionPermissionTable::
 	db WALL_TILE         ; 99
 	db WALL_TILE         ; 9a
 	db WALL_TILE         ; 9b
-	db WALL_TILE         ; COLL_9C
+	db WALL_TILE         ; COLL_POKECENTER
 	db WALL_TILE         ; COLL_TRASHCAN
 	db WALL_TILE         ; 9e
 	db WALL_TILE         ; COLL_INCENSE_BURNER

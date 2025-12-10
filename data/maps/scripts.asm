@@ -232,7 +232,7 @@ INCLUDE "maps/MoveDeletersHouse.asm"
 
 SECTION "Map Scripts 20", ROMX
 
-INCLUDE "maps/AzaleaPokecenter1F.asm"
+INCLUDE "maps/NacrenePokecenter1F.asm"
 INCLUDE "maps/CharcoalKiln.asm"
 INCLUDE "maps/KurtsHouse.asm"
 INCLUDE "maps/AzaleaGym.asm"
@@ -243,7 +243,7 @@ SECTION "Map Scripts 21", ROMX
 INCLUDE "maps/VioletGym.asm"
 INCLUDE "maps/EarlsPokemonAcademy.asm"
 INCLUDE "maps/VioletNicknameSpeechHouse.asm"
-INCLUDE "maps/VioletPokecenter1F.asm"
+INCLUDE "maps/StriatonPokecenter1F.asm"
 INCLUDE "maps/VioletKylesHouse.asm"
 
 

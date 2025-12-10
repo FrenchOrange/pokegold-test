@@ -341,7 +341,7 @@ ENDM
 	map_attributes BlackthornEmysHouse, BLACKTHORN_EMYS_HOUSE, $00, 0
 	map_attributes BlackthornPokecenter1F, BLACKTHORN_POKECENTER_1F, $00, 0
 	map_attributes MoveDeletersHouse, MOVE_DELETERS_HOUSE, $00, 0
-	map_attributes AzaleaPokecenter1F, AZALEA_POKECENTER_1F, $00, 0
+	map_attributes NacrenePokecenter1F, NACRENE_POKECENTER_1F, $00, 0
 	map_attributes CharcoalKiln, CHARCOAL_KILN, $00, 0
 	map_attributes KurtsHouse, KURTS_HOUSE, $00, 0
 	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
@@ -350,7 +350,7 @@ ENDM
 	map_attributes VioletGym, VIOLET_GYM, $00, 0
 	map_attributes EarlsPokemonAcademy, EARLS_POKEMON_ACADEMY, $00, 0
 	map_attributes VioletNicknameSpeechHouse, VIOLET_NICKNAME_SPEECH_HOUSE, $00, 0
-	map_attributes VioletPokecenter1F, VIOLET_POKECENTER_1F, $00, 0
+	map_attributes StriatonPokecenter1F, STRIATON_POKECENTER_1F, $00, 0
 	map_attributes VioletKylesHouse, VIOLET_KYLES_HOUSE, $00, 0
 	map_attributes GoldenrodGym, GOLDENROD_GYM, $00, 0
 	map_attributes GoldenrodBikeShop, GOLDENROD_BIKE_SHOP, $00, 0

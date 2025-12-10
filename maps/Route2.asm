@@ -39,6 +39,30 @@ Route2PitCallback:
 .BoulderNotPushed:
 	endcallback
 
+Route2Sign:
+	jumptext Route2SignText
+
+Route2TrainerTips:
+	jumptext Route2TrainerTipsText
+
+Route2SignText:
+	text "ROUTE 2"
+	done
+
+Route2TrainerTipsText:
+	text "TRAINER TIPS!"
+
+	para "#MON that"
+	line "participate in"
+	cont "battle receive"
+	cont "Exp. Points."
+
+	para "Have your #MON"
+	line "battle often, and"
+	cont "make them stronger"
+	cont "and stronger!"
+	done
+
 Route2_MapEvents:
 	db 0, 0 ; filler
 
@@ -50,6 +74,8 @@ Route2_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event 10, 22, BGEVENT_READ, Route2Sign
+	bg_event 16, 12, BGEVENT_READ, Route2TrainerTips
 
 	def_object_events
 	object_event  9, 26, SPRITE_BOULDER, SPRITEMOVEDATA_STRENGTH_BOULDER, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, Route2Boulder, EVENT_BOULDER_ON_ROUTE_2

@@ -164,7 +164,7 @@ ENDM
 	endgroup
 
 	newgroup AZALEA                                               ;  8
-	map_const AZALEA_POKECENTER_1F,                         7,  4 ;  1
+	map_const NACRENE_POKECENTER_1F,                        7,  4 ;  1
 	map_const CHARCOAL_KILN,                                4,  4 ;  2
 	map_const KURTS_HOUSE,                                  4,  4 ;  4
 	map_const AZALEA_GYM,                                   5,  8 ;  5
@@ -190,7 +190,7 @@ ENDM
 	map_const VIOLET_GYM,                                   5,  8 ;  7
 	map_const EARLS_POKEMON_ACADEMY,                        4,  8 ;  8
 	map_const VIOLET_NICKNAME_SPEECH_HOUSE,                 4,  4 ;  9
-	map_const VIOLET_POKECENTER_1F,                         7,  4 ; 10
+	map_const STRIATON_POKECENTER_1F,                       7,  4 ; 10
 	map_const VIOLET_KYLES_HOUSE,                           4,  4 ; 11
 	endgroup
 

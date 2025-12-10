@@ -180,8 +180,8 @@ OlivinePokecenter1F_Blocks:
 MahoganyPokecenter1F_Blocks:
 EcruteakPokecenter1F_Blocks:
 BlackthornPokecenter1F_Blocks:
-AzaleaPokecenter1F_Blocks:
-VioletPokecenter1F_Blocks:
+NacrenePokecenter1F_Blocks:
+StriatonPokecenter1F_Blocks:
 GoldenrodPokecenter1F_Blocks:
 CianwoodPokecenter1F_Blocks:
 CherrygrovePokecenter1F_Blocks:

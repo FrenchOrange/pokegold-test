@@ -32,7 +32,7 @@
 	tilecoll WALL, WALL, WALL, WALL ; 1f
 	tilecoll WALL, WALL, DOOR, WALL ; 20
 	tilecoll WALL, WALL, WALL, DOOR ; 21
-	tilecoll WALL, WALL, WALL, WALL ; 22
+	tilecoll WALL, WALL, POKECENTER, WALL ; 22
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 23
 	tilecoll WALL, WALL, WALL, WALL ; 24
 	tilecoll WALL, WALL, WALL, WALL ; 25

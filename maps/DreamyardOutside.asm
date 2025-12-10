@@ -52,4 +52,4 @@ DreamyardOutside_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event 12, 25, SPRITE_BOULDER, SPRITEMOVEDATA_STRENGTH_BOULDER, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, DreamyardOutsideBoulder, EVENT_BOULDER_ON_ROUTE_2
+	object_event 12, 28, SPRITE_BOULDER, SPRITEMOVEDATA_STRENGTH_BOULDER, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, DreamyardOutsideBoulder, EVENT_BOULDER_ON_ROUTE_2

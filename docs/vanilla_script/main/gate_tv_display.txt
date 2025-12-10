@@ -9,7 +9,6 @@
 ◇ A Trainer from Nuvema Town challenged and successfully beat Iris, the Opelucid Gym Leader!
 ◇ A Trainer from Nuvema Town challenged and successfully beat Drayden, the Opelucid Gym Leader!
 ◇ “Tender loving care! They grow in no time!" Day Care on Route 3
-◇ “Wondering what others are doing? Let's interview them!" Passerby Analytics in Castelia City
 ◇ “Run and battle! Trains never stop!" Battle Subway in Nimbasa City
 ◇ “Take your first step to stardom." Musical in Nimbasa City
 ◇ “We deliver to you what winds and waves have brought to us." Driftveil Market
@@ -21,9 +20,6 @@
 ◇ Pokémon research at the museum starts with their bones.
 ◇ Nacrene Gym is a museum where battles and knowledge are pursued.
 ◇ Many young artists use the warehouses as their studios.
-◇ Tourists come for the warehouses and the museum.
-◇ You can still see the rail tracks.
-◇ This is a place for people drawn to the arts.
 ◇ The theme of the museum is the comparison between culture and nature.
 ◇ Nacrene City has produced many famous artists.
 ◇ Until recently, Casteliacones were a local secret. Now, they're everyone's favorite!

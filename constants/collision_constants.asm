@@ -98,7 +98,7 @@ DEF COLL_TOWN_MAP          EQU $95
 DEF COLL_MART_SHELF        EQU $96
 DEF COLL_TV                EQU $97
 DEF COLL_COUNTER_98        EQU $98 ; unused
-DEF COLL_9C                EQU $9c ; garbage
+DEF COLL_POKECENTER        EQU $9c
 DEF COLL_TRASHCAN          EQU $9d
 DEF COLL_INCENSE_BURNER    EQU $9f
 DEF COLL_HOP_RIGHT         EQU $a0

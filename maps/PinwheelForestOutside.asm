@@ -3,6 +3,17 @@ PinwheelForestOutside_MapScripts:
 
 	def_callbacks
 
+PinwheelForestOutsideSign:
+	jumptext PinwheelForestOutsideSignText
+
+PinwheelForestOutsideSignText:
+	text "PINWHEEL FOREST"
+
+	para "Did you remember"
+	line "to pack an"
+	cont "ANTIDOTE?"
+	done
+
 PinwheelForestOutside_MapEvents:
 	db 0, 0 ; filler
 
@@ -13,5 +24,6 @@ PinwheelForestOutside_MapEvents:
 	def_coord_events
 
 	def_bg_events
+	bg_event  4,  0, BGEVENT_READ, PinwheelForestOutsideSign
 
 	def_object_events
