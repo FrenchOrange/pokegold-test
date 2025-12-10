@@ -810,7 +810,7 @@ _PokecenterPlayersPCText::
 	prompt
 
 _PokecenterOaksPCText::
-	text "PROF.OAK's PC"
+	text "PROF.JUNIPER's PC"
 	line "accessed."
 
 	para "#DEX Rating"
@@ -839,7 +839,7 @@ _OakPCText3::
 	text_ram wStringBuffer4
 	text " #MON owned"
 
-	para "PROF.OAK's"
+	para "PROF.JUNIPER's"
 	line "Rating:"
 	done
 
@@ -1029,10 +1029,13 @@ _ItemsTooImportantText::
 	prompt
 
 _ItemsOakWarningText::
-	text "OAK: <PLAYER>!"
-	line "This isn't the"
-	cont "time to use that!"
-	done
+	text "JUNIPER's words"
+	line "echoed…"
+
+	para "There's a time and"
+	line "place for everyth-"
+	cont "ing! But not now."
+	prompt
 
 _PokemonSwapItemText::
 	text "Took @"

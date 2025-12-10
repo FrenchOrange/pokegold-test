@@ -1515,7 +1515,7 @@ wBillsPCTempBoxCount:: db
 ENDU
 
 NEXTU
-; prof. oak's pc
+; prof. juniper's pc
 wTempPokedexSeenCount:: db
 wTempPokedexCaughtCount:: db
 
