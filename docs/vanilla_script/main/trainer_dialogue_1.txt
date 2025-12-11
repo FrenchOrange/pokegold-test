@@ -79,10 +79,10 @@ Oh, I just got whitewashed!
 The reason why there are so many colors<LINE>in this world…white, black, red, green,<LINE><LINE>blue, yellow…is that they can be mixed<LINE><LINE>to create an explosion of new color!<LINE>Boom!
 As my mind roams, as the wind blows,<LINE>destiny has brought us to this battle.
 Urgh… I didn't know<LINE>I was flying against the wind…
-I want to fly around the Unova region,<LINE>blown by the wind!
-This big bag…<LINE>What do you think is inside?
-I lost, but now I have more things<LINE>to add to my bag.
-I'll tell you a secret. The things I put<LINE>in the bag are memories of my journey!<LINE>The things you can't see are very heavy!
+I want to fly around the UNOVA region,<LINE>blown by the wind!
+This big BAG…<LINE>What do you think is inside?
+I lost, but now I have more things<LINE>to add to my BAG.
+I'll tell you a secret. The things I put<LINE>in the BAG are memories of my journey!<LINE>The things you can't see are very heavy!
 These POKéMON usually help me bake.<LINE>Today, they'll help me battle you!
 Oh, my…<LINE>It was a tasty battle.
 I get on well with my POKéMON, and we<LINE>bake bread together. It's so much fun!<LINE><LINE>I don't mind getting up early every day.
@@ -120,7 +120,7 @@ More!<LINE>Let me hear the voice of your POKéMON!
 I never expected to hear<LINE>POKéMON say such things…
 My Psychic-type POKéMON<LINE>just started making noises.<LINE>Is that because we're in the ruins…<LINE>or is it because of you?
 So…strong!<LINE>Who are you?!
-It is said that long ago, these ruins<LINE>were the heart of civilization for people<LINE><LINE>and POKéMON in the Unova region.
+It is said that long ago, these ruins<LINE>were the heart of civilization for people<LINE><LINE>and POKéMON in the UNOVA region.
 Just being here fills me<LINE>with magical power…
 You seem to be<LINE>full of magical power, too…
 In ancient places,<LINE>magical energy remains…<LINE>I can understand it.<LINE>So much sorrow and joy…
@@ -133,16 +133,16 @@ Lose? Me?<LINE>I don't believe this.
 Ah!<LINE>My POKéMON!
 Huh? Could it be?<LINE>Could I have only one POKéMON left?
 Er…<LINE>Is it over now?
-Welcome to STRIATON Gym!<LINE>Care for a taste of battle?<LINE>I'll serve up the first course!
+Welcome to STRIATON GYM!<LINE>Care for a taste of battle?<LINE>I'll serve up the first course!
 Yow!<LINE>You're a Trainer with a lot of pepper!
 I think it is all right to move ahead<LINE>with POKéMON you've trained well, even<LINE><LINE>without thinking about type matchups.
-The specialty of STRIATON Gym--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>I'm your second course.
+The specialty of STRIATON GYM--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>I'm your second course.
 That was one of our most popular dishes.<LINE>Did you enjoy the battle?
-The specialty of STRIATON Gym--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>To complete your repast--a GYM LEADER.
+The specialty of STRIATON GYM--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>To complete your repast--a GYM LEADER.
 Now, with that move, I'm starting to see<LINE>what kind of Trainer you are!
 No matter how grim the situation, I'll use my<LINE>research skills to find a winning strategy!
 My theory about you was correct.<LINE>You're more than just talented…<LINE>You're motivated! I salute you!
-I hang around NACRENE Gym all the time.<LINE>People call me a bookworm.<LINE>I'll warn you now… I am strong because<LINE>I spend the entire day either<LINE><LINE>reading books or training POKéMON.
+I hang around NACRENE GYM all the time.<LINE>People call me a bookworm.<LINE>I'll warn you now… I am strong because<LINE>I spend the entire day either<LINE><LINE>reading books or training POKéMON.
 I may be a bookworm,<LINE>but I am not a bug POKéMON.
 My first recommendation is a book called<LINE>“Nice to Meet You, POKéMON."<LINE>The bookshelves for children's books<LINE>are close to the entrance.
 Oh, wow!<LINE>I lost, but thanks for a great battle!
@@ -160,7 +160,7 @@ I was aiming for a fighting style<LINE>that overwhelms you with speed…<LINE>If
 I lost, but I will think a lot harder,<LINE>and that will make me a lot stronger!
 Your fashion sense…<LINE>It's kind of NUVEMA TOWN-ish.
 Oh, no!<LINE>I thought I'd be the fashionista!
-ELESA controls an elegant Gym<LINE>in elegant NIMBASA CITY.<LINE><LINE>She has an essential elegance.<LINE><LINE>You should be her fan, too!
+ELESA controls an elegant GYM<LINE>in elegant NIMBASA CITY.<LINE><LINE>She has an essential elegance.<LINE><LINE>You should be her fan, too!
 I'll be!<LINE>Sure didn't see that coming.
 Givin' up's the easy way out! If I wanted,<LINE>I could have given up any old time!
 Well, I've had enough… And just so you<LINE>know, I didn't go easy on you.
@@ -174,7 +174,7 @@ Target lock acquired!<LINE>I will shoot you down<LINE>with my flight technique!
 What?!<LINE>I missed the target.
 We can depend on a move that<LINE>hits without fail when it counts.<LINE>For example, Aerial Ace and Swift<LINE>are both surefire moves!
 The best Trainer of Ice-type POKéMON<LINE>in the COLD STORAGE…<LINE><LINE>That's me!
-Oh, no… I will train even harder<LINE>at the ICIRRUS Gym.
+Oh, no… I will train even harder<LINE>at the ICIRRUS GYM.
 The GYM LEADER in ICIRRUS CITY<LINE>uses Ice-type POKéMON!<LINE>If you train your body and mind there,<LINE>you'll be fine with cold!
 The pure chill of the COLD STORAGE!<LINE>Taste how cold it is!
 Chilly?<LINE>I feel the shiver pass along my spine.
@@ -207,9 +207,9 @@ What I've heard is it's good to use<LINE>Earthquake when your ally is floating!
 If you want to have a battle with us, <LINE>you need two POKéMON.
 …Interrupting us!<LINE>What a horrible Trainer!
 If you take something away,<LINE>I will take it back… Remember that!
-Look, look! This is a Gym Badge<LINE>from STRIATON CITY!<LINE>Oh, you have it, too!<LINE>Then let's have a POKéMON battle<LINE><LINE>to see who is stronger!
-Impressive! A battle with a<LINE>Gym Badge holder is different!
-You know, there's a pedestal at the<LINE>entrance of each POKéMON Gym.<LINE>If you get that Gym's Badge,<LINE>your name will be carved there.
+Look, look! This is a GYM Badge<LINE>from STRIATON CITY!<LINE>Oh, you have it, too!<LINE>Then let's have a POKéMON battle<LINE><LINE>to see who is stronger!
+Impressive! A battle with a<LINE>GYM Badge holder is different!
+You know, there's a pedestal at the<LINE>entrance of each POKéMON GYM.<LINE>If you get that GYM's Badge,<LINE>your name will be carved there.
 I patrol PINWHEEL FOREST every day!<LINE>A battle here is a piece of cake!
 What a huge mistake to lose<LINE>a battle in PINWHEEL FOREST!
 A Ranger always has one of these.<LINE>I'll give it to you!
@@ -328,9 +328,9 @@ I feel down only briefly!<LINE>I am a Trainer. If I give up,<LINE>my POKéMON ca
 I will test you to see whether<LINE>you have what it takes…<LINE>to aim for the POKéMON LEAGUE!
 I see! I see, I see!<LINE>I see, I see, I see, I see!
 They say that there is a strong Champion<LINE>in the POKéMON LEAGUE.<LINE>Someday, I will be able to challenge<LINE>the POKéMON LEAGUE!
-I am an Ace Trainer!<LINE>Basically, I am very strong.<LINE>The Unova region will be shaken<LINE>if I lose.
+I am an Ace Trainer!<LINE>Basically, I am very strong.<LINE>The UNOVA region will be shaken<LINE>if I lose.
 …The meaning of my existence<LINE>is being threatened right now!
-Someday, your existence will shake<LINE>this Unova region!<LINE>My loss looks more impressive<LINE>if I praise you as a hotshot.
+Someday, your existence will shake<LINE>this UNOVA region!<LINE>My loss looks more impressive<LINE>if I praise you as a hotshot.
 Hey! My POKéMON are great.<LINE>Look, look!
 Argh!
 I am called an Ace Trainer, but<LINE>that doesn't sit well with me.<LINE>'Cause I just love POKéMON,<LINE>and I just want to be strong!
@@ -447,7 +447,7 @@ In the Battle Company, the stronger you<LINE>are, the higher the floor you work 
 Hee hee! I am better at POKéMON battles<LINE>than I am at work!
 I'm good at POKéMON, but I still lost!
 A competent woman is<LINE>as good at POKéMON battles<LINE><LINE>as she is at her work!
-CLAY is at the bottom of the Gym,<LINE>but I will test you to see<LINE><LINE>whether you are skilled enough<LINE><LINE>to face the GYM LEADER.
+CLAY is at the bottom of the GYM,<LINE>but I will test you to see<LINE><LINE>whether you are skilled enough<LINE><LINE>to face the GYM LEADER.
 Agh, so frustrating!<LINE>Maybe I'm not skilled enough…
 I started POKéMON battles<LINE>after I grew up,<LINE><LINE>but I got so into it!
 Pouring rain… ♪<LINE>Fighting POKéMON… ♪
@@ -516,7 +516,7 @@ Both my POKéMON and I<LINE>still haven't gotten enough practice…<LINE><LINE>I
 I am about to give a lecture<LINE>on the strength created by gathering<LINE><LINE>a proper balance of different POKéMON!
 Bam! You lectured me!<LINE>What a great Trainer!
 Team play with POKéMON<LINE>brought new fun to our sport.
-My dad is working in a Gym!<LINE>I am receiving special training there!
+My dad is working in a GYM!<LINE>I am receiving special training there!
 …Dad.<LINE>…I couldn't win.
 I have POKéMON battles with my dad, too.<LINE>My dad and I are quite evenly matched!
 Workers carry POKéMON and loads.<LINE>I am a Youngster.<LINE>I am close to my POKéMON,<LINE>and we all cooperate happily!
@@ -568,15 +568,15 @@ Trainer! Do you remember<LINE>what you were told at the beginning?<LINE>“The c
 My plans are perfectly honed!<LINE>I cannot lose!
 No way! What part of my fighting style<LINE>did I forget to double-check?
 Check after check after check!<LINE>Complacency leads to accidents!
-Battles in the CASTELIA Gym are<LINE>beautiful! They are pure art!!
+Battles in the CASTELIA GYM are<LINE>beautiful! They are pure art!!
 Falling beautifully…<LINE>This is also an art…
 If you step on two switches, two lamps<LINE>will light up and a gate will open!<LINE><LINE>This is also an art!
 I like the feeling of walking<LINE>through the honey walls…<LINE><LINE>I've walked through them many times.
 How is this possible?<LINE>I will walk through the honey walls again.
 The honey walls…<LINE>What do you think they are made of?<LINE>Don't you think it is odd<LINE>that BURGH never tells us?
-What do you think? This POKéMON Gym…<LINE>How should I say? Isn't it full of…<LINE><LINE>outrageous and mysterious charms?
+What do you think? This POKéMON GYM…<LINE>How should I say? Isn't it full of…<LINE><LINE>outrageous and mysterious charms?
 As a Trainer,<LINE>you are full of charm!
-I absolutely love this Gym where<LINE>BURGH's vision became reality!
+I absolutely love this GYM where<LINE>BURGH's vision became reality!
 I wasn't hiding under the floor<LINE>just to lose!
 I was defeated by your strong spirit.<LINE>You seem unfazed by anything!
 OK, challenger!<LINE>Bring it on!
@@ -585,7 +585,7 @@ Get on the elevators,<LINE>and go down and down!<LINE>A Trainer's spirit means<L
 When the elevator goes up,<LINE>my spirits rise!<LINE>When the elevator goes down,<LINE>my spirits fall…<LINE>If you want to know why CLAY<LINE>is at the bottom, defeat me!
 I lost. There go my spirits…<LINE>aaaaaall the way down!
 CLAY is waiting<LINE>at the very bottom because…<LINE>he wants to remember<LINE>that he was at the bottom in the past.
-I face my POKéMON,<LINE>and we share our real feelings.<LINE>Sometimes that's what I do<LINE>in this POKéMON Gym.
+I face my POKéMON,<LINE>and we share our real feelings.<LINE>Sometimes that's what I do<LINE>in this POKéMON GYM.
 Right now, my POKéMON and I<LINE>both feel the sting of defeat!
 When we lose,<LINE>I apologize to my POKéMON…<LINE>It is important for our future,<LINE>and it helps me grow strong!
 Wow! You are so strong!<LINE>Congratulations!
@@ -631,7 +631,7 @@ When you're not sure if you'll succeed,<LINE>build momentum and take a leap!<LIN
 The slippery frozen floor is perfect<LINE>for improving your sense of balance!
 I slipped and lost!
 BRYCEN slides on the frozen floor<LINE>all the time, so it's worn down, and<LINE><LINE>it looks like you can see the path…<LINE><LINE>but maybe I'm imagining it.
-Well, well, if you are feeling dizzy<LINE>because of the Gym machines,<LINE><LINE>I will stand in your path!
+Well, well, if you are feeling dizzy<LINE>because of the GYM machines,<LINE><LINE>I will stand in your path!
 Oh, dear me!
 Being fired into the air by cannons<LINE>and spinning on the ice many times…<LINE><LINE>It's difficult to get Badges.
 I always calm myself and choose<LINE>the critical moment in a battle.
@@ -718,15 +718,15 @@ When I've been happy or sad,<LINE>the POKéMON have always been with me.<LINE>I 
 CELESTIAL TOWER means a perfect tower!<LINE>Oh, never mind.<LINE>Let's have a POKéMON battle.
 You're really perfect!
 I am far from perfect…
-POKéMON that grew up in Unova and<LINE>POKéMON that grew up elsewhere--<LINE><LINE>both rest here quietly.
+POKéMON that grew up in UNOVA and<LINE>POKéMON that grew up elsewhere--<LINE><LINE>both rest here quietly.
 Your POKéMON are full of life!
-POKéMON that grew up in Unova and<LINE>POKéMON that grew up elsewhere--<LINE><LINE>all are precious POKéMON…
+POKéMON that grew up in UNOVA and<LINE>POKéMON that grew up elsewhere--<LINE><LINE>all are precious POKéMON…
 I will guess what you are…<LINE>You are…<LINE>a POKéMON Trainer!
 What was that?<LINE>I guessed what you were, though.
 Everyone can make the effort<LINE>to understand their opponent.
-The Dragon Gym in OPELUCID CITY<LINE>is where tough Trainers show<LINE><LINE>they can carve out their own path!
+The Dragon GYM in OPELUCID CITY<LINE>is where tough Trainers show<LINE><LINE>they can carve out their own path!
 I'm sure you can carve out<LINE>your own path!
-As the name suggests,<LINE>a GYM LEADER is the top of a Gym!<LINE>The Leader is top of the heap<LINE>at this OPELUCID Gym!<LINE>If you want to meet the Leader,<LINE>climb up on the dragons' backs<LINE><LINE>and aim for the top floor!
+As the name suggests,<LINE>a GYM LEADER is the top of a GYM!<LINE>The LEADER is top of the heap<LINE>at this OPELUCID GYM!<LINE>If you want to meet the LEADER,<LINE>climb up on the dragons' backs<LINE><LINE>and aim for the top floor!
 Do you understand<LINE>how the dragons' heads move?
 You're strong! I guess you want to know<LINE>about the dragons' heads pretty badly.
 The dragons' arms go up and down…<LINE>And depending on the arms,<LINE>the dragons' heads turn right and left<LINE><LINE>and move up and down, too.<LINE>Listen! Here is a hint!<LINE>If both arms point down,<LINE>the dragon's head sinks down, too.
@@ -735,8 +735,8 @@ You are bringing out your POKéMON's<LINE>full potential!
 I am a Trainer. <LINE>I don't have to get strong myself.<LINE>All I have to do is to support POKéMON<LINE>so that they can fight at their best.
 By any chance,<LINE>are you unsure of what to do?
 What is this?<LINE>I felt your confidence.
-The dragons in this Gym<LINE>can be elevators, too!
-I will tell a Trainer who beats me<LINE>how to move forward in this Gym!
+The dragons in this GYM<LINE>can be elevators, too!
+I will tell a Trainer who beats me<LINE>how to move forward in this GYM!
 Wow! <LINE>You beat me!
 Jump from a triangle mark!<LINE>When you land on a switch on an arm,<LINE>the dragon's head will move,<LINE><LINE>and you can move ahead!
 Are you happy just hanging out<LINE>with POKéMON?<LINE><LINE>Or do they have to be strong?<LINE><LINE>We'll see which type you are!
@@ -751,7 +751,7 @@ Do you like challenges…?<LINE>If you take a challenge,<LINE>you can find somet
 Argh…<LINE>My heart aches!
 We have ten years' experience battling!<LINE>I give you a taste of a Veteran's skill!
 I guess the time spent<LINE>is not everything!
-Getting stronger…<LINE>is like walking down a road<LINE>that never ends,<LINE><LINE>no matter how much you fight…<LINE>It's what this Dragon Gym is about.<LINE>It's the secret of the dragons' backs…
+Getting stronger…<LINE>is like walking down a road<LINE>that never ends,<LINE><LINE>no matter how much you fight…<LINE>It's what this Dragon GYM is about.<LINE>It's the secret of the dragons' backs…
 I've heard about you.<LINE>I heard you work POKéMON hard!
 Yes, I heard you are strong.<LINE>You match what I heard exactly.
 To get to a lower level, stand still<LINE>in the midst of quicksand.<LINE>I'm not being kind…<LINE>My companions will defeat you.
@@ -763,7 +763,7 @@ If I don't have POKéMON,<LINE>I won't lose like this!
 How dare you interrupt us<LINE>without understanding us?
 We fight for the young king…<LINE>That's it!
 My king…<LINE>I am so sorry.
-Everything changes.<LINE>Unova will also be born again.<LINE><LINE>Why don't you admit that?
+Everything changes.<LINE>UNOVA will also be born again.<LINE><LINE>Why don't you admit that?
 You can't change the world<LINE>without a little pain!
 Ouch…<LINE>I don't like pain.
 We're trying so hard to change the world<LINE>because nobody else is trying. Yet…<LINE>That's right! You! Can you understand<LINE>our lord N's feelings?
@@ -920,7 +920,7 @@ Aghhhhh. Why didn't I bring a camera,<LINE>or a notebook for an autograph?
 Sports and juggling are the same.<LINE>You must entertain the audience!<LINE><LINE>I will show you the fruits of my practice.
 While I am having a POKéMON battle,<LINE>I catch ten balls!
 I have mastered the technique,<LINE>but I cannot use it!<LINE><LINE>I just have to have real battles!
-That incredibly flashy dorm,<LINE>and squealing cheerleaders all around…<LINE>Grrr…<LINE>I am envious!
+That incredibly flashy dorm,<LINE>and squealing cheerLEADERs all around…<LINE>Grrr…<LINE>I am envious!
 What is so great about popular athletes?<LINE>What is bad about martial artists?
 A run-down dojo, and a lot of shouts like<LINE>hai-ya and kee-up…<LINE>If I had known this before, I would have<LINE>been a different kind of athlete.
 When I grow up,<LINE>I will be a pro athlete!
@@ -953,7 +953,7 @@ My darling is a Janitor!<LINE>He cleans this entire big place<LINE><LINE>by hims
 Games in the rain look extra tough,<LINE>don't they?<LINE>I wonder what POKéMON battles<LINE>in rain are like.
 Well, this place is indoors,<LINE>so they don't get rained out.
 If a stadium has a roof, <LINE>they can play a game anytime!
-Hey! It's me! It's me!<LINE>I am the best Pilot in Unova!
+Hey! It's me! It's me!<LINE>I am the best Pilot in UNOVA!
 You! You are daring!<LINE>Be my apprentice!
 A once-in-a-lifetime flight!<LINE>Fly, fly, and fly away!
 Do you want to know<LINE>how the VIP seats are?<LINE>I will tell you<LINE>if you win against me!
@@ -1244,7 +1244,7 @@ If the king of TEAM PLASMA rules the<LINE>world, Trainers will disappear, and<LI
 We exist to serve our lord N!
 Ah!<LINE>Our lord N!
 Because there are nights,<LINE>the sun is beautiful.<LINE>Because we exist,<LINE>our king shines…
-The dawn of Unova<LINE>has faded in the distance…
+The dawn of UNOVA<LINE>has faded in the distance…
 Don't stop us!<LINE>I told you that we wouldn't stop.
 What? It looks like you can still fight!
 Even though I lost, I will still say:<LINE>Plasmaaaa, go Plasmaaaa!
@@ -1448,7 +1448,7 @@ To battle well in a Double Battle,<LINE>we have to know<LINE><LINE>our partner's
 We fight as a duo.<LINE>So you need at least two POKéMON.
 I was checking for POKéMON<LINE>around here just now,<LINE><LINE>but I am also interested in you.
 Oh! <LINE>What interesting POKéMON!
-Even similar POKéMON will have<LINE>different behavior and appearances<LINE><LINE>in Unova and other regions.
+Even similar POKéMON will have<LINE>different behavior and appearances<LINE><LINE>in UNOVA and other regions.
 I was checking the landscape<LINE>around here just now,<LINE><LINE>but I am also interested in you.
 Oh, my!<LINE>What an interesting Trainer!
 The unevenness of this landscape…<LINE>We can tell that the flow of a river<LINE><LINE>created the undulation.
@@ -1628,8 +1628,8 @@ If you have the move Dive,<LINE>you can dive and sink!
 Blub, blub, blub…<LINE>…I am sinking.
 Have your POKéMON<LINE>learned the move Dive?<LINE>Dive is good! Great!<LINE>'Cause it's Dive!
 I just love swimming, so I have only<LINE>fought against wild POKéMON.
-I guess people get strong<LINE>by visiting Gyms!
-OK! I will challenge POKéMON in Gyms<LINE>all over the world!<LINE>Where do I find Water-type Gyms…<LINE>Kanto, Hoenn, and Sinnoh, right?
+I guess people get strong<LINE>by visiting GYMs!
+OK! I will challenge POKéMON in GYMs<LINE>all over the world!<LINE>Where do I find Water-type GYMs…<LINE>Kanto, Hoenn, and Sinnoh, right?
 My POKéMON and I are always swimming.<LINE>Of course, I can battle while swimming!
 I lost. But I'm still cool, because not many<LINE>people can say they battled while swimming!
 They say a temple sank<LINE>to the ocean floor in UNDELLA!
@@ -1738,13 +1738,13 @@ I lost, but I am happy!<LINE>Because I have learned a few things!
 Thinking about being happy<LINE>and making happiness a reality…<LINE><LINE>This is also science.
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge, I can bring out<LINE>the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of Gym Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge, I can bring out<LINE>the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of Gym Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge,<LINE>I can bring out the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of Gym Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
 My POKéMON and me!<LINE>We trained and got tough!
 Ooohhh…<LINE>Am I in trouble?
 I trained with IRIS…<LINE>But I still couldn't win…

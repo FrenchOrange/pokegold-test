@@ -1,2 +1,2 @@
-It's a subway map of the Unova region.
+It's a subway map of the UNOVA region.
 This is the platform for the train to<LINE>ANVILLE TOWN.

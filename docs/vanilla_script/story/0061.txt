@@ -1,12 +1,12 @@
 GHETSIS: My word, if it isn't<LINE>the GYM LEADER, BURGH.
 BURGH: So, what would you say is the<LINE>guiding principle of TEAM PLASMA, anyway?<LINE>“Take what you want from people"?
-Bronius: I thought it would be amusing<LINE>to prepare a hideout right in front of a<LINE><LINE>POKéMON Gym, but we were detected<LINE><LINE>more quickly than I imagined.
-GHETSIS: Indeed…<LINE>No matter. We already have an<LINE>exceptional base of operations.<LINE>Is everyone familiar with the legend<LINE>of the founding of the Unova region?
+Bronius: I thought it would be amusing<LINE>to prepare a hideout right in front of a<LINE><LINE>POKéMON GYM, but we were detected<LINE><LINE>more quickly than I imagined.
+GHETSIS: Indeed…<LINE>No matter. We already have an<LINE>exceptional base of operations.<LINE>Is everyone familiar with the legend<LINE>of the founding of the UNOVA region?
 IRIS: I am! It's the white<LINE>Dragon-type POKéMON, right?
 IRIS: I am! It's the black<LINE>Dragon-type POKéMON, right?
-GHETSIS: The truth is this…<LINE>The white dragon appeared before a hero<LINE>who sought the true way to knit together<LINE><LINE>a world full of many warring people.<LINE>This white Dragon-type POKéMON shared<LINE>its knowledge--and bared its fangs<LINE><LINE>at those who stood against it.<LINE>Together, the power of this POKéMON and<LINE>the hero brought unity to the hearts of<LINE><LINE>everyone in the land,<LINE><LINE>and that is how Unova was created.
-GHETSIS: The truth is this…<LINE>The black dragon appeared before a hero<LINE>who sought the ideal way to knit<LINE><LINE>together a world full of warring people.<LINE>This black Dragon-type POKéMON shared<LINE>its knowledge--and bared its fangs<LINE><LINE>at those who stood against it.<LINE>Together, the power of this POKéMON and<LINE>the hero brought unity to the hearts of<LINE><LINE>everyone in the land,<LINE><LINE>and that is how Unova was created.
-We shall bring back the hero and<LINE>that POKéMON to Unova once again!<LINE>If we can win people's hearts and minds,<LINE>we can easily create the world that<LINE><LINE>I--I mean, TEAM PLASMA--desires!
+GHETSIS: The truth is this…<LINE>The white dragon appeared before a hero<LINE>who sought the true way to knit together<LINE><LINE>a world full of many warring people.<LINE>This white Dragon-type POKéMON shared<LINE>its knowledge--and bared its fangs<LINE><LINE>at those who stood against it.<LINE>Together, the power of this POKéMON and<LINE>the hero brought unity to the hearts of<LINE><LINE>everyone in the land,<LINE><LINE>and that is how UNOVA was created.
+GHETSIS: The truth is this…<LINE>The black dragon appeared before a hero<LINE>who sought the ideal way to knit<LINE><LINE>together a world full of warring people.<LINE>This black Dragon-type POKéMON shared<LINE>its knowledge--and bared its fangs<LINE><LINE>at those who stood against it.<LINE>Together, the power of this POKéMON and<LINE>the hero brought unity to the hearts of<LINE><LINE>everyone in the land,<LINE><LINE>and that is how UNOVA was created.
+We shall bring back the hero and<LINE>that POKéMON to UNOVA once again!<LINE>If we can win people's hearts and minds,<LINE>we can easily create the world that<LINE><LINE>I--I mean, TEAM PLASMA--desires!
 BURGH: Here in CASTELIA, we have<LINE>a lot of different kinds of people.<LINE>Everyone's ways of thinking and<LINE>lifestyles are very different.<LINE>Honestly, there's something about what<LINE>you're saying I don't quite understand.
 Yes?
 What is it?
@@ -17,7 +17,7 @@ That girl over there…<LINE>Return her POKéMON!
 BIANCA: Th-thank you!<LINE>Munny, I'm so glad to see you again!
 IRIS: BIANCA!<LINE>Why are you thanking them?<LINE>They take people's precious POKéMON!
 BIANCA: It's just… I'm…I'm so happy<LINE>that my Munna is safe.
-GHETSIS: The friendship between POKéMON<LINE>and people can be very touching.<LINE>But, in order to liberate POKéMON from<LINE>foolish people, we will revive the legend<LINE><LINE>of Unova--and win the hearts and minds<LINE><LINE>of everyone. Farewell…
+GHETSIS: The friendship between POKéMON<LINE>and people can be very touching.<LINE>But, in order to liberate POKéMON from<LINE>foolish people, we will revive the legend<LINE><LINE>of UNOVA--and win the hearts and minds<LINE><LINE>of everyone. Farewell…
 IRIS: What are you doing?<LINE>Why are you letting them get away?!
 BURGH: Gah!<LINE>What do we do if anything's happened<LINE>to the other stolen POKéMON?
 BIANCA: It's OK. Thank you, IRIS!<LINE>No one was hurt. More than anything,<LINE>I got my darling POKéMON back again!
@@ -32,7 +32,7 @@ IRIS: Also, thanks for looking<LINE>for the POKéMON!<LINE>Here, this is for you
 IRIS: See you!
 Wha…
 Waaait!
-BURGH: Well, then, <PLAYER>.<LINE>I'll be waiting in the Gym.
-BURGH: Well, then, <PLAYER>.<LINE>I'll be waiting in the Gym.
+BURGH: Well, then, <PLAYER>.<LINE>I'll be waiting in the GYM.
+BURGH: Well, then, <PLAYER>.<LINE>I'll be waiting in the GYM.
 
 

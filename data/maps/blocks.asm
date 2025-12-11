@@ -81,6 +81,9 @@ Route1West_Blocks:
 Route38_Blocks:
 	INCBIN "maps/Route38.blk"
 
+BiancasHouse_Blocks:
+CherensHouse_Blocks:
+AccumulaSiblingsHouse_Blocks:
 OlivineTimsHouse_Blocks:
 OlivineHouseBeta_Blocks:
 OlivinePunishmentSpeechHouse_Blocks:
@@ -100,16 +103,23 @@ CianwoodPharmacy_Blocks:
 CianwoodPhotoStudio_Blocks:
 CianwoodLugiaSpeechHouse_Blocks:
 PokeSeersHouse_Blocks:
-BiancasHouse_Blocks:
-CherensHouse_Blocks:
-CherrygroveGymSpeechHouse_Blocks:
-GuideGentsHouse_Blocks:
-CherrygroveEvolutionSpeechHouse_Blocks:
 EcruteakLugiaSpeechHouse_Blocks:
 EcruteakItemfinderHouse_Blocks:
 VioletNicknameSpeechHouse_Blocks:
 VioletKylesHouse_Blocks:
 	INCBIN "maps/House.blk"
+
+AccumulaNewlywedsCondo1F_Blocks:
+AccumulaRPSCondo1F_Blocks:
+AccumulaGreatBagCondo1F_Blocks:
+	INCBIN "maps/Condo1F.blk"
+
+AccumulaRPSCondo2F_Blocks:
+	INCBIN "maps/Condo2FOffice.blk"
+
+AccumulaNewlywedsCondo2F_Blocks:
+AccumulaGreatBagCondo2F_Blocks:
+	INCBIN "maps/Condo2FFlat.blk"
 
 NorthSouthGate_Blocks:
 	INCBIN "maps/NorthSouthGate.blk"

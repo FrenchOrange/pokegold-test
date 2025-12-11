@@ -24,11 +24,12 @@ AccumulaTown_MapEvents:
 
 	def_warp_events
 	warp_event 13, 13, ACCUMULA_POKECENTER_1F, 1
-	warp_event  7,  5, CHERRYGROVE_EVOLUTION_SPEECH_HOUSE, 1
-	warp_event  3,  5, CHERRYGROVE_GYM_SPEECH_HOUSE, 1
-	warp_event  1, 15, GUIDE_GENTS_HOUSE, 1
+	warp_event  7,  5, ACCUMULA_GREAT_BAG_CONDO_1F, 1
+	warp_event  3,  5, ACCUMULA_RPS_CONDO_1F, 1
+	warp_event  1, 15, ACCUMULA_NEWLYWEDS_CONDO_1F, 1
 	warp_event  0,  6, ROUTE_2_GATE, 1
 	warp_event  0,  7, ROUTE_2_GATE, 2
+	warp_event 13,  5, ACCUMULA_SIBLINGS_HOUSE, 1
 
 	def_coord_events
 

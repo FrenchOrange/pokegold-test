@@ -36,7 +36,7 @@ Koji  Kawada
 Genya  Hosaka
 Battle  System  Programming
 Masao  Taya
-Gym--Main  Programming
+GYM--Main  Programming
 Nozomu  Saito
 Rail  System  Programming
 Tomoya  Takahashi

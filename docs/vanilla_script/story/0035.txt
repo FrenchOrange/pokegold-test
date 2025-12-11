@@ -1,4 +1,4 @@
-BURGH: That way!<LINE>M'hm. Toward the Gym?!
+BURGH: That way!<LINE>M'hm. Toward the GYM?!
 Hey, Trainer!<LINE>Show me your paces!<LINE>Give me a whirl!
 All riiight!<LINE>A fight is like a dance!
 Come on, man!<LINE>You gotta go with the flow!

@@ -306,9 +306,13 @@ ENDM
 	newgroup VIRIDIAN                                             ; 23
 	map_const ACCUMULA_TOWN,                                9, 10 ;  1
 	map_const ACCUMULA_POKECENTER_1F,                       7,  4 ;  2
-	map_const CHERRYGROVE_GYM_SPEECH_HOUSE,                 4,  4 ;  3
-	map_const GUIDE_GENTS_HOUSE,                            4,  4 ;  4
-	map_const CHERRYGROVE_EVOLUTION_SPEECH_HOUSE,           4,  4 ;  5
+	map_const ACCUMULA_RPS_CONDO_1F,                        6,  4 ;  3
+	map_const ACCUMULA_RPS_CONDO_2F,                        6,  4 ;  4
+	map_const ACCUMULA_GREAT_BAG_CONDO_1F,                  6,  4 ;  5
+	map_const ACCUMULA_GREAT_BAG_CONDO_2F,                  6,  4 ;  6
+	map_const ACCUMULA_NEWLYWEDS_CONDO_1F,                  6,  4 ;  7
+	map_const ACCUMULA_NEWLYWEDS_CONDO_2F,                  6,  4 ;  8
+	map_const ACCUMULA_SIBLINGS_HOUSE,                      4,  4 ;  9
 	endgroup
 
 	newgroup NEW_BARK                                             ; 24

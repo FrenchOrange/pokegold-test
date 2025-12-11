@@ -36,7 +36,7 @@ Cancel
 Yes
 No
 Info
-Become leader
+Become LEADER
 Join group
 Cancel
 
@@ -49,7 +49,7 @@ Infrared Communication
 DS Wireless Communications
 
 Would you like to launch<LINE>Infrared Communication and<LINE><LINE>DS Wireless Communications?
-One of you will become the leader.<LINE>That person will get to choose the show<LINE><LINE>you'll perform!<LINE>The other members should select<LINE>“Join group."
+One of you will become the LEADER.<LINE>That person will get to choose the show<LINE><LINE>you'll perform!<LINE>The other members should select<LINE>“Join group."
 Launch DS Wireless Communications?
 Thank you for waiting.<LINE>This way, please!\xf000븂\x0001<
 Participate in the musical?
@@ -61,7 +61,7 @@ What would you like me to explain?
 What's the POKéMON Musical?
 The POKéMON Musical is a show where<LINE>POKéMON wearing Props perform on stage.<LINE><LINE>Anyone can participate!<LINE>We encourage all Trainers to show the<LINE>world how charming their POKéMON are!<LINE>The audience is looking forward to seeing<LINE>how you Dress Up your POKéMON, and how<LINE><LINE>your POKéMON perform!
 How to Participate
-You can join the musical from any of the<LINE>three reception areas.<LINE>The reception area in the center is for<LINE>participating alone.<LINE>When you participate alone, you will<LINE>be joined by other Trainers from around<LINE><LINE>the Unova region.<LINE>If you want to put on a musical with your<LINE>friends, go to the left reception area.<LINE>You'll be asked to pick a Leader who<LINE>will choose which show to perform,<LINE><LINE>and the others will join the group.<LINE>The reception area to the right is where<LINE>you go to Dress Up only.
+You can join the musical from any of the<LINE>three reception areas.<LINE>The reception area in the center is for<LINE>participating alone.<LINE>When you participate alone, you will<LINE>be joined by other Trainers from around<LINE><LINE>the UNOVA region.<LINE>If you want to put on a musical with your<LINE>friends, go to the left reception area.<LINE>You'll be asked to pick a LEADER who<LINE>will choose which show to perform,<LINE><LINE>and the others will join the group.<LINE>The reception area to the right is where<LINE>you go to Dress Up only.
 Eligible POKéMON
 The POKéMON that will participate in the<LINE>musical are chosen from your party at<LINE><LINE>the reception area.<LINE>Because of their shape, some POKéMON<LINE>have a hard time wearing certain Props.<LINE>You might want to try Dress Up in the<LINE>changing room first if you're worried!
 Dress Up

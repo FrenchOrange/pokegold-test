@@ -11,7 +11,7 @@ CYNTHIA: How terrific to see you again!<LINE>I've got to tell you…<LINE>My POK
 CYNTHIA: This will be such fun!<LINE>No holds barred!
 CYNTHIA: Oh, what a pity.<LINE>Summers in UNDELLA TOWN make me feel like<LINE>I'm on holiday. I forget about battling!<LINE>But in spring, I feel like getting<LINE>worked up with a good battle.
 CYNTHIA: I can tell that my POKéMON are<LINE>excited about battling your POKéMON…<LINE>Would you care to be my opponent?
-CYNTHIA: For some reason, this reminds me<LINE>of a time when I told a Trainer like you<LINE><LINE>to go see many, many more places<LINE><LINE>and to meet many more POKéMON.<LINE>For me, it has really been worthwhile to<LINE>come all the way to far Unova.<LINE>Why? Because…<LINE>I met you, and my world got wider!
+CYNTHIA: For some reason, this reminds me<LINE>of a time when I told a Trainer like you<LINE><LINE>to go see many, many more places<LINE><LINE>and to meet many more POKéMON.<LINE>For me, it has really been worthwhile to<LINE>come all the way to far UNOVA.<LINE>Why? Because…<LINE>I met you, and my world got wider!
 CYNTHIA: To live their lives to the<LINE>fullest, people and POKéMON need<LINE><LINE>the chance to throw themselves into<LINE><LINE>battle against the fiercest opposition.<LINE>That's why I want to battle you.<LINE>How about it?
 CYNTHIA: As our POKéMON meet in battle,<LINE>I'll learn more about you<LINE><LINE>and how you've taken care of them.
 CYNTHIA: I'm a little disappointed.<LINE>I know you can battle on bigger<LINE>stages than you've done so far!<LINE>It's so plain to me that your light can<LINE>shine brighter than this…

@@ -1,5 +1,5 @@
-Hey! Trainer!<LINE>There is a bit of a problem up ahead.<LINE>Sorry, but you can't pass now.<LINE>You should go kill some time by<LINE>challenging the CASTELIA CITY Gym!
-Hey! Trainer!<LINE>There is a bit of a problem up ahead.<LINE>Sorry, but you can't pass now.<LINE>You should go kill some time by<LINE>challenging the CASTELIA CITY Gym!
+Hey! Trainer!<LINE>There is a bit of a problem up ahead.<LINE>Sorry, but you can't pass now.<LINE>You should go kill some time by<LINE>challenging the CASTELIA CITY GYM!
+Hey! Trainer!<LINE>There is a bit of a problem up ahead.<LINE>Sorry, but you can't pass now.<LINE>You should go kill some time by<LINE>challenging the CASTELIA CITY GYM!
 Deep in the desert ahead of here,<LINE>at the DESERT RESORT,<LINE><LINE>there are some ruins that have<LINE><LINE>become a little tourist destination!
 CHEREN: I believe it would be wise for me<LINE>to catch some Ground-type POKéMON.<LINE>Or perhaps I should strengthen my<LINE>POKéMON. What's my best path forward?
 CHEREN: Hey, <PLAYER>.<LINE>I've been waiting for you to get<LINE>the Insect Badge.<LINE>And now it's time to see which one of us<LINE>is the stronger Trainer!

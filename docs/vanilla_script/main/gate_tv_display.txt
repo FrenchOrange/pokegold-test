@@ -12,22 +12,22 @@
 ◇ “Run and battle! Trains never stop!" Battle Subway in NIMBASA CITY
 ◇ “Take your first step to stardom." Musical in NIMBASA CITY
 ◇ “We deliver to you what winds and waves have brought to us." DRIFTVEIL Market
-◇ “The biggest shopping area in the entire Unova region. There's nothing you can't buy!" Shopping Mall Nine
+◇ “The biggest shopping area in the entire UNOVA region. There's nothing you can't buy!" Shopping Mall Nine
 ◇ The garden full of green makes you feel warm inside.
 ◇ Next to the city is a Day Care, which many Trainers visit.
 ◇ You can learn the basics of POKéMON at the Trainers' School.
 ◇ NACRENE CITY is characterized by its stone pavement and warehouses.
 ◇ POKéMON research at the museum starts with their bones.
-◇ NACRENE Gym is a museum where battles and knowledge are pursued.
+◇ NACRENE GYM is a museum where battles and knowledge are pursued.
 ◇ Many young artists use the warehouses as their studios.
 ◇ The theme of the museum is the comparison between culture and nature.
 ◇ NACRENE CITY has produced many famous artists.
 ◇ Until recently, CASTELIAcones were a local secret. Now, they're everyone's favorite!
 ◇ The ships that depart the piers of CASTELIA CITY go to different places.
-◇ CASTELIA CITY is an exciting place, and its Gym is no exception!
+◇ CASTELIA CITY is an exciting place, and its GYM is no exception!
 ◇ The fountain in the center of town is said to be the hub that connects people.
 ◇ Artists from all over the world come to CASTELIA CITY to open their art galleries.
-◇ When it comes to buildings, shops, and people, CASTELIA CITY is number one in the Unova region.
+◇ When it comes to buildings, shops, and people, CASTELIA CITY is number one in the UNOVA region.
 ◇ CASTELIA CITY's skyline looks totally different at night.
 ◇ CASTELIA CITY offers many cultures and foods from other regions.
 ◇ There is a place where passersby answer survey questions.
@@ -113,14 +113,14 @@
 ◇ WHITE FOREST is a place full of wide stretches of natural growth.
 ◇ The people love nature and live in complete harmony with it.
 ◇ BLACK CITY is a place full of tall buildings and civilization.
-◇ This place strives to be the most advanced city in the Unova region.
+◇ This place strives to be the most advanced city in the UNOVA region.
 ◇ People gather to constantly develop and expand BLACK CITY.
 ◇ Many of the city's Trainers are highly competitive.
 ◇ An ongoing project is developing a huge market in the city.
 ◇ Immigration to BLACK CITY changes the logistics and the products available.
 ◇ Many people would like to live in the city, and the population is constantly changing.
 ◇ BLACK CITY is a place full of tall buildings and civilization.
-◇ This place strives to be the most advanced city in the Unova region.
+◇ This place strives to be the most advanced city in the UNOVA region.
 ◇ This is a prime sightseeing spot for tourists who love ruins.
 ◇ The desert is harsh and vast. Please prepare yourself before attempting to cross it.
 ◇ Beware! Vast sandstorms can cover the entire desert.

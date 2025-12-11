@@ -12,8 +12,8 @@ N: \xf000븉\x0001\x0001You came all this way to battle me…<LINE>But Reshiram 
 \xf000븉\x0001\x0001You have two options.<LINE>Challenge me to a fight you can't win,<LINE>or leave this place and watch the birth<LINE><LINE>of a new world where POKéMON<LINE><LINE>are free of people!\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Reshiram! Come to me!\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Zekrom! Come to me!\xf000븉\x0001\x0000
-The Dark Stone…<LINE>It's trembling inside the Bag!
-The Light Stone…<LINE>It's trembling inside the Bag!
+The Dark Stone…<LINE>It's trembling inside the BAG!
+The Light Stone…<LINE>It's trembling inside the BAG!
 N: \xf000븉\x0001\x0001Your Dark Stone is…<LINE>I mean, Zekrom is…\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Your Light Stone is…<LINE>I mean, Reshiram is…\xf000븉\x0001\x0000
 The Dark Stone draws in the aura of<LINE>the surroundings and converts it into<LINE><LINE>a powerful force, which is…now…<LINE>Being released!

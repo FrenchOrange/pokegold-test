@@ -30,12 +30,12 @@ Gorm: I am one of the Seven Sages<LINE>of TEAM PLASMA.<LINE>GHETSIS, another of 
 To secure the liberation of POKéMON,<LINE>we will steal POKéMON from Trainers!<LINE>Even though you are GYM LEADERs,<LINE>we will not tolerate any further<LINE><LINE>obstruction from you.<LINE>In any case, we will settle this someday.<LINE>I hope you are looking forward<LINE>to that time as much as I…
 LENORA: They're a speedy bunch.<LINE>What are you planning to do, BURGH?<LINE>Are you going to chase them?
 BURGH: Hmmm…<LINE>We got back the stolen skull,<LINE>and if we corner them, there's<LINE><LINE>no telling what they might do.<LINE>I think I'll be heading back, LENORA…
-Well, now. Well…<LINE>I'll be waiting for your challenge at<LINE><LINE>CASTELIA CITY's POKéMON Gym.<LINE>Yes, indeed.<LINE>I'm certainly looking forward to it!
+Well, now. Well…<LINE>I'll be waiting for your challenge at<LINE><LINE>CASTELIA CITY's POKéMON GYM.<LINE>Yes, indeed.<LINE>I'm certainly looking forward to it!
 LENORA: <PLAYER>!<LINE>You're holding the Dragon Skull you<LINE>worked so hard to get back, right?
 <PLAYER> gave the<LINE>\xf000ĉ\x0001\x0001 to LENORA!
 LENORA: <PLAYER>, thank you so much.<LINE>With a kind Trainer like you<LINE>taking care of them, the POKéMON<LINE><LINE>with you must be happy.<LINE>Here is a token of my gratitude.<LINE>Please use it carefully!
 LENORA: This is a Moon Stone!<LINE>Some POKéMON evolve when you<LINE>use this item on them.<LINE>Now, I must take the Dragon Skull<LINE>back to the museum!<LINE>See you! Take care of yourself!
-I run every day!<LINE>My goal is to be the marathon champion<LINE><LINE>of the Unova region!
+I run every day!<LINE>My goal is to be the marathon champion<LINE><LINE>of the UNOVA region!
 The trees cut on this forest road are<LINE>sent from DRIFTVEIL CITY to the world.
 Have you heard of phytoncides?<LINE>I don't really understand, but I heard<LINE>that the reason forests make you<LINE><LINE>feel good is phytoncides!
 Hmm… I can feel it…<LINE>The presence of fierce POKéMON.

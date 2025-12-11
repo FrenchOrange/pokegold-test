@@ -34,7 +34,7 @@ This GYM LEADER's comments helped me<LINE>wake up.<LINE>BIANCA, I'm sure it's be
 BIANCA: Papa, I'll come home after<LINE>I find out what I really want to do!
 ELESA: I'm sure he traveled<LINE>as a Trainer himself, in the past…<LINE><LINE>Being a parent must be hard.
 Did I meddle unnecessarily?<LINE>You looked troubled, so<LINE>I decided to chime in.
-By the way, if you're Trainers, please<LINE>stop by the POKéMON Gym.<LINE>I'll teach you a little something about<LINE>how tough a journey can get.
+By the way, if you're Trainers, please<LINE>stop by the POKéMON GYM.<LINE>I'll teach you a little something about<LINE>how tough a journey can get.
 I'm sorry, <PLAYER>.<LINE>I'll be waiting on ROUTE 5.
 BIANCA: She's so cool! Hah!<LINE>I want to be a totally cool woman<LINE><LINE>like ELESA!<LINE>Mm. I wonder how I'll get there.<LINE>Well, before that, I guess I need to<LINE>discover what I really want to do!<LINE><LINE>See you later, <PLAYER>!
 We athletes and our POKéMON<LINE>show excellent teamwork!<LINE>You can see it at Big Stadium and<LINE>Small Court, so please stop by!
@@ -44,7 +44,7 @@ Coming to flashy NIMBASA CITY makes<LINE>me feel light and happy, as if I were<L
 There are performers<LINE>crowding around ROUTE 5.<LINE>Seeing all the fun the POKéMON and<LINE>Trainers are having fills me with energy!
 I was a good girl, so I got to<LINE>go to the amusement park!
 Ferris wheel! Ferris wheel!<LINE>I love Ferris wheels!
-NIMBASA's POKéMON Gym is<LINE>in the amusement park!<LINE>No doubt it has a surprising gimmick!
+NIMBASA's POKéMON GYM is<LINE>in the amusement park!<LINE>No doubt it has a surprising gimmick!
 I won!<LINE>Then I lost…
 Gear Station has trains where<LINE>you can battle other Trainers.<LINE><LINE>The Battle Subway!
 You're a Trainer, aren't you?<LINE>Please just accept this without a word!

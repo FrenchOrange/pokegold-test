@@ -11,9 +11,9 @@ PROFESSOR JUNIPER: As for why I gave all<LINE>of you POKéMON…
 CHEREN: It's for the POKéDEX, right?
 BIANCA: POKéDEX?
 PROFESSOR JUNIPER: I am astonished.<LINE>Nice work, CHEREN!<LINE>You have already studied POKéMON<LINE>extensively, haven't you?<LINE>Still, let me explain everything from the<LINE>beginning, for everyone's sake.
-The POKéDEX is a high-tech device that<LINE>automatically records the POKéMON<LINE><LINE>you encounter!<LINE>So, I want you three to visit many<LINE>places and meet all of the POKéMON<LINE><LINE>in the Unova region!
+The POKéDEX is a high-tech device that<LINE>automatically records the POKéMON<LINE><LINE>you encounter!<LINE>So, I want you three to visit many<LINE>places and meet all of the POKéMON<LINE><LINE>in the UNOVA region!
 This is my request.<LINE><PLAYER>!<LINE>CHEREN! BIANCA!<LINE>You'll go on an adventure to<LINE>complete the POKéDEX, will you not?
-PROFESSOR JUNIPER: Here is what I need<LINE>from you!<LINE>What I want to hear are the courageous<LINE>words of people who will blaze new<LINE><LINE>paths around the world!<LINE>I want you three to travel to many<LINE>distant places and meet all of the<LINE><LINE>POKéMON in the Unova region!
+PROFESSOR JUNIPER: Here is what I need<LINE>from you!<LINE>What I want to hear are the courageous<LINE>words of people who will blaze new<LINE><LINE>paths around the world!<LINE>I want you three to travel to many<LINE>distant places and meet all of the<LINE><LINE>POKéMON in the UNOVA region!
 BIANCA: OK!<LINE>I mean… Yes, PROFESSOR!
 CHEREN: Thank you very much.<LINE>Because of you, I can become a POKéMON<LINE>Trainer, exactly as I've always wished.
 PROFESSOR JUNIPER: All of you, thanks!<LINE>You have given me the best<LINE>possible answer!
@@ -24,7 +24,7 @@ CHEREN: Of course.<LINE>We can travel however we want<LINE>while we complete the
 BIANCA: For some reason,<LINE>my heart is pounding, <PLAYER>.<LINE>What are you and <POKEMON> going to do?
 CHEREN: Finally, I can become<LINE>a POKéMON Trainer.<LINE>I'll have real battles with other<LINE>Trainers and get stronger. Wait and see!
 PROFESSOR JUNIPER: Why, hello,<LINE><PLAYER>! How have you been lately?
-CEDRIC: Hey, <PLAYER>!<LINE>Are you meeting lots of POKéMON?<LINE>There really are lots of POKéMON<LINE>in the Unova region and the<LINE><LINE>rest of the world!
+CEDRIC: Hey, <PLAYER>!<LINE>Are you meeting lots of POKéMON?<LINE>There really are lots of POKéMON<LINE>in the UNOVA region and the<LINE><LINE>rest of the world!
 
 
 
@@ -32,8 +32,8 @@ CEDRIC: Hey, <PLAYER>!
 Skreet! Skreet!
 BIANCA: PROFESSOR JUNIPER is<LINE>letting me help out.<LINE>When I was looking at my POKéDEX,<LINE>I realized something…<LINE>I met so many POKéMON during my journey.<LINE>I just want to learn more and more<LINE>and more about the little darlings!
 Oh yeah! That's right.<LINE><PLAYER>, do you know<LINE>about massive outbreaks of POKéMON?
-BIANCA: I knew you'd know, <PLAYER>!<LINE>I'm sure you also know that lots of a<LINE>certain POKéMON appear in the grass all<LINE><LINE>over, and that if you look at the electric<LINE><LINE>signs in the ROUTE gates, you can see<LINE><LINE>where the mass outbreaks are happening<LINE><LINE>in the Unova region!
-BIANCA: Tee-hee!<LINE>OK, then, I'll tell you about it.<LINE>First of all, lots of a certain POKéMON<LINE>appear in the grass all over.<LINE>If you look at the electric signs in the<LINE>ROUTE gates, you can see where the<LINE><LINE>mass outbreaks are happening in the<LINE><LINE>Unova region! Isn't that amazing!
+BIANCA: I knew you'd know, <PLAYER>!<LINE>I'm sure you also know that lots of a<LINE>certain POKéMON appear in the grass all<LINE><LINE>over, and that if you look at the electric<LINE><LINE>signs in the ROUTE gates, you can see<LINE><LINE>where the mass outbreaks are happening<LINE><LINE>in the UNOVA region!
+BIANCA: Tee-hee!<LINE>OK, then, I'll tell you about it.<LINE>First of all, lots of a certain POKéMON<LINE>appear in the grass all over.<LINE>If you look at the electric signs in the<LINE>ROUTE gates, you can see where the<LINE><LINE>mass outbreaks are happening in the<LINE><LINE>UNOVA region! Isn't that amazing!
 I have to study lots of POKéMON<LINE>research, but I don't mind. This is<LINE><LINE>the answer I found during my adventure!<LINE><LINE>It's actually a lot of fun!<LINE>And I have an idea! Every now and then,<LINE>come have a POKéMON battle with me, OK?<LINE>'Cause by doing that, I'll learn<LINE>a lot more about POKéMON!
 BIANCA: <PLAYER>, did you know this?<LINE>If you give a POKéMON called Feebas<LINE>a Prism Scale and trade it with someone,<LINE><LINE>apparently it evolves.<LINE>Isn't that amazing?<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
 BIANCA: <PLAYER>, did you know this?<LINE>In PINWHEEL FOREST, there is a rock<LINE>that's covered in moss.<LINE>It might be related to the rock, I dunno,<LINE>but there is a POKéMON that evolves<LINE><LINE>when it levels up in PINWHEEL FOREST!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?

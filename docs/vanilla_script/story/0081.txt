@@ -72,7 +72,7 @@ No clumsy gimmicks…<LINE>No unnecessary items…<LINE>The only thing you can r
 Over 100 straight victories…<LINE>If this is all due to your strength,<LINE>you're even a match for the Champion.
 The strength of the Trainers on<LINE>the Super Train is beyond imagination!
 I had a taste of it…<LINE>The rush of battle…<LINE>I shouldn't…<LINE>It's too wild…<LINE>But at this rate, I'm going to<LINE>end up on the path of battlers…
-Howdy! I'm a genius Pilot!<LINE>Unova's finest!<LINE>And I'm comin' in first here, too!
+Howdy! I'm a genius Pilot!<LINE>UNOVA's finest!<LINE>And I'm comin' in first here, too!
 I've seen elite Trainers like me<LINE>all over the place, but…<LINE>Seems like the battles will be tough<LINE>from here on.
 Even for an elite Trainer such as myself,<LINE>it's starting to get hard.
 Hey, how are you doing?<LINE>I'm still going strong!
@@ -115,5 +115,5 @@ Winning battles feels good, but I've<LINE>traveled quite far…I wonder if I can
 I finally have a 49-battle win streak.<LINE>If I can do this well at work, I wonder<LINE>if I can get promoted…
 Both you and I have won more than<LINE>100 straight battles!<LINE>I may have too much time on my hands,<LINE>but so do you.<LINE>Take this to commemorate our meeting of<LINE>two similar people!
 It's a really precious Berry, but I don't<LINE>know how to use it other than to eat it<LINE><LINE>as a snack…
-It's a subway map of the Unova region.
+It's a subway map of the UNOVA region.
 Communicating. Please stand by…

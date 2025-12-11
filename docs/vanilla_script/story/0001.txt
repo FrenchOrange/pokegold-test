@@ -1,5 +1,5 @@
 \xf000봂\x0000PLAYER: <PLAYER>
-\xf000봂\x0000This document certifies that<LINE>\xf000봂\x0000you have made the great<LINE>\xf000봂\x0000achievement of catching all<LINE>\xf000봂\x0000the POKéMON in the Unova region.
+\xf000봂\x0000This document certifies that<LINE>\xf000봂\x0000you have made the great<LINE>\xf000봂\x0000achievement of catching all<LINE>\xf000봂\x0000the POKéMON in the UNOVA region.
 
 \xf000봂\x0000GAME FREAK<LINE>\xf000봂\x0000All the staff
 PLAYER: <PLAYER>

@@ -3,4 +3,4 @@ I have a lost-and-found item<LINE>that no one has claimed.<LINE>If you don't min
 Oh! I've been waiting for you!<LINE>Recently, we've gotten more passengers,<LINE>so there's more lost-and-found items!<LINE>No one has claimed this, so if you don't<LINE>mind, could you take it off my hands?
 No worries. No worries.<LINE>Just take it!<LINE>It's better for a Trainer to use it than<LINE>for me to hold on to it.<LINE>I'm sure the item is happier, too!
 If I have another lost-and-found<LINE>item, come get it, OK?<LINE>Also, if you're interested, take on the<LINE>Battle Subway in NIMBASA CITY!
-Oh, my. There's no more room for<LINE>the \xf000ĉ\x0001\x0000.<LINE>You'll need to remove some from your Bag<LINE>before you can accept any more!
+Oh, my. There's no more room for<LINE>the \xf000ĉ\x0001\x0000.<LINE>You'll need to remove some from your BAG<LINE>before you can accept any more!

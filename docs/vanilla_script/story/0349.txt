@@ -24,6 +24,6 @@ CHEREN: Incidentally, if you check your<LINE>POKéDEX, you'll see how many POKé
 The XCASTER is ringing.
 <PLAYER> picked up the XCASTER.
 CHEREN: Well, I'm going on ahead.
-Is your POKéMON's HP all right?<LINE>When your POKéMON's HP decreases while<LINE>you're on the road, it can be<LINE><LINE>a big problem, so I'll give you this.<LINE>Put it in your Bag's Medicine Case.
+Is your POKéMON's HP all right?<LINE>When your POKéMON's HP decreases while<LINE>you're on the road, it can be<LINE><LINE>a big problem, so I'll give you this.<LINE>Put it in your BAG's Medicine Case.
 When your POKéMON's HP decreases,<LINE>they no longer have the energy to fight.<LINE>So, don't push your POKéMON too hard,<LINE>and let them rest often.
 Wild POKéMON are hiding in the tall grass.<LINE>What does this mean for you?<LINE>It means when you want to battle<LINE>or capture wild POKéMON,<LINE><LINE>you should go walk in the tall grass.

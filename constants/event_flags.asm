@@ -10,7 +10,7 @@
 	const EVENT_TEMPORARY_UNTIL_MAP_RELOAD_6
 	const EVENT_TEMPORARY_UNTIL_MAP_RELOAD_7
 	const EVENT_TEMPORARY_UNTIL_MAP_RELOAD_8
-; Johto Gym Leader TM gifts
+; Unova Gym Leader TM gifts
 	const EVENT_GOT_TM31_MUD_SLAP
 	const EVENT_GOT_TM49_FURY_CUTTER
 	const EVENT_GOT_TM01_DYNAMICPUNCH
@@ -19,23 +19,22 @@
 	const EVENT_GOT_TM23_IRON_TAIL
 	const EVENT_GOT_TM16_ICY_WIND
 	const EVENT_GOT_TM24_DRAGONBREATH
-; HMs (EVENT_GOT_HM07_WATERFALL is with the Johto itemballs)
+; HMs
 	const EVENT_GOT_HM01_CUT
 	const EVENT_GOT_HM02_FLY
 	const EVENT_GOT_HM03_SURF
 	const EVENT_GOT_HM04_STRENGTH
 	const EVENT_GOT_HM05_WATERFALL
 	const EVENT_GOT_HM06_DIVE
-; Rods
-	const EVENT_GOT_OLD_ROD
-	const EVENT_GOT_GOOD_ROD
-	const EVENT_GOT_SUPER_ROD
 ; Strength Boulders
 	const EVENT_BOULDER_ON_ROUTE_2
 	const EVENT_BOULDER_ON_DREAMYARD
 	const EVENT_BOULDER_ON_ROUTE_18
-; Johto story events
+; Unova story events
 	const EVENT_GOT_RUNNING_SHOES
+	const EVENT_GOT_SUPER_ROD
+	const EVENT_GOT_POKE_BALL_FROM_ACCUMULA_CONDO
+; vanilla
 	const EVENT_GOT_A_POKEMON_FROM_ELM
 	const EVENT_GOT_CYNDAQUIL_FROM_ELM
 	const EVENT_GOT_TOTODILE_FROM_ELM
@@ -49,7 +48,6 @@
 	const EVENT_GOT_SS_TICKET_FROM_ELM
 	const EVENT_USED_THE_CARD_KEY_IN_THE_RADIO_TOWER
 	const EVENT_REFUSED_TO_HELP_LANCE_AT_LAKE_OF_RAGE
-	const EVENT_GOT_BERRY_FROM_ROUTE_30_HOUSE
 	const EVENT_MADE_WHITNEY_CRY
 	const EVENT_HERDED_FARFETCHD
 	const EVENT_FOUGHT_SUDOWOODO
@@ -135,7 +133,9 @@
 	const EVENT_GOT_TM12_SWEET_SCENT
 	const EVENT_RELEASED_THE_BEASTS
 	const EVENT_GOT_MASTER_BALL_FROM_ELM
-; Johto hidden items
+	const EVENT_GOT_OLD_ROD
+	const EVENT_GOT_GOOD_ROD
+; Unova hidden items
 	const EVENT_TIN_TOWER_4F_HIDDEN_MAX_POTION
 	const EVENT_TIN_TOWER_5F_HIDDEN_FULL_RESTORE
 	const EVENT_TIN_TOWER_5F_HIDDEN_CARBOS
@@ -382,7 +382,7 @@
 	const_skip ; unused
 	const_skip ; unused
 	const_skip ; unused
-; More Johto story events
+; More Unova story events
 	const EVENT_WARPED_FROM_ROUTE_35_NATIONAL_PARK_GATE
 	const EVENT_SWITCH_1
 	const EVENT_SWITCH_2
@@ -703,7 +703,7 @@
 	const EVENT_BEAT_BEAUTY_JULIA
 	const EVENT_BEAT_BEAUTY_THERESA
 	const EVENT_BEAT_BEAUTY_VALERIE
-; Johto Gym Leaders
+; Unova Gym Leaders
 	const EVENT_BEAT_FALKNER
 	const EVENT_BEAT_BUGSY
 	const EVENT_BEAT_WHITNEY
@@ -990,7 +990,7 @@
 ; When these events are cleared, the sprite becomes visible; when set, the sprite is hidden.
 ; The map script command macros `disappear` and `appear` set/clear these flags and immediately apply the effect on visibility.
 ; The map script command macros `setevent` and `clearevent` set/clear these flags, and their effects will be seen when the map is reloaded.
-; Johto itemballs
+; Unova itemballs
 	const EVENT_CYNDAQUIL_POKEBALL_IN_ELMS_LAB
 	const EVENT_TOTODILE_POKEBALL_IN_ELMS_LAB
 	const EVENT_CHIKORITA_POKEBALL_IN_ELMS_LAB
@@ -1116,7 +1116,7 @@
 	const EVENT_ROUTE_45_ELIXIR
 	const EVENT_ROUTE_45_MAX_POTION
 	const EVENT_ROUTE_46_DIRE_HIT
-; Johto people
+; Unova people
 	const EVENT_RIVAL_NEW_BARK_TOWN
 	const EVENT_RIVAL_CHERRYGROVE_CITY
 	const EVENT_RIVAL_AZALEA_TOWN

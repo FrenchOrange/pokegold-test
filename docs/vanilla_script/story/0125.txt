@@ -1,6 +1,6 @@
 ALDER: Hello, <PLAYER>.<LINE>This way.
 GHETSIS… What a liar.<LINE>Desperately trying to con<LINE>everyone with his speech.
-That's correct!<LINE>Our lord N has combined his power with<LINE>the legendary Dragon-type POKéMON<LINE><LINE>and intends to create a new world.<LINE>We herald the return of the hero of<LINE>Unova, founder of this region.
+That's correct!<LINE>Our lord N has combined his power with<LINE>the legendary Dragon-type POKéMON<LINE><LINE>and intends to create a new world.<LINE>We herald the return of the hero of<LINE>UNOVA, founder of this region.
 Hero?
 Dragon?
 Legend!
@@ -14,7 +14,7 @@ Is it true?<LINE>Have we been making POKéMON suffer?
 Hmm…<LINE>Maybe we should release our POKéMON<LINE>like TEAM PLASMA says…
 No way!<LINE>Without POKéMON, I'll be lonely and sad!
 What was that about?<LINE>That speech was off-the-charts strange!
-The cooperation of people and POKéMON is<LINE>how Unova came to exist to begin with.<LINE>If a POKéMON really didn't want<LINE>anything to do with humans,<LINE><LINE>it would simply leave…<LINE>Capturing a POKéMON in a POKé BALL<LINE>doesn't mean you've captured its heart.
+The cooperation of people and POKéMON is<LINE>how UNOVA came to exist to begin with.<LINE>If a POKéMON really didn't want<LINE>anything to do with humans,<LINE><LINE>it would simply leave…<LINE>Capturing a POKéMON in a POKé BALL<LINE>doesn't mean you've captured its heart.
 ALDER: Let's go, <PLAYER>!
 ALDER: It's been a while, IRIS<LINE>and DRAYDEN.
 IRIS: Oh! Mr. ALDER!<LINE>…And the guy who helped out that time.
@@ -32,7 +32,7 @@ ALDER: That's right, IRIS.<LINE>The ones who make POKéMON battle<LINE>are the T
 I'm going to the POKéMON LEAGUE.<LINE>No, I guess in this case I should say I'm<LINE>“returning" to the POKéMON LEAGUE!<LINE>Of course, I'll defeat N!<LINE>I'll teach him about the beauty of this<LINE>world, where POKéMON and Trainers<LINE><LINE>live together in harmony!<LINE>Also, <PLAYER>, I'll await your arrival.<LINE>Once you've obtained the OPELUCID Badge,<LINE>come to the LEAGUE!<LINE>The OPELUCID GYM LEADER is tough.<LINE>Take care!
 Farewell.<LINE>I'm counting on you, DRAYDEN and IRIS!
 IRIS: Aww…<LINE>He's gone.<LINE>Is he OK?<LINE>He looked kinda scary.
-DRAYDEN: Don't worry, IRIS.<LINE>He is the strongest Trainer<LINE>in all of Unova.
+DRAYDEN: Don't worry, IRIS.<LINE>He is the strongest Trainer<LINE>in all of UNOVA.
 Well, <PLAYER>, is it?<LINE>Come to my home.<LINE>As ALDER asked, I'll tell you<LINE>everything I can about the<LINE><LINE>legendary Dragon-type POKéMON.<LINE>IRIS, child, please show the way.
 IRIS: You bet! If it's OPELUCID CITY,<LINE>I can take you anywhere.<LINE>As for the story of Reshiram and Zekrom,<LINE>we'll tell you all we know about it!<LINE>This way!
 IRIS: You bet! If it's OPELUCID CITY,<LINE>I can take you anywhere.<LINE>As for the story of Zekrom and Reshiram,<LINE>we'll tell you all we know about it!<LINE>This way!
@@ -55,7 +55,7 @@ The GYM LEADER DRAYDEN is the mayor who<LINE>leads OPELUCID.<LINE>He is always t
 So, have we really been making<LINE>our POKéMON suffer…?
 Yes, I will keep moving forward together<LINE>with my POKéMON.<LINE>Even if I were to part ways with my<LINE>POKéMON, it wouldn't be because someone<LINE><LINE>else said to, but because we decided to.
 I'll definitely keep moving forward<LINE>together with my POKéMON.<LINE>I won't take their company for granted.<LINE>I'll appreciate how amazing that is!
-The legendary POKéMON is the symbol<LINE>of Unova.<LINE>Does that mean TEAM PLASMA is right?<LINE>…I don't know.
+The legendary POKéMON is the symbol<LINE>of UNOVA.<LINE>Does that mean TEAM PLASMA is right?<LINE>…I don't know.
 Pursuing ideals is different from person<LINE>to person and POKéMON to POKéMON.<LINE>In this city, it seems the ideal is<LINE>to cherish the past.
 The truth people pursue is different<LINE>from person to person and<LINE><LINE>POKéMON to POKéMON.<LINE>In this city, it seems the truth is<LINE>constant change.
 The hopes of an ancient people are put<LINE>into this melody…<LINE>I will bring them back to us now.
@@ -64,7 +64,7 @@ PROFESSOR JUNIPER: …Hello!<LINE>How was IRIS doing?
 PROFESSOR JUNIPER: …Hello!<LINE>Was DRAYDEN as tough as ever?
 Oh, I came to report on how to<LINE>resurrect the legendary Zekrom.<LINE>I thought it would be better to tell you<LINE>in person than over the XCASTER.<LINE>And as for the conclusion…<LINE>Well, I haven't figured it out yet.<LINE>I'm sure the POKéMON will wake up<LINE>when it deems someone worthy.
 Oh, I came to report on how to<LINE>resurrect the legendary Reshiram.<LINE>I thought it would be better to tell you<LINE>in person than over the XCASTER.<LINE>And as for the conclusion…<LINE>Well, I haven't figured it out yet.<LINE>I'm sure the POKéMON will wake up<LINE>when it deems someone worthy.
-More importantly, aren't you amazing!<LINE>You have all eight of Unova's Gym Badges<LINE>now, right?<LINE>You've become so strong!<LINE>You probably don't even know it, but<LINE>you've changed a lot since you left<LINE><LINE>NUVEMA TOWN.<LINE>Well then, I'll show you where such a<LINE>strong Trainer should head next!
+More importantly, aren't you amazing!<LINE>You have all eight of UNOVA's GYM Badges<LINE>now, right?<LINE>You've become so strong!<LINE>You probably don't even know it, but<LINE>you've changed a lot since you left<LINE><LINE>NUVEMA TOWN.<LINE>Well then, I'll show you where such a<LINE>strong Trainer should head next!
 PROFESSOR JUNIPER: Pass through that<LINE>gate, go down ROUTE 10, and you'll arrive<LINE><LINE>at the Badge Check Gates!<LINE>Once you get through VICTORY ROAD,<LINE>which is past the gates, you're finally<LINE><LINE>at the POKéMON LEAGUE!
 Oh, that just made me think of when I was<LINE>showing you around the POKéMON CENTER<LINE><LINE>in ACCUMULA TOWN.<LINE><PLAYER>? Do you regret setting out<LINE>on your POKéMON journey?
 PROFESSOR JUNIPER: Oh! That's OK,<LINE>don't worry! You don't have to tell<LINE><LINE>me everything.<LINE>But I'm very happy that you three<LINE>chose to train POKéMON!<LINE>Because they create chances to meet<LINE>more wonderful people and POKéMON!
@@ -76,5 +76,5 @@ DRAYDEN's House
 Battle House<LINE>Triple Battle!
 Battle House<LINE>Rotation Battle!
 Trainer Tips!<LINE><LINE>Mayor DRAYDEN will teach you if he<LINE>recognizes you as a strong Trainer.<LINE>Visit his home to learn the<LINE>most powerful Dragon-type move!
-OPELUCID CITY POKéMON Gym<LINE>Leader: IRIS<LINE><LINE>The Girl Who Knows<LINE><LINE>the Hearts of Dragons
-OPELUCID CITY POKéMON Gym<LINE>Leader: DRAYDEN<LINE><LINE>The Spartan Mayor
+OPELUCID CITY POKéMON GYM<LINE>LEADER: IRIS<LINE><LINE>The Girl Who Knows<LINE><LINE>the Hearts of Dragons
+OPELUCID CITY POKéMON GYM<LINE>LEADER: DRAYDEN<LINE><LINE>The Spartan Mayor

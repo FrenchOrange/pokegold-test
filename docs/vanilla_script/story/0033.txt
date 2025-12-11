@@ -1,4 +1,4 @@
-BURGH: That way!<LINE>M'hm. There, heading toward the Gym?!
+BURGH: That way!<LINE>M'hm. There, heading toward the GYM?!
 
 
 When work's finally over…<LINE>When my thrown POKé BALL rocks three<LINE>times and I hear that great “click"…<LINE>My life is full of things that give me joy!
@@ -16,6 +16,6 @@ CASTELIA CITY<LINE>A City of Grandeur
 Ahead: CASTELIA Street<LINE>Ocean Side: Cruise Dock
 Ahead: Mode Street<LINE>Ocean Side: Prime Pier
 Ahead: Narrow Street<LINE>Ocean Side: Unity Pier
-Ahead: POKéMON Gym<LINE>Ocean Side: Liberty Pier
+Ahead: POKéMON GYM<LINE>Ocean Side: Liberty Pier
 Passerby Analytics HQ<LINE>…People pass by as they walk along.
 Battle Company<LINE>Talented Trainers Welcome!

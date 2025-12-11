@@ -398,6 +398,10 @@ ENDM
 	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0
 	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
-	map_attributes CherrygroveGymSpeechHouse, CHERRYGROVE_GYM_SPEECH_HOUSE, $00, 0
-	map_attributes GuideGentsHouse, GUIDE_GENTS_HOUSE, $00, 0
-	map_attributes CherrygroveEvolutionSpeechHouse, CHERRYGROVE_EVOLUTION_SPEECH_HOUSE, $00, 0
+	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
+	map_attributes AccumulaRPSCondo2F, ACCUMULA_RPS_CONDO_2F, $00, 0
+	map_attributes AccumulaGreatBagCondo1F, ACCUMULA_GREAT_BAG_CONDO_1F, $00, 0
+	map_attributes AccumulaGreatBagCondo2F, ACCUMULA_GREAT_BAG_CONDO_2F, $00, 0
+	map_attributes AccumulaNewlywedsCondo1F, ACCUMULA_NEWLYWEDS_CONDO_1F, $00, 0
+	map_attributes AccumulaNewlywedsCondo2F, ACCUMULA_NEWLYWEDS_CONDO_2F, $00, 0
+	map_attributes AccumulaSiblingsHouse, ACCUMULA_SIBLINGS_HOUSE, $00, 0

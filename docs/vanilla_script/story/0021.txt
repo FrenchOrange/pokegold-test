@@ -7,8 +7,8 @@ N: \xf000븉\x0001\x0001That so?<LINE>I think my friends and I should test you<L
 N: \xf000븉\x0001\x0001Huh. I expected more from you.<LINE>Now pay attention.<LINE>My friends and I will test you<LINE>to see if you can see this future, too.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Right now, my friends aren't strong<LINE>enough to save all POKéMON.<LINE>Maybe I can't solve the equation<LINE>that will change the world.<LINE>So, I need power… Power enough<LINE>to make anyone agree with me.\xf000븉\x0001\x0000
 
-Now I know what power I need.<LINE>Reshiram!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the Unova region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
-Now I know what power I need.<LINE>Zekrom!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the Unova region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
+Now I know what power I need.<LINE>Reshiram!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the UNOVA region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
+Now I know what power I need.<LINE>Zekrom!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the UNOVA region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
 ???: Good day, LENORA.<LINE>Find any good fossils lately?
 LENORA: This is a surprise visit! Are you<LINE>suffering from artist's block again?
 <PLAYER>!<LINE>This is BURGH.<LINE>He may not look like it, but he's<LINE><LINE>CASTELIA CITY's GYM LEADER!

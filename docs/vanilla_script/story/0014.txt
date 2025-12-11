@@ -1,4 +1,4 @@
-Fennel: You're going to meet all of the<LINE>POKéMON in the Unova region. Am I right?<LINE>Oh, the stairs are right here!
+Fennel: You're going to meet all of the<LINE>POKéMON in the UNOVA region. Am I right?<LINE>Oh, the stairs are right here!
 Fennel: My room is upstairs here.<LINE>Come on, go upstairs!
 After a battle, to my surprise,<LINE>my POKéMON evolved and<LINE><LINE>changed its appearance!
 Some evolve and some don't…<LINE>POKéMON really are mysterious creatures.

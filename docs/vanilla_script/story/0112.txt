@@ -7,15 +7,15 @@ In honor of our meeting,<LINE>I'm going to upgrade your POKéDEX!
 <PLAYER>'s POKéDEX has<LINE>been upgraded!
 CEDRIC: Some POKéMON can change forms<LINE>even when it's the same individual.<LINE>If you have already seen a form, you<LINE>can check it with this whenever you want.<LINE>I also added a function to make<LINE>searching easier.
 ???: PROFESSOR, who's that Trainer?
-CEDRIC: Oh! I forgot my introductions!<LINE>SKYLA, this is a friend of my daughter's.<LINE><PLAYER> is traveling around<LINE>Unova to complete the POKéDEX.
-SKYLA: Oh, I see! So that means you'll<LINE>be challenging the Gym!<LINE><LINE>Oh boy! I'm really looking forward to it!
-CEDRIC: That's right, <PLAYER>.<LINE>You should challenge this Gym!<LINE>If nothing else, this Gym<LINE>is really out there!
+CEDRIC: Oh! I forgot my introductions!<LINE>SKYLA, this is a friend of my daughter's.<LINE><PLAYER> is traveling around<LINE>UNOVA to complete the POKéDEX.
+SKYLA: Oh, I see! So that means you'll<LINE>be challenging the GYM!<LINE><LINE>Oh boy! I'm really looking forward to it!
+CEDRIC: That's right, <PLAYER>.<LINE>You should challenge this GYM!<LINE>If nothing else, this GYM<LINE>is really out there!
 See you, SKYLA. If something comes<LINE>up again, I'll let you know!
 SKYLA: PROFESSOR, my plane<LINE>is a cargo plane!<LINE>It carries cargo, not people!<LINE>And you're talking as if places like Kanto<LINE>and Sinnoh are right around the corner!
 CEDRIC: Aww, SKYLA.<LINE>If you keep frowning, your face might<LINE><LINE>freeze like that, and that'd be a shame.<LINE>People and POKéMON, we all have<LINE>to help each other out!<LINE>See you later!
 SKYLA: Sheesh!<LINE>It's hard to believe a happy-go-lucky<LINE>guy like that could be a world-renowned<LINE><LINE>POKéMON PROFESSOR.
-Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
-Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
+Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the GYM, but there's<LINE><LINE>something I need to take care of first.
+Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the GYM, but there's<LINE><LINE>something I need to take care of first.
 Just now, as I was flying the<LINE>cargo plane, I saw something<LINE><LINE>on top of the CELESTIAL TOWER.
 I'm sure that it is a sick POKéMON!<LINE>If it is, I can't just leave it there!<LINE>I have to look into this right away.<LINE>I'm leaving for ROUTE 7's CELESTIAL TOWER.<LINE>You can come along if you want.
 SKYLA completed her cargo-plane run.<LINE>She must have gone somewhere after.<LINE>Maybe to the CELESTIAL TOWER on ROUTE 7?
@@ -43,4 +43,4 @@ Yoooo-ooou can uuu-uuuuuse it!
 See you! Bye-bye!
 MISTRALTON CITY<LINE>Strewn with Windblown Leaves
 MISTRALTON Cargo Service<LINE>Our slogan is “Quick and Safe!"
-MISTRALTON CITY POKéMON Gym<LINE>Leader: SKYLA<LINE><LINE>The Highflying Girl
+MISTRALTON CITY POKéMON GYM<LINE>LEADER: SKYLA<LINE><LINE>The Highflying Girl

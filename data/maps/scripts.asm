@@ -339,8 +339,12 @@ INCLUDE "maps/SilphCo1F.asm"
 SECTION "Map Scripts 32", ROMX
 
 INCLUDE "maps/AccumulaPokecenter1F.asm"
-INCLUDE "maps/CherrygroveGymSpeechHouse.asm"
-INCLUDE "maps/GuideGentsHouse.asm"
-INCLUDE "maps/CherrygroveEvolutionSpeechHouse.asm"
+INCLUDE "maps/AccumulaRPSCondo1F.asm"
+INCLUDE "maps/AccumulaRPSCondo2F.asm"
+INCLUDE "maps/AccumulaGreatBagCondo1F.asm"
+INCLUDE "maps/AccumulaGreatBagCondo2F.asm"
+INCLUDE "maps/AccumulaNewlywedsCondo1F.asm"
+INCLUDE "maps/AccumulaNewlywedsCondo2F.asm"
+INCLUDE "maps/AccumulaSiblingsHouse.asm"
 
 ENDSECTION

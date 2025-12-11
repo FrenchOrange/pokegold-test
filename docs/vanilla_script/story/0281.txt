@@ -1,6 +1,6 @@
 How is your POKéDEX coming along?<LINE>Can I see it?
-Let me see…<LINE>Oh, you've seen \xf000Ȃ\x0001\x0000 POKéMON in the<LINE>Unova region!
-Let me see…<LINE>Oh, you've caught \xf000Ȃ\x0001\x0000 POKéMON in the<LINE>Unova region!
+Let me see…<LINE>Oh, you've seen \xf000Ȃ\x0001\x0000 POKéMON in the<LINE>UNOVA region!
+Let me see…<LINE>Oh, you've caught \xf000Ȃ\x0001\x0000 POKéMON in the<LINE>UNOVA region!
 This POKéDEX is full of memories from your<LINE>journey. It's a treasure you can cherish<LINE><LINE>for your entire life.
 If you want to meet more POKéMON, you<LINE>should try walking through tall grass!
 It seems a little more like a POKéDEX now!<LINE>You're getting off to a good start!
@@ -11,7 +11,7 @@ Wow, it's getting really full!<LINE>I'm sure looking over your POKéDEX will<LIN
 Over 100 POKéMON…<LINE>It's so much fun looking over all their<LINE>different characteristics!
 That is an excellent POKéDEX!<LINE>Just a little more and it will be full!
 What a wonderful POKéDEX!<LINE>A little more work, and it'll be complete!<LINE>I'm really glad I asked you to do this!
-Amazing! Truly amazing!<LINE>You've met all of the POKéMON in the<LINE>Unova region!<LINE>Congratulations!<LINE>Now here's your next challenge: see how<LINE>many of those POKéMON you can catch!<LINE><LINE>I'll keep evaluating for you!
+Amazing! Truly amazing!<LINE>You've met all of the POKéMON in the<LINE>UNOVA region!<LINE>Congratulations!<LINE>Now here's your next challenge: see how<LINE>many of those POKéMON you can catch!<LINE><LINE>I'll keep evaluating for you!
 It seems like you are meeting POKéMON at<LINE>a good clip!<LINE>I have something I want to give you!<LINE>Please come to the lab when you can.
 It seems like you are meeting POKéMON at<LINE>a good clip!<LINE>Here! This is a gift to thank you for all<LINE>your hard work!
 False Swipe is a move that is very helpful<LINE>for catching POKéMON, because it keeps<LINE><LINE>the target from fainting!
@@ -28,12 +28,12 @@ When you've met this many POKéMON, do<LINE>you have trouble picking which ones 
 This is a very thorough POKéDEX.<LINE>It will help my research, too!
 You've caught so many POKéMON.<LINE>You might know more than me now!<LINE>I'm rooting for you to complete<LINE>your POKéDEX!
 With just a little more effort, you will<LINE>complete a perfect POKéDEX!<LINE><LINE>You've come this far, so do your best!
-Amazing! Absolutely amazing!<LINE>You've caught every POKéMON<LINE>in the Unova region!<LINE>Congratulations!!
+Amazing! Absolutely amazing!<LINE>You've caught every POKéMON<LINE>in the UNOVA region!<LINE>Congratulations!!
 So you're here to show me how your<LINE>POKéDEX is coming along, right?
 I see!<LINE>You've caught \xf000Ȃ\x0001\x0000 POKéMON, then…
 Oh, really…<LINE>If you want me to have a look at<LINE>your POKéDEX, come here again!
 Nationally, there are more than<LINE>600 POKéMON!<LINE>You'll have to be persistent and<LINE>catch them at your own pace.
-First, you might want to revisit places<LINE>you've already been.<LINE>Retrace your steps in the Unova region<LINE>and see what new POKéMON turn up!
+First, you might want to revisit places<LINE>you've already been.<LINE>Retrace your steps in the UNOVA region<LINE>and see what new POKéMON turn up!
 Remember Rule No. 1! To catch a POKéMON,<LINE>you first have to reduce its HP.<LINE>You're pretty good at this now,<LINE>but don't forget the basics!
 Are you going to the Day Care?<LINE>I've heard that some POKéMON can only be<LINE>caught if they are hatched from Eggs.
 Do you have a fishing rod?<LINE>There are many POKéMON that live in the<LINE>water. Try searching rivers and oceans!

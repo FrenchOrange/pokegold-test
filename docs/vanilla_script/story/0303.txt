@@ -10,7 +10,7 @@ Entralink
 Pass Power
 Cancel
 Oh, someone showed up…<LINE>Welcome to the Entralink.<LINE>Hm?<LINE>Judging by the look of you, you don't<LINE>seem to know where you are.
-This is an island called the Entralink.<LINE>It's located in the center of the<LINE><LINE>Unova region.<LINE>The Entralink is a mysterious place where<LINE>you can connect with someone's world.<LINE>If you go to someone's world by passing<LINE>through this island, you will be able to<LINE><LINE>meet an adventurer in the world.
+This is an island called the Entralink.<LINE>It's located in the center of the<LINE><LINE>UNOVA region.<LINE>The Entralink is a mysterious place where<LINE>you can connect with someone's world.<LINE>If you go to someone's world by passing<LINE>through this island, you will be able to<LINE><LINE>meet an adventurer in the world.
 And you can help that adventurer.<LINE>Yes! If you want to help, cross a bridge<LINE>in this island and go to someone's world.<LINE>There must be someone who is waiting<LINE>for you there!
 This bridge will connect to someone<LINE>else's world.
 Is there anything you'd like to know<LINE>about a connection at a bridge?

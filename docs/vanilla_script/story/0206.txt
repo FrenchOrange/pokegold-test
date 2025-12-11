@@ -8,5 +8,5 @@ Here--you, too.
 ALDER: If you use the move Surf, you can<LINE>travel over water.<LINE>I shall see you again, young Trainers.<LINE>Don't forget about the needs of the<LINE>POKéMON at your side!
 CHEREN: What I do with my power…<LINE>I don't know that answer yet. First, I<LINE>want to become a strong Trainer so<LINE><LINE>everyone will acknowledge that power!
 <PLAYER>…<LINE>Next time, I will win!
-You are <PLAYER>, aren't you?<LINE>Are you surprised that I know?<LINE>CLAY told me.<LINE>Uh-oh! To go inside TWIST MOUNTAIN,<LINE>you need to have a Gym Badge from the<LINE><LINE>MISTRALTON Gym!<LINE>The wild POKéMON here are tougher, and<LINE>we want to be sure you're ready!
+You are <PLAYER>, aren't you?<LINE>Are you surprised that I know?<LINE>CLAY told me.<LINE>Uh-oh! To go inside TWIST MOUNTAIN,<LINE>you need to have a GYM Badge from the<LINE><LINE>MISTRALTON GYM!<LINE>The wild POKéMON here are tougher, and<LINE>we want to be sure you're ready!
 TWIST MOUNTAIN ahead.<LINE>Watch out for wild POKéMON.

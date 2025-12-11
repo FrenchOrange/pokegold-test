@@ -13,7 +13,7 @@ Mom: And one for you, too, BIANCA.
 BIANCA: Th-thank you so much!
 Mom: As for your room, <PLAYER>--<LINE>or what's left of it…<LINE>No need for any of you to worry.<LINE>I'll take care of tidying up.<LINE>OK, <PLAYER>?
 Mom: Ah, POKéMON. They are so cute,<LINE>but they have enough power to destroy<LINE><LINE>a bedroom! They are really something.<LINE>With POKéMON like that at your side,<LINE>you'll be safe wherever you go!
-I'll let your parents know!<LINE>I hope that, in addition to POKéMON,<LINE>you'll find lots and lots of places<LINE><LINE>you like in the Unova region--<LINE><LINE>and become wonderful adults!<LINE>Have a great trip!
+I'll let your parents know!<LINE>I hope that, in addition to POKéMON,<LINE>you'll find lots and lots of places<LINE><LINE>you like in the UNOVA region--<LINE><LINE>and become wonderful adults!<LINE>Have a great trip!
 CHEREN: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to ROUTE 1?<LINE>The PROFESSOR's waiting.
 BIANCA: Let's go, let's go!<LINE><PLAYER>, hurry and come too, OK?
 BIANCA: <PLAYER>…<LINE>It's this way!
@@ -46,4 +46,4 @@ And last, but not least…
 CEDRIC: You can now switch your<LINE>POKéDEXes to the National Mode POKéDEX.<LINE>Completing the National POKéDEX will<LINE>surely be a big challenge.<LINE>So, take your time, enjoy yourselves,<LINE>and meet lots of POKéMON.
 BIANCA: Wow, the National POKéDEX…<LINE>It looks like there are tons of POKéMON<LINE>I don't know yet! <LINE>Oh! Ooh! I want to show Mom and Dad<LINE>my POKéDEX! I gotta go!<LINE>Let's meet again somewhere, OK?!
 CHEREN: Huh. BIANCA's as impetuous as<LINE>ever, no matter what is going on.
-I think I'll travel all the way around<LINE>Unova, starting at ROUTE 1 again.<LINE>I'm sure I'll discover lots of new things.<LINE>Could be I'll encounter the Seven Sages<LINE>along the way…<LINE>And, <PLAYER>, if we spy each other<LINE>along the way, let's battle again, OK?
+I think I'll travel all the way around<LINE>UNOVA, starting at ROUTE 1 again.<LINE>I'm sure I'll discover lots of new things.<LINE>Could be I'll encounter the Seven Sages<LINE>along the way…<LINE>And, <PLAYER>, if we spy each other<LINE>along the way, let's battle again, OK?
