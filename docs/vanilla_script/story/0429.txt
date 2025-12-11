@@ -1,15 +1,15 @@
-Cheren: I'm very sorry about<LINE>all the trouble, ma'am.
-Bianca: Well, um…<LINE>We can clean up…
-Mom: Cleaning up?<LINE>No worries. I'll take care of it later.<LINE>Shouldn't you be on your way to<LINE>meet Professor Juniper?
-Cheren: Yes, thank you!<LINE>Please excuse us.<LINE>Come on.<LINE>Let's go thank Professor Juniper.
-Cheren: I'll be waiting in front of<LINE>the POKéMON Research Lab.
-Bianca: Oh! Wait!<LINE>I've gotta go home first.
+CHEREN: I'm very sorry about<LINE>all the trouble, ma'am.
+BIANCA: Well, um…<LINE>We can clean up…
+Mom: Cleaning up?<LINE>No worries. I'll take care of it later.<LINE>Shouldn't you be on your way to<LINE>meet PROFESSOR JUNIPER?
+CHEREN: Yes, thank you!<LINE>Please excuse us.<LINE>Come on.<LINE>Let's go thank PROFESSOR JUNIPER.
+CHEREN: I'll be waiting in front of<LINE>the POKéMON Research Lab.
+BIANCA: Oh! Wait!<LINE>I've gotta go home first.
 Thanks for having us over!
 Mom: My, my, <PLAYER>.<LINE>POKéMON battles are so lively,<LINE>aren't they?<LINE>I could hear the POKéMON's<LINE>cries clear down here!
 Hm. That sure reminded me of<LINE>my first POKéMON battle!
 Oh, and you know? After a battle,<LINE>you need to rest your POKéMON!
 Your POKéMON is looking great!<LINE>Now, if you're going out,<LINE>don't forget your “cross-transceiver"!
-You're going to thank the<LINE>professor too, right?<LINE><LINE>Better get going, honey!
+You're going to thank the<LINE>PROFESSOR too, right?<LINE><LINE>Better get going, honey!
 Mom: Phew! I'm taking a little break<LINE>from cleaning up.<LINE>You and your POKéMON should take<LINE>a break, too.<LINE>Good Trainers don't push their<LINE>POKéMON too hard.
 Mom: You and your POKéMON should all be<LINE>filled with energy again!<LINE><LINE>Now, you can go anywhere!
 Mom: I wonder where you'll go next<LINE>and what kind of POKéMON you'll meet.
@@ -17,27 +17,27 @@ Mom: <PLAYER>!<LINE>How are your POKéMON?<LINE>You should rest a little!<LINE>G
 Mom: Great! You and your POKéMON<LINE>look raring to go, <PLAYER>.<LINE>Best get back to your journey!
 Mom: <PLAYER>,<LINE>are you being kind to your POKéMON?<LINE>POKéMON work so hard to help you out!<LINE>You're normally very kind to your<LINE>POKéMON, aren't you?
 Mom: Now that you mention it…<LINE>Your father went on a journey<LINE>with POKéMON, just as you are!<LINE>We met during his trip…
-Mom: How are things going?<LINE>Have you caught many POKéMON?<LINE>That was the professor's request, right?
-Mom: I wonder what Cheren and Bianca<LINE>will find during their travels.<LINE>What they really want from life…<LINE>If they figure that out for themselves,<LINE>I think their journeys will prove to be<LINE><LINE>all they could hope for!
+Mom: How are things going?<LINE>Have you caught many POKéMON?<LINE>That was the PROFESSOR's request, right?
+Mom: I wonder what CHEREN and BIANCA<LINE>will find during their travels.<LINE>What they really want from life…<LINE>If they figure that out for themselves,<LINE>I think their journeys will prove to be<LINE><LINE>all they could hope for!
 Mom: <PLAYER>!<LINE>Welcome home!<LINE>Sounds like you've been through a lot!<LINE>You should rest a little bit!
-Mom: Oh, my!<LINE>You and your POKéMON look full of bounce!<LINE>This is just a little advice from your<LINE>mother, but…<LINE>When a POKéMON's energy--um, I mean,<LINE>HP--runs out, hurry to a POKéMON Center<LINE><LINE>and get it restored.<LINE>It's also a good idea to buy Potions<LINE>at a POKéMON Mart for times when you're<LINE><LINE>adventuring far from civilization.<LINE>Please be careful!<LINE>Have a good trip!<LINE><LINE>I'll always be cheering for you!
+Mom: Oh, my!<LINE>You and your POKéMON look full of bounce!<LINE>This is just a little advice from your<LINE>mother, but…<LINE>When a POKéMON's energy--um, I mean,<LINE>HP--runs out, hurry to a POKéMON CENTER<LINE><LINE>and get it restored.<LINE>It's also a good idea to buy Potions<LINE>at a POKéMON Mart for times when you're<LINE><LINE>adventuring far from civilization.<LINE>Please be careful!<LINE>Have a good trip!<LINE><LINE>I'll always be cheering for you!
 “Mom": Welcome home, <PLAYER>.<LINE>Seems like you've been through<LINE>many amazing things, is it not so?
 “Mom": Incredible, really.<LINE>Amazing, absolutely, meeting these<LINE>two POKéMON of legend!
 “Mom": Ah, ah, this is…
 “Mom": Oh!<LINE>I still wear my disguise! Pardon!<LINE>Or, rather, let me introduce myself.
-I am a globe-trotting elite of the<LINE>International Police.<LINE>My name… Ah, no, I shall inform you<LINE>of my code name only.<LINE>My code name, it is Looker.<LINE>It is how I am called!
-Looker: Behind the scenes in this region<LINE>of Unova, an organization called<LINE><LINE>Team Plasma conspires…<LINE>This I have heard, and therefore,<LINE>to this region I must come, but…
-Thanks to the Gym Leaders and to you,<LINE>yes, Team Plasma's castle has fallen.<LINE>And the members, they have gone upon<LINE>their separate ways!<LINE><LINE>This is what I hear, most certainly!
+I am a globe-trotting elite of the<LINE>International Police.<LINE>My name… Ah, no, I shall inform you<LINE>of my code name only.<LINE>My code name, it is LOOKER.<LINE>It is how I am called!
+LOOKER: Behind the scenes in this region<LINE>of Unova, an organization called<LINE><LINE>TEAM PLASMA conspires…<LINE>This I have heard, and therefore,<LINE>to this region I must come, but…
+Thanks to the GYM LEADERs and to you,<LINE>yes, TEAM PLASMA's castle has fallen.<LINE>And the members, they have gone upon<LINE>their separate ways!<LINE><LINE>This is what I hear, most certainly!
 But, however!<LINE>However, but…<LINE>The ones known as the Seven Sages--still,<LINE>they hide themselves in the Unova region.
-And so, in the end, it explains why I must<LINE>ask this of you, Trainer of amazing skill!<LINE>Travel the Unova region and search it up<LINE>and search it down for the Seven Sages!<LINE>Alder, the Champion of renown,<LINE>recommended you to my notice.<LINE>Are you willing to help me?
+And so, in the end, it explains why I must<LINE>ask this of you, Trainer of amazing skill!<LINE>Travel the Unova region and search it up<LINE>and search it down for the Seven Sages!<LINE>ALDER, the Champion of renown,<LINE>recommended you to my notice.<LINE>Are you willing to help me?
 Ah, ah!<LINE>Yet once more shall I ask!<LINE>If you please, travel the Unova region<LINE>and search it low and high for these<LINE><LINE>Seven Sages!
-Looker: Excellent! I thank you!<LINE>Now I feel as if I have perhaps <LINE>a million people on my side.<LINE>Permit me to give this into your hands!
+LOOKER: Excellent! I thank you!<LINE>Now I feel as if I have perhaps <LINE>a million people on my side.<LINE>Permit me to give this into your hands!
 Mom: …That's a Super Rod, right?
-Looker: Yes, correct!<LINE>It is certainly a Super Rod!
-Mom: Weren't we talking about<LINE>Team Plasma's Seven Sages?<LINE>What does this have to do with<LINE>looking for those people?
-Looker: I see.<LINE>It is truly <PLAYER>'s mama to ask so!<LINE>What a magnificent question! I admire it.<LINE>It is my pleasure to answer.<LINE>Absolutely nothing!
+LOOKER: Yes, correct!<LINE>It is certainly a Super Rod!
+Mom: Weren't we talking about<LINE>TEAM PLASMA's Seven Sages?<LINE>What does this have to do with<LINE>looking for those people?
+LOOKER: I see.<LINE>It is truly <PLAYER>'s mama to ask so!<LINE>What a magnificent question! I admire it.<LINE>It is my pleasure to answer.<LINE>Absolutely nothing!
 …
 …
 Mom: I see…
-Looker: Yes, I shall provide the<LINE>explanation of this, the Super Rod!<LINE>First!<LINE>Face the water and employ the rod!<LINE>Second!<LINE>Concentrate your focal point!<LINE>When it occurs that these POKéMON bite,<LINE>“!" will indicate. Immediately, reel in!<LINE>For the rest, <PLAYER>,<LINE>I depend upon you!
+LOOKER: Yes, I shall provide the<LINE>explanation of this, the Super Rod!<LINE>First!<LINE>Face the water and employ the rod!<LINE>Second!<LINE>Concentrate your focal point!<LINE>When it occurs that these POKéMON bite,<LINE>“!" will indicate. Immediately, reel in!<LINE>For the rest, <PLAYER>,<LINE>I depend upon you!
 Mom: People from the International<LINE>Police are kind of…unique, aren't they?<LINE>Well, no worries. I think you should just<LINE>do what you want to do.<LINE>You're practically a grown-up now!

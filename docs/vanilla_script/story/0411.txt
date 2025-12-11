@@ -1,6 +1,6 @@
-If you want to enjoy the slow life, visit<LINE>White Forest.
-If you want to enjoy vibrant city life,<LINE>visit Black City.
-People who yearn for nature often move<LINE>into White Forest.
-People who yearn for hustle and bustle<LINE>often move into Black City.
+If you want to enjoy the slow life, visit<LINE>WHITE FOREST.
+If you want to enjoy vibrant city life,<LINE>visit BLACK CITY.
+People who yearn for nature often move<LINE>into WHITE FOREST.
+People who yearn for hustle and bustle<LINE>often move into BLACK CITY.
 As the residents change, the forest<LINE>also changes.<LINE>Looking at the changes, I feel that<LINE>people and the forest are made of the<LINE><LINE>same living matter.
 As the residents change, the city<LINE>also changes.<LINE>When I look at the changes for a while,<LINE>the city looks like a gigantic creature.

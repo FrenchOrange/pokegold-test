@@ -1,15 +1,15 @@
 N:\xf000븉\x0001\x0001 What do you think, <PLAYER>?<LINE>How do you like the beautiful form of the<LINE>POKéMON who appears before and fights<LINE><LINE>beside the hero that will lead the way to<LINE><LINE>a new world?\xf000븉\x0001\x0000
 N:\xf000븉\x0001\x0001 What do you think, <PLAYER>?<LINE>How do you like the powerful form of the<LINE>POKéMON who appears before and fights<LINE><LINE>beside the hero that will lead the way to<LINE><LINE>a new world?\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001Now, Reshiram and I will head to the<LINE>POKéMON League and defeat the Champion!<LINE>This will be the last of the POKéMON<LINE>battles that hurt POKéMON so.<LINE>A world for POKéMON alone…<LINE>It's finally going to be a reality.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001Now, Zekrom and I will head to the<LINE>POKéMON League and defeat the Champion!<LINE>This will be the last of the POKéMON<LINE>battles that hurt POKéMON so.<LINE>A world for POKéMON alone…<LINE>It's finally going to be a reality.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Now, Reshiram and I will head to the<LINE>POKéMON LEAGUE and defeat the Champion!<LINE>This will be the last of the POKéMON<LINE>battles that hurt POKéMON so.<LINE>A world for POKéMON alone…<LINE>It's finally going to be a reality.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001Now, Zekrom and I will head to the<LINE>POKéMON LEAGUE and defeat the Champion!<LINE>This will be the last of the POKéMON<LINE>battles that hurt POKéMON so.<LINE>A world for POKéMON alone…<LINE>It's finally going to be a reality.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001If you want to stop me, you must become<LINE>a hero as well!<LINE>That's right! When Reshiram's<LINE>counterpart, Zekrom, recognizes you, we<LINE><LINE>will finally be even, and then you can try<LINE><LINE>to stop us!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001If you want to stop me, you must become<LINE>a hero as well!<LINE>That's right! When Zekrom's<LINE>counterpart, Reshiram, recognizes you,<LINE><LINE>we will finally be even, and then you can<LINE><LINE>try to stop us!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Well, what will you do?<LINE>My prediction… If the future that I see<LINE>is true, you will meet Zekrom.<LINE>The POKéMON with you believe in you so<LINE>strongly… Will you be the one<LINE><LINE>who interferes with my formula<LINE><LINE>for changing the world?<LINE>If you want to protect the bonds<LINE>between POKéMON and people, you must<LINE><LINE>search for Zekrom!<LINE>I'm sure it is waiting for you in the form<LINE>of the Dark Stone.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Well, what will you do?<LINE>My prediction… If the future that I see<LINE>is true, you will meet Reshiram.<LINE>The POKéMON with you believe in you so<LINE>strongly… Will you be the one<LINE><LINE>who interferes with my formula<LINE><LINE>for changing the world?<LINE>If you want to protect the bonds<LINE>between POKéMON and people, you must<LINE><LINE>search for Reshiram!<LINE>I'm sure it is waiting for you in the form<LINE>of the Light Stone.\xf000븉\x0001\x0000
-Cheren: <PLAYER>, did you see what<LINE>flew off just now?
-Brycen: How could this happen?
-Cheren: Why? That was that guy N, right?<LINE>Why was he with the legendary POKéMON?<LINE>He couldn't really be the hero,<LINE>could he?!<LINE>Also, did I hear him tell you to search<LINE>for the other legendary POKéMON?
-Brycen: Calm down! First, we go back!<LINE>It's more important to decide what to do<LINE>next than analyze what just happened.
+CHEREN: <PLAYER>, did you see what<LINE>flew off just now?
+BRYCEN: How could this happen?
+CHEREN: Why? That was that guy N, right?<LINE>Why was he with the legendary POKéMON?<LINE>He couldn't really be the hero,<LINE>could he?!<LINE>Also, did I hear him tell you to search<LINE>for the other legendary POKéMON?
+BRYCEN: Calm down! First, we go back!<LINE>It's more important to decide what to do<LINE>next than analyze what just happened.
 Preeeeaah!
 Reshiram went flying off somewhere…
 Bazzazzazzash!

@@ -1,9 +1,9 @@
-I am a POKéMON fanatic.<LINE>I am famous in Castelia, too!<LINE>Oh, look!<LINE>You have a POKéDEX!<LINE>How many POKéMON<LINE>have you found so far?<LINE>…<LINE>\xf000Ȃ\x0001\x0000 POKéMON!<LINE>If you have 20 POKéMON or more,<LINE>I'll give you something good!
-I am a POKéMON fanatic.<LINE>I am famous in Castelia, too!<LINE>Oh, look!<LINE>You have a POKéDEX!<LINE>Well, how many POKéMON<LINE>have you found so far?<LINE>…<LINE>\xf000Ȃ\x0001\x0000 POKéMON!<LINE><LINE>This is quite a POKéDEX!<LINE>I am quite impressed, so<LINE>I will give this to you!
+I am a POKéMON fanatic.<LINE>I am famous in CASTELIA, too!<LINE>Oh, look!<LINE>You have a POKéDEX!<LINE>How many POKéMON<LINE>have you found so far?<LINE>…<LINE>\xf000Ȃ\x0001\x0000 POKéMON!<LINE>If you have 20 POKéMON or more,<LINE>I'll give you something good!
+I am a POKéMON fanatic.<LINE>I am famous in CASTELIA, too!<LINE>Oh, look!<LINE>You have a POKéDEX!<LINE>Well, how many POKéMON<LINE>have you found so far?<LINE>…<LINE>\xf000Ȃ\x0001\x0000 POKéMON!<LINE><LINE>This is quite a POKéDEX!<LINE>I am quite impressed, so<LINE>I will give this to you!
 Eviolite is great!<LINE>Both Defense and Special Defense<LINE>of the POKéMON who holds it will increase!<LINE>However, it's a peculiar stone because<LINE>it's only effective on POKéMON that<LINE><LINE>can still evolve.
 I've been thinking about starting<LINE>a new business…<LINE>But it's quite a chore.
-Do you think it's a good idea to provide<LINE>a service to raise POKéMON for Trainers?<LINE>What?<LINE>There's a POKéMON Day Care on Route 3?!
+Do you think it's a good idea to provide<LINE>a service to raise POKéMON for Trainers?<LINE>What?<LINE>There's a POKéMON Day Care on ROUTE 3?!
 What kinds of Abilities do<LINE>your POKéMON have?
 My Patrat's Ability is Keen Eye!<LINE>Even SmokeScreen and Sand-Attack<LINE>cannot lower its accuracy!
 Skeeree!
-Hmmm! Fantastic! Excellent!<LINE>Burgh's paintings are magnificent!
+Hmmm! Fantastic! Excellent!<LINE>BURGH's paintings are magnificent!

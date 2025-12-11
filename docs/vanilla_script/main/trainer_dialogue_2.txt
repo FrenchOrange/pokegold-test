@@ -59,7 +59,7 @@ My mom chose my POKéMON.<LINE>I don't think I will lose.
 You see! I am fine as long as<LINE>I listen to my mom.
 Mommy! Mommy! Where are you?<LINE>Please come and hug me!
 A Trainer who looks gorgeous!<LINE>I hope your battle is just as beautiful.
-Such a looker lost against me?!<LINE>I am a little disappointed.
+Such a LOOKER lost against me?!<LINE>I am a little disappointed.
 Oh my, the battle was also gorgeous.<LINE>I find myself drawn to you.
 What kind of POKéMON do you like?<LINE>Hey, hey. Let me see!
 Your taste in POKéMON is excellent, <LINE>but you are a disappointment as a Trainer.
@@ -653,7 +653,7 @@ You don't have to impress me.<LINE>You can lose against me.
 Come. Sleep quietly in my arms…
 It's sad to say good-bye,<LINE>but we're running out of time.
 Are you ready?<LINE>I'll take the gloves off.
-Well, well… You're not even in my league.<LINE>This is like bullying.
+Well, well… You're not even in my LEAGUE.<LINE>This is like bullying.
 Aww… I cannot believe I lost!<LINE>Who are you?!
 I would like to do the fighting<LINE>instead of my POKéMON if I could.
 POKéMON battles are not enough of a<LINE>challenge. I want to make this personal.
@@ -849,7 +849,7 @@ I'll choose the road I like,<LINE>even though it is not the quickest route.
 Actually, the road you hate<LINE>may be the shortcut to your goal.
 I am a train.<LINE>I will just run on the tracks.
 You are a station where I don't stop.<LINE>I will just pass you by.
-I think the train is great, because it runs<LINE>the same route over and over.
+I think the train is great, because it runs<LINE>the same ROUTE over and over.
 You're good at your job<LINE>and very strong.
 I expected too much from you.<LINE>You are lucky that this is not business.
 A person who can juggle<LINE>work and play is pretty cool.
@@ -916,27 +916,27 @@ You're quite a Trainer!<LINE>Be my apprentice!
 
 
 
-Thank you for riding<LINE>the Battle Subway today.<LINE><LINE>I am the Subway Boss Ingo.<LINE>I will choose the next destination<LINE>based on your talent.<LINE>Do you understand POKéMON well?<LINE>Can you hold on to your principle?<LINE><LINE>Will you go on to victory or defeat?<LINE>All aboard!
+Thank you for riding<LINE>the Battle Subway today.<LINE><LINE>I am the Subway Boss INGO.<LINE>I will choose the next destination<LINE>based on your talent.<LINE>Do you understand POKéMON well?<LINE>Can you hold on to your principle?<LINE><LINE>Will you go on to victory or defeat?<LINE>All aboard!
 Ah. Your battle was not bad at all.<LINE>However, we seem to have done slightly<LINE>better than you.<LINE>We would really like to battle with you again!<LINE>Please ride the Battle Subway again!
 Bravo!!<LINE>Your talent has brought you<LINE>to the destination called Victory!<LINE>However, your journey has just started.<LINE>When you choose your next destination,<LINE>go full speed ahead!
-Welcome! I've been waiting for you!<LINE>Let me introduce myself…<LINE>I am the Subway Boss Ingo.<LINE>What can I see after winning,<LINE>winning, and winning?<LINE>Where is my destination?<LINE>I've kept thinking, and<LINE>I've learned one thing.<LINE>That is, you cannot know what happens<LINE>after winning without winning.<LINE>Therefore, I will exert every possible<LINE>effort to battle with you.<LINE>All aboard!
+Welcome! I've been waiting for you!<LINE>Let me introduce myself…<LINE>I am the Subway Boss INGO.<LINE>What can I see after winning,<LINE>winning, and winning?<LINE>Where is my destination?<LINE>I've kept thinking, and<LINE>I've learned one thing.<LINE>That is, you cannot know what happens<LINE>after winning without winning.<LINE>Therefore, I will exert every possible<LINE>effort to battle with you.<LINE>All aboard!
 I have won this time, but<LINE>your talent is very strong!<LINE>Your tactics…reading…<LINE>You have great skills.<LINE>That's right! I would like to<LINE>battle you again and again!<LINE>Please ride the Battle Subway again soon!
 Bravo!<LINE>Excellent!!<LINE>I am glad that I fought so hard<LINE>against a wonderful Trainer like you.<LINE>That's right!<LINE>You grow stronger by matching yourself<LINE><LINE>against a strong opponent.<LINE>Please do your best and run<LINE>toward the destination,<LINE><LINE>an even higher state.
-I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of<LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>So let's start a great battle<LINE>in which every POKéMON uses<LINE><LINE>various moves.
-I am Emmet.<LINE>I won against you.<LINE>But I think I just got lucky.<LINE>In a Double Battle, if you misread one thing,<LINE>the rest will be totally different.<LINE>You know.<LINE>Please win 20 battles in a row, and<LINE><LINE>fight with me!
-I am Emmet.<LINE>I lost against you.<LINE>Because you are the strongest Trainer<LINE>I've fought lately.<LINE><LINE>You're a verrrrry strong Trainer!<LINE>Yup! It was fun!<LINE>Ride the trains some more!
-Hi, do you remember me?<LINE>I am Emmet.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of <LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>This time, I am really serious.<LINE>Really serious.<LINE>Because if a battle is not serious,<LINE>it is not fun.
-I am Emmet.<LINE>I won against you.<LINE>But this is not the end.<LINE>I am sure you will show up<LINE>here again.<LINE>I will wait for it and<LINE>win against you again.<LINE>Because I am a<LINE>Subway Boss. I am Emmet.
-I am Emmet.<LINE>I am a Subway Boss,<LINE>but I lost against you again.<LINE>But I feel good.<LINE>Because it was very fun!<LINE>You want to win, and<LINE>I don't want to lose.<LINE><LINE>That's real.<LINE>When we clash in battles,<LINE>I feel very excited!
-I am a Subway Boss, Ingo.<LINE>The fellow over to the side is<LINE>also a Subway Boss, Emmet.<LINE>Will a Multi Battle help us cover<LINE>each other's weakness?<LINE>Or will you show your<LINE>overwhelming power?<LINE>I look forward to seeing<LINE>how well you fight. <LINE>However, it is difficult to win<LINE>unless you and your partner<LINE><LINE>are in total sync.
-We make a good two-car train,<LINE>Ingo and Emmet.<LINE>This time, we worked together toward<LINE>a victory.<LINE>However, your abilities are<LINE>very impressive.
+I am EMMET.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of<LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>So let's start a great battle<LINE>in which every POKéMON uses<LINE><LINE>various moves.
+I am EMMET.<LINE>I won against you.<LINE>But I think I just got lucky.<LINE>In a Double Battle, if you misread one thing,<LINE>the rest will be totally different.<LINE>You know.<LINE>Please win 20 battles in a row, and<LINE><LINE>fight with me!
+I am EMMET.<LINE>I lost against you.<LINE>Because you are the strongest Trainer<LINE>I've fought lately.<LINE><LINE>You're a verrrrry strong Trainer!<LINE>Yup! It was fun!<LINE>Ride the trains some more!
+Hi, do you remember me?<LINE>I am EMMET.<LINE>I am a Subway Boss.<LINE>I like Double Battles.<LINE>I like combinations of <LINE>two POKéMON.<LINE>And I like winning<LINE>more than anything else.<LINE>This time, I am really serious.<LINE>Really serious.<LINE>Because if a battle is not serious,<LINE>it is not fun.
+I am EMMET.<LINE>I won against you.<LINE>But this is not the end.<LINE>I am sure you will show up<LINE>here again.<LINE>I will wait for it and<LINE>win against you again.<LINE>Because I am a<LINE>Subway Boss. I am EMMET.
+I am EMMET.<LINE>I am a Subway Boss,<LINE>but I lost against you again.<LINE>But I feel good.<LINE>Because it was very fun!<LINE>You want to win, and<LINE>I don't want to lose.<LINE><LINE>That's real.<LINE>When we clash in battles,<LINE>I feel very excited!
+I am a Subway Boss, INGO.<LINE>The fellow over to the side is<LINE>also a Subway Boss, EMMET.<LINE>Will a Multi Battle help us cover<LINE>each other's weakness?<LINE>Or will you show your<LINE>overwhelming power?<LINE>I look forward to seeing<LINE>how well you fight. <LINE>However, it is difficult to win<LINE>unless you and your partner<LINE><LINE>are in total sync.
+We make a good two-car train,<LINE>INGO and EMMET.<LINE>This time, we worked together toward<LINE>a victory.<LINE>However, your abilities are<LINE>very impressive.
 Bravo!!<LINE>What you showed us is<LINE>a spark as Trainers.<LINE>However, let me say just one thing.<LINE>Winning against us is a milestone<LINE>in your life.<LINE>You can rack up more and more.<LINE>Please move on toward an even<LINE>greater goal!
 Follow the rules.<LINE>Safe driving!<LINE>Follow the schedule.<LINE>Everybody smile!<LINE>Check safety.<LINE>Everything's ready!<LINE>Aim for victory!<LINE>All aboard!
-I am Emmet.<LINE>I won together with Ingo.<LINE>But if we fight again,<LINE>we won't know what to expect.<LINE>That's why we are waiting<LINE>for you to come back!
-I am Emmet.<LINE>I lost together with Ingo.<LINE>Your combination is<LINE>the best, perfect!<LINE><LINE>You're verrrrry strong Trainers.<LINE>Yup! It was so much fun!
-Let me introduce myself again.<LINE>I am a Subway Boss, Ingo!<LINE>Well, there is nothing else to say<LINE>for the person who comes<LINE><LINE>all the way here.<LINE>Let's have the greatest battle,<LINE>better than ever before.
-We, Ingo and Emmet, are a<LINE>two-car train.<LINE>This time, we were able to work toward<LINE>a victory.<LINE>Well, will you stop here?<LINE>Or will you challenge us again?<LINE>It's up to you.<LINE>But let me say one thing.<LINE>There is no terminal called End<LINE>in your life!
+I am EMMET.<LINE>I won together with INGO.<LINE>But if we fight again,<LINE>we won't know what to expect.<LINE>That's why we are waiting<LINE>for you to come back!
+I am EMMET.<LINE>I lost together with INGO.<LINE>Your combination is<LINE>the best, perfect!<LINE><LINE>You're verrrrry strong Trainers.<LINE>Yup! It was so much fun!
+Let me introduce myself again.<LINE>I am a Subway Boss, INGO!<LINE>Well, there is nothing else to say<LINE>for the person who comes<LINE><LINE>all the way here.<LINE>Let's have the greatest battle,<LINE>better than ever before.
+We, INGO and EMMET, are a<LINE>two-car train.<LINE>This time, we were able to work toward<LINE>a victory.<LINE>Well, will you stop here?<LINE>Or will you challenge us again?<LINE>It's up to you.<LINE>But let me say one thing.<LINE>There is no terminal called End<LINE>in your life!
 Bravo!!<LINE>Really excellent!<LINE>The best combination of<LINE>you and your POKéMON.<LINE><LINE>It is incredible!<LINE>When you and someone else combine,<LINE>your engine powers something special!<LINE>If you like, please challenge us<LINE>with a different combination.
 What I do. What I say.<LINE>Always the same.<LINE>Follow the rules.<LINE>Safe driving!<LINE>Follow the schedules.<LINE>Everyone smile!<LINE>Check safety.<LINE>Everything's ready!<LINE>Aim for victory!<LINE>All aboard!
-I am Emmet.<LINE>We won, but<LINE>I am not really satisfied.<LINE>I can tell that you won't give up.<LINE>Because you will be much, much stronger.<LINE>That's why we are waiting<LINE>for you to come back!
-I am Emmet.<LINE>We lost against you again.<LINE>But I am satisfied.<LINE>You are too strong!<LINE>The strength you have,<LINE>your trust in your POKéMON,<LINE><LINE>their never-ending support!<LINE>Yep! It was the most fun battle ever!<LINE>Please come back soon!
+I am EMMET.<LINE>We won, but<LINE>I am not really satisfied.<LINE>I can tell that you won't give up.<LINE>Because you will be much, much stronger.<LINE>That's why we are waiting<LINE>for you to come back!
+I am EMMET.<LINE>We lost against you again.<LINE>But I am satisfied.<LINE>You are too strong!<LINE>The strength you have,<LINE>your trust in your POKéMON,<LINE><LINE>their never-ending support!<LINE>Yep! It was the most fun battle ever!<LINE>Please come back soon!

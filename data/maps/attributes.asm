@@ -397,7 +397,7 @@ ENDM
 	map_attributes TrainerHouseB1F, TRAINER_HOUSE_B1F, $00, 0
 	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0
-	map_attributes CherrygrovePokecenter1F, CHERRYGROVE_POKECENTER_1F, $00, 0
+	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
 	map_attributes CherrygroveGymSpeechHouse, CHERRYGROVE_GYM_SPEECH_HOUSE, $00, 0
 	map_attributes GuideGentsHouse, GUIDE_GENTS_HOUSE, $00, 0
 	map_attributes CherrygroveEvolutionSpeechHouse, CHERRYGROVE_EVOLUTION_SPEECH_HOUSE, $00, 0

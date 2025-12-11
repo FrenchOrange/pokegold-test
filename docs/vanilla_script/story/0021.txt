@@ -1,6 +1,6 @@
-Cheren: Come with me a sec.
-If you go straight from here,<LINE>there's a POKéMON Center.<LINE>And…<LINE>Use these if you want.
-Cheren: Give your POKéMON a<LINE>Chesto Berry to hold. Then, if it ever<LINE><LINE>falls asleep, it will wake up immediately.<LINE>Oh, and another piece of advice--<LINE>Nacrene City's Gym Leader uses<LINE>Normal types.<LINE>If you have a Fighting-type POKéMON,<LINE>it might give you a big advantage.
+CHEREN: Come with me a sec.
+If you go straight from here,<LINE>there's a POKéMON CENTER.<LINE>And…<LINE>Use these if you want.
+CHEREN: Give your POKéMON a<LINE>Chesto Berry to hold. Then, if it ever<LINE><LINE>falls asleep, it will wake up immediately.<LINE>Oh, and another piece of advice--<LINE>NACRENE CITY's GYM LEADER uses<LINE>Normal types.<LINE>If you have a Fighting-type POKéMON,<LINE>it might give you a big advantage.
 N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The ideals of POKéMON inside POKé BALLS.<LINE>The truths of how Trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The truths of POKéMON inside POKé BALLS.<LINE>The ideals of how Trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001That so?<LINE>I think my friends and I should test you<LINE>to see if you can see this future, too.\xf000븉\x0001\x0000
@@ -9,62 +9,62 @@ N: \xf000븉\x0001\x0001Right now, my friends aren't strong<LINE>enough to save 
 
 Now I know what power I need.<LINE>Reshiram!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the Unova region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
 Now I know what power I need.<LINE>Zekrom!<LINE>The legendary POKéMON that, along with<LINE>the hero, created the Unova region.<LINE>It's my turn to become that hero--<LINE>and you and I will be friends!
-???: Good day, Lenora.<LINE>Find any good Fossils lately?
-Lenora: This is a surprise visit! Are you<LINE>suffering from artist's block again?
-<PLAYER>!<LINE>This is Burgh.<LINE>He may not look like it, but he's<LINE><LINE>Castelia City's Gym Leader!
-Burgh: …Eh?<LINE>Just looking for a change of pace.<LINE>Seems hectic or something around here.<LINE>What's up?
-Lenora: What's up?!<LINE>Someone just walked away with an exhibit,<LINE>that's what's up!
-Bianca: Oh, hi, <PLAYER>!<LINE>What's everybody doing here?
-Cheren: <PLAYER>, is there<LINE>some kind of problem?
-Lenora: And these two are…?<LINE>Your friends?<LINE>…<LINE>…<LINE>Bianca and Cheren…<LINE>Oh, I see. They're Trainers.<LINE>OK, then. Let's split up and search.<LINE>I'll head this way.
-Everyone!<LINE>Cheren and Bianca,<LINE>I want you to stay here at the museum.
-Burgh and <PLAYER>,<LINE>you two search Pinwheel Forest!<LINE>Got it?<LINE>Burgh, you show the way!<LINE>I'm counting on you, everyone!
-Burgh: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
-Burgh: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
-Bianca: Oh! Oh, <PLAYER>!<LINE>Take this with you!<LINE>Fennel gave me this Dowsing Machine<LINE>to give you.
+???: Good day, LENORA.<LINE>Find any good fossils lately?
+LENORA: This is a surprise visit! Are you<LINE>suffering from artist's block again?
+<PLAYER>!<LINE>This is BURGH.<LINE>He may not look like it, but he's<LINE><LINE>CASTELIA CITY's GYM LEADER!
+BURGH: …Eh?<LINE>Just looking for a change of pace.<LINE>Seems hectic or something around here.<LINE>What's up?
+LENORA: What's up?!<LINE>Someone just walked away with an exhibit,<LINE>that's what's up!
+BIANCA: Oh, hi, <PLAYER>!<LINE>What's everybody doing here?
+CHEREN: <PLAYER>, is there<LINE>some kind of problem?
+LENORA: And these two are…?<LINE>Your friends?<LINE>…<LINE>…<LINE>BIANCA and CHEREN…<LINE>Oh, I see. They're Trainers.<LINE>OK, then. Let's split up and search.<LINE>I'll head this way.
+Everyone!<LINE>CHEREN and BIANCA,<LINE>I want you to stay here at the museum.
+BURGH and <PLAYER>,<LINE>you two search PINWHEEL FOREST!<LINE>Got it?<LINE>BURGH, you show the way!<LINE>I'm counting on you, everyone!
+BURGH: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
+BURGH: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
+BIANCA: Oh! Oh, <PLAYER>!<LINE>Take this with you!<LINE>Fennel gave me this Dowsing Machine<LINE>to give you.
 Now, what did she tell me? Um…<LINE>You can use the Dowsing Machine<LINE>to find places where items are hidden.<LINE><LINE>So you can find stuff you can't even see!
-Cheren: For now, all we need to do is<LINE>protect the museum, right?
-Bianca: Hey, wait for me!
-Lenora: It doesn't look like there are<LINE>any members of Team Plasma over here…<LINE><LINE>I think I'd better stay here, though.<LINE>Please head to Pinwheel Forest<LINE>and search very carefully!
-These old textile factories<LINE>and storehouses were abandoned.<LINE>But enterprising young people<LINE>started using them as studios.<LINE>That could be called the beginning of<LINE>Nacrene City, the city of art.
+CHEREN: For now, all we need to do is<LINE>protect the museum, right?
+BIANCA: Hey, wait for me!
+LENORA: It doesn't look like there are<LINE>any members of TEAM PLASMA over here…<LINE><LINE>I think I'd better stay here, though.<LINE>Please head to PINWHEEL FOREST<LINE>and search very carefully!
+These old textile factories<LINE>and storehouses were abandoned.<LINE>But enterprising young people<LINE>started using them as studios.<LINE>That could be called the beginning of<LINE>NACRENE CITY, the city of art.
 That warehouse…<LINE>They're selling something good inside.
 Even though it's just an old warehouse,<LINE>it's become so popular…<LINE>It makes me take a second look at<LINE>what I think things are worth.
-Nacrene City is a highly fashionable<LINE>and admired locale!<LINE>Contrariwise, if you happen to be a bit<LINE>ordinary, here that's cool in its own way.
-Professor Juniper: Alder told me what's<LINE>going on.<LINE><PLAYER>, you got caught up<LINE>in something serious, it seems…
-Lenora: Is this it?
-Bianca: Whoa. Isn't that the…stone…<LINE>found in the Desert Resort?
-Lenora: Yes, that's right, but is this<LINE>really a Dragon-type POKéMON?
-Cedric: Surely…<LINE>When I investigated Dragonspiral Tower,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Dark Stone!
-Cedric: Surely…<LINE>When I investigated Dragonspiral Tower,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Light Stone!
-Professor Juniper: …I looked into that.
-Lenora: Impressive, as always.
-Bianca: But, you know, we're lucky…<LINE>'Cause what if Team Plasma, like, noticed<LINE><LINE>that old stone that time…
-Lenora: That's a good point.<LINE>It's clear to me that they were<LINE>trying to steal the Dragon Skull so<LINE><LINE>they could revive the legendary<LINE><LINE>Dragon-type POKéMON.
+NACRENE CITY is a highly fashionable<LINE>and admired locale!<LINE>Contrariwise, if you happen to be a bit<LINE>ordinary, here that's cool in its own way.
+PROFESSOR JUNIPER: ALDER told me what's<LINE>going on.<LINE><PLAYER>, you got caught up<LINE>in something serious, it seems…
+LENORA: Is this it?
+BIANCA: Whoa. Isn't that the…stone…<LINE>found in the DESERT RESORT?
+LENORA: Yes, that's right, but is this<LINE>really a Dragon-type POKéMON?
+CEDRIC: Surely…<LINE>When I investigated DRAGONSPIRAL TOWER,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Dark Stone!
+CEDRIC: Surely…<LINE>When I investigated DRAGONSPIRAL TOWER,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Light Stone!
+PROFESSOR JUNIPER: …I looked into that.
+LENORA: Impressive, as always.
+BIANCA: But, you know, we're lucky…<LINE>'Cause what if TEAM PLASMA, like, noticed<LINE><LINE>that old stone that time…
+LENORA: That's a good point.<LINE>It's clear to me that they were<LINE>trying to steal the Dragon Skull so<LINE><LINE>they could revive the legendary<LINE><LINE>Dragon-type POKéMON.
 If you would, <PLAYER>, take this…
-Alder: Wait a moment, <PLAYER>!
+ALDER: Wait a moment, <PLAYER>!
 If you take this Dark Stone, that<LINE>means you'll be the one to battle N<LINE><LINE>if anything happens to me.<LINE>Are you really OK with that?
 If you take this Light Stone, that<LINE>means you'll be the one to battle N<LINE><LINE>if anything happens to me.<LINE>Are you really OK with that?
-Alder: I understand. You are determined<LINE>to take on this duty.<LINE>Then, here it is.<LINE>Prepare yourself. Be strong.
-Alder: So, you're just going to allow<LINE>N to fulfill his plans for a new world?<LINE>A world where POKéMON and Trainers<LINE>are separated?
-Alder: Still, I must ask you…<LINE>Sincerely, I must ask you…<LINE>Take this stone.<LINE>Just in case it's needed!
-Alder: I am deeply sorry.<LINE>I wish I didn't have to burden you.<LINE>This world of ours, where POKéMON<LINE>and people live together…<LINE>Please…<LINE>If anything happens to me, protect it!
-Lenora: …I see.<LINE>If things don't go as planned,<LINE>you'll use this Dark Stone.<LINE>You'll protect the ideal future<LINE>for us and POKéMON.<LINE><PLAYER>, we're counting on you.<LINE>Please take care of yourself.
-Lenora: …I see.<LINE>If things don't go as planned,<LINE>you'll use this Light Stone.<LINE>You'll protect the true future<LINE>for us and POKéMON.<LINE><PLAYER>, we're counting on you.<LINE>Please take care of yourself.
-Cedric: …<LINE>So, how do we wake the Dragon-type<LINE>POKéMON from the stone, then?
+ALDER: I understand. You are determined<LINE>to take on this duty.<LINE>Then, here it is.<LINE>Prepare yourself. Be strong.
+ALDER: So, you're just going to allow<LINE>N to fulfill his plans for a new world?<LINE>A world where POKéMON and Trainers<LINE>are separated?
+ALDER: Still, I must ask you…<LINE>Sincerely, I must ask you…<LINE>Take this stone.<LINE>Just in case it's needed!
+ALDER: I am deeply sorry.<LINE>I wish I didn't have to burden you.<LINE>This world of ours, where POKéMON<LINE>and people live together…<LINE>Please…<LINE>If anything happens to me, protect it!
+LENORA: …I see.<LINE>If things don't go as planned,<LINE>you'll use this Dark Stone.<LINE>You'll protect the ideal future<LINE>for us and POKéMON.<LINE><PLAYER>, we're counting on you.<LINE>Please take care of yourself.
+LENORA: …I see.<LINE>If things don't go as planned,<LINE>you'll use this Light Stone.<LINE>You'll protect the true future<LINE>for us and POKéMON.<LINE><PLAYER>, we're counting on you.<LINE>Please take care of yourself.
+CEDRIC: …<LINE>So, how do we wake the Dragon-type<LINE>POKéMON from the stone, then?
 Huh?
 …
 Umm…
-Lenora: That's it!<LINE>We've got them, don't we?
-Alder: Ah-hah. We've got those two.
-<PLAYER>!<LINE>Go to Opelucid City.<LINE>The Gym Leader of that city<LINE>uses Dragon-type POKéMON.<LINE>The Gym Leader could know something.<LINE>I'll go ahead and wait for you there!<LINE>Until then!
-Professor Juniper: That's right!<LINE>Opelucid City's Iris might know something!
-Professor Juniper: That's right!<LINE>Opelucid City's Drayden might<LINE>know something!
-Cedric: Hey, <PLAYER>.<LINE>Never forget that you always<LINE>have POKéMON right by your side.
-Professor Juniper: I'm going to head<LINE>back to the lab and do some research…<LINE>I'll see if I can uncover what kinds of<LINE>beings these legendary Dragon-type<LINE><LINE>POKéMON are and if there is any way<LINE><LINE>to awaken them…
-Lenora: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
-Lenora: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
-Bianca: Ooh. Sounds real serious…<LINE>Um, that's about all I got out of it.<LINE><PLAYER>, do you know Opelucid City?<LINE>When you leave from Icirrus City<LINE>and, like, cross the Tubeline Bridge,<LINE><LINE>it's on the other side. Umm…<LINE>I'm not that great with directions, so if<LINE>you need more, check your Town Map, OK?
-Bianca: Ooh. Sounds real serious…<LINE>Um, that's about all I got out of it.<LINE><PLAYER>, do you know Opelucid City?<LINE>When you leave from Icirrus City<LINE>and, like, cross the Tubeline Bridge,<LINE><LINE>it's on the other side. Umm…<LINE>I'm not that great with directions, so if<LINE>you need more, check your Town Map, OK?
+LENORA: That's it!<LINE>We've got them, don't we?
+ALDER: Ah-hah. We've got those two.
+<PLAYER>!<LINE>Go to OPELUCID CITY.<LINE>The GYM LEADER of that city<LINE>uses Dragon-type POKéMON.<LINE>The GYM LEADER could know something.<LINE>I'll go ahead and wait for you there!<LINE>Until then!
+PROFESSOR JUNIPER: That's right!<LINE>OPELUCID CITY's IRIS might know something!
+PROFESSOR JUNIPER: That's right!<LINE>OPELUCID CITY's DRAYDEN might<LINE>know something!
+CEDRIC: Hey, <PLAYER>.<LINE>Never forget that you always<LINE>have POKéMON right by your side.
+PROFESSOR JUNIPER: I'm going to head<LINE>back to the lab and do some research…<LINE>I'll see if I can uncover what kinds of<LINE>beings these legendary Dragon-type<LINE><LINE>POKéMON are and if there is any way<LINE><LINE>to awaken them…
+LENORA: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
+LENORA: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
+BIANCA: Ooh. Sounds real serious…<LINE>Um, that's about all I got out of it.<LINE><PLAYER>, do you know OPELUCID CITY?<LINE>When you leave from ICIRRUS CITY<LINE>and, like, cross the TUBELINE BRIDGE,<LINE><LINE>it's on the other side. Umm…<LINE>I'm not that great with directions, so if<LINE>you need more, check your Town Map, OK?
+BIANCA: Ooh. Sounds real serious…<LINE>Um, that's about all I got out of it.<LINE><PLAYER>, do you know OPELUCID CITY?<LINE>When you leave from ICIRRUS CITY<LINE>and, like, cross the TUBELINE BRIDGE,<LINE><LINE>it's on the other side. Umm…<LINE>I'm not that great with directions, so if<LINE>you need more, check your Town Map, OK?
 
 
 

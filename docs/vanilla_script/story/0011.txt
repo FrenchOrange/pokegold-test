@@ -1,21 +1,21 @@
-Hey there!<LINE>I'm Fennel.<LINE>Professor Juniper asked me<LINE>to give you something.<LINE><LINE>Please, follow me!
-Are you looking for the Gym Leader?<LINE>He is not here.<LINE>He could be in the Trainers' School.<LINE>If you want to challenge him,<LINE>please go find him.<LINE>The Trainers' School is not far from<LINE>this Gym.
-Yes? Yes, I am a Gym Leader of this town.<LINE>You are…?<LINE>Right. You want to challenge the Gym.<LINE>In that case…<LINE>What was the first POKéMON you chose?<LINE><PLAYER>… I see. It's weak against<LINE>\xf000ă\x0001\x0001-type POKéMON.<LINE>I think you need to prepare to face<LINE>that type.<LINE>I'll be waiting for you inside.
-Yes? Yes, I am a Gym Leader<LINE>of this town.<LINE><LINE>You are…?<LINE>Right. You want to challenge the Gym.<LINE>In that case…<LINE>What was the first POKéMON you chose?<LINE><PLAYER>… I see. It's weak against<LINE>\xf000ă\x0001\x0001-type POKéMON.<LINE>I think you need to prepare to face<LINE>that type.<LINE>For example, try training your POKéMON<LINE>in the Dreamyard.<LINE>Please excuse me now.
-You don't seem to have any Gym Badges,<LINE>so I can't let you by.<LINE>With your lack of training, you'll have<LINE>a hard job making any progress.<LINE>Let me give you some friendly advice.<LINE>Challenge a Gym Leader in this town,<LINE>and test your ability!
-You don't seem to have<LINE>any Gym Badges.<LINE>With your lack of experience,<LINE>you'll have a hard time in the future.<LINE>Here's some friendly advice.<LINE>Challenge a Gym Leader in this town,<LINE><LINE>and test your ability!
+Hey there!<LINE>I'm Fennel.<LINE>PROFESSOR JUNIPER asked me<LINE>to give you something.<LINE><LINE>Please, follow me!
+Are you looking for the GYM LEADER?<LINE>He is not here.<LINE>He could be in the Trainers' School.<LINE>If you want to challenge him,<LINE>please go find him.<LINE>The Trainers' School is not far from<LINE>this Gym.
+Yes? Yes, I am a GYM LEADER of this town.<LINE>You are…?<LINE>Right. You want to challenge the Gym.<LINE>In that case…<LINE>What was the first POKéMON you chose?<LINE><PLAYER>… I see. It's weak against<LINE>\xf000ă\x0001\x0001-type POKéMON.<LINE>I think you need to prepare to face<LINE>that type.<LINE>I'll be waiting for you inside.
+Yes? Yes, I am a GYM LEADER<LINE>of this town.<LINE><LINE>You are…?<LINE>Right. You want to challenge the Gym.<LINE>In that case…<LINE>What was the first POKéMON you chose?<LINE><PLAYER>… I see. It's weak against<LINE>\xf000ă\x0001\x0001-type POKéMON.<LINE>I think you need to prepare to face<LINE>that type.<LINE>For example, try training your POKéMON<LINE>in the DREAMYARD.<LINE>Please excuse me now.
+You don't seem to have any Gym Badges,<LINE>so I can't let you by.<LINE>With your lack of training, you'll have<LINE>a hard job making any progress.<LINE>Let me give you some friendly advice.<LINE>Challenge a GYM LEADER in this town,<LINE>and test your ability!
+You don't seem to have<LINE>any Gym Badges.<LINE>With your lack of experience,<LINE>you'll have a hard time in the future.<LINE>Here's some friendly advice.<LINE>Challenge a GYM LEADER in this town,<LINE><LINE>and test your ability!
 The scientist Fennel was looking for you<LINE>a little while ago!
 The scientist Fennel was looking for you<LINE>a little while ago!
 Wow!<LINE>It's a shiny Gym Badge!<LINE>Getting that Badge proved you have skill<LINE>enough to handle whatever comes next!
-The Striaton City Gym Leader.<LINE>No matter how often I challenge him,<LINE>he always uses POKéMON<LINE><LINE>that I don't like…
-If a POKéMON type and a move type are<LINE>the same, the move's power will increase!<LINE><LINE>The Gym Leader told me!
-At the site of an old factory,<LINE>at a place we call the Dreamyard,<LINE><LINE>there's an unusual POKéMON<LINE><LINE>that can make dreams appear!
+The STRIATON CITY GYM LEADER.<LINE>No matter how often I challenge him,<LINE>he always uses POKéMON<LINE><LINE>that I don't like…
+If a POKéMON type and a move type are<LINE>the same, the move's power will increase!<LINE><LINE>The GYM LEADER told me!
+At the site of an old factory,<LINE>at a place we call the DREAMYARD,<LINE><LINE>there's an unusual POKéMON<LINE><LINE>that can make dreams appear!
 I too studied at the Trainers' School<LINE>when I was a beginner.
 Do you know how Technical Machines work?<LINE>A TM can instantly teach a move to a<LINE>POKéMON. You can use it over and over<LINE><LINE>with different POKéMON. How cool is that?
 Er… Um…<LINE>Grass-type POKéMON are<LINE>weak against Fire-type moves.<LINE>I know more stuff!
 Er… Um…<LINE>Water-type POKéMON are<LINE>weak against Grass-type moves.<LINE>I know more stuff!
 Um… Er…<LINE>Fire-type POKéMON are<LINE>weak against Water-type moves.<LINE>I know more stuff!
-Some Trainers train themselves and<LINE>their POKéMON in the Dreamyard.<LINE>You might think about going there…<LINE>Could be you'll find something…
+Some Trainers train themselves and<LINE>their POKéMON in the DREAMYARD.<LINE>You might think about going there…<LINE>Could be you'll find something…
 I'm so glad you came.<LINE>I'd like to give you this!
 To live quietly and do a lot of fishing…<LINE>I truly live my ideal existence!
 POKéMON can be found in dark places, too.<LINE>That's when a Dusk Ball can do the trick!<LINE><LINE>Here's one for you.

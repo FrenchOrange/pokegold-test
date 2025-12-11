@@ -1,23 +1,23 @@
 I finally get to eat it!<LINE>It was worth lining up!
-I came all the way from Accumula Town<LINE>just to have a taste!
+I came all the way from ACCUMULA TOWN<LINE>just to have a taste!
 These sweets are mega popular!!
 That's a popular store for you!<LINE>It's amazingly crowded!
-Huh? Oh, here you can buy the dessert<LINE>that everyone in Castelia City<LINE><LINE>is talking about!<LINE>Are you going to get in line?
+Huh? Oh, here you can buy the dessert<LINE>that everyone in CASTELIA CITY<LINE><LINE>is talking about!<LINE>Are you going to get in line?
 I see!<LINE>The line gets really long!<LINE>But it's definitely delicious.<LINE>It's worth lining up!
 I see. Well, it is crowded.<LINE>But just between you and me,<LINE>it's actually pretty empty today.<LINE>Usually, it's sold out by now.
-Huh? Oh, here you can buy the dessert<LINE>that everyone in Castelia City<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!
-Huh? Oh, here you can buy the dessert<LINE>that everyone in Castelia City<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!<LINE>Try again on a different day!
-How about Castelia City's famous<LINE>Casteliacone!<LINE>It's $100.<LINE>Would you like to buy one?
+Huh? Oh, here you can buy the dessert<LINE>that everyone in CASTELIA CITY<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!
+Huh? Oh, here you can buy the dessert<LINE>that everyone in CASTELIA CITY<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!<LINE>Try again on a different day!
+How about CASTELIA CITY's famous<LINE>CASTELIAcone!<LINE>It's $100.<LINE>Would you like to buy one?
 Oh, you really aren't going to buy one?<LINE>They'll sell out soon!
 Thank you very much!<LINE>We hope you enjoy the cute appearance<LINE>and the naive flavor!
 Thank you very much!<LINE>…Huh? Oh, dear!<LINE>It looks like you don't have enough<LINE><LINE>money. Please come again sometime.
 Thank you very much!<LINE>…Huh? Oh, dear!<LINE>It looks like your Bag is full.<LINE>Please come again sometime.
 Even though you waited in line…<LINE>Well, please come again, OK?
-We sell Castelia City's famous<LINE>Casteliacone here!<LINE>But the owner closes the<LINE>shop for the winter!<LINE>Please come again when it gets warm!
+We sell CASTELIA CITY's famous<LINE>CASTELIAcone here!<LINE>But the owner closes the<LINE>shop for the winter!<LINE>Please come again when it gets warm!
 Buy
 Cancel
-Studio Castelia
-Castelia's Famous Casteliacone<LINE>Closed during Winter
+Studio CASTELIA
+CASTELIA's Famous CASTELIAcone<LINE>Closed during Winter
 
 
 

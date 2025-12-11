@@ -1,12 +1,12 @@
-Brycen: <PLAYER>!<LINE>We'll hold them here!<LINE>You go on ahead!
-Brycen: I'm fine, but there's no time!
-Cheren: This is nothing! But there sure<LINE>are a lot of them…<LINE>Oh, what a complete bother!
-Cheren: Why do you make that<LINE>extra push?<LINE>What is the source of that strength?
+BRYCEN: <PLAYER>!<LINE>We'll hold them here!<LINE>You go on ahead!
+BRYCEN: I'm fine, but there's no time!
+CHEREN: This is nothing! But there sure<LINE>are a lot of them…<LINE>Oh, what a complete bother!
+CHEREN: Why do you make that<LINE>extra push?<LINE>What is the source of that strength?
 
-Team Plasma: So this is the<LINE>true strength of a Gym Leader!
-Team Plasma: This strength…<LINE>Could it be equal to the Seven Sages?
-Team Plasma: No one!<LINE>I won't let anyone get in our way!
-Team Plasma: Why do you get in our way<LINE>even though you don't understand<LINE><LINE>our sublime goal?!
-Team Plasma: So young, but so tough!
-Team Plasma: Yeah, all right. If I have<LINE>to lose, at least it's to the Gym Leader.
-Team Plasma: Right now,<LINE>our king is upstairs…<LINE>There's nothing you can do!
+TEAM PLASMA: So this is the<LINE>true strength of a GYM LEADER!
+TEAM PLASMA: This strength…<LINE>Could it be equal to the Seven Sages?
+TEAM PLASMA: No one!<LINE>I won't let anyone get in our way!
+TEAM PLASMA: Why do you get in our way<LINE>even though you don't understand<LINE><LINE>our sublime goal?!
+TEAM PLASMA: So young, but so tough!
+TEAM PLASMA: Yeah, all right. If I have<LINE>to lose, at least it's to the GYM LEADER.
+TEAM PLASMA: Right now,<LINE>our king is upstairs…<LINE>There's nothing you can do!

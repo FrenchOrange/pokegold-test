@@ -67,7 +67,7 @@ Hint!<LINE>It's not a convenience store!
 Hint!<LINE>It's not Beauty!
 Hint!<LINE>It's not from space!
 Hint!<LINE>It's not a Thunderbolt POKéMON!
-Hint!<LINE>It's in Chargestone Cave!
+Hint!<LINE>It's in CHARGESTONE CAVE!
 Hint!<LINE>It's part Flying type!
 Hint!<LINE>It's a very small POKéMON!
 Hint!<LINE>It weighs about 33 pounds!

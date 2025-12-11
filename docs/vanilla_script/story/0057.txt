@@ -1,10 +1,10 @@
 
 
-The number of Trainers on the<LINE>Royal Unova today is \xf000Ȁ\x0001\x0003.<LINE><LINE>And you've won against \xf000Ȁ\x0001\x0004.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
-The number of Trainers on the<LINE>Royal Unova today is \xf000Ȁ\x0001\x0003.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+The number of Trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>And you've won against \xf000Ȁ\x0001\x0004.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+The number of Trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
 There are a lot of cabins in this big ship!<LINE>I would like to give you advice 'cause<LINE><LINE>you need help finding Trainers!<LINE>Do you want to listen to my hint?
 Some guests like to tell really long<LINE>stories, and they just keep talking<LINE><LINE>until they hear a whistle!
-The Royal Unova's renowned observation<LINE>deck is just ahead.
+The ROYAL UNOVA's renowned observation<LINE>deck is just ahead.
 If you’re looking in the cabins with<LINE>blue doors for someone to battle,<LINE><LINE>you’ll find only one Trainer there today.
 It seems the number of Trainers in the<LINE>cabins with blue doors today is \xf000Ȁ\x0001\x0002.
 It's running on the ocean!<LINE>What a peculiar thing to see!
@@ -30,7 +30,7 @@ A POKéMON battle!<LINE>I thought about it, but…<LINE>I don't have any POKéMO
 OK, Trainer! I will give you a practical<LINE>demonstration that I am not just some<LINE><LINE>kid who wears shorts!
 Argh! I lost!<LINE>I take off my socks to you!
 Listen! Listen!<LINE>I love this ship 'cause I can<LINE><LINE>bring my POKéMON on board!
-Hey! Will you listen to my story?<LINE>The other day, I went to Nimbasa City!<LINE>… … … … …<LINE>… … … … I know, right?<LINE><LINE>Then, … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … That's what I heard, anyway!
+Hey! Will you listen to my story?<LINE>The other day, I went to NIMBASA CITY!<LINE>… … … … …<LINE>… … … … I know, right?<LINE><LINE>Then, … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … That's what I heard, anyway!
 Oh! A whistle!<LINE>I apologize for making you listen<LINE>to my long story…<LINE><LINE>But it was fun talking to you. Thanks!
 I am a Trainer.<LINE>I came from a faraway region.<LINE><LINE>I will show you my rarely seen POKéMON!
 My POKéMON! Weren't they unusual?<LINE>In particular, Wormadam is my favorite!
@@ -38,7 +38,7 @@ This gorgeous ship suits a rich person<LINE>like me très bien. Am I right?
 They blow a whistle five times!<LINE>Even if I pretend I don't hear it,<LINE><LINE>when they blow five times, it's the end…
 I will show you a graceful battle<LINE>on this elegant ship!
 Even if I lose the battle, I will not lose<LINE>my grace.<LINE><LINE>That's how a Rich Boy behaves.
-Oh, their room service?<LINE>I tried the specialty, Royal Unova tea.<LINE>It tasted wonderful!
+Oh, their room service?<LINE>I tried the specialty, ROYAL UNOVA tea.<LINE>It tasted wonderful!
 The beautiful scenery outside the window<LINE>is perfection, but I also like the royal<LINE><LINE>atmosphere inside the cabin.
 With a few waltz steps, I will<LINE>choreograph a royal POKéMON battle!
 I am enraptured with the royal<LINE>POKéMON battle…
@@ -67,6 +67,6 @@ Do you want to know a hint<LINE>about looking for Trainers?
 Certainly. Just a moment, please.
 Certainly.<LINE>Please continue to have a great time!
 Won against every Trainer on the ship!
-Thank you very much for sailing with us<LINE>on the Royal Unova.<LINE>The number of Trainers aboard the<LINE>Royal Unova today is \xf000Ȁ\x0001\x0003.<LINE><LINE>Please enjoy the trip.
-The number of Trainers aboard the<LINE>Royal Unova today is \xf000Ȁ\x0001\x0003.<LINE><LINE>You… Congratulations!<LINE>You've won against every Trainer<LINE>on the ship!<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
-Thank you for sailing with us.<LINE>This cruise ship will arrive<LINE>in Castelia City shortly.
+Thank you very much for sailing with us<LINE>on the ROYAL UNOVA.<LINE>The number of Trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>Please enjoy the trip.
+The number of Trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>You… Congratulations!<LINE>You've won against every Trainer<LINE>on the ship!<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+Thank you for sailing with us.<LINE>This cruise ship will arrive<LINE>in CASTELIA CITY shortly.

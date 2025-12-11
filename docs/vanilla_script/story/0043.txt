@@ -1,21 +1,21 @@
-Burgh: Come on! This way!
-Burgh: Team Plasma…<LINE>They took this young lady's POKéMON.
-Bianca: <PLAYER>, is there<LINE>anything we can do? My Munna…<LINE>Team Plasma took it…
+BURGH: Come on! This way!
+BURGH: TEAM PLASMA…<LINE>They took this young lady's POKéMON.
+BIANCA: <PLAYER>, is there<LINE>anything we can do? My Munna…<LINE>TEAM PLASMA took it…
 ???: I heard this lady's scream and<LINE>ran after the thief as fast as I could.<LINE>But this city is so big and so crowded…<LINE>I'm afraid I lost them.
-Burgh: Iris…<LINE>You did everything you could.
-Iris: But that's so bad!<LINE>Taking people's POKéMON is really bad!<LINE>'Cause it's really nice when<LINE>people and POKéMON are together!<LINE>They each have something the other<LINE>doesn't, and they help each other!
-Bianca: Iris…
-Burgh: Agreed!<LINE>No fear--we will get that POKéMON back.
+BURGH: IRIS…<LINE>You did everything you could.
+IRIS: But that's so bad!<LINE>Taking people's POKéMON is really bad!<LINE>'Cause it's really nice when<LINE>people and POKéMON are together!<LINE>They each have something the other<LINE>doesn't, and they help each other!
+BIANCA: IRIS…
+BURGH: Agreed!<LINE>No fear--we will get that POKéMON back.
 Right, <PLAYER>?
 Right, <PLAYER>?
-Having said that, finding a person or a<LINE>POKéMON here in Castelia City will be<LINE><LINE>like finding a needle in a haystack.
-Team Plasma: I spy a Gym Leader?!<LINE>Last time went so well, I thought<LINE>I'd grab another POKéMON…<LINE><LINE>Rethinking…<LINE><LINE>I need to get out of here!
-Burgh: <PLAYER>, let's go!<LINE>Iris! You stay by that young lady's side.
-Burgh: <PLAYER>, let's go!<LINE>Iris! You stay by that young lady's side.
-Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
-Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
-Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
-Iris: I'm gonna be Bianca's bodyguard.<LINE>So you go after those bad guys, OK?
-Bianca: Oh, Munna, I can't believe it.<LINE>Here I am, a Trainer, and I can't even<LINE>protect my own POKéMON… I'm sorry…
+Having said that, finding a person or a<LINE>POKéMON here in CASTELIA CITY will be<LINE><LINE>like finding a needle in a haystack.
+TEAM PLASMA: I spy a GYM LEADER?!<LINE>Last time went so well, I thought<LINE>I'd grab another POKéMON…<LINE><LINE>Rethinking…<LINE><LINE>I need to get out of here!
+BURGH: <PLAYER>, let's go!<LINE>IRIS! You stay by that young lady's side.
+BURGH: <PLAYER>, let's go!<LINE>IRIS! You stay by that young lady's side.
+IRIS: I'm gonna be BIANCA's bodyguard.<LINE>So you go after those bad guys, OK?
+IRIS: I'm gonna be BIANCA's bodyguard.<LINE>So you go after those bad guys, OK?
+IRIS: I'm gonna be BIANCA's bodyguard.<LINE>So you go after those bad guys, OK?
+IRIS: I'm gonna be BIANCA's bodyguard.<LINE>So you go after those bad guys, OK?
+BIANCA: Oh, Munna, I can't believe it.<LINE>Here I am, a Trainer, and I can't even<LINE>protect my own POKéMON… I'm sorry…
 When someone is getting under your skin<LINE>and you want to yell at them,<LINE><LINE>scream at the ocean!<LINE>…When you're alone, of course.
 That black boat…<LINE>What could it be?

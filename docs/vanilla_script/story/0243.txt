@@ -1,7 +1,7 @@
-Do you want to go back to Castelia City?
+Do you want to go back to CASTELIA CITY?
 We are just about to leave, so please<LINE>get on board and wait a moment.
-Just come talk to me when you want<LINE>to return to Castelia City!
-That Team Plasma…<LINE>They sure do terrible things!
+Just come talk to me when you want<LINE>to return to CASTELIA CITY!
+That TEAM PLASMA…<LINE>They sure do terrible things!
 The smell of the ocean is so soothing!
 Waaah! I'm scared!
 You sure took care of<LINE>those bad guys, mister!
@@ -13,21 +13,21 @@ What do they hope to accomplish<LINE>by occupying the island?<LINE><LINE>What a 
 If I had known this island's secret<LINE>earlier, I would've…<LINE>What? No! Nothing!<LINE>Just talking to myself!
 What are they doing in this little<LINE>memorial park? There's nothing here<LINE><LINE>but an old lighthouse…
 Too many people use POKéMON<LINE>for bad deeds!
-This officer's POKéMON couldn't stand up<LINE>to them!<LINE><LINE>That blasted Team Plasma!
+This officer's POKéMON couldn't stand up<LINE>to them!<LINE><LINE>That blasted TEAM PLASMA!
 I'm really glad a strong Trainer<LINE>like you is around!
 Recently, I've been bored because<LINE>the number of tourists has decreased.
-Two hundred years ago, an ultra-rich<LINE>family bought this island and named it<LINE><LINE>Liberty Garden.<LINE>It's a place where people and POKéMON<LINE>could live freely.
+Two hundred years ago, an ultra-rich<LINE>family bought this island and named it<LINE><LINE>LIBERTY GARDEN.<LINE>It's a place where people and POKéMON<LINE>could live freely.
 Dock 2<LINE>To board the tour boat, go to Dock 1.
 This lighthouse shines with the light<LINE>of freedom.<LINE>Only authorized personnel may enter.
 My fellow officers rushed here by<LINE>police boat!<LINE>Thanks to them, we rounded up<LINE>these baddies!
 How's that POKéMON doing?<LINE>The island sure has been quiet since<LINE>that incident.
-Team Plasma forever!
+TEAM PLASMA forever!
 We won't give up!
 You're irredeemable!
 Get moving!
-Professor Juniper: Thanks to you,<LINE><PLAYER>, this group that was<LINE><LINE>up to no good has been captured!
-Victini is a mythical POKéMON that is said<LINE>to radiate energy from its body…<LINE>When POKéMON or people come into contact<LINE>with that energy, it fills up their bodies,<LINE><LINE>and they exhibit more power than usual.<LINE>That's why there was no end to the<LINE>people who wanted to use Victini for<LINE><LINE>their own evil ends…<LINE>I'm sure the rich person who built this<LINE>underground room for Victini was<LINE><LINE>sincerely trying to help it.<LINE>But I think shutting the poor thing up in<LINE>this room was a mistake.<LINE>Thanks to you, Victini has a new destiny<LINE>that does not involve being used in<LINE><LINE>Team Plasma's schemes.<LINE>Making sure no one misuses Victini's<LINE>powers is now your duty!
+PROFESSOR JUNIPER: Thanks to you,<LINE><PLAYER>, this group that was<LINE><LINE>up to no good has been captured!
+Victini is a mythical POKéMON that is said<LINE>to radiate energy from its body…<LINE>When POKéMON or people come into contact<LINE>with that energy, it fills up their bodies,<LINE><LINE>and they exhibit more power than usual.<LINE>That's why there was no end to the<LINE>people who wanted to use Victini for<LINE><LINE>their own evil ends…<LINE>I'm sure the rich person who built this<LINE>underground room for Victini was<LINE><LINE>sincerely trying to help it.<LINE>But I think shutting the poor thing up in<LINE>this room was a mistake.<LINE>Thanks to you, Victini has a new destiny<LINE>that does not involve being used in<LINE><LINE>TEAM PLASMA's schemes.<LINE>Making sure no one misuses Victini's<LINE>powers is now your duty!
 Also…<LINE>In the Unova POKéDEX, Victini was<LINE>assigned a special number: zero.<LINE>I've heard the special number was<LINE>assigned in the hope that Victini's power<LINE><LINE>to bring victory would be shared with the<LINE><LINE>Trainer who travels with this POKéDEX…
-Professor Juniper!<LINE>We cornered the crooks with our<LINE>high-speed police boat!<LINE>We will return to Castelia City!<LINE>Please come on board, too!
-Professor Juniper: Thank you!<LINE>I'll be right there!
+PROFESSOR JUNIPER!<LINE>We cornered the crooks with our<LINE>high-speed police boat!<LINE>We will return to CASTELIA CITY!<LINE>Please come on board, too!
+PROFESSOR JUNIPER: Thank you!<LINE>I'll be right there!
 I can't believe it when people are led<LINE>astray by POKéMON's astounding abilities<LINE><LINE>and try to misuse them…<LINE>But it's only when we face POKéMON with a<LINE>good heart that we can make a<LINE><LINE>brighter future!

@@ -1,4 +1,4 @@
-Bianca: A. Mazing. Isn't it?
+BIANCA: A. Mazing. Isn't it?
 Hello, you two! How do you do?<LINE>I'm the owner of this theater.<LINE>Pleasure to meet you!
 Ooh! I must say that you two seem like<LINE>phenomenal Trainers!<LINE>What do we do here? We use Props to make<LINE>your POKéMON fashionable and glamorous!<LINE>Do you want to join in and play Dress Up?<LINE>To get you started, here's a Prop Case!
 This Prop Case lets you store Props for<LINE>decorating your POKéMON!<LINE>First off, you need to pick a POKéMON!
@@ -8,7 +8,7 @@ Now, now. Don't be like that.<LINE>Please reconsider and select a POKéMON!
 Then… It's time to play Dress Up!
 Wow! The two of you did a fantastic job<LINE>coordinating everything!<LINE><LINE>Utterly charming!
 If you have a POKéMON who can play<LINE>Dress Up, you can participate in the<LINE><LINE>POKéMON Musical!<LINE>Would you two please join us?<LINE>The receptionist can explain everything.<LINE>Let us say a brief farewell!<LINE>I eagerly anticipate seeing you on stage!
-Bianca: Oh, I don't know what to do!<LINE>Doing the musical would be totally cool,<LINE>but there's other stuff I wanna do.<LINE>OK, that's it! I made up my mind!<LINE>I'm going to see the sights in Nimbasa!<LINE>See ya, <PLAYER>!
+BIANCA: Oh, I don't know what to do!<LINE>Doing the musical would be totally cool,<LINE>but there's other stuff I wanna do.<LINE>OK, that's it! I made up my mind!<LINE>I'm going to see the sights in NIMBASA!<LINE>See ya, <PLAYER>!
 We really want you to participate in<LINE>the musical!<LINE>I apologize in advance if any of our<LINE>Props don't suit some kinds of POKéMON.<LINE>POKéMON are individuals, after all!
 Wait! Please, wait!<LINE>You participated in a musical<LINE>with your friends, right?<LINE>I felt like you opened up new possibilities<LINE>for musicals!<LINE>That's why I feel impelled to give you<LINE>this present! Please accept it!
 I eagerly anticipate seeing you<LINE>on stage again!

@@ -1,12 +1,12 @@
-Bianca: <PLAYER>!
-As I've been traveling lately,<LINE>I've been thinking about things.<LINE>Things like what I can do with my life,<LINE>and what I want to do, but…<LINE>I'm thinking how cool it would be<LINE>to be a model like Elesa.<LINE>And then, how cool it would be to do<LINE>research on POKéMON like<LINE><LINE>Professor Juniper…<LINE>If that's what I want to do, I'm gonna<LINE>have to know a lot about POKéMON.<LINE><LINE>Sooooo…would you please battle me?
-Bianca: Yep!<LINE><PLAYER>, you're amazing!<LINE>I'm really, really, really impressed, and<LINE>that makes me want to give this to you!
-Bianca: In Castelia City, my precious<LINE>POKéMON was stolen by Team Plasma.<LINE>So I really, really understand!<LINE>If Team Plasma forces everyone to<LINE>liberate their POKéMON,<LINE><LINE>there will be nothing but sad people!<LINE><PLAYER>!<LINE>Stop Team Plasma!<LINE>Don't allow POKéMON to be stolen<LINE>from Trainers who love them!<LINE>I think that's the truth--or ideal--that<LINE>you've been pursuing, <PLAYER>…
-Bianca: Oh dear, here I've come all this<LINE>way, and I'm afraid I'm bothering you<LINE><LINE>when you're going through so much.<LINE>All I wanted was to help you relax,<LINE><PLAYER>.<LINE>Knowing you, you'll be fine!<LINE>Definitely! You'll totally be fine!<LINE>I guarantee it!<LINE>Anyway, you know what I mean…<LINE>Yeah… So, bye-bye!
-Team Plasma: Apparently, some of us<LINE>are working in Dragonspiral Tower,<LINE><LINE>which is close to Icirrus City.
-Team Plasma: Apparently some of us<LINE>are working in the Relic Castle<LINE><LINE>in the Desert Resort.
-Team Plasma: Apparently, some of us<LINE>are working in Dragonspiral Tower,<LINE><LINE>which is close to Icirrus City!
-Team Plasma: Apparently some of us<LINE>are working in the Relic Castle<LINE><LINE>in the Desert Resort!
+BIANCA: <PLAYER>!
+As I've been traveling lately,<LINE>I've been thinking about things.<LINE>Things like what I can do with my life,<LINE>and what I want to do, but…<LINE>I'm thinking how cool it would be<LINE>to be a model like ELESA.<LINE>And then, how cool it would be to do<LINE>research on POKéMON like<LINE><LINE>PROFESSOR JUNIPER…<LINE>If that's what I want to do, I'm gonna<LINE>have to know a lot about POKéMON.<LINE><LINE>Sooooo…would you please battle me?
+BIANCA: Yep!<LINE><PLAYER>, you're amazing!<LINE>I'm really, really, really impressed, and<LINE>that makes me want to give this to you!
+BIANCA: In CASTELIA CITY, my precious<LINE>POKéMON was stolen by TEAM PLASMA.<LINE>So I really, really understand!<LINE>If TEAM PLASMA forces everyone to<LINE>liberate their POKéMON,<LINE><LINE>there will be nothing but sad people!<LINE><PLAYER>!<LINE>Stop TEAM PLASMA!<LINE>Don't allow POKéMON to be stolen<LINE>from Trainers who love them!<LINE>I think that's the truth--or ideal--that<LINE>you've been pursuing, <PLAYER>…
+BIANCA: Oh dear, here I've come all this<LINE>way, and I'm afraid I'm bothering you<LINE><LINE>when you're going through so much.<LINE>All I wanted was to help you relax,<LINE><PLAYER>.<LINE>Knowing you, you'll be fine!<LINE>Definitely! You'll totally be fine!<LINE>I guarantee it!<LINE>Anyway, you know what I mean…<LINE>Yeah… So, bye-bye!
+TEAM PLASMA: Apparently, some of us<LINE>are working in DRAGONSPIRAL TOWER,<LINE><LINE>which is close to ICIRRUS CITY.
+TEAM PLASMA: Apparently some of us<LINE>are working in the RELIC CASTLE<LINE><LINE>in the DESERT RESORT.
+TEAM PLASMA: Apparently, some of us<LINE>are working in DRAGONSPIRAL TOWER,<LINE><LINE>which is close to ICIRRUS CITY!
+TEAM PLASMA: Apparently some of us<LINE>are working in the RELIC CASTLE<LINE><LINE>in the DESERT RESORT!
 My parasol is full of TMs.<LINE>Would you like one?
 Facade! Facade!<LINE>When the user's poisoned, paralyzed,<LINE><LINE>or burned, its attack power doubles!
 That's right.<LINE>I find rocks, and then<LINE>I give them to people…<LINE><LINE>That's my simple life.<LINE><LINE>You rock…
@@ -15,7 +15,7 @@ Here, I'll give you the Heat Rock<LINE>I found this afternoon.
 Here, I'll give you the Smooth Rock<LINE>I found this evening.
 Here, I'll give you the Icy Rock<LINE>I found tonight.
 Yeah, yeah…<LINE>If you like rocks, come back tomorrow…<LINE>Roll in at a different time, if possible.<LINE><LINE>I'll be here, I pumice.
-Route 8
+ROUTE 8
 
 Trainer Tips!<LINE><LINE>Press SELECT to change the location<LINE>of items in the Bag!<LINE>Poink!
-Tubeline Bridge<LINE>Unova's famous railway bridge
+TUBELINE BRIDGE<LINE>Unova's famous railway bridge

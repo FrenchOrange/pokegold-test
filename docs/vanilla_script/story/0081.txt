@@ -7,18 +7,18 @@ And, <PLAYER>, now you have earned<LINE>the right to challenge<LINE><LINE>the Su
 And, <PLAYER>, now you have earned<LINE>the right to challenge<LINE><LINE>the Super Double Train!
 And, <PLAYER>, now you have earned<LINE>the right to challenge<LINE><LINE>the Super Multi Train!
 Also, to commemorate this, I give you<LINE>this trophy.<LINE>Please display it in your home!
-Please enjoy your time here.<LINE>If you would like to continue your<LINE>challenge or go back to Nimbasa City,<LINE><LINE>please talk to me.
-This is the end of the Single Train line.<LINE>When you want to return to Nimbasa City,<LINE>please talk to me again.<LINE>Please enjoy your time here.
-This is the end of the Double Train line.<LINE>When you want to return to Nimbasa City,<LINE>please talk to me again.<LINE>Please enjoy your time here.
-This is the end of the Multi Train line.<LINE>When you want to return to Nimbasa City,<LINE>please talk to me again.<LINE>Please enjoy your time here.
-Do you want to return to Nimbasa City?
-Well then, we'll return to Nimbasa City.
+Please enjoy your time here.<LINE>If you would like to continue your<LINE>challenge or go back to NIMBASA CITY,<LINE><LINE>please talk to me.
+This is the end of the Single Train line.<LINE>When you want to return to NIMBASA CITY,<LINE>please talk to me again.<LINE>Please enjoy your time here.
+This is the end of the Double Train line.<LINE>When you want to return to NIMBASA CITY,<LINE>please talk to me again.<LINE>Please enjoy your time here.
+This is the end of the Multi Train line.<LINE>When you want to return to NIMBASA CITY,<LINE>please talk to me again.<LINE>Please enjoy your time here.
+Do you want to return to NIMBASA CITY?
+Well then, we'll return to NIMBASA CITY.
 What would you like to do?
 Continue Challenge
-Return to Nimbasa City
+Return to NIMBASA CITY
 Stay Here
 Awaiting your friend's response…
-"Return to Nimbasa City" was chosen, so<LINE>your challenge<LINE><LINE>will end for now.
+"Return to NIMBASA CITY" was chosen, so<LINE>your challenge<LINE><LINE>will end for now.
 <PLAYER>, you have been promoted<LINE>to Rank \xf000ȁ\x0001\x0001!
 Would you like to send these results<LINE>using Nintendo WFC?
 There's still a lot more to go, but let's<LINE>do our best!
@@ -27,7 +27,7 @@ We finally made it this far!<LINE>Our opponents will get tougher, but let's<LINE
 We finally made it this far!<LINE>Our opponents will get tougher, but let's<LINE>do our best and not get discouraged!
 We finally made it here!<LINE>…Could we be the best partners ever?!
 We finally made it here!<LINE>…Could we be the best partners ever?!
-This is the end of the Wi-Fi Train line.<LINE>When you want to return to Nimbasa City,<LINE>please talk to me again.<LINE>Please enjoy your time here.
+This is the end of the Wi-Fi Train line.<LINE>When you want to return to NIMBASA CITY,<LINE>please talk to me again.<LINE>Please enjoy your time here.
 The challenge was interrupted.
 The selection was canceled.
 Constant battles make me nervous.<LINE>I'm taking a little rest here.
@@ -102,7 +102,7 @@ Even a Veteran can lose to a Preschooler<LINE>if they get careless.<LINE>POKéMO
 Just a little more to 50 straight wins!<LINE>Suddenly, I'm all pumped up!
 You have the face of someone who<LINE>absolutely loves POKéMON battling.<LINE>Even now, you're still completely hooked<LINE>on battling. Amazing.<LINE>Hee hee…<LINE>You have a promising future!
 You and I both have 91 straight wins!<LINE>Which of us will reach a 100-win<LINE>streak first?
-Dawn and dusk behind my battles…<LINE>The rocking train softly rattles…<LINE>How many hours have now passed<LINE>since we left Nimbasa in the past?
+Dawn and dusk behind my battles…<LINE>The rocking train softly rattles…<LINE>How many hours have now passed<LINE>since we left NIMBASA in the past?
 This is the end of the line…<LINE>The trip sure ended quickly.<LINE>I don't want to go home yet.
 If you've made it this far, that means<LINE>you've won 14 in a row.<LINE>What a fluke! Fourteen is how old I am!<LINE>Ha ha ha…
 I'm going to let people know I'm still<LINE>as active as ever!

@@ -338,7 +338,7 @@ INCLUDE "maps/SilphCo1F.asm"
 
 SECTION "Map Scripts 32", ROMX
 
-INCLUDE "maps/CherrygrovePokecenter1F.asm"
+INCLUDE "maps/AccumulaPokecenter1F.asm"
 INCLUDE "maps/CherrygroveGymSpeechHouse.asm"
 INCLUDE "maps/GuideGentsHouse.asm"
 INCLUDE "maps/CherrygroveEvolutionSpeechHouse.asm"

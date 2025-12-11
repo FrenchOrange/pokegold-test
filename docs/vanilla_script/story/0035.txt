@@ -1,4 +1,4 @@
-Burgh: That way!<LINE>M'hm. Toward the Gym?!
+BURGH: That way!<LINE>M'hm. Toward the Gym?!
 Hey, Trainer!<LINE>Show me your paces!<LINE>Give me a whirl!
 All riiight!<LINE>A fight is like a dance!
 Come on, man!<LINE>You gotta go with the flow!
@@ -16,5 +16,5 @@ Thanks, man!<LINE>I've got the best team in the world here!<LINE><LINE>That's ho
 We communicate by dancing.<LINE>It's how we say happy things,<LINE>sad things…<LINE><LINE>How we say the world shines brightly!
 All riiight!<LINE>Let's dance!
 Landscapes with people…<LINE>Landscapes with POKéMON…<LINE>Each has power and beauty,<LINE>compelling me to draw them both.<LINE>Oh, my studio is down Mode Street a bit.
-Castelia City, Central Plaza<LINE>Ahead: Route 4
-Ahead: Mode Street<LINE>Casteliacones and Studio Castelia
+CASTELIA CITY, Central Plaza<LINE>Ahead: ROUTE 4
+Ahead: Mode Street<LINE>CASTELIAcones and Studio CASTELIA

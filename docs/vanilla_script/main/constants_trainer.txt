@@ -37,7 +37,7 @@ Psychic
 Psychic
 (PK)(MN) Trainer
 (PK)(MN) Trainer
-Team Plasma
+TEAM PLASMA
 (PK)(MN) Trainer
 Rich Boy
 Lady
@@ -45,7 +45,7 @@ Pilot
 Worker
 Hoopster
 Scientist
-Team Plasma
+TEAM PLASMA
 Clerk ⑮
 Ace Trainer
 Ace Trainer
@@ -75,12 +75,12 @@ Infielder
 Hiker
 Socialite
 Gentleman
-Team Plasma
+TEAM PLASMA
 Elite Four
 Elite Four
 Elite Four
 Elite Four
-Team Plasma
+TEAM PLASMA
 Depot Agent
 Swimmer ⑭
 Swimmer ⑮
@@ -99,7 +99,7 @@ GAME FREAK
 The Riches
 The Riches
 (PK)(MN) Trainer
-Team Plasma
+TEAM PLASMA
 Subway Boss
 (PK)(MN) Trainer
 (PK)(MN) Trainer

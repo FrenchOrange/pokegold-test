@@ -1,25 +1,25 @@
-Cheren: <PLAYER>! <LINE>I understand the feeling.<LINE>I want to go somewhere with<LINE><LINE>my POKéMON too, but first<LINE><LINE>we have to go thank Professor Juniper.<LINE>Come on. The lab is this way!
-Cheren: I'm sorry, but could you<LINE>go to Bianca's house?<LINE>I'll bet she's spacing out<LINE>like she usually does.<LINE><LINE>She's totally flighty.
-Bianca: …That's a secret, OK?
-Cheren: OK!<LINE>Let's go meet the professor.
-Bianca: Heeey!<LINE><PLAYER>, wait up!
-Bianca: Come on!<LINE><PLAYER>, wait up!
-Mom: Oh, there you are! And…?<LINE>What did the professor have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
+CHEREN: <PLAYER>! <LINE>I understand the feeling.<LINE>I want to go somewhere with<LINE><LINE>my POKéMON too, but first<LINE><LINE>we have to go thank PROFESSOR JUNIPER.<LINE>Come on. The lab is this way!
+CHEREN: I'm sorry, but could you<LINE>go to BIANCA's house?<LINE>I'll bet she's spacing out<LINE>like she usually does.<LINE><LINE>She's totally flighty.
+BIANCA: …That's a secret, OK?
+CHEREN: OK!<LINE>Let's go meet the PROFESSOR.
+BIANCA: Heeey!<LINE><PLAYER>, wait up!
+BIANCA: Come on!<LINE><PLAYER>, wait up!
+Mom: Oh, there you are! And…?<LINE>What did the PROFESSOR have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
 Well, actually, I can.<LINE>I already knew she was going to ask.
 That's why I brought you three of<LINE>these Town Maps. Take them with you!
-Mom: Here you are, Cheren.
-Cheren: I'll take good care of it.
-Mom: And one for you, too, Bianca.
-Bianca: Th-thank you so much!
+Mom: Here you are, CHEREN.
+CHEREN: I'll take good care of it.
+Mom: And one for you, too, BIANCA.
+BIANCA: Th-thank you so much!
 Mom: As for your room, <PLAYER>--<LINE>or what's left of it…<LINE>No need for any of you to worry.<LINE>I'll take care of tidying up.<LINE>OK, <PLAYER>?
 Mom: Ah, POKéMON. They are so cute,<LINE>but they have enough power to destroy<LINE><LINE>a bedroom! They are really something.<LINE>With POKéMON like that at your side,<LINE>you'll be safe wherever you go!
 I'll let your parents know!<LINE>I hope that, in addition to POKéMON,<LINE>you'll find lots and lots of places<LINE><LINE>you like in the Unova region--<LINE><LINE>and become wonderful adults!<LINE>Have a great trip!
-Cheren: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to Route 1?<LINE>The professor's waiting.
-Bianca: Let's go, let's go!<LINE><PLAYER>, hurry and come too, OK?
-Bianca: <PLAYER>…<LINE>It's this way!
-Cheren: Bianca says if we're starting a<LINE>journey together, she wants us all to<LINE><LINE>take our first step at the same time.
-Bianca: Hey, <PLAYER>!<LINE>Let's all take our first step<LINE>on Route 1 together!
-Cheren: OK, here we go!
+CHEREN: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to ROUTE 1?<LINE>The PROFESSOR's waiting.
+BIANCA: Let's go, let's go!<LINE><PLAYER>, hurry and come too, OK?
+BIANCA: <PLAYER>…<LINE>It's this way!
+CHEREN: BIANCA says if we're starting a<LINE>journey together, she wants us all to<LINE><LINE>take our first step at the same time.
+BIANCA: Hey, <PLAYER>!<LINE>Let's all take our first step<LINE>on ROUTE 1 together!
+CHEREN: OK, here we go!
 
 One, two!
 The power of science is amazing!<LINE>Now you can use infrared to do all<LINE>sorts of things in the blink of an eye!
@@ -27,23 +27,23 @@ Do you think traveling with POKéMON<LINE>changes people?
 Me too! Traveling and thinking about many<LINE>things can definitely make a difference.
 You're right! It's fine to just enjoy the<LINE>journey without overthinking it!
 I've heard there are a lot of POKéMON<LINE>and many different people in the world.<LINE>When I hear stories about them,<LINE>I get very excited!
-Bianca: Oh! I wonder what will happen!<LINE>Isn't this so exciting?!
-Cheren: It sure is!<LINE>C'mon, the professor's waiting.
-Cheren: Hey, <PLAYER>.<LINE>Is Looker through talking to you?
-Bianca: …I'm sorry.<LINE>By the time I went to get the<LINE>Striaton City Gym Leaders,<LINE><LINE>everything was over…
-Cheren: If that's the case…<LINE>I let Ghetsis escape when the<LINE>Shadow Triad created an opening.
-Bianca: …Ghetsis?<LINE>The Shadow Triad?
-Cheren: I'll tell you later about what<LINE>happened in the castle.<LINE>It's more important to ask what you plan<LINE>to do now, Bianca.
-Bianca: You know what? You know what!<LINE>I'm gonna go to White Forest!
-Bianca: You know what? You know what!<LINE>I'm gonna go to Black City!
-Cheren: That's the city on the other side<LINE>of Route 16 when you leave from<LINE><LINE>Nimbasa City. Hmm.<LINE>If you go that way, you might be able to<LINE>meet all sorts of POKéMON<LINE><LINE>you've never seen before.
-Cedric: Oh!<LINE>Well, this is nice timing!<LINE><LINE>I see you're all here!
+BIANCA: Oh! I wonder what will happen!<LINE>Isn't this so exciting?!
+CHEREN: It sure is!<LINE>C'mon, the PROFESSOR's waiting.
+CHEREN: Hey, <PLAYER>.<LINE>Is LOOKER through talking to you?
+BIANCA: …I'm sorry.<LINE>By the time I went to get the<LINE>STRIATON CITY GYM LEADERs,<LINE><LINE>everything was over…
+CHEREN: If that's the case…<LINE>I let GHETSIS escape when the<LINE>Shadow Triad created an opening.
+BIANCA: …GHETSIS?<LINE>The Shadow Triad?
+CHEREN: I'll tell you later about what<LINE>happened in the castle.<LINE>It's more important to ask what you plan<LINE>to do now, BIANCA.
+BIANCA: You know what? You know what!<LINE>I'm gonna go to WHITE FOREST!
+BIANCA: You know what? You know what!<LINE>I'm gonna go to BLACK CITY!
+CHEREN: That's the city on the other side<LINE>of ROUTE 16 when you leave from<LINE><LINE>NIMBASA CITY. Hmm.<LINE>If you go that way, you might be able to<LINE>meet all sorts of POKéMON<LINE><LINE>you've never seen before.
+CEDRIC: Oh!<LINE>Well, this is nice timing!<LINE><LINE>I see you're all here!
 Just a moment ago, I got some National<LINE>POKéDEX data from an acquaintance.<LINE>Since you're here, let's upgrade your<LINE>POKéDEX with the National POKéDEX data.<LINE>I'm sure you'll be visiting a wider range<LINE>of places. Naturally, that means<LINE><LINE>you'll be encountering more POKéMON.<LINE>Let me see your POKéDEX for a sec!
-There you go, Bianca!
-Next up is Cheren!
+There you go, BIANCA!
+Next up is CHEREN!
 And last, but not least…
 <PLAYER>'s POKéDEX was upgraded<LINE>with the National Mode!
-Cedric: You can now switch your<LINE>POKéDEXes to the National Mode POKéDEX.<LINE>Completing the National POKéDEX will<LINE>surely be a big challenge.<LINE>So, take your time, enjoy yourselves,<LINE>and meet lots of POKéMON.
-Bianca: Wow, the National POKéDEX…<LINE>It looks like there are tons of POKéMON<LINE>I don't know yet! <LINE>Oh! Ooh! I want to show Mom and Dad<LINE>my POKéDEX! I gotta go!<LINE>Let's meet again somewhere, OK?!
-Cheren: Huh. Bianca's as impetuous as<LINE>ever, no matter what is going on.
-I think I'll travel all the way around<LINE>Unova, starting at Route 1 again.<LINE>I'm sure I'll discover lots of new things.<LINE>Could be I'll encounter the Seven Sages<LINE>along the way…<LINE>And, <PLAYER>, if we spy each other<LINE>along the way, let's battle again, OK?
+CEDRIC: You can now switch your<LINE>POKéDEXes to the National Mode POKéDEX.<LINE>Completing the National POKéDEX will<LINE>surely be a big challenge.<LINE>So, take your time, enjoy yourselves,<LINE>and meet lots of POKéMON.
+BIANCA: Wow, the National POKéDEX…<LINE>It looks like there are tons of POKéMON<LINE>I don't know yet! <LINE>Oh! Ooh! I want to show Mom and Dad<LINE>my POKéDEX! I gotta go!<LINE>Let's meet again somewhere, OK?!
+CHEREN: Huh. BIANCA's as impetuous as<LINE>ever, no matter what is going on.
+I think I'll travel all the way around<LINE>Unova, starting at ROUTE 1 again.<LINE>I'm sure I'll discover lots of new things.<LINE>Could be I'll encounter the Seven Sages<LINE>along the way…<LINE>And, <PLAYER>, if we spy each other<LINE>along the way, let's battle again, OK?

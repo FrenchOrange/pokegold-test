@@ -1,3 +1,3 @@
 I'm going to see the ruins, but I'm afraid<LINE>I might get lost in the desert.<LINE>It's really big, and sometimes you run<LINE>into POKéMON.<LINE>Will I be in trouble if I am not strong?
 I hear you can find the newly discovered<LINE>entrance of the ruins if you go through<LINE><LINE>the gate and just head straight.
-Desert Resort Ahead<LINE>It's nicer than the average desert!
+DESERT RESORT Ahead<LINE>It's nicer than the average desert!

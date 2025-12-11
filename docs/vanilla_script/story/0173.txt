@@ -1,18 +1,18 @@
-Cheren: Whew! I finally caught up.
-Alder: You two. Come here…<LINE>Come to my side.
-Ghetsis: It looks like everyone is here.<LINE>It seems you are working hard<LINE>to resurrect Zekrom, the other<LINE><LINE>Dragon-type POKéMON, aren't you?<LINE>But it appears the Dark Stone you seek<LINE>is not here.
-Ghetsis: It looks like everyone is here.<LINE>It seems you are working hard<LINE>to resurrect Reshiram, the other<LINE><LINE>Dragon-type POKéMON, aren't you?<LINE>But it appears the Light Stone you seek<LINE>is not here.
-Well then, congratulations are in order!<LINE><PLAYER>, you were chosen by our king.<LINE>If you truly desire to keep the world as<LINE>it is, where POKéMON live alongside<LINE><LINE>people, you must bring the other<LINE><LINE>Dragon-type POKéMON spoken of<LINE><LINE>in legend and battle with our king.<LINE>Otherwise, Team Plasma will steal every<LINE>POKéMON from every person in the world<LINE><LINE>and release them all!
-Alder: Release them, you say?<LINE>Do the POKéMON who live with their<LINE>Trainers actually want that?<LINE>Is the liberation you talk about really<LINE>just stealing POKéMON from people?
-Ghetsis: What's this?<LINE>Champion Alder, even though illness took<LINE>the POKéMON that had been your partner<LINE><LINE>for many years, and you haven't had a<LINE><LINE>serious battle in all that time…<LINE>Even you, who ordered the Elite Four to<LINE>protect the POKéMON League and left to<LINE><LINE>wander the Unova region alone…<LINE>Even a Champion like you now wants to<LINE>protect a world where POKéMON and<LINE><LINE>people live together?
-Team Plasma's king will show the people of<LINE>Unova that he is stronger than a<LINE><LINE>Champion who keeps POKéMON bound!<LINE>And just like the hero who founded<LINE>Unova, he will be accompanied by the<LINE><LINE>legendary POKéMON.<LINE>He will give this order!<LINE>“Trainers, release your POKéMON!"<LINE>For this, we have prepared a suitable<LINE>castle for the legendary Reshiram and<LINE><LINE>our king!
-Team Plasma's king will show the people of<LINE>Unova that he is stronger than a<LINE><LINE>Champion who keeps POKéMON bound!<LINE>And just like the hero who founded<LINE>Unova, he will be accompanied by the<LINE><LINE>legendary POKéMON.<LINE>He will give this order!<LINE>“Trainers, release your POKéMON!"<LINE>For this, we have prepared a suitable<LINE>castle for the legendary Zekrom and<LINE><LINE>our king!
-Alder: I won't lose!<LINE>I'll fight for all Trainers who love their<LINE>POKéMON, and for all POKéMON who believe<LINE><LINE>in their Trainers!
-Ghetsis: Our king has no interest in you.<LINE>He has already determined that victory<LINE>against you is assured.
-Alder: So you stayed behind just to<LINE>tell me that? Just to make a fool of me?
-Ghetsis: Of course not.<LINE>I'm doing this out of kindness.<LINE>Yes, kindness.<LINE>I'm making sure the Champion doesn't<LINE>get hurt for no reason.<LINE>Granted, the moment when<LINE>someone loses all hope…<LINE>I really do love to watch<LINE>that moment.<LINE>Well then, farewell.
-Cheren: Alder…<LINE>What are you going to do now?
-Alder: Hmmm…<LINE>It seems my only choice is to return to<LINE>the POKéMON League and battle N.<LINE>But it bothers me to do exactly what<LINE>Ghetsis wants…<LINE>More importantly, what should we do<LINE>about the Dark Stone?
-Alder: Hmmm…<LINE>It seems my only choice is to return to<LINE>the POKéMON League and battle N.<LINE>But it bothers me to do exactly what<LINE>Ghetsis wants…<LINE>More importantly, what should we do<LINE>about the Light Stone?
-Cheren: Alder…<LINE>Why don't we go outside for now?
-Alder: Yes…that's a good idea.<LINE>It's hard to breathe in here!
+CHEREN: Whew! I finally caught up.
+ALDER: You two. Come here…<LINE>Come to my side.
+GHETSIS: It looks like everyone is here.<LINE>It seems you are working hard<LINE>to resurrect Zekrom, the other<LINE><LINE>Dragon-type POKéMON, aren't you?<LINE>But it appears the Dark Stone you seek<LINE>is not here.
+GHETSIS: It looks like everyone is here.<LINE>It seems you are working hard<LINE>to resurrect Reshiram, the other<LINE><LINE>Dragon-type POKéMON, aren't you?<LINE>But it appears the Light Stone you seek<LINE>is not here.
+Well then, congratulations are in order!<LINE><PLAYER>, you were chosen by our king.<LINE>If you truly desire to keep the world as<LINE>it is, where POKéMON live alongside<LINE><LINE>people, you must bring the other<LINE><LINE>Dragon-type POKéMON spoken of<LINE><LINE>in legend and battle with our king.<LINE>Otherwise, TEAM PLASMA will steal every<LINE>POKéMON from every person in the world<LINE><LINE>and release them all!
+ALDER: Release them, you say?<LINE>Do the POKéMON who live with their<LINE>Trainers actually want that?<LINE>Is the liberation you talk about really<LINE>just stealing POKéMON from people?
+GHETSIS: What's this?<LINE>Champion ALDER, even though illness took<LINE>the POKéMON that had been your partner<LINE><LINE>for many years, and you haven't had a<LINE><LINE>serious battle in all that time…<LINE>Even you, who ordered the Elite Four to<LINE>protect the POKéMON LEAGUE and left to<LINE><LINE>wander the Unova region alone…<LINE>Even a Champion like you now wants to<LINE>protect a world where POKéMON and<LINE><LINE>people live together?
+TEAM PLASMA's king will show the people of<LINE>Unova that he is stronger than a<LINE><LINE>Champion who keeps POKéMON bound!<LINE>And just like the hero who founded<LINE>Unova, he will be accompanied by the<LINE><LINE>legendary POKéMON.<LINE>He will give this order!<LINE>“Trainers, release your POKéMON!"<LINE>For this, we have prepared a suitable<LINE>castle for the legendary Reshiram and<LINE><LINE>our king!
+TEAM PLASMA's king will show the people of<LINE>Unova that he is stronger than a<LINE><LINE>Champion who keeps POKéMON bound!<LINE>And just like the hero who founded<LINE>Unova, he will be accompanied by the<LINE><LINE>legendary POKéMON.<LINE>He will give this order!<LINE>“Trainers, release your POKéMON!"<LINE>For this, we have prepared a suitable<LINE>castle for the legendary Zekrom and<LINE><LINE>our king!
+ALDER: I won't lose!<LINE>I'll fight for all Trainers who love their<LINE>POKéMON, and for all POKéMON who believe<LINE><LINE>in their Trainers!
+GHETSIS: Our king has no interest in you.<LINE>He has already determined that victory<LINE>against you is assured.
+ALDER: So you stayed behind just to<LINE>tell me that? Just to make a fool of me?
+GHETSIS: Of course not.<LINE>I'm doing this out of kindness.<LINE>Yes, kindness.<LINE>I'm making sure the Champion doesn't<LINE>get hurt for no reason.<LINE>Granted, the moment when<LINE>someone loses all hope…<LINE>I really do love to watch<LINE>that moment.<LINE>Well then, farewell.
+CHEREN: ALDER…<LINE>What are you going to do now?
+ALDER: Hmmm…<LINE>It seems my only choice is to return to<LINE>the POKéMON LEAGUE and battle N.<LINE>But it bothers me to do exactly what<LINE>GHETSIS wants…<LINE>More importantly, what should we do<LINE>about the Dark Stone?
+ALDER: Hmmm…<LINE>It seems my only choice is to return to<LINE>the POKéMON LEAGUE and battle N.<LINE>But it bothers me to do exactly what<LINE>GHETSIS wants…<LINE>More importantly, what should we do<LINE>about the Light Stone?
+CHEREN: ALDER…<LINE>Why don't we go outside for now?
+ALDER: Yes…that's a good idea.<LINE>It's hard to breathe in here!

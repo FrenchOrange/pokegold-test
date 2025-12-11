@@ -52,12 +52,12 @@ NacrenePokecenter1FLassText:
 
 NacrenePokecenter1FHikerText:
 	text "I heard that the"
-	line "Fossils in the"
+	line "fossils in the"
 	cont "MUSEUM were found"
 	cont "in TWIST MOUNTAIN."
 
 	para "Then, a person"
-	line "called Clay appar-"
+	line "called CLAY appar-"
 	cont "ently donated them"
 	cont "to the MUSEUM."
 	done

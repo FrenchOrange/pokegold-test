@@ -23,7 +23,7 @@ AccumulaTown_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 13, 13, CHERRYGROVE_POKECENTER_1F, 1
+	warp_event 13, 13, ACCUMULA_POKECENTER_1F, 1
 	warp_event  7,  5, CHERRYGROVE_EVOLUTION_SPEECH_HOUSE, 1
 	warp_event  3,  5, CHERRYGROVE_GYM_SPEECH_HOUSE, 1
 	warp_event  1, 15, GUIDE_GENTS_HOUSE, 1

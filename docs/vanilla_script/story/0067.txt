@@ -1,55 +1,55 @@
-Team Plasma: Gramps! We know you run<LINE>the Day Care!<LINE>How do we know?<LINE>Because we're Team Plasma!
-Team Plasma: We are taking POKéMON away<LINE>from people.<LINE>Since you work at the Day Care, we figure<LINE>you must have a lot of POKéMON!<LINE><LINE>Hand 'em over!
+TEAM PLASMA: Gramps! We know you run<LINE>the Day Care!<LINE>How do we know?<LINE>Because we're TEAM PLASMA!
+TEAM PLASMA: We are taking POKéMON away<LINE>from people.<LINE>Since you work at the Day Care, we figure<LINE>you must have a lot of POKéMON!<LINE><LINE>Hand 'em over!
 Day-Care Man: What kind of<LINE>nonsense is this?!
 Oh! A strong-looking Trainer!<LINE>Please help me!
-Team Plasma: If you're going to get in<LINE>our way, we'll take your POKéMON, too!
-Team Plasma: !!
-Team Plasma: This went downhill fast!<LINE>So I think… We'd better… Ruuuun!<LINE>Let's hide out at the amusement park!
-Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gratitude.<LINE>It's a brand-new Bike.<LINE>I'd always planned on riding around<LINE><LINE>Nimbasa City…<LINE><LINE>But I never ended up riding it.
-Day-Care Man: I have a Day Care<LINE>on Route 3!<LINE>If you have any POKéMON you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
-Bianca: Hey, <PLAYER>! Yoo-hoo!
-Bianca: <PLAYER>! Know what?
-The professor told me Nimbasa City<LINE>has a lot of things to see and do--<LINE>the amusement park, Big Stadium,<LINE>Small Court, and the Battle Subway!
+TEAM PLASMA: If you're going to get in<LINE>our way, we'll take your POKéMON, too!
+TEAM PLASMA: !!
+TEAM PLASMA: This went downhill fast!<LINE>So I think… We'd better… Ruuuun!<LINE>Let's hide out at the amusement park!
+Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gratitude.<LINE>It's a brand-new Bike.<LINE>I'd always planned on riding around<LINE><LINE>NIMBASA CITY…<LINE><LINE>But I never ended up riding it.
+Day-Care Man: I have a Day Care<LINE>on ROUTE 3!<LINE>If you have any POKéMON you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
+BIANCA: Hey, <PLAYER>! Yoo-hoo!
+BIANCA: <PLAYER>! Know what?
+The PROFESSOR told me NIMBASA CITY<LINE>has a lot of things to see and do--<LINE>the amusement park, Big Stadium,<LINE>Small Court, and the Battle Subway!
 I'm going to go see the POKéMON Musical!<LINE>See you later!
-Bianca: Yoo-hoo, <PLAYER>!
-Bianca: <PLAYER>! Know what?
+BIANCA: Yoo-hoo, <PLAYER>!
+BIANCA: <PLAYER>! Know what?
 I just had a look at the Musical Theater.<LINE>It's sooo cool!<LINE>Since you're here, come on, <PLAYER>!<LINE>Come with me!<LINE>Over here, over here!
 OK, we're here! Let's go in!
-Bianca: Ooh, <PLAYER>!<LINE>Are you interested in musicals?<LINE>Then, let's go in together!
-Bianca: Daddy?!<LINE>What are you doing here?
-Bianca's Dad: I've come to take you<LINE>back home, of course!<LINE>Your mother told me that you'd<LINE>made it all the way out here.<LINE>Haven't you gone far enough?
-Bianca: No way!<LINE>I'm going to keep traveling<LINE>with <PLAYER> and my POKéMON!
-Bianca's Dad: Absolutely not! Others do<LINE>things their way, and we do things ours!
-Bianca: Is that so?<LINE>Then, how about you do things your way,<LINE>and I'll do things mine!
+BIANCA: Ooh, <PLAYER>!<LINE>Are you interested in musicals?<LINE>Then, let's go in together!
+BIANCA: Daddy?!<LINE>What are you doing here?
+BIANCA's Dad: I've come to take you<LINE>back home, of course!<LINE>Your mother told me that you'd<LINE>made it all the way out here.<LINE>Haven't you gone far enough?
+BIANCA: No way!<LINE>I'm going to keep traveling<LINE>with <PLAYER> and my POKéMON!
+BIANCA's Dad: Absolutely not! Others do<LINE>things their way, and we do things ours!
+BIANCA: Is that so?<LINE>Then, how about you do things your way,<LINE>and I'll do things mine!
 Sweetie, you keep going on your travels.
-Bianca's Dad: Hey! Who do you think<LINE>you are? This is a family matter!
-My name is Elesa.<LINE>I'm this town's Gym Leader.<LINE>I also happen to be a model.
+BIANCA's Dad: Hey! Who do you think<LINE>you are? This is a family matter!
+My name is ELESA.<LINE>I'm this town's GYM LEADER.<LINE>I also happen to be a model.
 You know, there are many people<LINE>in this world.<LINE>There are people whose way of thinking<LINE>may be completely different from yours.<LINE><LINE>Sometimes, this means you may get hurt.
-Bianca's Dad: Of course!<LINE>That's exactly right!<LINE>It's because I'm worried about that…
-Elesa: But it's important to keep trying,<LINE>to learn about the differences between<LINE><LINE>yourself and others…<LINE>To learn that being different is OK.<LINE>And you shouldn't worry.<LINE>Trainers always have POKéMON<LINE>at their side.<LINE>POKéMON are wonderful. It's not only how<LINE>cute they can be, but also how much you<LINE><LINE>can depend on them…
-Bianca: Please!<LINE>I know there's gonna be painful stuff<LINE>like you're worrying about!<LINE><LINE>I know! Really, I get it!<LINE>But, like, listen…<LINE>There'll be tons of nice people, too.<LINE>Know what else? Since I've been<LINE>traveling with POKéMON, I've already<LINE><LINE>gotten tougher, I can totally tell.<LINE>So…please?
-Bianca's Dad: Hmm…<LINE>I guess.<LINE>If wanting to continue your journey<LINE>is selfishness on your part,<LINE><LINE>wanting to stop you is<LINE><LINE>selfishness on mine.<LINE>I'm surprised to find I'm the one<LINE>being childish--at my age!
-This Gym Leader's comments helped me<LINE>wake up.<LINE>Bianca, I'm sure it's better that you<LINE>take the path you want to take now.<LINE>I hope that your journey will be fun.<LINE>Bon voyage!
+BIANCA's Dad: Of course!<LINE>That's exactly right!<LINE>It's because I'm worried about that…
+ELESA: But it's important to keep trying,<LINE>to learn about the differences between<LINE><LINE>yourself and others…<LINE>To learn that being different is OK.<LINE>And you shouldn't worry.<LINE>Trainers always have POKéMON<LINE>at their side.<LINE>POKéMON are wonderful. It's not only how<LINE>cute they can be, but also how much you<LINE><LINE>can depend on them…
+BIANCA: Please!<LINE>I know there's gonna be painful stuff<LINE>like you're worrying about!<LINE><LINE>I know! Really, I get it!<LINE>But, like, listen…<LINE>There'll be tons of nice people, too.<LINE>Know what else? Since I've been<LINE>traveling with POKéMON, I've already<LINE><LINE>gotten tougher, I can totally tell.<LINE>So…please?
+BIANCA's Dad: Hmm…<LINE>I guess.<LINE>If wanting to continue your journey<LINE>is selfishness on your part,<LINE><LINE>wanting to stop you is<LINE><LINE>selfishness on mine.<LINE>I'm surprised to find I'm the one<LINE>being childish--at my age!
+This GYM LEADER's comments helped me<LINE>wake up.<LINE>BIANCA, I'm sure it's better that you<LINE>take the path you want to take now.<LINE>I hope that your journey will be fun.<LINE>Bon voyage!
 <PLAYER>, please…<LINE>Take care of my little girl, OK?
-Bianca: Papa, I'll come home after<LINE>I find out what I really want to do!
-Elesa: I'm sure he traveled<LINE>as a Trainer himself, in the past…<LINE><LINE>Being a parent must be hard.
+BIANCA: Papa, I'll come home after<LINE>I find out what I really want to do!
+ELESA: I'm sure he traveled<LINE>as a Trainer himself, in the past…<LINE><LINE>Being a parent must be hard.
 Did I meddle unnecessarily?<LINE>You looked troubled, so<LINE>I decided to chime in.
 By the way, if you're Trainers, please<LINE>stop by the POKéMON Gym.<LINE>I'll teach you a little something about<LINE>how tough a journey can get.
-I'm sorry, <PLAYER>.<LINE>I'll be waiting on Route 5.
-Bianca: She's so cool! Hah!<LINE>I want to be a totally cool woman<LINE><LINE>like Elesa!<LINE>Mm. I wonder how I'll get there.<LINE>Well, before that, I guess I need to<LINE>discover what I really want to do!<LINE><LINE>See you later, <PLAYER>!
+I'm sorry, <PLAYER>.<LINE>I'll be waiting on ROUTE 5.
+BIANCA: She's so cool! Hah!<LINE>I want to be a totally cool woman<LINE><LINE>like ELESA!<LINE>Mm. I wonder how I'll get there.<LINE>Well, before that, I guess I need to<LINE>discover what I really want to do!<LINE><LINE>See you later, <PLAYER>!
 We athletes and our POKéMON<LINE>show excellent teamwork!<LINE>You can see it at Big Stadium and<LINE>Small Court, so please stop by!
-As it happens, Nimbasa City is a major<LINE>destination for POKéMON battles.<LINE>There are POKéMON Trainers in<LINE>lots of these buildings.
-Leisurely trips by train…<LINE>Riding from Gear Station to<LINE>Anville Town feels a bit like a dream.
-Coming to flashy Nimbasa City makes<LINE>me feel light and happy, as if I were<LINE><LINE>holding an Air Balloon.
-There are performers<LINE>crowding around Route 5.<LINE>Seeing all the fun the POKéMON and<LINE>Trainers are having fills me with energy!
+As it happens, NIMBASA CITY is a major<LINE>destination for POKéMON battles.<LINE>There are POKéMON Trainers in<LINE>lots of these buildings.
+Leisurely trips by train…<LINE>Riding from Gear Station to<LINE>ANVILLE TOWN feels a bit like a dream.
+Coming to flashy NIMBASA CITY makes<LINE>me feel light and happy, as if I were<LINE><LINE>holding an Air Balloon.
+There are performers<LINE>crowding around ROUTE 5.<LINE>Seeing all the fun the POKéMON and<LINE>Trainers are having fills me with energy!
 I was a good girl, so I got to<LINE>go to the amusement park!
 Ferris wheel! Ferris wheel!<LINE>I love Ferris wheels!
-Nimbasa's POKéMON Gym is<LINE>in the amusement park!<LINE>No doubt it has a surprising gimmick!
+NIMBASA's POKéMON Gym is<LINE>in the amusement park!<LINE>No doubt it has a surprising gimmick!
 I won!<LINE>Then I lost…
 Gear Station has trains where<LINE>you can battle other Trainers.<LINE><LINE>The Battle Subway!
 You're a Trainer, aren't you?<LINE>Please just accept this without a word!
 If you have a Vs. Recorder, you can<LINE>record battles with friends or on the<LINE><LINE>Battle Subway!<LINE>Anyway, this woman of mystery will<LINE>go somewhere… That's right!<LINE><LINE>She'll go to the Battle Institute!
-Nimbasa City<LINE>Lit by the Flash of Lightning!
+NIMBASA CITY<LINE>Lit by the Flash of Lightning!
 Big Stadium<LINE>Baseball, Football, and Soccer
 Small Court<LINE>Tennis and Basketball
 Battle Subway<LINE>Battle and Ride!

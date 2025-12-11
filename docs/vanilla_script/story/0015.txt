@@ -1,11 +1,11 @@
-So like I said, I'm Fennel, and as you can<LINE>see, I'm a scientist.<LINE>In fact, the subject I'm researching<LINE>is Trainers!<LINE>Professor Juniper is my friend<LINE>from college.<LINE>She asked me to help you guys.
+So like I said, I'm Fennel, and as you can<LINE>see, I'm a scientist.<LINE>In fact, the subject I'm researching<LINE>is Trainers!<LINE>PROFESSOR JUNIPER is my friend<LINE>from college.<LINE>She asked me to help you guys.
 So!<LINE>I'll give you something to help you.<LINE>This is a Hidden Machine for you!
 
 
 
 There are some moves that a POKéMON can<LINE>use even when it is not fighting!<LINE>With this Hidden Machine, you can teach<LINE>your POKéMON a move called Cut.<LINE><LINE>It can cut down a small tree.<LINE>And you can use the Hidden Machine as<LINE>many times as you want, like a TM.<LINE><LINE>Isn't that great?<LINE>But it's difficult to make a POKéMON<LINE>forget a hidden move once it learns it.
-And I'd like to ask you a favor, too!<LINE>There is a place called the Dreamyard<LINE>on the outskirts of Striaton City.<LINE>I'd like some of the Dream Mist that a<LINE>POKéMON there called Munna gives off.<LINE>With that, I'll be able to use<LINE>\xf000\xff00\x0001\x0002Game Sync \xf000\xff00\x0001\x0000to collect save files of<LINE><LINE>various Trainers!
-Fennel: Did Juniper ask you to complete<LINE>the POKéDEX?<LINE>It is a challenge to update the POKéDEX<LINE>regularly, isn't it?<LINE>Oops! I got distracted! Please bring me<LINE>some of the Dream Mist that Munna<LINE><LINE>gives off in the Dreamyard!
+And I'd like to ask you a favor, too!<LINE>There is a place called the DREAMYARD<LINE>on the outskirts of STRIATON CITY.<LINE>I'd like some of the Dream Mist that a<LINE>POKéMON there called Munna gives off.<LINE>With that, I'll be able to use<LINE>\xf000\xff00\x0001\x0002Game Sync \xf000\xff00\x0001\x0000to collect save files of<LINE><LINE>various Trainers!
+Fennel: Did JUNIPER ask you to complete<LINE>the POKéDEX?<LINE>It is a challenge to update the POKéDEX<LINE>regularly, isn't it?<LINE>Oops! I got distracted! Please bring me<LINE>some of the Dream Mist that Munna<LINE><LINE>gives off in the DREAMYARD!
 Fennel: Ta-da!<LINE>Thanks to you, I got some Dream Mist,<LINE>and now I can collect save files of<LINE><LINE>various Trainers!<LINE><LINE>Thank you very much!<LINE>As a token of my appreciation,<LINE>I will give you this C-Gear to use!<LINE>The C-Gear is a device related to<LINE>communications, such as<LINE><LINE>Infrared Connection or<LINE><LINE>Nintendo Wi-Fi Connection.
 <PLAYER> obtained the \xf000\xff00\x0001\x0002C-Gear\xf000\xff00\x0001\x0000!
 Turn on the C-Gear and<LINE>establish communications?
@@ -23,7 +23,7 @@ Fennel: \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 is fascinating
 Fennel: Oh, thank you! <LINE>You also sent your save file. I saw it<LINE>while I was researching Trainers!<LINE>Isn't \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 great?
 
 
-Are you a Trainer?<LINE>Do you use the PC at POKéMON Centers?<LINE>I am Amanita. I maintain the Box system.<LINE>Do you know about the Battle Box?
+Are you a Trainer?<LINE>Do you use the PC at POKéMON CENTERs?<LINE>I am Amanita. I maintain the Box system.<LINE>Do you know about the Battle Box?
 Amanita: Impressive!<LINE>If there's a POKéMON you often use in<LINE>your battles, you can register it in the<LINE><LINE>Battle Box!
 Amanita: Let me give you a quick how-to!<LINE>If there's a POKéMON you often use in<LINE>your battles, you can register it in the<LINE><LINE>Battle Box!
 Amanita: Please do use the Battle Box.<LINE>You can register POKéMON in the PC<LINE>over there, too!
@@ -36,7 +36,7 @@ Catch a lot of POKéMON,<LINE>and use the Box a lot!
 Battle Box
 Pal Pad
 Cancel
-Trainer! Do you use the PC in a<LINE>POKéMON Center?<LINE>I am the one who maintains the<LINE>Box system.<LINE>Do you know about the Battle Box?
+Trainer! Do you use the PC in a<LINE>POKéMON CENTER?<LINE>I am the one who maintains the<LINE>Box system.<LINE>Do you know about the Battle Box?
 C-Gear Help<LINE>If you have trouble using it, touch the<LINE>“?" icon on the screen!
 What is the POKéMON Storage System?<LINE>The person who developed the<LINE>POKéMON Storage System for the PC<LINE><LINE>connection is Bill in the Kanto region.
 

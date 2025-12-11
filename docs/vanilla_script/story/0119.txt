@@ -1,14 +1,14 @@
-You appear ready to face a Gym Leader.<LINE>Then…<LINE>Bring it!
+You appear ready to face a GYM LEADER.<LINE>Then…<LINE>Bring it!
 In honor of your stout heart,<LINE>I will give you this.
-<PLAYER> received<LINE>the Freeze Badge from Brycen!
+<PLAYER> received<LINE>the Freeze Badge from BRYCEN!
 You have seven Badges.<LINE>That means POKéMON up to Lv. 80<LINE>will obey you.<LINE>This TM will convey my regard<LINE>for your accomplishments.
 A move that always results in<LINE>a critical hit: Frost Breath.
 No matter how many battles I fight,<LINE>I don't know what strength is.<LINE>Perhaps you can find the answer.
 Only those who are weak need to<LINE>flaunt their strength.
-Brycen: In the past, when I was hurt and<LINE>depressed, Alder shared this with me…<LINE>There is strength in being with other<LINE>people and POKéMON. Receiving their<LINE><LINE>support makes you stronger.<LINE>The young man named Cheren<LINE>also seems to understand this now.
+BRYCEN: In the past, when I was hurt and<LINE>depressed, ALDER shared this with me…<LINE>There is strength in being with other<LINE>people and POKéMON. Receiving their<LINE><LINE>support makes you stronger.<LINE>The young man named CHEREN<LINE>also seems to understand this now.
 Please take this Fresh Water!
 Ice can be melted with Fire<LINE>or shattered with Fighting.<LINE>Or you might want to smash it<LINE>into dust with Rock or Steel.
-From Brycen, I've learned how to<LINE>say more with fewer words.
-Icirrus POKéMON Gym<LINE>Gym Leader: Brycen<LINE>Certified Trainers:
-Icirrus POKéMON Gym<LINE>Gym Leader: Brycen<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-Icirrus POKéMON Gym<LINE>Gym Leader: Brycen<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca
+From BRYCEN, I've learned how to<LINE>say more with fewer words.
+ICIRRUS POKéMON Gym<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:
+ICIRRUS POKéMON Gym<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:<LINE><LINE><PLAYER>
+ICIRRUS POKéMON Gym<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA

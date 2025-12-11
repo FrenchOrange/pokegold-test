@@ -1,1 +1,1 @@
-<PLAYER>!<LINE><PLAYER>!!<LINE>Hello?<LINE><PLAYER>!!<LINE>Oh! You picked up!<LINE>Hey, <PLAYER>.<LINE>Come to the museum in Nacrene City<LINE>immediately! Right away, got it?<LINE>I mean right now!
+<PLAYER>!<LINE><PLAYER>!!<LINE>Hello?<LINE><PLAYER>!!<LINE>Oh! You picked up!<LINE>Hey, <PLAYER>.<LINE>Come to the museum in NACRENE CITY<LINE>immediately! Right away, got it?<LINE>I mean right now!

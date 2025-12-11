@@ -9,4 +9,4 @@ Wanna recover POKéMON?<LINE>Oh, soooooorry!
 Do you know Geonet?
 You! You, using Geonet! Great!<LINE>I tell you this in confidence.<LINE>With the latest technology, we can trade<LINE>POKéMON with people far away!<LINE>…I know it sounds crazy,<LINE>but give it a try. You'll be surprised!
 Oh! You know Geonet!<LINE>Great, great!<LINE>This is even greater, lemme tell ya!<LINE>If you try Geonet, you can register<LINE>the place where you live!
-You see the globe on the second floor<LINE>of this POKéMON Center?<LINE>That is Geonet.<LINE>If you check on Geonet, you can register<LINE>the place where you live!
+You see the globe on the second floor<LINE>of this POKéMON CENTER?<LINE>That is Geonet.<LINE>If you check on Geonet, you can register<LINE>the place where you live!

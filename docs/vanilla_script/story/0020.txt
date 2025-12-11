@@ -1,13 +1,13 @@
-Cheren: When a POKéMON is poisoned,<LINE>its HP decreases while it is battling.
-Hey, <PLAYER>.<LINE>Have you come looking for the<LINE>Gym Leader?
+CHEREN: When a POKéMON is poisoned,<LINE>its HP decreases while it is battling.
+Hey, <PLAYER>.<LINE>Have you come looking for the<LINE>GYM LEADER?
 He was here talking about POKéMON<LINE>types until just a few moments ago…<LINE>Maybe you walked right past him?
-Nothing improves your skill as a Trainer<LINE>like real battles.<LINE>That's why challenging Gym Leaders is<LINE>great practice.
+Nothing improves your skill as a Trainer<LINE>like real battles.<LINE>That's why challenging GYM LEADERs is<LINE>great practice.
 By the way, <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
-Cheren: <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
+CHEREN: <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
 Really? I really want to try out my<LINE>items, so I'll just wait here until you<LINE><LINE>decide you're ready.
-Cheren: Well, let's see how effective<LINE>my items are…<LINE>Or maybe I should test how well I can<LINE>battle without items…?<LINE>Anyway, this is an indoor match, so let's<LINE>battle without getting too rough!
-Cheren: So learning to use items well is<LINE>definitely important, then.<LINE>Oh, here. <PLAYER>, I'll give you<LINE>these Berries.
-Cheren: If you give a POKéMON this kind<LINE>of Berry to hold, it will eat it to heal up<LINE><LINE>when its HP goes down in battle.<LINE>But if you give POKéMON man-made items<LINE>like Potions to hold, they can't<LINE><LINE>use them.<LINE>Well, good luck, then.
+CHEREN: Well, let's see how effective<LINE>my items are…<LINE>Or maybe I should test how well I can<LINE>battle without items…?<LINE>Anyway, this is an indoor match, so let's<LINE>battle without getting too rough!
+CHEREN: So learning to use items well is<LINE>definitely important, then.<LINE>Oh, here. <PLAYER>, I'll give you<LINE>these Berries.
+CHEREN: If you give a POKéMON this kind<LINE>of Berry to hold, it will eat it to heal up<LINE><LINE>when its HP goes down in battle.<LINE>But if you give POKéMON man-made items<LINE>like Potions to hold, they can't<LINE><LINE>use them.<LINE>Well, good luck, then.
 This Trainers' School exists to meet the<LINE>demands of Trainers who want to know<LINE><LINE>more about POKéMON because they<LINE><LINE>love them!
 POKéMON have mysterious powers<LINE>called Abilities.<LINE>Abilities have a variety of effects, and<LINE>many of those effects are activated when<LINE><LINE>POKéMON are in battle!
 There is a technique that lets you<LINE>cancel evolution!<LINE>I'll read the book about it to you.<LINE>Are you ready?<LINE>“You can surprise a POKéMON and stop its<LINE>evolution by pressing the B Button when<LINE><LINE>a POKéMON is evolving."

@@ -1,6 +1,6 @@
 Halt! The key to open this gate<LINE>is the Quake Badge!
 
 Oh, holder of the Quake Badge!<LINE>Make your foes' hearts tremble!
-First, obtain the Quake Badge<LINE>from the Driftveil POKéMON Gym!
+First, obtain the Quake Badge<LINE>from the DRIFTVEIL POKéMON Gym!
 
-Gates are placed at the border of one<LINE>space and another space.<LINE>In other words, gates mean that the<LINE>world beyond here is a different world.<LINE>It does feel like every time you pass<LINE>through a gate, you're going to a<LINE><LINE>different world.<LINE>And you remember the Gym Leader who<LINE>gave you the Badge at the same time…<LINE>But without the Quake Badge,<LINE>you cannot proceed.
+Gates are placed at the border of one<LINE>space and another space.<LINE>In other words, gates mean that the<LINE>world beyond here is a different world.<LINE>It does feel like every time you pass<LINE>through a gate, you're going to a<LINE><LINE>different world.<LINE>And you remember the GYM LEADER who<LINE>gave you the Badge at the same time…<LINE>But without the Quake Badge,<LINE>you cannot proceed.

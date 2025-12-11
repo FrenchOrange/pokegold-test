@@ -1,26 +1,26 @@
-Hi! I'm Iris, the amazingly strong<LINE>Gym Leader!<LINE>Tell me… What POKéMON are you using?<LINE>How will you fight?<LINE>Ooh, I'm super curious, so let's just<LINE>get started!
+Hi! I'm IRIS, the amazingly strong<LINE>GYM LEADER!<LINE>Tell me… What POKéMON are you using?<LINE>How will you fight?<LINE>Ooh, I'm super curious, so let's just<LINE>get started!
 Whoooa!<LINE>That was so cool!<LINE>I'm sooo happy I could battle a Trainer<LINE>as strong as you!
-<PLAYER> received the Legend Badge<LINE>from Iris.
+<PLAYER> received the Legend Badge<LINE>from IRIS.
 Hey, that's your eighth Badge, right?<LINE>That's so cool!<LINE>Now every POKéMON will do what you ask,<LINE>no matter how big they are!<LINE>Know what? I'll give you this TM, too!
 Dragon Tail doesn't just do damage.<LINE>It sends the other POKéMON back to its<LINE>POKé BALL, too!
-Ooh, hey!<LINE>I wonder how Mister Alder is doing?<LINE>I wonder if he's battling that Trainer<LINE>called N in the POKéMON League right now?<LINE>Do you know about the POKéMON League?<LINE>It's past Victory Road, at the end of<LINE>Route 10!
+Ooh, hey!<LINE>I wonder how Mister ALDER is doing?<LINE>I wonder if he's battling that Trainer<LINE>called N in the POKéMON LEAGUE right now?<LINE>Do you know about the POKéMON LEAGUE?<LINE>It's past VICTORY ROAD, at the end of<LINE>ROUTE 10!
 You've been on a journey and seen a lot<LINE>of the world.<LINE>I'm like that, too! I'm from way out in<LINE>the country.<LINE>I'm really happy that I've gotten to<LINE>meet lots of different people<LINE><LINE>and POKéMON!!
 You've been on a journey and seen a lot<LINE>of the world.<LINE>I'm like that, too! I'm from way out in<LINE>the country.<LINE>I'm really happy that I've gotten to<LINE>meet lots of different people<LINE><LINE>and POKéMON!!
-Welcome. Thank you for coming. I am<LINE>Opelucid POKéMON Gym's Leader, Drayden.<LINE>As the mayor, I've given everything<LINE>to developing the city.<LINE>As a Trainer, I've simply been pursuing<LINE>greater strength.<LINE>But what I'm searching for now is a young<LINE>Trainer who can show me a bright future.<LINE>Perhaps you can show me that future,<LINE>the way Iris has?
+Welcome. Thank you for coming. I am<LINE>OPELUCID POKéMON Gym's Leader, DRAYDEN.<LINE>As the mayor, I've given everything<LINE>to developing the city.<LINE>As a Trainer, I've simply been pursuing<LINE>greater strength.<LINE>But what I'm searching for now is a young<LINE>Trainer who can show me a bright future.<LINE>Perhaps you can show me that future,<LINE>the way IRIS has?
 Wonderful.<LINE>I'm grateful we had a chance to meet<LINE>and battle.
-<PLAYER> received the Legend Badge<LINE>from Drayden!
+<PLAYER> received the Legend Badge<LINE>from DRAYDEN!
 Well, now. You've obtained all of the<LINE>Gym Badges in Unova.<LINE>Now, all POKéMON will obediently follow<LINE>your commands.<LINE>I also want you to have this.<LINE>It's a TM I'm particularly fond of.<LINE>It's called Dragon Tail.
 Dragon Tail is a move that returns the<LINE>damaged POKéMON to its POKé BALL.<LINE>In other words, it switches your<LINE>opponent's POKéMON.
-Now, I have something to ask of you.<LINE>Head for the POKéMON League and<LINE>go after Alder.<LINE>The POKéMON League is past Route 10,<LINE>which runs from Opelucid City<LINE><LINE>to Victory Road.<LINE>I know Alder's strength, but I don't<LINE>know the depths of N's power…
+Now, I have something to ask of you.<LINE>Head for the POKéMON LEAGUE and<LINE>go after ALDER.<LINE>The POKéMON LEAGUE is past ROUTE 10,<LINE>which runs from OPELUCID CITY<LINE><LINE>to VICTORY ROAD.<LINE>I know ALDER's strength, but I don't<LINE>know the depths of N's power…
 POKéMON and people do not age because of<LINE>the passage of time.<LINE>They get old when the energy flowing in<LINE>their hearts dries up.<LINE>This energy in our hearts is powered by<LINE>truth, ideals, or maybe dreams…<LINE>That probably changes with what you most<LINE>hope for in your life.
 Thanks for coming!<LINE>I happily welcome you!<LINE>But…<LINE>I may be a little rough on you!
 Advancing or retreating is up to you.<LINE>But if you proceed, prepare yourself!<LINE>Moving forward halfheartedly is<LINE>disrespectful to your POKéMON!
-Welcome to the Opelucid Gym, the Unova<LINE>region's strongest and biggest trial!<LINE>First off, please take this Fresh Water.<LINE>It'll help you in the challenge ahead.
-Let me give you a brief explanation of<LINE>the trick to the Opelucid Gym!<LINE>The path around this Gym is shaped like<LINE>two dragons.<LINE>This path changes when you step on<LINE>the switches on the dragons' arms.<LINE>Pay attention to how the dragons'<LINE>necks move!
-You beat the Gym Leader?<LINE>Wow, that's amazing!<LINE>Oh, by the way, since I gave you all that<LINE>Fresh Water…<LINE><LINE>Don't you owe me some of your winnings?<LINE>…I'm kidding! It's just a joke!<LINE>No, seriously, congratulations!
-Opelucid POKéMON Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:
-Opelucid POKéMON Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-Opelucid POKéMON Gym<LINE>Gym Leader: Iris<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca
-Opelucid POKéMON Gym<LINE>Gym Leader: Drayden<LINE>Certified Trainers:
-Opelucid POKéMON Gym<LINE>Gym Leader: Drayden<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-Opelucid POKéMON Gym<LINE>Gym Leader: Drayden<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>Cheren<LINE><LINE>Bianca
+Welcome to the OPELUCID Gym, the Unova<LINE>region's strongest and biggest trial!<LINE>First off, please take this Fresh Water.<LINE>It'll help you in the challenge ahead.
+Let me give you a brief explanation of<LINE>the trick to the OPELUCID Gym!<LINE>The path around this Gym is shaped like<LINE>two dragons.<LINE>This path changes when you step on<LINE>the switches on the dragons' arms.<LINE>Pay attention to how the dragons'<LINE>necks move!
+You beat the GYM LEADER?<LINE>Wow, that's amazing!<LINE>Oh, by the way, since I gave you all that<LINE>Fresh Water…<LINE><LINE>Don't you owe me some of your winnings?<LINE>…I'm kidding! It's just a joke!<LINE>No, seriously, congratulations!
+OPELUCID POKéMON Gym<LINE>GYM LEADER: IRIS<LINE>Certified Trainers:
+OPELUCID POKéMON Gym<LINE>GYM LEADER: IRIS<LINE>Certified Trainers:<LINE><LINE><PLAYER>
+OPELUCID POKéMON Gym<LINE>GYM LEADER: IRIS<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA
+OPELUCID POKéMON Gym<LINE>GYM LEADER: DRAYDEN<LINE>Certified Trainers:
+OPELUCID POKéMON Gym<LINE>GYM LEADER: DRAYDEN<LINE>Certified Trainers:<LINE><LINE><PLAYER>
+OPELUCID POKéMON Gym<LINE>GYM LEADER: DRAYDEN<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA

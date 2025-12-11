@@ -1,11 +1,11 @@
-I've been carrying two POKéMON Fossils,<LINE>but they're just so heavy…<LINE>Would you take one of them off my hands?
-Oh, you like the Cover Fossil?<LINE>I heard it is the Fossil of a POKéMON<LINE>that used to swim in the ancient sea!
-Oh, you like the Plume Fossil?<LINE>It is the Fossil of a bird POKéMON<LINE>that lived in an ancient forest.<LINE><LINE>…But they say it couldn't fly.
+I've been carrying two POKéMON fossils,<LINE>but they're just so heavy…<LINE>Would you take one of them off my hands?
+Oh, you like the Cover fossil?<LINE>I heard it is the fossil of a POKéMON<LINE>that used to swim in the ancient sea!
+Oh, you like the Plume fossil?<LINE>It is the fossil of a bird POKéMON<LINE>that lived in an ancient forest.<LINE><LINE>…But they say it couldn't fly.
 Oh, won't you please take one?<LINE>They're really weighing me down.
-Oh, did you change your mind? Great!<LINE>You can have your choice of Fossils!
-The museum in Nacrene City…<LINE>I hear POKéMON can be restored from<LINE>Fossils there.<LINE>'Cause Lenora loves bones and Fossils!
-Cover Fossil
-Plume Fossil
+Oh, did you change your mind? Great!<LINE>You can have your choice of fossils!
+The museum in NACRENE CITY…<LINE>I hear POKéMON can be restored from<LINE>fossils there.<LINE>'Cause LENORA loves bones and fossils!
+Cover fossil
+Plume fossil
 Cancel
 Trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!
 Trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!

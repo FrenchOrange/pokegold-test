@@ -1,7 +1,7 @@
-Ho! Hoo!<LINE>Welcome to White Forest!<LINE>In White Forest, people live<LINE>in harmony with nature and with POKéMON.<LINE>Please listen to the voice of the forest.<LINE>It's saying “Bienvenue!"<LINE>Ho! Hoo! Hoo!
+Ho! Hoo!<LINE>Welcome to WHITE FOREST!<LINE>In WHITE FOREST, people live<LINE>in harmony with nature and with POKéMON.<LINE>Please listen to the voice of the forest.<LINE>It's saying “Bienvenue!"<LINE>Ho! Hoo! Hoo!
 I do research into the POKéMON<LINE>that live in this forest.<LINE>In theory, you should find <PLAYER><LINE>living in this forest.
 Hoo!<LINE>That's <PLAYER>!<LINE>So it lives in this forest, too!
-What's more, you caught it today!<LINE>Ho hoo!<LINE>This means there are <PLAYER><LINE>in White Forest.<LINE>For you, my skilled POKéMON catcher--<LINE>this small trifle. Hoo!
+What's more, you caught it today!<LINE>Ho hoo!<LINE>This means there are <PLAYER><LINE>in WHITE FOREST.<LINE>For you, my skilled POKéMON catcher--<LINE>this small trifle. Hoo!
 If you return here tomorrow, I'm sure<LINE>the forest will say “Bienvenue" again!
 Thank you very much for today.<LINE>See you again tomorrow!<LINE>The forest is murmuring, “À très vite!"
 I'm researching the POKéMON<LINE>that live in this forest. Hoo!<LINE>But there haven't been any POKéMON<LINE>recently, and the forest is forlorn.

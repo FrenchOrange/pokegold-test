@@ -47,11 +47,11 @@ About study
 Most popular sport?
 About a holiday
 What do you want to become the most?
-Most popular Gym Leader?
+Most popular GYM LEADER?
 Most fun part of POKéMON?
 Cancel
 This survey is…<LINE>a request from me.<LINE>You need to find out which is more<LINE>popular, POKéMON Black Version<LINE><LINE>or POKéMON White Version.<LINE>The survey must be conducted for<LINE>two hours or more.<LINE>I'm thinking of taking up POKéMON, too.<LINE>I want to know which one is most popular.
-This survey is…<LINE>a request from a POKéMON Professor.<LINE>You need to find out the most popular<LINE>starter POKéMON.<LINE>The survey must be conducted for<LINE>two hours or more.<LINE>He wants to use the results<LINE>for his research.
+This survey is…<LINE>a request from a POKéMON PROFESSOR.<LINE>You need to find out the most popular<LINE>starter POKéMON.<LINE>The survey must be conducted for<LINE>two hours or more.<LINE>He wants to use the results<LINE>for his research.
 This survey is…<LINE>a request from a mother.<LINE>You need to find out how long people<LINE>have been playing the game.<LINE>The survey must be conducted for<LINE>four hours or more.<LINE>She wants to compare her child's game<LINE>time and the result of the survey.
 This survey is…<LINE>a request from a newspaper company.<LINE>You need to find out which are the<LINE>majority, men or women.<LINE>The survey must be conducted for<LINE>four hours or more.<LINE>They want to publish the result<LINE>in tomorrow's morning paper.
 This survey is…<LINE>a request from a magazine company.<LINE>You need to find out the most<LINE>common job.<LINE>The survey must be conducted for<LINE>four hours or more.<LINE>They want to use the result for their<LINE>feature article.
@@ -71,11 +71,11 @@ This survey is…<LINE>a request from a teacher.<LINE>You need to find out peopl
 This survey is…<LINE>a request from an athlete.<LINE>You need to find out<LINE>the most popular sport.<LINE>The survey must be conducted for<LINE>20 hours or more.<LINE>He wants to use the result<LINE>for his games.
 This survey is…<LINE>a request from me.<LINE>You need to find out the most popular<LINE>way to spend a holiday, and the most<LINE><LINE>popular fun place.<LINE>The survey must be conducted for<LINE>20 hours or more.<LINE>Why? Well, to tell you the truth,<LINE>I have a date next weekend.<LINE>So, I want to check out some<LINE>trendy places.
 This survey is…<LINE>a request from a POKéMON fan.<LINE>You need to find out what people most<LINE>want to become.<LINE>The survey must be conducted for<LINE>20 hours or more.<LINE>He wants to use the result<LINE>to promote POKéMON.
-This survey is…<LINE>a request from a Gym Leader.<LINE>You need to find out who is the most<LINE>popular Gym Leader.<LINE>The survey must be conducted for<LINE>24 hours or more.<LINE>He wants to use the result<LINE>for his Gym operation.
+This survey is…<LINE>a request from a GYM LEADER.<LINE>You need to find out who is the most<LINE>popular GYM LEADER.<LINE>The survey must be conducted for<LINE>24 hours or more.<LINE>He wants to use the result<LINE>for his Gym operation.
 This survey is…<LINE>a request from me.<LINE>You need to find out the most fun part<LINE>of POKéMON.<LINE>The survey must be conducted<LINE>for 24 hours or more.<LINE>…There is a lot going on for grown-ups.<LINE>From now on, I will live a life dedicated<LINE>to POKéMON.<LINE>I will research the appeal of POKéMON!
 …Oh?<LINE>You've passed by so many people already!<LINE>I knew you could do it, <POKEMON>.<LINE>I think the current data is enough.<LINE>Please report the survey results to me!
 This survey is…<LINE>a request from me.<LINE>This survey requires you to pass by<LINE>five or more people to find out which is<LINE><LINE>more popular, POKéMON Black Version<LINE><LINE>or POKéMON White Version.<LINE>I'm thinking of taking up POKéMON, too.<LINE>I want to know which one is most popular.
-This survey is…<LINE>a request from a POKéMON Professor.<LINE>This survey requires you to pass by<LINE>five or more people to find out<LINE><LINE>the most-picked starter POKéMON.<LINE>He wants to use the result of the survey<LINE>for his research.
+This survey is…<LINE>a request from a POKéMON PROFESSOR.<LINE>This survey requires you to pass by<LINE>five or more people to find out<LINE><LINE>the most-picked starter POKéMON.<LINE>He wants to use the result of the survey<LINE>for his research.
 This survey is…<LINE>a request from a mother.<LINE>This survey requires you to pass by<LINE>ten or more people to find out<LINE><LINE>how long people have spent playing<LINE><LINE>the game.<LINE>She wants to compare her child's<LINE>game time with the result of the survey.
 This survey is…<LINE>a request from a newspaper company.<LINE>This survey requires you to pass by<LINE>ten or more people to find out<LINE><LINE>which are the majority,<LINE><LINE>men or women.<LINE>They want to publish the result<LINE>in tomorrow's morning paper.
 This survey is…<LINE>a request from a magazine company.<LINE>This survey requires you to pass by<LINE>ten or more people to find out<LINE><LINE>the most common job.<LINE>They want to use the result<LINE>for their feature article.
@@ -95,7 +95,7 @@ This survey is…<LINE>a request from a teacher.<LINE>This survey requires you t
 This survey is…<LINE>a request from an athlete.<LINE>This survey requires you to pass by<LINE>50 or more people to find out<LINE><LINE>the most popular sport.<LINE>He wants to use the result<LINE>for his games.
 This survey is…<LINE>a request from me.<LINE>This survey requires you to pass by<LINE>50 or more people to find out<LINE><LINE>the most popular way to spend a holiday,<LINE><LINE>and the most popular fun place.<LINE>To tell you the truth, <LINE>I have a date next weekend.<LINE>So, I want to check out<LINE>trendy places.
 This survey is…<LINE>a request from a POKéMON fan.<LINE>This survey requires you to pass by<LINE>50 or more people to find out<LINE><LINE>what people want to become the most.<LINE>He wants to use the result<LINE>to promote POKéMON.
-This survey is…<LINE>a request from a Gym Leader.<LINE>This survey requires you to pass by<LINE>100 or more people to find out<LINE><LINE>the most popular Gym Leader.<LINE>He wants to use the result<LINE>for his Gym operation.
+This survey is…<LINE>a request from a GYM LEADER.<LINE>This survey requires you to pass by<LINE>100 or more people to find out<LINE><LINE>the most popular GYM LEADER.<LINE>He wants to use the result<LINE>for his Gym operation.
 This survey is…<LINE>a request from me.<LINE>This survey requires you to pass by<LINE>100 or more people to find out<LINE><LINE>the most fun part of POKéMON.<LINE>…There is a lot going on for grown-ups.<LINE>From now on, I will live a life dedicated<LINE>to POKéMON.<LINE>I will research the appeal of POKéMON!
 …Oh?<LINE>You've already got the data<LINE>for this survey!<LINE>I knew you could do it, <POKEMON>.<LINE>Please report the survey result to me!
 Will you accept this survey request?
@@ -120,7 +120,7 @@ Will you accept this survey request?
 <POKEMON><LINE>accepted the survey request<LINE><LINE>“Most popular sport?"
 <POKEMON><LINE>accepted the survey request<LINE><LINE>“About a holiday."
 <POKEMON><LINE>accepted the survey request<LINE><LINE>“What do you want to<LINE><LINE>become the most?"
-<POKEMON><LINE>accepted the survey request<LINE><LINE>“Most popular<LINE><LINE>Gym Leader?"
+<POKEMON><LINE>accepted the survey request<LINE><LINE>“Most popular<LINE><LINE>GYM LEADER?"
 <POKEMON><LINE>accepted the survey request<LINE><LINE>“Most fun part of POKéMON?"
 Then, when you finish the survey,<LINE>please come and report it to me.
 Then, when you finish the survey,<LINE>please come and report it to me.
@@ -147,7 +147,7 @@ You haven't finished the survey,<LINE>“About study."<LINE>You need to conduct 
 You haven't finished the survey,<LINE>“Most popular sport?"<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“About a holiday."<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“What do you want<LINE><LINE>to become the most?"<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
-You haven't finished the survey,<LINE>“Most popular<LINE><LINE>Gym Leader?"<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
+You haven't finished the survey,<LINE>“Most popular<LINE><LINE>GYM LEADER?"<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“Most fun part of POKéMON?"<LINE>You need to conduct the survey for<LINE>this many more hours: \xf000ȁ\x0001\x0002.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“Which version is more popular?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“The first POKéMON you picked?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
@@ -170,7 +170,7 @@ You haven't finished the survey,<LINE>“About study."<LINE>You need to conduct 
 You haven't finished the survey,<LINE>“Most popular sport?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“About a holiday."<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“What do you want<LINE><LINE>to become the most?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
-You haven't finished the survey,<LINE>“Most popular<LINE><LINE>Gym Leader?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
+You haven't finished the survey,<LINE>“Most popular<LINE><LINE>GYM LEADER?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“Most fun part of POKéMON?"<LINE>You need to conduct the survey<LINE>for at least one person.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“Which version is more popular?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“The first POKéMON<LINE><LINE>you picked?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
@@ -193,7 +193,7 @@ You haven't finished the survey,<LINE>“About study."<LINE>You need to conduct 
 You haven't finished the survey,<LINE>“Most popular sport?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“About a holiday."<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“What do you want<LINE><LINE>to become the most?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
-You haven't finished the survey,<LINE>“Most popular<LINE><LINE>Gym Leader?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
+You haven't finished the survey,<LINE>“Most popular<LINE><LINE>GYM LEADER?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You haven't finished the survey,<LINE>“Most fun part of POKéMON?"<LINE>You need to conduct the survey for<LINE>this many more people: \xf000Ȃ\x0001\x0001.<LINE>Keep it up and complete the survey.<LINE>Or do you want to cancel this survey?
 You don't seem to have accepted<LINE>a survey request.<LINE>Please come back if you want to<LINE>accept a request.
 Reported the result of the survey<LINE>“Which version is more popular?"<LINE><LINE>to the leader!
@@ -217,7 +217,7 @@ Reported the result of the survey<LINE>“About study"<LINE><LINE>to the leader!
 Reported the result of the survey<LINE>“Most popular sport?"<LINE><LINE>to the leader!
 Reported the result of the survey<LINE>“About a holiday"<LINE><LINE>to the leader!
 Reported the result of the survey<LINE>“What do you want to become the most?"<LINE><LINE>to the leader!
-Reported the result of the survey<LINE>“Most popular Gym Leader?"<LINE><LINE>to the leader!
+Reported the result of the survey<LINE>“Most popular GYM LEADER?"<LINE><LINE>to the leader!
 Reported the result of the survey<LINE>“Most fun part of POKéMON?"<LINE><LINE>to the leader!
 Hmm… I see…<LINE>As for POKéMON Black Version and<LINE>POKéMON White Version, more people have<LINE><LINE>POKéMON \xf000ē\x0001\x0000 Version.<LINE>That is helpful.<LINE>Either version seems to be fun to play.<LINE>Now, it's more difficult to choose!
 Hmm… I see…<LINE>“\xf000ē\x0001\x0000" looks like the<LINE>most selected starter POKéMON.<LINE>That came as a surprise.<LINE>That's why the survey is interesting!
@@ -240,7 +240,7 @@ Hmm… I see…<LINE>“\xf000ē\x0001\x0000" looks like<LINE>the people's favor
 Hmm… I see…<LINE>It looks like the most popular sport is<LINE>“\xf000ē\x0001\x0000."<LINE>Exercise is also important.<LINE>There is nothing more valuable<LINE>than good health.
 Hmm… I see…<LINE>“\xf000ē\x0001\x0000" looks like<LINE>the most popular way of<LINE><LINE>spending a holiday.<LINE>And, “\xf000ē\x0001\x0001" looks like<LINE>the most popular fun place.<LINE>That is helpful.<LINE>This will make my date special.<LINE>With who? That's a secret!
 Hmm… I see…<LINE>It looks like people want to become a<LINE>“\xf000ē\x0001\x0000" the most.<LINE>It's not bad to long to be something,<LINE>but first we should have confidence<LINE><LINE>in ourselves.
-Hmm… I see…<LINE>It looks like the most popular Gym Leader<LINE>is “\xf000ē\x0001\x0000."<LINE>Gym Leaders are icons for children.<LINE>I think all Leaders are attractive.
+Hmm… I see…<LINE>It looks like the most popular GYM LEADER<LINE>is “\xf000ē\x0001\x0000."<LINE>GYM LEADERs are icons for children.<LINE>I think all Leaders are attractive.
 Hmm… I see…<LINE>It looks like the most fun part<LINE>of POKéMON is “\xf000ē\x0001\x0000."<LINE>That is helpful.<LINE>There are many ways to enjoy POKéMON.<LINE>So you can enjoy POKéMON indefinitely!
 It's an excellent survey!<LINE><POKEMON>, you've come up to<LINE>my expectation.<LINE>This is the compensation for the survey.<LINE>Please accept this.
 Your great work surprises me every time.<LINE>All right! From today, you are a<LINE>“B-rank statistician"!
@@ -313,7 +313,7 @@ Let's get started.<LINE>This questionnaire…<LINE>is about<LINE>“More about P
 “What is your favorite kind of movie?"
 “What is your weakest subject?"
 “What is your favorite sport?"
-“Who is your favorite Gym Leader?"
+“Who is your favorite GYM LEADER?"
 I see, I see…<LINE>Uh-huh.<LINE>Next up…
 I see, I see…<LINE>Uh-huh.<LINE>…OK. That's it!<LINE>Thank you.<LINE>I got a useful questionnaire.
 Oh, I will give this questionnaire sheet<LINE>to you, too.

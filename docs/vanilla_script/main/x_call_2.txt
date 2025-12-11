@@ -1,1 +1,1 @@
-<PLAYER>!<LINE>It's your mom!<LINE>How are things?<LINE>Are you and your POKéMON getting along<LINE>and enjoying your journey so far?<LINE>I needed to talk to you, so I called,<LINE>but I'm going to hang up<LINE><LINE>the Xtransceiver now.
+<PLAYER>!<LINE>It's your mom!<LINE>How are things?<LINE>Are you and your POKéMON getting along<LINE>and enjoying your journey so far?<LINE>I needed to talk to you, so I called,<LINE>but I'm going to hang up<LINE><LINE>the XCASTER now.

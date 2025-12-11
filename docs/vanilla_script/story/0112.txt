@@ -2,45 +2,45 @@ Oh! Hey!<LINE><PLAYER>, right?
 Let me see your POKéDEX for a moment.<LINE>What do we have here?<LINE>So, you've found \xf000Ȃ\x0001\x0000 POKéMON, eh?
 Staggering! You've seen a Klink!<LINE>You're becoming quite the Trainer.
 Hmmm…<LINE>You haven't seen a Klink yet, eh?<LINE>Still, that's a great POKéDEX!
-Excuse me! I was a little excited<LINE>and forgot my manners.<LINE>My name is Juniper, too! Cedric Juniper.<LINE>Heh! The professor who gave you<LINE>the POKéDEX is my daughter!<LINE>That girl has told me a lot about you.<LINE>It really makes my day to meet you!
+Excuse me! I was a little excited<LINE>and forgot my manners.<LINE>My name is JUNIPER, too! CEDRIC JUNIPER.<LINE>Heh! The PROFESSOR who gave you<LINE>the POKéDEX is my daughter!<LINE>That girl has told me a lot about you.<LINE>It really makes my day to meet you!
 In honor of our meeting,<LINE>I'm going to upgrade your POKéDEX!
 <PLAYER>'s POKéDEX has<LINE>been upgraded!
-Cedric: Some POKéMON can change forms<LINE>even when it's the same individual.<LINE>If you have already seen a form, you<LINE>can check it with this whenever you want.<LINE>I also added a function to make<LINE>searching easier.
-???: Professor, who's that Trainer?
-Cedric: Oh! I forgot my introductions!<LINE>Skyla, this is a friend of my daughter's.<LINE><PLAYER> is traveling around<LINE>Unova to complete the POKéDEX.
-Skyla: Oh, I see! So that means you'll<LINE>be challenging the Gym!<LINE><LINE>Oh boy! I'm really looking forward to it!
-Cedric: That's right, <PLAYER>.<LINE>You should challenge this Gym!<LINE>If nothing else, this Gym<LINE>is really out there!
-See you, Skyla. If something comes<LINE>up again, I'll let you know!
-Skyla: Professor, my plane<LINE>is a cargo plane!<LINE>It carries cargo, not people!<LINE>And you're talking as if places like Kanto<LINE>and Sinnoh are right around the corner!
-Cedric: Aww, Skyla.<LINE>If you keep frowning, your face might<LINE><LINE>freeze like that, and that'd be a shame.<LINE>People and POKéMON, we all have<LINE>to help each other out!<LINE>See you later!
-Skyla: Sheesh!<LINE>It's hard to believe a happy-go-lucky<LINE>guy like that could be a world-renowned<LINE><LINE>POKéMON professor.
-Heads-up, <PLAYER>.<LINE>As a Gym Leader, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
-Heads-up, <PLAYER>.<LINE>As a Gym Leader, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
-Just now, as I was flying the<LINE>cargo plane, I saw something<LINE><LINE>on top of the Celestial Tower.
-I'm sure that it is a sick POKéMON!<LINE>If it is, I can't just leave it there!<LINE>I have to look into this right away.<LINE>I'm leaving for Route 7's Celestial Tower.<LINE>You can come along if you want.
-Skyla completed her cargo-plane run.<LINE>She must have gone somewhere after.<LINE>Maybe to the Celestial Tower on Route 7?
+CEDRIC: Some POKéMON can change forms<LINE>even when it's the same individual.<LINE>If you have already seen a form, you<LINE>can check it with this whenever you want.<LINE>I also added a function to make<LINE>searching easier.
+???: PROFESSOR, who's that Trainer?
+CEDRIC: Oh! I forgot my introductions!<LINE>SKYLA, this is a friend of my daughter's.<LINE><PLAYER> is traveling around<LINE>Unova to complete the POKéDEX.
+SKYLA: Oh, I see! So that means you'll<LINE>be challenging the Gym!<LINE><LINE>Oh boy! I'm really looking forward to it!
+CEDRIC: That's right, <PLAYER>.<LINE>You should challenge this Gym!<LINE>If nothing else, this Gym<LINE>is really out there!
+See you, SKYLA. If something comes<LINE>up again, I'll let you know!
+SKYLA: PROFESSOR, my plane<LINE>is a cargo plane!<LINE>It carries cargo, not people!<LINE>And you're talking as if places like Kanto<LINE>and Sinnoh are right around the corner!
+CEDRIC: Aww, SKYLA.<LINE>If you keep frowning, your face might<LINE><LINE>freeze like that, and that'd be a shame.<LINE>People and POKéMON, we all have<LINE>to help each other out!<LINE>See you later!
+SKYLA: Sheesh!<LINE>It's hard to believe a happy-go-lucky<LINE>guy like that could be a world-renowned<LINE><LINE>POKéMON PROFESSOR.
+Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
+Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the Gym, but there's<LINE><LINE>something I need to take care of first.
+Just now, as I was flying the<LINE>cargo plane, I saw something<LINE><LINE>on top of the CELESTIAL TOWER.
+I'm sure that it is a sick POKéMON!<LINE>If it is, I can't just leave it there!<LINE>I have to look into this right away.<LINE>I'm leaving for ROUTE 7's CELESTIAL TOWER.<LINE>You can come along if you want.
+SKYLA completed her cargo-plane run.<LINE>She must have gone somewhere after.<LINE>Maybe to the CELESTIAL TOWER on ROUTE 7?
 N: \xf000븉\x0001\x0001They may say it is for understanding<LINE>one another better, but what Trainers<LINE><LINE>really use battles for is to compete…<LINE><LINE>And they hurt each other's POKéMON!<LINE>Am I the only one who finds this<LINE>terribly painful?<LINE>Whatever…<LINE>I'm going to talk to your POKéMON.<LINE>I've been living with POKéMON<LINE>since I was born, so it's easier for<LINE><LINE>me to talk with them than with people.<LINE>…Because POKéMON never tell lies.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Hey, <PLAYER>.<LINE>Would you tell me what kind of Trainer<LINE><POKEMON> is?\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001OK, OK, got it.<LINE>So <POKEMON> was born in Nuvema Town,<LINE>lives with Mom, and was given the POKéDEX<LINE><LINE>to start off a journey to see the world.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001OK, OK, got it.<LINE>So <POKEMON> was born in NUVEMA TOWN,<LINE>lives with Mom, and was given the POKéDEX<LINE><LINE>to start off a journey to see the world.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Still, this <POKEMON> trusts you<LINE>for some reason. That's good!<LINE>If every person and POKéMON cared about<LINE>one another like you two do,<LINE><LINE>I could watch over the future of people<LINE><LINE>and POKéMON without having to liberate<LINE><LINE>POKéMON from people who just use them.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001Ghetsis is using Team Plasma<LINE>to search for some special stones--<LINE>the Light Stone and the Dark Stone…\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001GHETSIS is using TEAM PLASMA<LINE>to search for some special stones--<LINE>the Light Stone and the Dark Stone…\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001These stones hold the essence of two<LINE>legendary POKéMON. It is said that when<LINE><LINE>they lost their physical form, they fell<LINE><LINE>into a slumber and were transformed.<LINE>Now, they wait for the hero's arrival…<LINE>I shall resurrect a legendary<LINE>Dragon-type POKéMON from one of<LINE><LINE>these stones, and become its friend.<LINE>That will show the world that<LINE>I am the new hero.<LINE><LINE>Everyone will follow what I say!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001My vision is to change the world<LINE>without using force.<LINE>Trying to change the world by force<LINE>will just make others resist.<LINE>If people resist, the ones that will be<LINE>hurt are the innocent POKéMON<LINE><LINE>used by foolish Trainers.<LINE>You understand.<LINE>POKéMON are not just tools<LINE>for people to use!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001As a result…<LINE>POKéMON and Trainers who care about<LINE>one another, like you and your POKéMON,<LINE><LINE>will be separated.<LINE><LINE>And that does break my heart a little. \xf000븉\x0001\x0000
 Planes! Their shapes!<LINE>They are perfectly designed to fly!<LINE>There is no excess in the<LINE>mechanics for flying!
-The only planes that fly out of<LINE>Mistralton Airport are cargo planes.<LINE>If Trainers want to fly, they can go<LINE>with a POKéMON that knows the move Fly.
-Skyla's grandfather was<LINE>a legendary Pilot.<LINE>Skyla is our city's Gym Leader.<LINE>She's a really nice person!
+The only planes that fly out of<LINE>MISTRALTON Airport are cargo planes.<LINE>If Trainers want to fly, they can go<LINE>with a POKéMON that knows the move Fly.
+SKYLA's grandfather was<LINE>a legendary Pilot.<LINE>SKYLA is our city's GYM LEADER.<LINE>She's a really nice person!
 POKéMON and people worked together<LINE>to open up desolate land and make<LINE><LINE>a place where everyone could live.<LINE>I'm certain that this cooperative<LINE>spirit will remain unchanged.
 It's dangerous to play in a landing strip,<LINE>but you should be OK on ours.<LINE>We only have one cargo flight a day.
-I hear many people have had their<LINE>POKéMON stolen by Team Plasma…
+I hear many people have had their<LINE>POKéMON stolen by TEAM PLASMA…
 If you want to eat delicious vegetables,<LINE>the ones grown in the wild are the best.<LINE>As the weather and the seasons change,<LINE>wild vegetables get more and more tasty.<LINE>Even POKéMON like to eat wild vegetables!
 Vegetables grown in a greenhouse<LINE>are the best.<LINE>The temperature and their nutrients<LINE>are all managed systematically.<LINE>Vegetables grown in a completely<LINE>efficient way taste extra delicious!
 Oh! You found our treasure!
 Found it!
-Just kidding.<LINE>We don't have a POKéMON, so we planned<LINE>to hide this TM until we got one.<LINE>But that would be a waste, so--here!<LINE>You can use it!<LINE>We'll get another one from Skyla.
-Just kidding.<LINE>We don't have a POKéMON, so we planned<LINE>to hide this TM until we got one.<LINE>But that would be a waste, so--here!<LINE>You can use it!<LINE>We'll get another one from Skyla.
+Just kidding.<LINE>We don't have a POKéMON, so we planned<LINE>to hide this TM until we got one.<LINE>But that would be a waste, so--here!<LINE>You can use it!<LINE>We'll get another one from SKYLA.
+Just kidding.<LINE>We don't have a POKéMON, so we planned<LINE>to hide this TM until we got one.<LINE>But that would be a waste, so--here!<LINE>You can use it!<LINE>We'll get another one from SKYLA.
 Yoooo-ooou can uuu-uuuuuse it!
 See you! Bye-bye!
-Mistralton City<LINE>Strewn with Windblown Leaves
-Mistralton Cargo Service<LINE>Our slogan is “Quick and Safe!"
-Mistralton City POKéMON Gym<LINE>Leader: Skyla<LINE><LINE>The Highflying Girl
+MISTRALTON CITY<LINE>Strewn with Windblown Leaves
+MISTRALTON Cargo Service<LINE>Our slogan is “Quick and Safe!"
+MISTRALTON CITY POKéMON Gym<LINE>Leader: SKYLA<LINE><LINE>The Highflying Girl

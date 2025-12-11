@@ -66,5 +66,5 @@ Persim Berry
 Pecha Berry
 Chesto Berry
 Will you serve the \xf000ĉ\x0001\x0000 sandwich<LINE>to this customer?
-Village Bridge
-Village Bridge Restaurant<LINE>Village Sandwiches are our specialty!
+VILLAGE BRIDGE
+VILLAGE BRIDGE Restaurant<LINE>Village Sandwiches are our specialty!

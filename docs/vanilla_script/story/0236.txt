@@ -1,10 +1,10 @@
-Cheren: <PLAYER>, it's difficult,<LINE>isn't it?<LINE>When you confront yourself, you have<LINE>to notice things about yourself that<LINE><LINE>aren't too flattering…
+CHEREN: <PLAYER>, it's difficult,<LINE>isn't it?<LINE>When you confront yourself, you have<LINE>to notice things about yourself that<LINE><LINE>aren't too flattering…
 ???: Of course!<LINE>And no one can get away from themselves.
-Cheren: …Marshal?
-Marshal: My mentor told me you were<LINE>here, so I came to see.<LINE>Listen. Even if you lose in battle, if you<LINE>surpass what you've done before, you<LINE><LINE>have bested yourself.<LINE>Take the opportunity of a battle to<LINE>look at your opponent,<LINE><LINE>look at the POKéMON involved,<LINE><LINE>and look at yourself!
-Cheren: Are those Alder's words?
-Marshal: Maybe. But I'm borrowing them.<LINE>What I want are battles with Trainers<LINE>who believe in themselves like that…<LINE>When I mix it up with a Trainer like<LINE>that, both my POKéMON and I<LINE><LINE>get even stronger.<LINE>Well then, I'll be waiting for your<LINE>challenge in the POKéMON League.
-Cheren: I guess that's that.<LINE>OK, <PLAYER>!<LINE>Accept this POKéMON battle!
-Cheren: I'll keep battling many Trainers<LINE>and POKéMON like this, and if I can learn<LINE><LINE>what kind of person I am, it will open up<LINE><LINE>my path.<LINE>I'm sure this path will lead me to become<LINE>the person I'm meant to be.<LINE>POKéMON will always be with you and me as<LINE>we go down our own paths.<LINE>Our important friends, POKéMON…
-Cheren: Oh, you showed up, <PLAYER>.<LINE>In order to surpass myself up to this<LINE>point, and to beat a purely strong<LINE><LINE>POKéMON Trainer such as yourself, I'm<LINE><LINE>challenging you to a POKéMON battle!
-Cheren: I'll keep battling many Trainers<LINE>and POKéMON like this, and if I can learn<LINE><LINE>what kind of person I am, it will open up<LINE><LINE>my path.<LINE>I'm sure this path will lead me to become<LINE>the person I'm meant to be.<LINE>POKéMON will always be with you and me as<LINE>we go down our own paths.<LINE>Our important friends, POKéMON…
+CHEREN: …MARSHAL?
+MARSHAL: My mentor told me you were<LINE>here, so I came to see.<LINE>Listen. Even if you lose in battle, if you<LINE>surpass what you've done before, you<LINE><LINE>have bested yourself.<LINE>Take the opportunity of a battle to<LINE>look at your opponent,<LINE><LINE>look at the POKéMON involved,<LINE><LINE>and look at yourself!
+CHEREN: Are those ALDER's words?
+MARSHAL: Maybe. But I'm borrowing them.<LINE>What I want are battles with Trainers<LINE>who believe in themselves like that…<LINE>When I mix it up with a Trainer like<LINE>that, both my POKéMON and I<LINE><LINE>get even stronger.<LINE>Well then, I'll be waiting for your<LINE>challenge in the POKéMON LEAGUE.
+CHEREN: I guess that's that.<LINE>OK, <PLAYER>!<LINE>Accept this POKéMON battle!
+CHEREN: I'll keep battling many Trainers<LINE>and POKéMON like this, and if I can learn<LINE><LINE>what kind of person I am, it will open up<LINE><LINE>my path.<LINE>I'm sure this path will lead me to become<LINE>the person I'm meant to be.<LINE>POKéMON will always be with you and me as<LINE>we go down our own paths.<LINE>Our important friends, POKéMON…
+CHEREN: Oh, you showed up, <PLAYER>.<LINE>In order to surpass myself up to this<LINE>point, and to beat a purely strong<LINE><LINE>POKéMON Trainer such as yourself, I'm<LINE><LINE>challenging you to a POKéMON battle!
+CHEREN: I'll keep battling many Trainers<LINE>and POKéMON like this, and if I can learn<LINE><LINE>what kind of person I am, it will open up<LINE><LINE>my path.<LINE>I'm sure this path will lead me to become<LINE>the person I'm meant to be.<LINE>POKéMON will always be with you and me as<LINE>we go down our own paths.<LINE>Our important friends, POKéMON…

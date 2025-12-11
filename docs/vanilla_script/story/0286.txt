@@ -30,7 +30,7 @@ Received the \xf000\xff00\x0001\x0002\xf000Ċ\x0001\x0001\xf000\xff00\x0001\x000
 Stardom
 Forest Stroll
 A Sweet Soirée
-Exciting Nimbasa
+Exciting NIMBASA
 \xf000Ģ\x0001\x0000
 Cancel
 Yes

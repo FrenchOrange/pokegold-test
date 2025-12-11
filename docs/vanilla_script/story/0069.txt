@@ -1,15 +1,15 @@
-N: \xf000븉\x0001\x0001You're looking for Team Plasma, right?<LINE>They ran into the amusement park.<LINE>Come with me.\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001You're looking for TEAM PLASMA, right?<LINE>They ran into the amusement park.<LINE>Come with me.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001They're not here.<LINE>Let's ride the Ferris wheel<LINE>and see if we can spot them.<LINE>I love Ferris wheels.<LINE>The circular motion… The mechanics…<LINE>They're like collections of<LINE>elegant formulas.\xf000븉\x0001\x0000
-Team Plasma: My lord N!
-Team Plasma: You're safe, sire!
+TEAM PLASMA: My lord N!
+TEAM PLASMA: You're safe, sire!
 N: \xf000븉\x0001\x0001There's no problem.<LINE>You're part of the people we brought in<LINE>to help us save the POKéMON.<LINE><LINE>So, you're under my protection, as well.<LINE>Go, quickly, and let my battle cover<LINE>your retreat.<LINE>…Now then, <PLAYER>,<LINE>do you follow my logic?\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001If true, your words please me.<LINE>Ah. Then…<LINE>The future I envision…<LINE>Perhaps I can't beat you here and now,<LINE>but I'll battle you to buy time for these<LINE><LINE>members of Team Plasma to get away!\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001So that's how it is…<LINE>That's unfortunate.<LINE>Ah. Then…<LINE>The future I envision…<LINE>Perhaps I can't beat you here and now,<LINE>but I'll battle you anyway to buy time<LINE><LINE>for these members of Team Plasma<LINE><LINE>to flee.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001If true, your words please me.<LINE>Ah. Then…<LINE>The future I envision…<LINE>Perhaps I can't beat you here and now,<LINE>but I'll battle you to buy time for these<LINE><LINE>members of TEAM PLASMA to get away!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001So that's how it is…<LINE>That's unfortunate.<LINE>Ah. Then…<LINE>The future I envision…<LINE>Perhaps I can't beat you here and now,<LINE>but I'll battle you anyway to buy time<LINE><LINE>for these members of TEAM PLASMA<LINE><LINE>to flee.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001You're quite strong.<LINE>But I have a future that I must change.<LINE>And, for that future…\xf000븉\x0001\x0000
-I'll defeat the Champion and become<LINE>unbeatable, unlike any other!<LINE>I'll make all Trainers free their POKéMON!<LINE>Just try and stop me!<LINE>If you want to be together with POKéMON,<LINE>your only hope is to collect the Badges<LINE><LINE>from each area and head for the<LINE><LINE>POKéMON League!<LINE><LINE>Try and stop me there, if you dare!
+I'll defeat the Champion and become<LINE>unbeatable, unlike any other!<LINE>I'll make all Trainers free their POKéMON!<LINE>Just try and stop me!<LINE>If you want to be together with POKéMON,<LINE>your only hope is to collect the Badges<LINE><LINE>from each area and head for the<LINE><LINE>POKéMON LEAGUE!<LINE><LINE>Try and stop me there, if you dare!
 \xf000븉\x0001\x0001If your conviction is not strong enough,<LINE>you will never be able to defeat me.\xf000븉\x0001\x0000
 Whooshing, swooshing roller coaster!<LINE>Whirltwirlwhirltwirl…whoa!
 Spinning, spinning Ferris wheel!<LINE>Climbing, climbing Ferris wheel!
 No matter how old you get, amusement<LINE>parks are always exciting, am I right?
 Look! Look!<LINE>It's a clown!
-Nimbasa City POKéMON Gym<LINE>Leader: Elesa<LINE><LINE>The Shining Beauty
+NIMBASA CITY POKéMON Gym<LINE>Leader: ELESA<LINE><LINE>The Shining Beauty

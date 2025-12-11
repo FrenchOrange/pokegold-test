@@ -1,11 +1,11 @@
-Team Plasma: Huh. Pretty strong…<LINE>But you're only strong because you<LINE>Trainers are controlling POKéMON!
-Cheren: So if you want to set<LINE>POKéMON free…<LINE>If that's what you want, you should<LINE>start with your own.<LINE>But taking people's POKéMON by force<LINE>is not right.<LINE>That is not real strength!
-Team Plasma: Hey, there you are!<LINE>We found that thing we were looking for.<LINE>We should head for the tower now!
-Get this! Team Plasma has obtained<LINE>the power to change this world<LINE><LINE>and end people's control over POKéMON.
-Team Plasma: That's right!<LINE>We must use force in order to right<LINE>the wrongs of the world.<LINE>Now, let's gather around our king.<LINE>Our lord N!
-Cheren: Those guys… I don't know what<LINE>they've found, but they go the extra<LINE><LINE>mile to gain power and cause trouble.<LINE><LINE>What a bothersome bunch…
+TEAM PLASMA: Huh. Pretty strong…<LINE>But you're only strong because you<LINE>Trainers are controlling POKéMON!
+CHEREN: So if you want to set<LINE>POKéMON free…<LINE>If that's what you want, you should<LINE>start with your own.<LINE>But taking people's POKéMON by force<LINE>is not right.<LINE>That is not real strength!
+TEAM PLASMA: Hey, there you are!<LINE>We found that thing we were looking for.<LINE>We should head for the tower now!
+Get this! TEAM PLASMA has obtained<LINE>the power to change this world<LINE><LINE>and end people's control over POKéMON.
+TEAM PLASMA: That's right!<LINE>We must use force in order to right<LINE>the wrongs of the world.<LINE>Now, let's gather around our king.<LINE>Our lord N!
+CHEREN: Those guys… I don't know what<LINE>they've found, but they go the extra<LINE><LINE>mile to gain power and cause trouble.<LINE><LINE>What a bothersome bunch…
 <PLAYER>… I'm going to stay here<LINE>for a while.<LINE>I want to think a little bit about what<LINE>the Champion asked me…<LINE>What do I want to do with my power<LINE>after I get strong?<LINE>And why do I want to be strong in the<LINE>first place?
 <PLAYER>… I'm going to stay here<LINE>for a while.<LINE>I want to think a little bit about what<LINE>the Champion asked me…<LINE>What do I want to do with my power<LINE>after I get strong?<LINE>And why do I want to be strong in the<LINE>first place?
 If you look for something in an empty<LINE>place like this, you can discover things!
-If you look for something in an empty<LINE>place like this, you can discover things!<LINE>Like this Fossil I just found! Take this!
-If you come again tomorrow, you might be<LINE>able to find a Fossil of your own.<LINE><LINE>So come on out and play if ya want!
+If you look for something in an empty<LINE>place like this, you can discover things!<LINE>Like this fossil I just found! Take this!
+If you come again tomorrow, you might be<LINE>able to find a fossil of your own.<LINE><LINE>So come on out and play if ya want!

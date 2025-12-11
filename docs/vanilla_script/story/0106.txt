@@ -1,6 +1,6 @@
 Hoo ha!<LINE>You have a POKéDEX.<LINE>How many POKéMON have you found?<LINE>If you find 50 or more, I'll give you<LINE>something sure to delight!
 Ha hoo!<LINE>You have a POKéDEX.<LINE>How many POKéMON have you found?<LINE>Hoo ha! You've found 50 or more!<LINE>Now we're talking! This is for you!
-A POKéMON holding a Shell Bell recovers<LINE>its HP a little bit if it inflicts damage<LINE><LINE>during a battle.<LINE>But what's more important is this. Have<LINE>you shown the POKéDEX to a professor?
+A POKéMON holding a Shell Bell recovers<LINE>its HP a little bit if it inflicts damage<LINE><LINE>during a battle.<LINE>But what's more important is this. Have<LINE>you shown the POKéDEX to a PROFESSOR?
 Hey, hey! Let's jump on this! We'll trade<LINE>my <POKEMON> with your <PLAYER>!
 Let's start the POKéMON trade!
 Please take good care of my <POKEMON>!

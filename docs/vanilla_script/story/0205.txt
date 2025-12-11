@@ -1,11 +1,11 @@
-Bronius: When I saw you in Castelia,<LINE>I did not care about your existence.<LINE>Here in the Chargestone Cave,<LINE>Ghetsis tested your ability…<LINE>Once more, we will test you to learn<LINE>what it is you are.<LINE>Team Plasma, come out!
-Team Plasma: Bronius of the Seven Sages,<LINE>I will bring this kid down!
-Team Plasma: This kid is the real thing!
-Team Plasma: Because of you,<LINE>I'm now ex-Team Plasma.<LINE>Being an ex doesn't sound cool, does it?<LINE>How are you going to make it up to me?
-Team Plasma: An ex-Team Plasma member<LINE>becomes an ordinary POKéMON Trainer…<LINE><LINE>This was that moment.
-Bronius: The POKéMON of our Team Plasma<LINE>are also fighting for their Trainers.<LINE>It was so obvious that I overlooked it…<LINE>Thank you for reminding me of that.<LINE>Here, I'd like you to take this.
+Bronius: When I saw you in CASTELIA,<LINE>I did not care about your existence.<LINE>Here in the CHARGESTONE CAVE,<LINE>GHETSIS tested your ability…<LINE>Once more, we will test you to learn<LINE>what it is you are.<LINE>TEAM PLASMA, come out!
+TEAM PLASMA: Bronius of the Seven Sages,<LINE>I will bring this kid down!
+TEAM PLASMA: This kid is the real thing!
+TEAM PLASMA: Because of you,<LINE>I'm now ex-TEAM PLASMA.<LINE>Being an ex doesn't sound cool, does it?<LINE>How are you going to make it up to me?
+TEAM PLASMA: An ex-TEAM PLASMA member<LINE>becomes an ordinary POKéMON Trainer…<LINE><LINE>This was that moment.
+Bronius: The POKéMON of our TEAM PLASMA<LINE>are also fighting for their Trainers.<LINE>It was so obvious that I overlooked it…<LINE>Thank you for reminding me of that.<LINE>Here, I'd like you to take this.
 Bronius: POKéMON do their best for their<LINE>Trainers even when they are injured.<LINE>I wonder whether my lord N understands<LINE>what that means?
-Looker: On the topic of Team Plasma…<LINE>I am an officer of the<LINE>International Police,<LINE><LINE>so you would be wise<LINE><LINE>to share all you know.
-Bronius: Those who left Team Plasma and<LINE>are behaving with respect and<LINE><LINE>understanding toward POKéMON…<LINE>Them, please forgive!<LINE>However, those who won't interact with<LINE><LINE>POKéMON in a kind and honest way…<LINE><LINE>Even I will never forgive them!
-Looker: Truly, I thank you!<LINE>Now, Ghetsis notwithstanding,<LINE>there yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>Their innermost thoughts,<LINE>their uttermost hopes…<LINE><LINE>These I must and shall discover!<LINE><LINE>Once more, a brief farewell!
-Looker: Thank you!<LINE><PLAYER>, there is something<LINE>of which we must speak.<LINE>A report has been received. By me.<LINE>Far from here, a sighting occurred of a<LINE><LINE>person like N and--a dragon POKéMON.<LINE>I must instantly go to confirm the<LINE>complete confirmation of this report.<LINE><LINE>I will see you again, and soon!
+LOOKER: On the topic of TEAM PLASMA…<LINE>I am an officer of the<LINE>International Police,<LINE><LINE>so you would be wise<LINE><LINE>to share all you know.
+Bronius: Those who left TEAM PLASMA and<LINE>are behaving with respect and<LINE><LINE>understanding toward POKéMON…<LINE>Them, please forgive!<LINE>However, those who won't interact with<LINE><LINE>POKéMON in a kind and honest way…<LINE><LINE>Even I will never forgive them!
+LOOKER: Truly, I thank you!<LINE>Now, GHETSIS notwithstanding,<LINE>there yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>Their innermost thoughts,<LINE>their uttermost hopes…<LINE><LINE>These I must and shall discover!<LINE><LINE>Once more, a brief farewell!
+LOOKER: Thank you!<LINE><PLAYER>, there is something<LINE>of which we must speak.<LINE>A report has been received. By me.<LINE>Far from here, a sighting occurred of a<LINE><LINE>person like N and--a dragon POKéMON.<LINE>I must instantly go to confirm the<LINE>complete confirmation of this report.<LINE><LINE>I will see you again, and soon!

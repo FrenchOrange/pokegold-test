@@ -1,4 +1,4 @@
-This is the Season Research Lab.<LINE>Twist Mountain, just beyond Mistralton,<LINE>has snow, depending on the season.
+This is the Season Research Lab.<LINE>TWIST MOUNTAIN, just beyond MISTRALTON,<LINE>has snow, depending on the season.
 Some POKéMON change their appearance<LINE>depending on the season.<LINE>Could that also be considered<LINE>a type of evolution?
 We research changes in nature that<LINE>occur due to the seasons.<LINE>Consider the POKéMON called <PLAYER>,<LINE>which lives in this forest.<LINE>Its appearance is said to change<LINE>according to the season.<LINE>This characteristic is of great interest<LINE>to us.<LINE>We want to research this POKéMON and<LINE>observe its seasonal changes.<LINE>That's why we developed a marvelous<LINE>climate-control system that transcends<LINE><LINE>the seasons and allows us to freely<LINE><LINE>adjust temperature and humidity!
 Up to this point, everything has been<LINE>fine…but we are very busy, and we<LINE><LINE>haven't really had a chance to catch<LINE><LINE>many <PLAYER> to study.<LINE>So, this is what we would like to ask you.<LINE>First, please capture a <PLAYER>.<LINE>Then, when its appearance changes,<LINE>could you bring it back to the lab?<LINE>Then, when we've confirmed the change to<LINE>the <PLAYER> you bring us, we will also<LINE><LINE>go search for that season's <PLAYER>.
@@ -21,7 +21,7 @@ The glass is slightly cold to the touch.<LINE>The plants inside the case<LINE>ha
 The glass is very cold to the touch.<LINE>The plants inside the case<LINE>have lost all their leaves.
 The glass is slightly warm to the touch.<LINE>The plants inside the case<LINE>have grown small buds.
 The glass is very warm to the touch.<LINE>The plants inside the case<LINE>have big, healthy leaves.
-Route 6's temperature \xf000ȁ\x0001\x0000 °C
-Route 6's temperature \xf000ȁ\x0001\x0000 °C
-Route 6's temperature \xf000ȁ\x0001\x0000 °C
-Route 6's temperature -\xf000Ȁ\x0001\x0000 °C
+ROUTE 6's temperature \xf000ȁ\x0001\x0000 °C
+ROUTE 6's temperature \xf000ȁ\x0001\x0000 °C
+ROUTE 6's temperature \xf000ȁ\x0001\x0000 °C
+ROUTE 6's temperature -\xf000Ȁ\x0001\x0000 °C

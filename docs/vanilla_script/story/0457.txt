@@ -1,5 +1,5 @@
 A beautiful tune is spreading<LINE>throughout the town…
-Anville Town<LINE>Rolling Out the Steel Rails
+ANVILLE TOWN<LINE>Rolling Out the Steel Rails
 It's a subway map of the Unova region.
 Oh, are you also curious about<LINE>that train?
 Unfortunately, no train has<LINE>come here today.
@@ -16,7 +16,7 @@ This Super Double Train is<LINE>a new mass-produced car!
 This car is a Multi Train!<LINE>Few cars of this model were produced.
 This train car is a Super Multi Train!<LINE>This is the latest train car!
 This train car is a Wi-Fi Train!<LINE>It is the fastest long-distance<LINE><LINE>high-speed train in the Battle Subway!
-As you know, this is a local train to<LINE>Anville Town! Isn't it just so cute?
+As you know, this is a local train to<LINE>ANVILLE TOWN! Isn't it just so cute?
 This train car is the kind that ran<LINE>a long time ago.
 This train car is a new train<LINE>to run in the future!
 I can see!<LINE>I can see it!<LINE>That lovely smooth curve! Ah, I wish<LINE>I could reach out and touch it!
@@ -31,7 +31,7 @@ This one is a little slow and heavy.<LINE>When it runs, the whole train sways.
 Compared to contemporary train cars, it<LINE>has more parts, so I heard it was<LINE><LINE>difficult to build.
 Wooo! Cool! Super cool!<LINE>The latest motor breathes fire!
 I can see it so clearly! But I cannot<LINE>touch the Hyperspeed Train!<LINE>It really is hyper technology!<LINE>As you can see, we engineers are<LINE>always seriously dreaming that someday<LINE><LINE>the dream will become a reality!
-Do you know Tubeline Bridge?<LINE>The train that runs on it is<LINE>this Single Train.
+Do you know TUBELINE BRIDGE?<LINE>The train that runs on it is<LINE>this Single Train.
 Newer trains have to be built<LINE>in a way that's both functional<LINE><LINE>and environmentally friendly.<LINE>Compared to the past, they've<LINE>improved significantly.
 The number of parts influences the<LINE>budget and construction time.<LINE>The streamlined and beautiful design<LINE>of the Double Train is still valued today.
 It uses the same train car<LINE>as a Super Single Train.<LINE>The only difference is the appearance.<LINE>It is a superb train car that will go down<LINE>in the history of the Battle Subway!
@@ -41,7 +41,7 @@ Faster! Farther!<LINE>Our engineers' spirits are infused in it!
 The train car is the same model as a<LINE>Single Train.<LINE>Because it is an old train car, I hear the<LINE>maintenance is hard, but it's the one I<LINE><LINE>always ride, because I loved it as a kid!
 The old train cars built with lots of small<LINE>parts have their own unique beauty and<LINE><LINE>attract a lot of fans.<LINE>Those cars no longer run in the<LINE>Battle Subway, but I hear they're still<LINE><LINE>used in a faraway region.<LINE>Ah… I'd love to be on that train!
 Uh-oh, if it really breathed fire, that<LINE>would be bad!<LINE>But it is full of the latest technologies!<LINE>It's undergoing a lot of testing.<LINE>It's called a gauge-convertible train.<LINE>It's a sweet car that can adjust its<LINE>wheels to run on any rail!
-A train to Nimbasa City is leaving<LINE>the station shortly.<LINE>Would you like to board?
+A train to NIMBASA CITY is leaving<LINE>the station shortly.<LINE>Would you like to board?
 Then, please get on the train and wait.
 This is a quiet town!<LINE>Relax and stay for a while.
 Gave the \xf000ĉ\x0001\x0000 in exchange for<LINE>the \xf000ĉ\x0001\x0002!

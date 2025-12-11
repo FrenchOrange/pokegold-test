@@ -1,4 +1,4 @@
-POKéMON Trainer.<LINE>The sparkle in your eyes…<LINE>I feel your kindness toward POKéMON!<LINE>I have decided! I will entrust the Egg<LINE>I found in the Relic Castle to you!<LINE>Would you like to receive this<LINE>POKéMON Egg and raise it?
+POKéMON Trainer.<LINE>The sparkle in your eyes…<LINE>I feel your kindness toward POKéMON!<LINE>I have decided! I will entrust the Egg<LINE>I found in the RELIC CASTLE to you!<LINE>Would you like to receive this<LINE>POKéMON Egg and raise it?
 Would you like to receive this<LINE>POKéMON Egg and raise it?
 I appreciate your thought, but you<LINE>cannot take the Egg right now because<LINE><LINE>your party is full.
 Well, that's certainly up to you.

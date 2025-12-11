@@ -184,7 +184,7 @@ NacrenePokecenter1F_Blocks:
 StriatonPokecenter1F_Blocks:
 GoldenrodPokecenter1F_Blocks:
 CianwoodPokecenter1F_Blocks:
-CherrygrovePokecenter1F_Blocks:
+AccumulaPokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.blk"
 
 EarlsPokemonAcademy_Blocks:

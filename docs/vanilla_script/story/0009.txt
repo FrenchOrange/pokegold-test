@@ -107,7 +107,7 @@ What kinds of POKéMON<LINE>should I enter?
 <PLAYER> achieved a win streak of \xf000ȃ\x0001\x0001<LINE>in the Multi Train challenge with a friend.
 <PLAYER> achieved a win streak of<LINE>\xf000ȃ\x0001\x0001 in the Multi Train challenge with a<LINE><LINE>Trainer and a win streak of \xf000ȃ\x0001\x0002 in<LINE><LINE>the Multi Train challenge with a friend.
 
-Would you like to board<LINE>the train to Anville Town?
+Would you like to board<LINE>the train to ANVILLE TOWN?
 The train is leaving the station shortly.<LINE>All aboard!
 We hope to see you again!
 We hope to see you again!

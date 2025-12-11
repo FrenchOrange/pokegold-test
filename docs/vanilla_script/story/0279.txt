@@ -1,13 +1,13 @@
 …<LINE>…You, huh.
-Ghetsis is gone.<LINE>He went off somewhere alone<LINE>after we rescued him from the castle.
-From the day Ghetsis saved our lives,<LINE>we have sworn to be loyal to him.<LINE>Even now, after he ordered<LINE>us not to search for him.
-Also, Ghetsis said to give you this…
+GHETSIS is gone.<LINE>He went off somewhere alone<LINE>after we rescued him from the castle.
+From the day GHETSIS saved our lives,<LINE>we have sworn to be loyal to him.<LINE>Even now, after he ordered<LINE>us not to search for him.
+Also, GHETSIS said to give you this…
 As well as this…
 And this, also.
-Ghetsis…<LINE>Where did he find these?<LINE><LINE>What was he planning to do with them?<LINE><LINE>Why did he give them to you?<LINE><LINE>There's no way to know now.<LINE>Is he testing you?<LINE>Or…using you?
-We, the Shadow Triad, have always<LINE>been and will always be the<LINE><LINE>loyal servants of Ghetsis.<LINE>And Ghetsis's ambitions will never cease!
+GHETSIS…<LINE>Where did he find these?<LINE><LINE>What was he planning to do with them?<LINE><LINE>Why did he give them to you?<LINE><LINE>There's no way to know now.<LINE>Is he testing you?<LINE>Or…using you?
+We, the Shadow Triad, have always<LINE>been and will always be the<LINE><LINE>loyal servants of GHETSIS.<LINE>And GHETSIS's ambitions will never cease!
 Never shall we meet again.<LINE>Farewell!
-Will you come see the famous Patrat<LINE>show at Marvelous Bridge?
+Will you come see the famous Patrat<LINE>show at MARVELOUS BRIDGE?
 OK!<LINE>I'm going to get all fired up!
 Oh… I'm confident you will be greatly<LINE>entertained, so come again sometime!
 Ready all Patrat!<LINE>Everyone gather up!

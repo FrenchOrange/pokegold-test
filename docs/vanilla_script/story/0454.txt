@@ -1,6 +1,6 @@
 Fun in summer…<LINE>Beautiful girls playing in the water…<LINE>Hey! I'm just thinking out loud.<LINE>Please don't listen to me!
 The best luxury is to enjoy<LINE>just doing nothing.
-Phew…<LINE>I've been relaxing in Undella Town too<LINE>long, and I've gotten a little chubby.<LINE>If <PLAYER> is by my side, I can get<LINE>some exercise by training it, and<LINE><LINE>that'll help me lose weight.<LINE>Would you trade my <POKEMON><LINE>with <PLAYER>?
+Phew…<LINE>I've been relaxing in UNDELLA TOWN too<LINE>long, and I've gotten a little chubby.<LINE>If <PLAYER> is by my side, I can get<LINE>some exercise by training it, and<LINE><LINE>that'll help me lose weight.<LINE>Would you trade my <POKEMON><LINE>with <PLAYER>?
 Phew! All right, let's trade!
 Phew… Thanks.<LINE>Please take good care of <POKEMON>.<LINE>It spent a summer with me.<LINE>I will work hard to train your <PLAYER><LINE>and get some exercise!
 Phew… What I want is <PLAYER>.

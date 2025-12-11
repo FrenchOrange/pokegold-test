@@ -1,52 +1,52 @@
 
 
 Hi there!<LINE>I've been waiting for you young people!<LINE>Let me introduce myself again.<LINE>My name is…
-Cheren: Professor Juniper?<LINE>We know your name.
-Professor Juniper: Come, come, Cheren!<LINE>This is not a time to take things lightly.<LINE>Today is a day to remember always, so<LINE>it's best to behave with some formality.<LINE>That being so, once again, my name is<LINE>Professor Juniper, and I am researching<LINE><LINE>when and how the creatures called<LINE><LINE>POKéMON came into existence.
+CHEREN: PROFESSOR JUNIPER?<LINE>We know your name.
+PROFESSOR JUNIPER: Come, come, CHEREN!<LINE>This is not a time to take things lightly.<LINE>Today is a day to remember always, so<LINE>it's best to behave with some formality.<LINE>That being so, once again, my name is<LINE>PROFESSOR JUNIPER, and I am researching<LINE><LINE>when and how the creatures called<LINE><LINE>POKéMON came into existence.
 Oh, that's unusual!<LINE>You've already had a POKéMON battle!<LINE>So maybe that's why…<LINE>It feels as though your POKéMON have<LINE>already begun to trust you!<LINE>By the way, would you like to give your<LINE>POKéMON a nickname?
-Professor Juniper: Uh-huh, I see.<LINE>Are you OK with the nickname \xf000Ă\x0001\x0000?
-Professor Juniper: \xf000Ă\x0001\x0000 is its<LINE>name. That is such a great name!
-Professor Juniper: You aren't planning<LINE>to use a nickname? Well, that's fine, too.
-Professor Juniper: As for why I gave all<LINE>of you POKéMON…
-Cheren: It's for the POKéDEX, right?
-Bianca: POKéDEX?
-Professor Juniper: I am astonished.<LINE>Nice work, Cheren!<LINE>You have already studied POKéMON<LINE>extensively, haven't you?<LINE>Still, let me explain everything from the<LINE>beginning, for everyone's sake.
+PROFESSOR JUNIPER: Uh-huh, I see.<LINE>Are you OK with the nickname \xf000Ă\x0001\x0000?
+PROFESSOR JUNIPER: \xf000Ă\x0001\x0000 is its<LINE>name. That is such a great name!
+PROFESSOR JUNIPER: You aren't planning<LINE>to use a nickname? Well, that's fine, too.
+PROFESSOR JUNIPER: As for why I gave all<LINE>of you POKéMON…
+CHEREN: It's for the POKéDEX, right?
+BIANCA: POKéDEX?
+PROFESSOR JUNIPER: I am astonished.<LINE>Nice work, CHEREN!<LINE>You have already studied POKéMON<LINE>extensively, haven't you?<LINE>Still, let me explain everything from the<LINE>beginning, for everyone's sake.
 The POKéDEX is a high-tech device that<LINE>automatically records the POKéMON<LINE><LINE>you encounter!<LINE>So, I want you three to visit many<LINE>places and meet all of the POKéMON<LINE><LINE>in the Unova region!
-This is my request.<LINE><PLAYER>!<LINE>Cheren! Bianca!<LINE>You'll go on an adventure to<LINE>complete the POKéDEX, will you not?
-Professor Juniper: Here is what I need<LINE>from you!<LINE>What I want to hear are the courageous<LINE>words of people who will blaze new<LINE><LINE>paths around the world!<LINE>I want you three to travel to many<LINE>distant places and meet all of the<LINE><LINE>POKéMON in the Unova region!
-Bianca: OK!<LINE>I mean… Yes, professor!
-Cheren: Thank you very much.<LINE>Because of you, I can become a POKéMON<LINE>Trainer, exactly as I've always wished.
-Professor Juniper: All of you, thanks!<LINE>You have given me the best<LINE>possible answer!
+This is my request.<LINE><PLAYER>!<LINE>CHEREN! BIANCA!<LINE>You'll go on an adventure to<LINE>complete the POKéDEX, will you not?
+PROFESSOR JUNIPER: Here is what I need<LINE>from you!<LINE>What I want to hear are the courageous<LINE>words of people who will blaze new<LINE><LINE>paths around the world!<LINE>I want you three to travel to many<LINE>distant places and meet all of the<LINE><LINE>POKéMON in the Unova region!
+BIANCA: OK!<LINE>I mean… Yes, PROFESSOR!
+CHEREN: Thank you very much.<LINE>Because of you, I can become a POKéMON<LINE>Trainer, exactly as I've always wished.
+PROFESSOR JUNIPER: All of you, thanks!<LINE>You have given me the best<LINE>possible answer!
 <PLAYER> obtained the \xf000\xff00\x0001\x0002POKéDEX\xf000\xff00\x0001\x0000!
-Professor Juniper: Next, I need to teach<LINE>you how to meet POKéMON.<LINE>Please meet me at Route 1, OK?
-Bianca: S-since the professor asked us,<LINE>it's OK to go on an adventure, right?<LINE>I can explore and maybe find out what<LINE>I want to do in life. I think I'd like that.
-Cheren: Of course.<LINE>We can travel however we want<LINE>while we complete the POKéDEX.
-Bianca: For some reason,<LINE>my heart is pounding, <PLAYER>.<LINE>What are you and <POKEMON> going to do?
-Cheren: Finally, I can become<LINE>a POKéMON Trainer.<LINE>I'll have real battles with other<LINE>Trainers and get stronger. Wait and see!
-Professor Juniper: Why, hello,<LINE><PLAYER>! How have you been lately?
-Cedric: Hey, <PLAYER>!<LINE>Are you meeting lots of POKéMON?<LINE>There really are lots of POKéMON<LINE>in the Unova region and the<LINE><LINE>rest of the world!
+PROFESSOR JUNIPER: Next, I need to teach<LINE>you how to meet POKéMON.<LINE>Please meet me at ROUTE 1, OK?
+BIANCA: S-since the PROFESSOR asked us,<LINE>it's OK to go on an adventure, right?<LINE>I can explore and maybe find out what<LINE>I want to do in life. I think I'd like that.
+CHEREN: Of course.<LINE>We can travel however we want<LINE>while we complete the POKéDEX.
+BIANCA: For some reason,<LINE>my heart is pounding, <PLAYER>.<LINE>What are you and <POKEMON> going to do?
+CHEREN: Finally, I can become<LINE>a POKéMON Trainer.<LINE>I'll have real battles with other<LINE>Trainers and get stronger. Wait and see!
+PROFESSOR JUNIPER: Why, hello,<LINE><PLAYER>! How have you been lately?
+CEDRIC: Hey, <PLAYER>!<LINE>Are you meeting lots of POKéMON?<LINE>There really are lots of POKéMON<LINE>in the Unova region and the<LINE><LINE>rest of the world!
 
 
 
-Cedric: Hey, <PLAYER>!
+CEDRIC: Hey, <PLAYER>!
 Skreet! Skreet!
-Bianca: Professor Juniper is<LINE>letting me help out.<LINE>When I was looking at my POKéDEX,<LINE>I realized something…<LINE>I met so many POKéMON during my journey.<LINE>I just want to learn more and more<LINE>and more about the little darlings!
+BIANCA: PROFESSOR JUNIPER is<LINE>letting me help out.<LINE>When I was looking at my POKéDEX,<LINE>I realized something…<LINE>I met so many POKéMON during my journey.<LINE>I just want to learn more and more<LINE>and more about the little darlings!
 Oh yeah! That's right.<LINE><PLAYER>, do you know<LINE>about massive outbreaks of POKéMON?
-Bianca: I knew you'd know, <PLAYER>!<LINE>I'm sure you also know that lots of a<LINE>certain POKéMON appear in the grass all<LINE><LINE>over, and that if you look at the electric<LINE><LINE>signs in the Route gates, you can see<LINE><LINE>where the mass outbreaks are happening<LINE><LINE>in the Unova region!
-Bianca: Tee-hee!<LINE>OK, then, I'll tell you about it.<LINE>First of all, lots of a certain POKéMON<LINE>appear in the grass all over.<LINE>If you look at the electric signs in the<LINE>Route gates, you can see where the<LINE><LINE>mass outbreaks are happening in the<LINE><LINE>Unova region! Isn't that amazing!
+BIANCA: I knew you'd know, <PLAYER>!<LINE>I'm sure you also know that lots of a<LINE>certain POKéMON appear in the grass all<LINE><LINE>over, and that if you look at the electric<LINE><LINE>signs in the ROUTE gates, you can see<LINE><LINE>where the mass outbreaks are happening<LINE><LINE>in the Unova region!
+BIANCA: Tee-hee!<LINE>OK, then, I'll tell you about it.<LINE>First of all, lots of a certain POKéMON<LINE>appear in the grass all over.<LINE>If you look at the electric signs in the<LINE>ROUTE gates, you can see where the<LINE><LINE>mass outbreaks are happening in the<LINE><LINE>Unova region! Isn't that amazing!
 I have to study lots of POKéMON<LINE>research, but I don't mind. This is<LINE><LINE>the answer I found during my adventure!<LINE><LINE>It's actually a lot of fun!<LINE>And I have an idea! Every now and then,<LINE>come have a POKéMON battle with me, OK?<LINE>'Cause by doing that, I'll learn<LINE>a lot more about POKéMON!
-Bianca: <PLAYER>, did you know this?<LINE>If you give a POKéMON called Feebas<LINE>a Prism Scale and trade it with someone,<LINE><LINE>apparently it evolves.<LINE>Isn't that amazing?<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
-Bianca: <PLAYER>, did you know this?<LINE>In Pinwheel Forest, there is a rock<LINE>that's covered in moss.<LINE>It might be related to the rock, I dunno,<LINE>but there is a POKéMON that evolves<LINE><LINE>when it levels up in Pinwheel Forest!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
-Bianca: <PLAYER>, did you know this?<LINE>Deep in Twist Mountain,<LINE>there's an ice-covered rock.<LINE>There is a POKéMON that evolves<LINE>when it levels up near that rock.<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
-Bianca: <PLAYER>, did you know this?<LINE>There are POKéMON that evolve when they<LINE>level up knowing a certain move!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
-Bianca: <PLAYER>, did you know this?<LINE>There are POKéMON that evolve when<LINE>you give them a certain item and they<LINE><LINE>level up at night!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
-Bianca: Oh, <PLAYER>!<LINE>Would you have a POKéMON<LINE>battle with me today?
-Bianca: Great! <PLAYER>!<LINE>We're battling indoors, so<LINE>don't get too worked up!
-Bianca: Whaaaaat!<LINE>Wait…<LINE>No, I'm pretty disappointed…
-Bianca: Oh, so you will have a<LINE>POKéMON battle with me, then?
-Bianca: Phew!<LINE>I'm totally sure, <PLAYER>.<LINE>You're really a strong Trainer.<LINE>I love your style of POKéMON<LINE>battling, <PLAYER>.<LINE>Somehow your POKéMON look like<LINE>they're having so much fun!
-Who is this with Professor Juniper?<LINE>There's a smiling man in the picture.
-Father and daughter…<LINE>It's a picture of the two<LINE>Professor Junipers.
+BIANCA: <PLAYER>, did you know this?<LINE>If you give a POKéMON called Feebas<LINE>a Prism Scale and trade it with someone,<LINE><LINE>apparently it evolves.<LINE>Isn't that amazing?<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
+BIANCA: <PLAYER>, did you know this?<LINE>In PINWHEEL FOREST, there is a rock<LINE>that's covered in moss.<LINE>It might be related to the rock, I dunno,<LINE>but there is a POKéMON that evolves<LINE><LINE>when it levels up in PINWHEEL FOREST!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
+BIANCA: <PLAYER>, did you know this?<LINE>Deep in TWIST MOUNTAIN,<LINE>there's an ice-covered rock.<LINE>There is a POKéMON that evolves<LINE>when it levels up near that rock.<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
+BIANCA: <PLAYER>, did you know this?<LINE>There are POKéMON that evolve when they<LINE>level up knowing a certain move!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
+BIANCA: <PLAYER>, did you know this?<LINE>There are POKéMON that evolve when<LINE>you give them a certain item and they<LINE><LINE>level up at night!<LINE>POKéMON sure are mysterious beings,<LINE>aren't they?
+BIANCA: Oh, <PLAYER>!<LINE>Would you have a POKéMON<LINE>battle with me today?
+BIANCA: Great! <PLAYER>!<LINE>We're battling indoors, so<LINE>don't get too worked up!
+BIANCA: Whaaaaat!<LINE>Wait…<LINE>No, I'm pretty disappointed…
+BIANCA: Oh, so you will have a<LINE>POKéMON battle with me, then?
+BIANCA: Phew!<LINE>I'm totally sure, <PLAYER>.<LINE>You're really a strong Trainer.<LINE>I love your style of POKéMON<LINE>battling, <PLAYER>.<LINE>Somehow your POKéMON look like<LINE>they're having so much fun!
+Who is this with PROFESSOR JUNIPER?<LINE>There's a smiling man in the picture.
+Father and daughter…<LINE>It's a picture of the two<LINE>PROFESSOR JUNIPERs.
 Adventure Rule No. 1<LINE>The X Button opens the menu.
 Adventure Rule No. 2<LINE>Record your progress with SAVE.
 There are lots of books about POKéMON!

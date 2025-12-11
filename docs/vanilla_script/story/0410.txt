@@ -1,4 +1,4 @@
-Route 15
-Route 15
+ROUTE 15
+ROUTE 15
 Poké Transfer Lab<LINE>What's Poké Transfer? Come find out!
-Marvelous Bridge<LINE>Truly marvelous! And also a bridge!
+MARVELOUS BRIDGE<LINE>Truly marvelous! And also a bridge!

@@ -1,2 +1,2 @@
-Cheren: <PLAYER>!
-You can walk on the fallen columns, too.<LINE>I'm going after Team Plasma!
+CHEREN: <PLAYER>!
+You can walk on the fallen columns, too.<LINE>I'm going after TEAM PLASMA!
