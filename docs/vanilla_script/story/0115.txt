@@ -3,6 +3,6 @@ You see field after field located near<LINE>the runway!<LINE>Freshly picked vege
 Cannons! Cannons!<LINE>SKYLA's GYM is full of cannons!
 Ruuunwaaaay! Ruuunwaaaay!<LINE>A Technical Machine on the ruuuunwaaaay!
 Ruuunwaaaay! Ruuunwaaaay!<LINE>Racing there is so much fun!<LINE>Hey, hey, which one is the fastest<LINE>POKéMON in a race?
-If you have a GYM Badge from MISTRALTON,<LINE>I'll tell you something cool!
-Wow! A Jet Badge! You won against SKYLA!<LINE>OK, I'll tell you something cool!<LINE>We left our treasure at the edge of<LINE>the runway!
+If you have a GYM BADGE from MISTRALTON,<LINE>I'll tell you something cool!
+Wow! A Jet BADGE! You won against SKYLA!<LINE>OK, I'll tell you something cool!<LINE>We left our treasure at the edge of<LINE>the runway!
 Please use our Technical Machine<LINE>with extra care!

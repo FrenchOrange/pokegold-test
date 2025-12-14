@@ -1,21 +1,21 @@
-Me oh my, the Badges you can get in the<LINE>UNOVA region! Want to hear about them?
+Me oh my, the BADGES you can get in the<LINE>UNOVA region! Want to hear about them?
 Okey dokey. If you want to know<LINE>about them, please come back.
-With the Trio Badge, POKéMON up to Lv. 20<LINE>will obey you without question.
-With the Basic Badge, POKéMON up to<LINE>Lv. 30 will obey you without question.
-With the Insect Badge, POKéMON up to<LINE>Lv. 40 will obey you without question.
-With the Bolt Badge, POKéMON up to Lv. 50<LINE>will obey you without question.
-With the Quake Badge, POKéMON up to<LINE>Lv. 60 will obey you without question.
-With the Jet Badge, POKéMON up to Lv. 70<LINE>will obey you without question.
-With the Freeze Badge, POKéMON up to<LINE>Lv. 80 will obey you without question.
-With the Legend Badge, all POKéMON<LINE>will obey you without question.
-Which Badge do you want to know about?
-Trio Badge
-Basic Badge
-Insect Badge
-Bolt Badge
-Quake Badge
-Jet Badge
-Freeze Badge
-Legend Badge
+With the Trio BADGE, POKéMON up to Lv. 20<LINE>will obey you without question.
+With the Basic BADGE, POKéMON up to<LINE>Lv. 30 will obey you without question.
+With the Insect BADGE, POKéMON up to<LINE>Lv. 40 will obey you without question.
+With the Bolt BADGE, POKéMON up to Lv. 50<LINE>will obey you without question.
+With the Quake BADGE, POKéMON up to<LINE>Lv. 60 will obey you without question.
+With the Jet BADGE, POKéMON up to Lv. 70<LINE>will obey you without question.
+With the Freeze BADGE, POKéMON up to<LINE>Lv. 80 will obey you without question.
+With the Legend BADGE, all POKéMON<LINE>will obey you without question.
+Which BADGE do you want to know about?
+Trio BADGE
+Basic BADGE
+Insect BADGE
+Bolt BADGE
+Quake BADGE
+Jet BADGE
+Freeze BADGE
+Legend BADGE
 Cancel
 When I gaze down at the city from a<LINE>tall building, I tremble.<LINE>Because…<LINE>I-I-I'm scared of heights…

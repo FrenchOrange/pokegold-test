@@ -1,7 +1,7 @@
 You appear ready to face a GYM LEADER.<LINE>Then…<LINE>Bring it!
 In honor of your stout heart,<LINE>I will give you this.
-<PLAYER> received<LINE>the Freeze Badge from BRYCEN!
-You have seven Badges.<LINE>That means POKéMON up to Lv. 80<LINE>will obey you.<LINE>This TM will convey my regard<LINE>for your accomplishments.
+<PLAYER> received<LINE>the Freeze BADGE from BRYCEN!
+You have seven BADGES.<LINE>That means POKéMON up to Lv. 80<LINE>will obey you.<LINE>This TM will convey my regard<LINE>for your accomplishments.
 A move that always results in<LINE>a critical hit: Frost Breath.
 No matter how many battles I fight,<LINE>I don't know what strength is.<LINE>Perhaps you can find the answer.
 Only those who are weak need to<LINE>flaunt their strength.

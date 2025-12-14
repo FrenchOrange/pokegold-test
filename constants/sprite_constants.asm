@@ -84,7 +84,7 @@ DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)
 	const_next $80
 DEF SPRITE_POKEMON EQU const_value
-	const SPRITE_RATTATA ; 80
+	const SPRITE_COTTONEE ; 80
 DEF NUM_POKEMON_SPRITES EQU const_value - SPRITE_POKEMON
 
 ; special GetMonSprite values (see engine/overworld/overworld.asm)

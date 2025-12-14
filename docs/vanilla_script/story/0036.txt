@@ -1,5 +1,5 @@
 CHEREN: Hey, <PLAYER>.<LINE>I just challenged the GYM LEADER BURGH.
-He's a seasoned GYM LEADER.<LINE>He made me work for that GYM Badge!<LINE>But for me, Bug-type POKéMON<LINE>aren't much of a challenge.
+He's a seasoned GYM LEADER.<LINE>He made me work for that GYM BADGE!<LINE>But for me, Bug-type POKéMON<LINE>aren't much of a challenge.
 I'm going to keep winning like this against<LINE>all of the UNOVA region's GYM LEADERs!<LINE>Then, I'll head for the POKéMON LEAGUE<LINE>and outperform the Champion!<LINE>If I do that, everyone will admit<LINE>what a strong Trainer I am…<LINE>That will make me feel truly alive…
 BURGH: Ah hah!<LINE>You're the one who fought<LINE>TEAM PLASMA in PINWHEEL FOREST…<LINE>If I remember, your name is…<LINE><PLAYER>!<LINE>Come to challenge the GYM, I suppose?
 BURGH: Ah hah!<LINE>You're the one who fought<LINE>TEAM PLASMA in PINWHEEL FOREST…<LINE>If I remember, your name is…<LINE><PLAYER>!<LINE>Come to challenge the GYM, I suppose?
@@ -23,6 +23,6 @@ The XCASTER is ringing.
 What GYM LEADERs test is the strength<LINE>of the bond between the challenger<LINE><LINE>and his or her POKéMON!
 Before challenging the GYM, you'll want<LINE>to be sure you have enough Potions.
 Being a POKéMON Trainer doesn't<LINE>necessarily make someone stronger.<LINE>But everyone can love their POKéMON<LINE>and enjoy playing together.
-I have six POKé BALLS in my BAG!<LINE>But, really, what I want is<LINE>Great Balls and Ultra Balls!<LINE>You can't buy them at the Poké Mart<LINE>until you've collected Badges, though.
+I have six POKé BALLS in my BAG!<LINE>But, really, what I want is<LINE>Great Balls and Ultra Balls!<LINE>You can't buy them at the Poké Mart<LINE>until you've collected BADGES, though.
 My POKéMON is soooo cute!<LINE>It always makes me feel better<LINE>when I come home!
 CASTELIA CITY POKéMON GYM<LINE>LEADER: BURGH<LINE><LINE>Premier Insect Artist

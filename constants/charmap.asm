@@ -191,7 +191,7 @@
 	charmap "♂",         $ef
 	charmap "¥",         $f0 ; Poké Dollar sign
 	charmap "×",         $f1
-	charmap "<DOT>",     $f2 ; decimal point; same as "." in English
+	charmap "♪",         $f2
 	charmap "/",         $f3
 	charmap ",",         $f4
 	charmap "♀",         $f5

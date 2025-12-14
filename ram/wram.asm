@@ -2463,6 +2463,10 @@ wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
 wPlayersHouse2FSceneID::                          db
 wPlayersHouse1FSceneID::                          db
+wStriatonSixTeamCondo1FSceneID::                  db
+wStriatonNicknameCondo1FSceneID::                 db
+wStriatonFennelCondo1FSceneID::                   db
+wStriatonFennelCondo2FSceneID::                   db
 wRoute24SceneID::                                 db
 wRoute25SceneID::                                 db
 wRoute26SceneID::                                 db
@@ -2486,7 +2490,6 @@ wAccumulaTownSceneID::                            db
 wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
 wRoute36SceneID::                                 db
-wRoute37SceneID::                                 db
 wPinwheelForestSceneID::                          db
 wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db
@@ -2495,8 +2498,6 @@ wRoute34SceneID::                                 db
 wEcruteakTinTowerEntranceSceneID::                db
 wEcruteakPokecenter1FSceneID::                    db
 wMahoganyTownSceneID::                            db
-wRoute38SceneID::                                 db
-wRoute39SceneID::                                 db
 wSproutTower3FSceneID::                           db
 wBurnedTower1FSceneID::                           db
 wBurnedTowerB1FSceneID::                          db
@@ -2510,7 +2511,6 @@ wTeamRocketBaseB1FSceneID::                       db
 wTeamRocketBaseB2FSceneID::                       db
 wTeamRocketBaseB3FSceneID::                       db
 wGoldenrodUndergroundSwitchRoomEntrancesSceneID:: db
-wRoute40SceneID::                                 db
 wVictoryRoadSceneID::                             db
 wGoldenrodCitySceneID::                           db
 wOlivinePortSceneID::                             db

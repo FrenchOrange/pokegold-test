@@ -247,6 +247,23 @@ ENDM
 	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
 	map_attributes BiancasHouse, BIANCAS_HOUSE, $00, 0
 	map_attributes CherensHouse, CHERENS_HOUSE, $00, 0
+	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
+	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
+	map_attributes AccumulaRPSCondo2F, ACCUMULA_RPS_CONDO_2F, $00, 0
+	map_attributes AccumulaGreatBagCondo1F, ACCUMULA_GREAT_BAG_CONDO_1F, $00, 0
+	map_attributes AccumulaGreatBagCondo2F, ACCUMULA_GREAT_BAG_CONDO_2F, $00, 0
+	map_attributes AccumulaNewlywedsCondo1F, ACCUMULA_NEWLYWEDS_CONDO_1F, $00, 0
+	map_attributes AccumulaNewlywedsCondo2F, ACCUMULA_NEWLYWEDS_CONDO_2F, $00, 0
+	map_attributes AccumulaSiblingsHouse, ACCUMULA_SIBLINGS_HOUSE, $00, 0
+	map_attributes VioletGym, VIOLET_GYM, $00, 0
+	map_attributes TrainersSchool, TRAINERS_SCHOOL, $00, 0
+	map_attributes StriatonNicknameCondo1F, STRIATON_NICKNAME_CONDO_1F, $00, 0
+	map_attributes StriatonNicknameCondo2F, STRIATON_NICKNAME_CONDO_2F, $00, 0
+	map_attributes StriatonPokecenter1F, STRIATON_POKECENTER_1F, $00, 0
+	map_attributes StriatonSixTeamCondo1F, STRIATON_SIX_TEAM_CONDO_1F, $00, 0
+	map_attributes StriatonSixTeamCondo2F, STRIATON_SIX_TEAM_CONDO_2F, $00, 0
+	map_attributes StriatonFennelCondo1F, STRIATON_FENNEL_CONDO_1F, $00, 0
+	map_attributes StriatonFennelCondo2F, STRIATON_FENNEL_CONDO_2F, $00, 0
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
@@ -347,11 +364,6 @@ ENDM
 	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
 	map_attributes LakeOfRageHiddenPowerHouse, LAKE_OF_RAGE_HIDDEN_POWER_HOUSE, $00, 0
 	map_attributes LakeOfRageMagikarpHouse, LAKE_OF_RAGE_MAGIKARP_HOUSE, $00, 0
-	map_attributes VioletGym, VIOLET_GYM, $00, 0
-	map_attributes EarlsPokemonAcademy, EARLS_POKEMON_ACADEMY, $00, 0
-	map_attributes VioletNicknameSpeechHouse, VIOLET_NICKNAME_SPEECH_HOUSE, $00, 0
-	map_attributes StriatonPokecenter1F, STRIATON_POKECENTER_1F, $00, 0
-	map_attributes VioletKylesHouse, VIOLET_KYLES_HOUSE, $00, 0
 	map_attributes GoldenrodGym, GOLDENROD_GYM, $00, 0
 	map_attributes GoldenrodBikeShop, GOLDENROD_BIKE_SHOP, $00, 0
 	map_attributes GoldenrodHappinessRater, GOLDENROD_HAPPINESS_RATER, $00, 0
@@ -397,11 +409,3 @@ ENDM
 	map_attributes TrainerHouseB1F, TRAINER_HOUSE_B1F, $00, 0
 	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0
-	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
-	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
-	map_attributes AccumulaRPSCondo2F, ACCUMULA_RPS_CONDO_2F, $00, 0
-	map_attributes AccumulaGreatBagCondo1F, ACCUMULA_GREAT_BAG_CONDO_1F, $00, 0
-	map_attributes AccumulaGreatBagCondo2F, ACCUMULA_GREAT_BAG_CONDO_2F, $00, 0
-	map_attributes AccumulaNewlywedsCondo1F, ACCUMULA_NEWLYWEDS_CONDO_1F, $00, 0
-	map_attributes AccumulaNewlywedsCondo2F, ACCUMULA_NEWLYWEDS_CONDO_2F, $00, 0
-	map_attributes AccumulaSiblingsHouse, ACCUMULA_SIBLINGS_HOUSE, $00, 0

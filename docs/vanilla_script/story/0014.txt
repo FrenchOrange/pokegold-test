@@ -1,6 +1,3 @@
-Fennel: You're going to meet all of the<LINE>POKéMON in the UNOVA region. Am I right?<LINE>Oh, the stairs are right here!
-Fennel: My room is upstairs here.<LINE>Come on, go upstairs!
-After a battle, to my surprise,<LINE>my POKéMON evolved and<LINE><LINE>changed its appearance!
-Some evolve and some don't…<LINE>POKéMON really are mysterious creatures.
-You can't go upstairs now!<LINE>'Cause Fennel said she was testing<LINE>something, and she had a scary look<LINE><LINE>on her face!
-She may not look like it,<LINE>but Fennel is a great scientist!
+FENNEL: You're going to meet all of the<LINE>POKéMON in the UNOVA region. Am I right?<LINE>Oh, the stairs are right here!
+FENNEL: My room is upstairs here.<LINE>Come on, go upstairs!
+She may not look like it,<LINE>but FENNEL is a great scientist!

@@ -1,7 +1,7 @@
 Did the fantastic speed leave you dizzy?<LINE>My beloved POKéMON will be the next one<LINE>to make your head spin!
 My, oh my…<LINE>You have a sweet fighting style.<LINE>I mean, you're a great Trainer!<LINE>Excuse me, I…uh… Oh, here!<LINE><LINE>I want you to have this!
-<PLAYER> received the<LINE>Bolt Badge from ELESA!
-If you have four Badges, including this<LINE>Bolt Badge, POKéMON up to Lv. 50,<LINE><LINE>including traded POKéMON, will obey you.<LINE>Also, here's this move I like.<LINE>Feel free to use it, um, if you want to.
+<PLAYER> received the<LINE>Bolt BADGE from ELESA!
+If you have four BADGES, including this<LINE>Bolt BADGE, POKéMON up to Lv. 50,<LINE><LINE>including traded POKéMON, will obey you.<LINE>Also, here's this move I like.<LINE>Feel free to use it, um, if you want to.
 Volt Switch lets the POKéMON switch with<LINE>a different POKéMON after attacking.<LINE>Of course, if you don't have another<LINE>POKéMON in your party, you can't switch.
 You're going to DRIFTVEIL CITY next?<LINE>Of course. There is a POKéMON GYM there,<LINE>after all. Oh…<LINE>I bet you won't be able to get there.<LINE>You know what?<LINE>I'll fix it so you can cross.<LINE>Wait for me on ROUTE 5.
 What you'd like to do…<LINE>What your POKéMON would like to do…<LINE>Don't you think it could be amazing<LINE>if those are aligned?

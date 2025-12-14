@@ -37,3 +37,6 @@
 	tilecoll TV, FLOOR, FLOOR, FLOOR ; 24
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 25
 	tilecoll WALL, FLOOR, WALL, FLOOR ; 26
+	tilecoll FLOOR, UP_WALL, FLOOR, FLOOR ; 27
+	tilecoll UP_WALL, FLOOR, FLOOR, FLOOR ; 28
+	tilecoll UP_WALL, FLOOR, FLOOR, FLOOR ; 29

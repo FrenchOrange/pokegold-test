@@ -1,4 +1,4 @@
-CHEREN: <PLAYER>, stop!<LINE>You've got a Bolt Badge…<LINE>I've got a Bolt Badge…<LINE>Let's test who's stronger--you or me!<LINE>This time, I'm going to win!
+CHEREN: <PLAYER>, stop!<LINE>You've got a Bolt BADGE…<LINE>I've got a Bolt BADGE…<LINE>Let's test who's stronger--you or me!<LINE>This time, I'm going to win!
 CHEREN: Why?<LINE>Why can't I beat you?
 ELESA: Oh, you two are friends…<LINE>That's nice, how you're helping each<LINE>other get better by competing.
 OK, let's go.

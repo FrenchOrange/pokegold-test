@@ -17,4 +17,4 @@ BIANCA: He's gone.
 You made it this far. Well done.<LINE>That's an impressive accomplishment.<LINE>To show the respect I feel for you,<LINE>I would like to present you with this gift.
 It's a Dusk Stone.<LINE>This item makes certain POKéMON evolve.<LINE>I used one to evolve a Lampent<LINE>from the CELESTIAL TOWER.
 ROUTE 10
-Badge Check Gates<LINE>Open the gates and change history!
+BADGE Check Gates<LINE>Open the gates and change history!

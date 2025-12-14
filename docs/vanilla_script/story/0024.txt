@@ -1,7 +1,7 @@
 Welcome!<LINE>The director of the NACRENE Museum<LINE>and the NACRENE GYM's LEADER<LINE><LINE>is me! LENORA!<LINE>Well then, challenger,<LINE>I'm going to research<LINE><LINE>how you battle with the<LINE><LINE>POKéMON you've so lovingly raised!
-Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a POKéMON Trainer<LINE>worthy of receiving this Basic Badge!
-<PLAYER> received<LINE>the Basic Badge from LENORA!
-If you have two Badges, traded<LINE>POKéMON up to Lv. 30 will obey you.<LINE>Here, I also want you to have this TM.
+Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a POKéMON Trainer<LINE>worthy of receiving this Basic BADGE!
+<PLAYER> received<LINE>the Basic BADGE from LENORA!
+If you have two BADGES, traded<LINE>POKéMON up to Lv. 30 will obey you.<LINE>Here, I also want you to have this TM.
 Retaliate does a lot more damage if an<LINE>ally fainted the turn before you use it!<LINE>If you master the timing, you can defeat<LINE>even strong opponents.
 Some problems you can't solve even if you<LINE>think about them your whole life.<LINE>Some problems have different answers<LINE>depending on the person.<LINE>Still, the reason I can't keep my<LINE>curiosity down is this:<LINE><LINE>I want to figure out the truth, but I<LINE><LINE>also have a desire for adventure!
 Deeear!

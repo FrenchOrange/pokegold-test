@@ -8,6 +8,8 @@ StriatonCity_MapScripts:
 
 StriatonCityFlypointCallback:
 	setflag ENGINE_FLYPOINT_STRIATON
+	setmapscene STRIATON_SIX_TEAM_CONDO_1F, SCENE_STRIATONSIXTEAMCONDO1F_TURN
+	setmapscene STRIATON_NICKNAME_CONDO_1F, SCENE_STRIATONNICKNAMECONDO1F_TURN
 	endcallback
 
 StriatonCitySign:
@@ -56,11 +58,13 @@ StriatonCity_MapEvents:
 	warp_event 15,  3, STRIATON_POKECENTER_1F, 1
 	warp_event 31,  2, DREAMYARD_OUTSIDE, 1
 	warp_event 31,  3, DREAMYARD_OUTSIDE, 2
-	warp_event  9,  3, EARLS_POKEMON_ACADEMY, 1
-	warp_event 21,  8, VIOLET_KYLES_HOUSE, 1
-	warp_event 21,  9, VIOLET_KYLES_HOUSE, 1
-	warp_event 21, 12, VIOLET_NICKNAME_SPEECH_HOUSE, 1
-	warp_event 21, 13, VIOLET_NICKNAME_SPEECH_HOUSE, 1
+	warp_event  9,  3, TRAINERS_SCHOOL, 1
+	warp_event  9, 10, STRIATON_SIX_TEAM_CONDO_1F, 1
+	warp_event  9, 11, STRIATON_SIX_TEAM_CONDO_1F, 2
+	warp_event 21, 12, STRIATON_NICKNAME_CONDO_1F, 1
+	warp_event 21, 13, STRIATON_NICKNAME_CONDO_1F, 2
+	warp_event 21,  8, STRIATON_FENNEL_CONDO_1F, 1
+	warp_event 21,  9, STRIATON_FENNEL_CONDO_1F, 2
 
 	def_coord_events
 

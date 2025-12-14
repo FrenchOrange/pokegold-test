@@ -207,9 +207,9 @@ What I've heard is it's good to use<LINE>Earthquake when your ally is floating!
 If you want to have a battle with us, <LINE>you need two POKéMON.
 …Interrupting us!<LINE>What a horrible Trainer!
 If you take something away,<LINE>I will take it back… Remember that!
-Look, look! This is a GYM Badge<LINE>from STRIATON CITY!<LINE>Oh, you have it, too!<LINE>Then let's have a POKéMON battle<LINE><LINE>to see who is stronger!
-Impressive! A battle with a<LINE>GYM Badge holder is different!
-You know, there's a pedestal at the<LINE>entrance of each POKéMON GYM.<LINE>If you get that GYM's Badge,<LINE>your name will be carved there.
+Look, look! This is a GYM BADGE<LINE>from STRIATON CITY!<LINE>Oh, you have it, too!<LINE>Then let's have a POKéMON battle<LINE><LINE>to see who is stronger!
+Impressive! A battle with a<LINE>GYM BADGE holder is different!
+You know, there's a pedestal at the<LINE>entrance of each POKéMON GYM.<LINE>If you get that GYM's BADGE,<LINE>your name will be carved there.
 I patrol PINWHEEL FOREST every day!<LINE>A battle here is a piece of cake!
 What a huge mistake to lose<LINE>a battle in PINWHEEL FOREST!
 A Ranger always has one of these.<LINE>I'll give it to you!
@@ -633,7 +633,7 @@ I slipped and lost!
 BRYCEN slides on the frozen floor<LINE>all the time, so it's worn down, and<LINE><LINE>it looks like you can see the path…<LINE><LINE>but maybe I'm imagining it.
 Well, well, if you are feeling dizzy<LINE>because of the GYM machines,<LINE><LINE>I will stand in your path!
 Oh, dear me!
-Being fired into the air by cannons<LINE>and spinning on the ice many times…<LINE><LINE>It's difficult to get Badges.
+Being fired into the air by cannons<LINE>and spinning on the ice many times…<LINE><LINE>It's difficult to get BADGES.
 I always calm myself and choose<LINE>the critical moment in a battle.
 Mmmm?! What?!<LINE>No way? Really?!
 Being calm and having no emotion<LINE>are different.<LINE>BRYCEN rejoices quietly,<LINE>and he grows quietly in rage…
@@ -990,7 +990,7 @@ Mmm!<LINE>You smell like an athlete!
 I see. That is the smell<LINE>that strong people give off…
 You seem to be getting even stronger…<LINE>OK. Please take this.
 I hope you will get even stronger<LINE>by using it.
-Wow, you have a lot of Badges.<LINE>Let me see your skills!
+Wow, you have a lot of BADGES.<LINE>Let me see your skills!
 That fighting style reminds me<LINE>of the old days!
 A person like you should use<LINE>top-shelf items--like this!
 No matter how old we get,<LINE>let's stay Trainers!
@@ -1409,7 +1409,7 @@ I cannot help but wonder…<LINE>Why did I lose?
 No matter how much you research,<LINE>POKéMON are full of new discoveries!
 I've been researching<LINE>without sleeping for days.<LINE><LINE>I see you, but are you a dream?
 Theoretically, it's impossible!<LINE>Is this a dream…?
-Talking about dreams, Fennel's<LINE>POKéMON DW!<LINE><LINE>That is some great research!<LINE><LINE>Are you doing Game Sync, too?
+Talking about dreams, FENNEL's<LINE>POKéMON DW!<LINE><LINE>That is some great research!<LINE><LINE>Are you doing Game Sync, too?
 For my research on dreams,<LINE>I will research your dream!
 No! <LINE>I may dream about this defeat later!
 The Dream Mist of the<LINE>POKéMON Musharna…<LINE>The secret has not been unlocked,<LINE>but it must be a great ability.
@@ -1738,13 +1738,13 @@ I lost, but I am happy!<LINE>Because I have learned a few things!
 Thinking about being happy<LINE>and making happiness a reality…<LINE><LINE>This is also science.
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge, I can bring out<LINE>the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM BADGES.<LINE>We should be equals in strength…
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge, I can bring out<LINE>the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM BADGES.<LINE>We should be equals in strength…
 Ugh!<LINE>You choose a good move, as usual.
 With my knowledge,<LINE>I can bring out the strength of my POKéMON!
-Why do you keep beating me?<LINE>We have the same number of GYM Badges.<LINE>We should be equals in strength…
+Why do you keep beating me?<LINE>We have the same number of GYM BADGES.<LINE>We should be equals in strength…
 My POKéMON and me!<LINE>We trained and got tough!
 Ooohhh…<LINE>Am I in trouble?
 I trained with IRIS…<LINE>But I still couldn't win…

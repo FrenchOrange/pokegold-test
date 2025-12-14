@@ -1,7 +1,7 @@
 Hee-hee!<LINE>I've been waiting for you.<LINE>Did you enjoy flying with the help of<LINE>the MISTRALTON GYM cannons?<LINE>They're my pride and joy!<LINE>This time, let's try something else!
-You're an amazing POKéMON Trainer.<LINE>My POKéMON and I are happy,<LINE>because for the first time in a while,<LINE><LINE>we could fight with our full strength.<LINE>This is an official LEAGUE GYM Badge.<LINE>I think it will look good on you.
-<PLAYER> received the<LINE>Jet Badge from SKYLA.
-Wow, hot stuff!<LINE>With that many GYM Badges,<LINE>POKéMON up to Lv. 70 will obey you.<LINE>Also, as thanks for a POKéMON battle<LINE>that made me very happy,<LINE><LINE>I want you to have this TM.
+You're an amazing POKéMON Trainer.<LINE>My POKéMON and I are happy,<LINE>because for the first time in a while,<LINE><LINE>we could fight with our full strength.<LINE>This is an official LEAGUE GYM BADGE.<LINE>I think it will look good on you.
+<PLAYER> received the<LINE>Jet BADGE from SKYLA.
+Wow, hot stuff!<LINE>With that many GYM BADGES,<LINE>POKéMON up to Lv. 70 will obey you.<LINE>Also, as thanks for a POKéMON battle<LINE>that made me very happy,<LINE><LINE>I want you to have this TM.
 My present to you is Acrobatics.<LINE>If the user doesn't have a held item,<LINE><LINE>its power doubles.<LINE><LINE>It's a pretty technical move.<LINE>Be sure to compensate for the<LINE>lack of a held item!<LINE>By the way, when I flew over<LINE>TWIST MOUNTAIN on the way<LINE><LINE>to ICIRRUS CITY…<LINE>TEAM PLASMA--is that the name?<LINE>Anyway, they were heading for the city.<LINE>What kind of people are they?
 ICIRRUS CITY, where you'll find the next<LINE>GYM, is past ROUTE 7, just after you<LINE><LINE>cross TWIST MOUNTAIN.<LINE>It's a hop, skip, and a jump when flying,<LINE>but it's a really challenging walk.<LINE>Heads up! Make sure you're ready for it!
 SKYLA: Are you and your POKéMON well?<LINE>Our battle together was so much fun.<LINE>Now, my POKéMON and I have started<LINE>training again.<LINE>I don't usually let people travel in my<LINE>cargo plane, but battling with you was<LINE><LINE>such a blast that I'd make an exception.

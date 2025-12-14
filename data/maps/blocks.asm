@@ -105,21 +105,27 @@ CianwoodLugiaSpeechHouse_Blocks:
 PokeSeersHouse_Blocks:
 EcruteakLugiaSpeechHouse_Blocks:
 EcruteakItemfinderHouse_Blocks:
-VioletNicknameSpeechHouse_Blocks:
-VioletKylesHouse_Blocks:
 	INCBIN "maps/House.blk"
 
 AccumulaNewlywedsCondo1F_Blocks:
 AccumulaRPSCondo1F_Blocks:
 AccumulaGreatBagCondo1F_Blocks:
+StriatonSixTeamCondo1F_Blocks:
+StriatonNicknameCondo1F_Blocks:
+StriatonFennelCondo1F_Blocks:
 	INCBIN "maps/Condo1F.blk"
 
 AccumulaRPSCondo2F_Blocks:
+StriatonSixTeamCondo2F_Blocks:
 	INCBIN "maps/Condo2FOffice.blk"
 
 AccumulaNewlywedsCondo2F_Blocks:
 AccumulaGreatBagCondo2F_Blocks:
+StriatonNicknameCondo2F_Blocks:
 	INCBIN "maps/Condo2FFlat.blk"
+
+StriatonFennelCondo2F_Blocks:
+	INCBIN "maps/Condo2FFennel.blk"
 
 NorthSouthGate_Blocks:
 	INCBIN "maps/NorthSouthGate.blk"
@@ -197,8 +203,8 @@ CianwoodPokecenter1F_Blocks:
 AccumulaPokecenter1F_Blocks:
 	INCBIN "maps/Pokecenter1F.blk"
 
-EarlsPokemonAcademy_Blocks:
-	INCBIN "maps/EarlsPokemonAcademy.blk"
+TrainersSchool_Blocks:
+	INCBIN "maps/TrainersSchool.blk"
 
 GoldenrodDeptStore1F_Blocks:
 	INCBIN "maps/DeptStore1F.blk"

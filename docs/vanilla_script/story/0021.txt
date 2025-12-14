@@ -21,7 +21,7 @@ Everyone!<LINE>CHEREN and BIANCA,<LINE>I want you to stay here at the museum.
 BURGH and <PLAYER>,<LINE>you two search PINWHEEL FOREST!<LINE>Got it?<LINE>BURGH, you show the way!<LINE>I'm counting on you, everyone!
 BURGH: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
 BURGH: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
-BIANCA: Oh! Oh, <PLAYER>!<LINE>Take this with you!<LINE>Fennel gave me this Dowsing Machine<LINE>to give you.
+BIANCA: Oh! Oh, <PLAYER>!<LINE>Take this with you!<LINE>FENNEL gave me this Dowsing Machine<LINE>to give you.
 Now, what did she tell me? Um…<LINE>You can use the Dowsing Machine<LINE>to find places where items are hidden.<LINE><LINE>So you can find stuff you can't even see!
 CHEREN: For now, all we need to do is<LINE>protect the museum, right?
 BIANCA: Hey, wait for me!

@@ -188,10 +188,14 @@ ENDM
 	map_const ROUTE_37,                                    10,  9 ;  4
 	map_const STRIATON_CITY,                               16,  9 ;  5
 	map_const VIOLET_GYM,                                   5,  8 ;  7
-	map_const EARLS_POKEMON_ACADEMY,                        4,  8 ;  8
-	map_const VIOLET_NICKNAME_SPEECH_HOUSE,                 4,  4 ;  9
-	map_const STRIATON_POKECENTER_1F,                       7,  4 ; 10
-	map_const VIOLET_KYLES_HOUSE,                           4,  4 ; 11
+	map_const TRAINERS_SCHOOL,                              5,  8 ;  8
+	map_const STRIATON_NICKNAME_CONDO_1F,                   6,  4 ;  9
+	map_const STRIATON_NICKNAME_CONDO_2F,                   6,  4 ; 10
+	map_const STRIATON_POKECENTER_1F,                       7,  4 ; 11
+	map_const STRIATON_SIX_TEAM_CONDO_1F,                   6,  4 ; 12
+	map_const STRIATON_SIX_TEAM_CONDO_2F,                   6,  4 ; 13
+	map_const STRIATON_FENNEL_CONDO_1F,                     6,  4 ; 14
+	map_const STRIATON_FENNEL_CONDO_2F,                     6,  4 ; 15
 	endgroup
 
 	newgroup GOLDENROD                                            ; 11

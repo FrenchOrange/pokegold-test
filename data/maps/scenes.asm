@@ -10,6 +10,10 @@ MapScenes::
 	scene_var COLOSSEUM,                                   wColosseumSceneID
 	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
+	scene_var STRIATON_SIX_TEAM_CONDO_1F,                  wStriatonSixTeamCondo1FSceneID
+	scene_var STRIATON_NICKNAME_CONDO_1F,                  wStriatonNicknameCondo1FSceneID
+	scene_var STRIATON_FENNEL_CONDO_1F,                    wStriatonFennelCondo1FSceneID
+	scene_var STRIATON_FENNEL_CONDO_2F,                    wStriatonFennelCondo2FSceneID
 	scene_var ROUTE_24,                                    wRoute24SceneID ; unused
 	scene_var ROUTE_25,                                    wRoute25SceneID ; unused
 	scene_var ROUTE_26,                                    wRoute26SceneID ; unused
@@ -33,7 +37,6 @@ MapScenes::
 	scene_var ROUTE_35,                                    wRoute35SceneID ; unused
 	scene_var ROUTE_32,                                    wRoute32SceneID ; unused
 	scene_var ROUTE_36,                                    wRoute36SceneID ; unused
-	scene_var ROUTE_37,                                    wRoute37SceneID ; unused
 	scene_var PINWHEEL_FOREST,                             wPinwheelForestSceneID ; unused
 	scene_var GOLDENROD_GYM,                               wGoldenrodGymSceneID ; unused
 	scene_var GOLDENROD_MAGNET_TRAIN_STATION,              wGoldenrodMagnetTrainStationSceneID ; unused
@@ -42,8 +45,6 @@ MapScenes::
 	scene_var ECRUTEAK_TIN_TOWER_ENTRANCE,                 wEcruteakTinTowerEntranceSceneID ; unused
 	scene_var ECRUTEAK_POKECENTER_1F,                      wEcruteakPokecenter1FSceneID ; unused
 	scene_var MAHOGANY_TOWN,                               wMahoganyTownSceneID ; unused
-	scene_var ROUTE_38,                                    wRoute38SceneID ; unused
-	scene_var ROUTE_39,                                    wRoute39SceneID ; unused
 	scene_var SPROUT_TOWER_3F,                             wSproutTower3FSceneID ; unused
 	scene_var BURNED_TOWER_1F,                             wBurnedTower1FSceneID ; unused
 	scene_var BURNED_TOWER_B1F,                            wBurnedTowerB1FSceneID ; unused
@@ -57,7 +58,6 @@ MapScenes::
 	scene_var TEAM_ROCKET_BASE_B2F,                        wTeamRocketBaseB2FSceneID ; unused
 	scene_var TEAM_ROCKET_BASE_B3F,                        wTeamRocketBaseB3FSceneID ; unused
 	scene_var GOLDENROD_UNDERGROUND_SWITCH_ROOM_ENTRANCES, wGoldenrodUndergroundSwitchRoomEntrancesSceneID ; unused
-	scene_var ROUTE_40,                                    wRoute40SceneID ; unused
 	scene_var VICTORY_ROAD,                                wVictoryRoadSceneID ; unused
 	scene_var GOLDENROD_CITY,                              wGoldenrodCitySceneID ; unused
 	scene_var OLIVINE_PORT,                                wOlivinePortSceneID ; unused

@@ -241,10 +241,14 @@ INCLUDE "maps/AzaleaGym.asm"
 SECTION "Map Scripts 21", ROMX
 
 INCLUDE "maps/VioletGym.asm"
-INCLUDE "maps/EarlsPokemonAcademy.asm"
-INCLUDE "maps/VioletNicknameSpeechHouse.asm"
+INCLUDE "maps/TrainersSchool.asm"
+INCLUDE "maps/StriatonNicknameCondo1F.asm"
+INCLUDE "maps/StriatonNicknameCondo2F.asm"
 INCLUDE "maps/StriatonPokecenter1F.asm"
-INCLUDE "maps/VioletKylesHouse.asm"
+INCLUDE "maps/StriatonSixTeamCondo1F.asm"
+INCLUDE "maps/StriatonSixTeamCondo2F.asm"
+INCLUDE "maps/StriatonFennelCondo1F.asm"
+INCLUDE "maps/StriatonFennelCondo2F.asm"
 
 
 SECTION "Map Scripts 22", ROMX

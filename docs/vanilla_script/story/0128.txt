@@ -11,7 +11,7 @@ IRIS: But, but…<LINE>The two heroes' sons started the <LINE>battle again! And 
 DRAYDEN: True.<LINE>POKéMON cannot speak.<LINE>People may hurt POKéMON even more by<LINE>imposing their selfish thoughts on them.<LINE>But, no matter what, POKéMON and people<LINE>believe in each other, need each other,<LINE><LINE>and will continue to live together…
 IRIS: Yeah!<LINE>So I'm never gonna forgive TEAM PLASMA<LINE>for trying to separate POKéMON and us!
 DRAYDEN: Sorry.<LINE>We got a little off topic at the end.<LINE>That is everything we know.<LINE>Unfortunately, we don't know how<LINE>to wake up the legendary POKéMON…
-DRAYDEN: I made a promise to ALDER.<LINE>You must win the GYM Badge from<LINE>the OPELUCID POKéMON GYM.
+DRAYDEN: I made a promise to ALDER.<LINE>You must win the GYM BADGE from<LINE>the OPELUCID POKéMON GYM.
 IRIS, you go and be <PLAYER>'s<LINE>opponent at the POKéMON GYM.
 IRIS: Yay!<LINE>Look out! I'm really, really strong,<LINE>just like DRAYDEN!
 <PLAYER>, I'll be waiting for<LINE>your challenge at the POKéMON GYM!

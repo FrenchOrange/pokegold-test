@@ -130,72 +130,72 @@ AccumulaRPSCondo2FLittleGirlPlayText:
 PickedFireWon:
 	text "FIRE… … GRASS!"
 
-	para "Your POKéMON is"
-	line "FIRE type, mine"
-	cont "is GRASS type…"
+	para "Your #MON is"
+	line "Fire-type, mine"
+	cont "is Grass-type…"
 
-	para "GRASS type is weak"
-	line "against FIRE type…"
+	para "Grass-type is weak"
+	line "against Fire-type…"
 	cont "so I lose."
 	done
 
 PickedFireLost:
 	text "FIRE… … WATER!"
 
-	para "Your POKéMON is"
-	line "FIRE type, mine"
-	cont "is WATER type…"
+	para "Your #MON is"
+	line "Fire-type, mine"
+	cont "is Water-type…"
 
-	para "FIRE type is weak"
-	line "against WATER"
+	para "Fire-type is weak"
+	line "against Water-"
 	cont "type… so I win!"
 	done
 
 PickedGrassWon:
 	text "GRASS… … WATER!"
 
-	para "Your POKéMON is"
-	line "GRASS type, mine"
-	cont "is WATER type…"
+	para "Your #MON is"
+	line "Grass-type, mine"
+	cont "is Water-type…"
 
-	para "WATER type is weak"
-	line "against GRASS"
+	para "Water-type is weak"
+	line "against Grass-"
 	cont "type… so I lose."
 	done
 
 PickedGrassLost:
 	text "GRASS… … FIRE!"
 
-	para "Your POKéMON is"
-	line "GRASS type, mine"
-	cont "is FIRE type…"
+	para "Your #MON is"
+	line "Grass-type, mine"
+	cont "is Fire-type…"
 
-	para "GRASS type is weak"
-	line "against FIRE type…"
+	para "Grass-type is weak"
+	line "against Fire-type…"
 	cont "so I win!"
 	done
 
 PickedWaterWon:
 	text "WATER… … FIRE!"
 
-	para "Your POKéMON is"
-	line "WATER type, mine"
-	cont "is FIRE type…"
+	para "Your #MON is"
+	line "Water-type, mine"
+	cont "is Fire-type…"
 
-	para "FIRE type is weak"
-	line "against WATER"
+	para "Fire-type is weak"
+	line "against Water-"
 	cont "type… so I lose."
 	done
 
 PickedWaterLost:
 	text "WATER… … GRASS!"
 
-	para "Your POKéMON is"
-	line "WATER type, mine"
-	cont "is GRASS type…"
+	para "Your #MON is"
+	line "Water-type, mine"
+	cont "is Grass-type…"
 
-	para "WATER type is weak"
-	line "against GRASS"
+	para "Water-type is weak"
+	line "against Grass-"
 	cont "type… so I win!"
 	done
 
