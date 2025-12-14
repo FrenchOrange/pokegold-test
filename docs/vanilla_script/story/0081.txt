@@ -18,7 +18,7 @@ Continue Challenge
 Return to NIMBASA CITY
 Stay Here
 Awaiting your friend's response…
-"Return to NIMBASA CITY" was chosen, so<LINE>your challenge<LINE><LINE>will end for now.
+'Return to NIMBASA CITY' was chosen, so<LINE>your challenge<LINE><LINE>will end for now.
 <PLAYER>, you have been promoted<LINE>to Rank \xf000ȁ\x0001\x0001!
 Would you like to send these results<LINE>using Nintendo WFC?
 There's still a lot more to go, but let's<LINE>do our best!
@@ -59,7 +59,7 @@ It looks like my POKéMON skill has<LINE>reached its peak power.<LINE>I couldn't
 I'm going to return to my home and<LINE>quietly cheer myself up with art!
 Oh ho ho ho…<LINE>I've already done better than I did<LINE>during my last challenge!
 Battle between two excellent Trainers is<LINE>very artistic.
-For being called a Subway Boss,<LINE>that Trainer sure wasn't as strong<LINE><LINE>as “Boss" suggests.<LINE>It was almost as if…<LINE>As if they are simply gauging<LINE>how strong we really are.
+For being called a Subway Boss,<LINE>that Trainer sure wasn't as strong<LINE><LINE>as 'Boss' suggests.<LINE>It was almost as if…<LINE>As if they are simply gauging<LINE>how strong we really are.
 Well then!<LINE>It's about time to get on<LINE>the train!
 Now just wait a minute, little POKéMON!<LINE>I'll let you battle lots and lots soon!
 Urk!<LINE>I got motion sickness on the train…

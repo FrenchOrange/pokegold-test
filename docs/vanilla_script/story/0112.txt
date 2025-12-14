@@ -42,5 +42,5 @@ Just kidding.<LINE>We don't have a POKéMON, so we planned<LINE>to hide this TM 
 Yoooo-ooou can uuu-uuuuuse it!
 See you! Bye-bye!
 MISTRALTON CITY<LINE>Strewn with Windblown Leaves
-MISTRALTON Cargo Service<LINE>Our slogan is “Quick and Safe!"
+MISTRALTON Cargo Service<LINE>Our slogan is 'Quick and Safe!'
 MISTRALTON CITY POKéMON GYM<LINE>LEADER: SKYLA<LINE><LINE>The Highflying Girl

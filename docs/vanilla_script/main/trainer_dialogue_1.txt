@@ -136,15 +136,15 @@ Er…<LINE>Is it over now?
 Welcome to STRIATON GYM!<LINE>Care for a taste of battle?<LINE>I'll serve up the first course!
 Yow!<LINE>You're a Trainer with a lot of pepper!
 I think it is all right to move ahead<LINE>with POKéMON you've trained well, even<LINE><LINE>without thinking about type matchups.
-The specialty of STRIATON GYM--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>I'm your second course.
+The specialty of STRIATON GYM--<LINE>the full-course 'Trainer de luxe!'<LINE><LINE>I'm your second course.
 That was one of our most popular dishes.<LINE>Did you enjoy the battle?
-The specialty of STRIATON GYM--<LINE>the full-course “Trainer de luxe!"<LINE><LINE>To complete your repast--a GYM LEADER.
+The specialty of STRIATON GYM--<LINE>the full-course 'Trainer de luxe!'<LINE><LINE>To complete your repast--a GYM LEADER.
 Now, with that move, I'm starting to see<LINE>what kind of Trainer you are!
 No matter how grim the situation, I'll use my<LINE>research skills to find a winning strategy!
 My theory about you was correct.<LINE>You're more than just talented…<LINE>You're motivated! I salute you!
 I hang around NACRENE GYM all the time.<LINE>People call me a bookworm.<LINE>I'll warn you now… I am strong because<LINE>I spend the entire day either<LINE><LINE>reading books or training POKéMON.
 I may be a bookworm,<LINE>but I am not a bug POKéMON.
-My first recommendation is a book called<LINE>“Nice to Meet You, POKéMON."<LINE>The bookshelves for children's books<LINE>are close to the entrance.
+My first recommendation is a book called<LINE>'Nice to Meet You, POKéMON.'<LINE>The bookshelves for children's books<LINE>are close to the entrance.
 Oh, wow!<LINE>I lost, but thanks for a great battle!
 I've never known anyone so powerful.<LINE>My head is empty compared to yours!
 Snick!<LINE>My switch was turned on!
@@ -564,7 +564,7 @@ What a calm person you are!<LINE>You're amazing!
 Cannons used once may be used again.<LINE>It's recycling! Precisely!
 In order to jump higher,<LINE>I am practicing really hard!
 No problem! Even though I lost,<LINE>I will just prepare and jump again!
-Trainer! Do you remember<LINE>what you were told at the beginning?<LINE>“The cannons go up, down,<LINE>left, and right.<LINE><LINE>You can enter them from anywhere!"<LINE>How about that?<LINE>I am good at imitating him, aren't I?
+Trainer! Do you remember<LINE>what you were told at the beginning?<LINE>'The cannons go up, down,<LINE>left, and right.<LINE><LINE>You can enter them from anywhere!'<LINE>How about that?<LINE>I am good at imitating him, aren't I?
 My plans are perfectly honed!<LINE>I cannot lose!
 No way! What part of my fighting style<LINE>did I forget to double-check?
 Check after check after check!<LINE>Complacency leads to accidents!
@@ -745,7 +745,7 @@ Every person loves POKéMON<LINE>in a different way.<LINE>Getting strong with my
 I wonder what you will do<LINE>as a Trainer?!
 Oh, you fight very well.<LINE>You are great!
 I love POKéMON battles!<LINE>I never know what my opponent will do.<LINE>It gives me chills!<LINE>Win or lose, it's the excitement<LINE>of the fight that counts!
-My favorite word is “challenge"!<LINE>Do you like challenges?
+My favorite word is 'challenge'!<LINE>Do you like challenges?
 You seem to like challenges!
 Do you like challenges…?<LINE>If you take a challenge,<LINE>you can find something good.<LINE>If you don't try anything, you just<LINE>make excuses.
 Argh…<LINE>My heart aches!
@@ -814,7 +814,7 @@ Plasmaaaa!<LINE>Ahh, our beautiful dream…
 Plasmaaaa!<LINE>This is a nightmare!
 Whoa, whoa, come on now!<LINE>I'm shocked to lose against a little kid!
 It's best to use what you have learned<LINE>in order to master it!
-What can you learn by losing?<LINE>I feel like there's a “Eureka!" here for me.
+What can you learn by losing?<LINE>I feel like there's a 'Eureka!' here for me.
 I'm mastering the lesson in three<LINE>dimensions by experiencing it like this!
 Come on! <LINE>You're just a kid--a kid on an ego trip!
 Our rules and your rules<LINE>are different!
@@ -1099,7 +1099,7 @@ Pan, pan-papan, hey-oo!! Right?<LINE>Oh, the rhythm is wonderful!
 Beep-beep-beep! Ha! Ta-roo ta-raaa!<LINE>Listen to the fans shout!
 Olé, olé, oléeee!<LINE>This is the fan song I wrote!<LINE>The POKéMON listening to this song<LINE>try harder than usual!
 Kay: Olé, olé…<LINE>Huh? It's over.<LINE>Ali: You are very strong!
-“Olé!" means<LINE>“Go!" or “Move forward!"
+'Olé!' means<LINE>'Go!' or 'Move forward!'
 Olé, olé, oléeee!<LINE>I am cheering now!<LINE>If you have two POKéMON,<LINE>I don't mind battling with you!
 My friend came here with me…<LINE>She comes 'cause she wants to sing<LINE><LINE>more than cheering for the team.
 
@@ -1125,9 +1125,9 @@ Hit a home run!
 Ami: We're slammed.<LINE>Eira: I'm going home.
 ELESA's fashion sense<LINE>is funky, too.
 A one-on-two battle is<LINE>too funky!
-Hey, what does “long ball" mean?
+Hey, what does 'long ball' mean?
 
-What I heard is<LINE>it means a home run.<LINE>“Homer" also<LINE>means a home run!
+What I heard is<LINE>it means a home run.<LINE>'Homer' also<LINE>means a home run!
 We two battle together, so<LINE>you need two POKéMON!
 Hey, you!<LINE>Don't smile at my favorite player.
 Ami: Argh! We lost,<LINE>and it's your fault.<LINE>Eira: You should try harder.<LINE>Don't drag me down.
@@ -1238,7 +1238,7 @@ Still, this is a great tower.<LINE>I feel not only its history<LINE>but also its
 BRYCEN, CHEREN…<LINE>They are moving around being annoying.
 I don't understand…<LINE>I don't understand you guys…
 Why are you and the GYM LEADERs<LINE>against us?<LINE><LINE>I just can't understand it at all.
-I'm sure you also thought<LINE>“I am strong" and “I can win"<LINE><LINE>and came here.
+I'm sure you also thought<LINE>'I am strong' and 'I can win'<LINE><LINE>and came here.
 Huh…<LINE>You thought right!
 If the king of TEAM PLASMA rules the<LINE>world, Trainers will disappear, and<LINE><LINE>disputes will end!
 We exist to serve our lord N!
@@ -1430,10 +1430,10 @@ My POKéMON and I spend so much time<LINE>together, we don't need words<LINE><LI
 You can understand each other<LINE>very well, too!
 When you see this Berry,<LINE>please remember us!
 I enjoy working as a Ranger, but I love<LINE>to spend my time with POKéMON!<LINE>Whatever happens, I won't leave<LINE>my POKéMON!
-Are you raising these POKéMON all alone?<LINE>Or do you rely on POKéMON Day Care?
+Are you raising these POKéMON all alone?<LINE>Or do you rely on POKéMON DAY-CARE?
 I was only thinking about Eggs…
 Share this Berry with<LINE>your precious POKéMON!
-The POKéMON Day Care on ROUTE 3!<LINE>If you leave two POKéMON there,<LINE>you may find an Egg!
+The POKéMON DAY-CARE on ROUTE 3!<LINE>If you leave two POKéMON there,<LINE>you may find an Egg!
 My POKéMON are running around<LINE>in this beautiful grassland…<LINE><LINE>Please take a look!
 They were bouncing around<LINE>just a few minutes ago!
 Share the Berry with your POKéMON, too!
@@ -1463,7 +1463,7 @@ I'm so overwhelmed that I cannot speak…
 Is my fishing rod bad?<LINE>Or is it my fishing skill that's bad?<LINE><LINE>I always catch the same POKéMON.
 Hm! You look like a competent<LINE>POKéMON Trainer!<LINE>If I have a battle with you,<LINE>I may learn some secrets!
 Yep! A strong person is strong.<LINE>And a weak person is weak.
-The secret of fishing…<LINE>Isn't it “hurry up slowly"?
+The secret of fishing…<LINE>Isn't it 'hurry up slowly'?
 Hey! Please show me what kinds<LINE>of great POKéMON you have caught!
 Ho ho!<LINE>These are some impressive POKéMON!
 Even if others catch great POKéMON,<LINE>I won't get jealous.<LINE>Because my own POKéMON<LINE>are the best ones for me!
@@ -1501,7 +1501,7 @@ You and your POKéMON share<LINE>the sad feeling of losing half-and-half…
 With a friend, you laugh twice for happy<LINE>things, and you cry half for sad ones.<LINE><LINE>That is the joy of living with POKéMON.
 An expert Fisherman can time many things<LINE>perfectly and precisely!
 Hmmmm! A lot of my timing<LINE>didn't go well!
-You! It's impressive that<LINE>you have a Super Rod!<LINE>OK! Probably you know, but<LINE>I will tell you how to use it!<LINE>First, you face any body of water,<LINE>then you cast with your Super Rod.<LINE>Next you must focus!<LINE>When a POKéMON bites,<LINE>“!" appears.<LINE><LINE>That's your cue to reel it in!
+You! It's impressive that<LINE>you have a Super Rod!<LINE>OK! Probably you know, but<LINE>I will tell you how to use it!<LINE>First, you face any body of water,<LINE>then you cast with your Super Rod.<LINE>Next you must focus!<LINE>When a POKéMON bites,<LINE>'!' appears.<LINE><LINE>That's your cue to reel it in!
 On a bridge!<LINE>Fighting Trainers!<LINE><LINE>It's a perfect picture!
 I am not weak, even though I lost.<LINE>You, who won, are just too strong!
 On a bridge!<LINE>A sentimental Trainer after his defeat!<LINE><LINE>This is also a good, tragic picture!
@@ -1653,7 +1653,7 @@ Although we lost,<LINE>our journey will still continue!
 We will keep walking!<LINE>As long as the road goes on…<LINE><LINE>As long as I am with my POKéMON!
 You are the 99th person<LINE>that I have greeted this way.<LINE>Let's have a POKéMON battle!
 Thank you! Now you and I are friends.<LINE>Right?
-If we could greet anyone in the world<LINE>with “Let's have a POKéMON battle!"<LINE><LINE>that would be wonderful!
+If we could greet anyone in the world<LINE>with 'Let's have a POKéMON battle!'<LINE><LINE>that would be wonderful!
 My movements lack power!
 I was off the beat!<LINE>I have to start up my lessons again!
 My footwork was not quite sharp.

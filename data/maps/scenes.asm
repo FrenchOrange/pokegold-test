@@ -10,6 +10,7 @@ MapScenes::
 	scene_var COLOSSEUM,                                   wColosseumSceneID
 	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
+	scene_var ACCUMULA_POKECENTER_1F,                      AccumulaPokecenter1FSceneID
 	scene_var STRIATON_SIX_TEAM_CONDO_1F,                  wStriatonSixTeamCondo1FSceneID
 	scene_var STRIATON_NICKNAME_CONDO_1F,                  wStriatonNicknameCondo1FSceneID
 	scene_var STRIATON_FENNEL_CONDO_1F,                    wStriatonFennelCondo1FSceneID
@@ -36,7 +37,6 @@ MapScenes::
 	scene_var ACCUMULA_TOWN,                               wAccumulaTownSceneID ; unused
 	scene_var ROUTE_35,                                    wRoute35SceneID ; unused
 	scene_var ROUTE_32,                                    wRoute32SceneID ; unused
-	scene_var ROUTE_36,                                    wRoute36SceneID ; unused
 	scene_var PINWHEEL_FOREST,                             wPinwheelForestSceneID ; unused
 	scene_var GOLDENROD_GYM,                               wGoldenrodGymSceneID ; unused
 	scene_var GOLDENROD_MAGNET_TRAIN_STATION,              wGoldenrodMagnetTrainStationSceneID ; unused

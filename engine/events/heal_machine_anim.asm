@@ -134,14 +134,14 @@ ENDM
 	ret
 
 .PC_ElmsLab_OAM:
-	dbsprite   4,   4, 2, 0, $7c, PAL_OW_TREE | OAM_PAL1
-	dbsprite   4,   4, 6, 0, $7c, PAL_OW_TREE | OAM_PAL1
-	dbsprite   4,   4, 0, 6, $7d, PAL_OW_TREE | OAM_PAL1
-	dbsprite   5,   4, 0, 6, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
-	dbsprite   4,   5, 0, 3, $7d, PAL_OW_TREE | OAM_PAL1
-	dbsprite   5,   5, 0, 3, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
-	dbsprite   4,   6, 0, 0, $7d, PAL_OW_TREE | OAM_PAL1
-	dbsprite   5,   6, 0, 0, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
+	dbsprite   6,   5, 4,-4, $7c, PAL_OW_TREE | OAM_PAL1
+	dbsprite   6,   5, 4,-4, $7c, PAL_OW_TREE | OAM_PAL1
+	dbsprite   6,   5, 0, 3, $7d, PAL_OW_TREE | OAM_PAL1
+	dbsprite   7,   5, 0, 3, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
+	dbsprite   6,   6, 0, 0, $7d, PAL_OW_TREE | OAM_PAL1
+	dbsprite   7,   6, 0, 0, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
+	dbsprite   6,   7, 0,-3, $7d, PAL_OW_TREE | OAM_PAL1
+	dbsprite   7,   7, 0,-3, $7d, PAL_OW_TREE | OAM_PAL1 | OAM_XFLIP
 
 .HealMachineGFX:
 INCBIN "gfx/overworld/heal_machine.2bpp"

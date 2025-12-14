@@ -1,6 +1,6 @@
 Wye: Hi!<LINE>This way, pleeeeease!
-Wye: Exciting! Thrilling! Zippy! Chilling!<LINE>It's “Pep Quiz"!<LINE>Today's challenger is--this person!
-Aha: Hiya, welcome!<LINE>“Pep Quiz" starts NOW!<LINE>Answer lots of quizzy questions,<LINE>and watch your brain get brainier!<LINE>Let's start…with…a question!
+Wye: Exciting! Thrilling! Zippy! Chilling!<LINE>It's 'Pep Quiz'!<LINE>Today's challenger is--this person!
+Aha: Hiya, welcome!<LINE>'Pep Quiz' starts NOW!<LINE>Answer lots of quizzy questions,<LINE>and watch your brain get brainier!<LINE>Let's start…with…a question!
 Ditoh: Good luck!
 Aha: A question!
 Wye: Oh, my! It's tremendously difficult!<LINE>Can the challenger answer this?
@@ -16,7 +16,7 @@ Aha: Oh, no. Too bad!<LINE>That's not right, 'cause you are wrong!
 Wye: Aww… Sadness…
 Ditoh: Good hustle!<LINE>Gustle! Gustle!
 Aha: Yeah, you gustle!<LINE>Here ya go… Take this memento.<LINE>It's a Parlyz Heal!
-Wye: Exciting! Thrilling! Zippy! Chilling!<LINE>That's “Pep Quiz"!<LINE>See ya tomorrow!
+Wye: Exciting! Thrilling! Zippy! Chilling!<LINE>That's 'Pep Quiz'!<LINE>See ya tomorrow!
 Aha: Do you like quiz shows?
 Wye: I want to be on TV soon!
 Ditoh: Gussssssssstle!
@@ -72,7 +72,7 @@ Hint!<LINE>It's part Flying type!
 Hint!<LINE>It's a very small POKéMON!
 Hint!<LINE>It weighs about 33 pounds!
 Hint!<LINE>It's not Bulbasaur or Turtwig!
-Hint!<LINE>Think of “Audio"…
+Hint!<LINE>Think of 'Audio'…
 Hint!<LINE>It's a Ghost-type POKéMON!
 Hint!<LINE>Hearts are charming features!
 Hint!<LINE>It has a big toothy grin!

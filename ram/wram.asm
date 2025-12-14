@@ -2463,6 +2463,7 @@ wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
 wPlayersHouse2FSceneID::                          db
 wPlayersHouse1FSceneID::                          db
+AccumulaPokecenter1FSceneID::                     db
 wStriatonSixTeamCondo1FSceneID::                  db
 wStriatonNicknameCondo1FSceneID::                 db
 wStriatonFennelCondo1FSceneID::                   db
@@ -2489,7 +2490,6 @@ wRoute29SceneID::                                 db
 wAccumulaTownSceneID::                            db
 wRoute35SceneID::                                 db
 wRoute32SceneID::                                 db
-wRoute36SceneID::                                 db
 wPinwheelForestSceneID::                          db
 wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db

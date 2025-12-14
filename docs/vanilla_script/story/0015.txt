@@ -5,8 +5,8 @@ Yes
 No
 Some functions of the C-Gear<LINE>will be restricted. Is that OK?
 Wireless communications<LINE>are turned OFF.<LINE>Turn wireless communications<LINE>ON in the System Settings.<LINE><LINE>Error code: 50699
-You see! The C-Gear was activated, and<LINE>that screen showed up!<LINE>If you touch the “?" icon at the<LINE>bottom-right of the screen, you can read<LINE><LINE>about the C-Gear.
-If you want to turn on the C-Gear, touch<LINE>the Power symbol at the bottom right of<LINE><LINE>the screen.<LINE>Then, after turning on the power, if you<LINE>touch the “?" icon at the bottom right<LINE><LINE>of the screen, you can read about<LINE><LINE>the C-Gear.
+You see! The C-Gear was activated, and<LINE>that screen showed up!<LINE>If you touch the '?' icon at the<LINE>bottom-right of the screen, you can read<LINE><LINE>about the C-Gear.
+If you want to turn on the C-Gear, touch<LINE>the Power symbol at the bottom right of<LINE><LINE>the screen.<LINE>Then, after turning on the power, if you<LINE>touch the '?' icon at the bottom right<LINE><LINE>of the screen, you can read about<LINE><LINE>the C-Gear.
 About \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000…<LINE>I'd like to explain a little more about the<LINE>system to collect Trainers' save files.<LINE>Do you have time to learn more?
 I am sorry!<LINE>I am so happy, so I will explain about it!<LINE>Because, thanks to you, we can do a<LINE>great thing!
 Now \xf000\xff00\x0001\x0002Game Sync \xf000\xff00\x0001\x0000can retrieve memories<LINE>of sleeping POKéMON using Dream Mist!<LINE>That's right! We can collect save files of<LINE>Trainers from all over the world!

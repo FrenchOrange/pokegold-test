@@ -49,7 +49,7 @@ Infrared Communication
 DS Wireless Communications
 
 Would you like to launch<LINE>Infrared Communication and<LINE><LINE>DS Wireless Communications?
-One of you will become the LEADER.<LINE>That person will get to choose the show<LINE><LINE>you'll perform!<LINE>The other members should select<LINE>“Join group."
+One of you will become the LEADER.<LINE>That person will get to choose the show<LINE><LINE>you'll perform!<LINE>The other members should select<LINE>'Join group.'
 Launch DS Wireless Communications?
 Thank you for waiting.<LINE>This way, please!\xf000븂\x0001<
 Participate in the musical?

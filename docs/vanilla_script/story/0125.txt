@@ -29,7 +29,7 @@ ALDER: Yes!<LINE>That Trainer called N apparently told<LINE><PLAYER> here to sea
 DRAYDEN: Let me check that I have<LINE>this straight.<LINE>This N, or what have you, presumes<LINE>to set the two Dragon-type POKéMON<LINE><LINE>against each other in battle<LINE><LINE>to test his convictions?
 IRIS: Oh, no!<LINE>The Dragon-type POKéMON<LINE>get along so well!
 ALDER: That's right, IRIS.<LINE>The ones who make POKéMON battle<LINE>are the Trainers…<LINE>And it's so the Trainers and the POKéMON<LINE>can get to know each other better.
-I'm going to the POKéMON LEAGUE.<LINE>No, I guess in this case I should say I'm<LINE>“returning" to the POKéMON LEAGUE!<LINE>Of course, I'll defeat N!<LINE>I'll teach him about the beauty of this<LINE>world, where POKéMON and Trainers<LINE><LINE>live together in harmony!<LINE>Also, <PLAYER>, I'll await your arrival.<LINE>Once you've obtained the OPELUCID BADGE,<LINE>come to the LEAGUE!<LINE>The OPELUCID GYM LEADER is tough.<LINE>Take care!
+I'm going to the POKéMON LEAGUE.<LINE>No, I guess in this case I should say I'm<LINE>'returning' to the POKéMON LEAGUE!<LINE>Of course, I'll defeat N!<LINE>I'll teach him about the beauty of this<LINE>world, where POKéMON and Trainers<LINE><LINE>live together in harmony!<LINE>Also, <PLAYER>, I'll await your arrival.<LINE>Once you've obtained the OPELUCID BADGE,<LINE>come to the LEAGUE!<LINE>The OPELUCID GYM LEADER is tough.<LINE>Take care!
 Farewell.<LINE>I'm counting on you, DRAYDEN and IRIS!
 IRIS: Aww…<LINE>He's gone.<LINE>Is he OK?<LINE>He looked kinda scary.
 DRAYDEN: Don't worry, IRIS.<LINE>He is the strongest Trainer<LINE>in all of UNOVA.

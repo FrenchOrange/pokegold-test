@@ -1,12 +1,12 @@
-TEAM PLASMA: Gramps! We know you run<LINE>the Day Care!<LINE>How do we know?<LINE>Because we're TEAM PLASMA!
-TEAM PLASMA: We are taking POKéMON away<LINE>from people.<LINE>Since you work at the Day Care, we figure<LINE>you must have a lot of POKéMON!<LINE><LINE>Hand 'em over!
+TEAM PLASMA: Gramps! We know you run<LINE>the DAY-CARE!<LINE>How do we know?<LINE>Because we're TEAM PLASMA!
+TEAM PLASMA: We are taking POKéMON away<LINE>from people.<LINE>Since you work at the DAY-CARE, we figure<LINE>you must have a lot of POKéMON!<LINE><LINE>Hand 'em over!
 Day-Care Man: What kind of<LINE>nonsense is this?!
 Oh! A strong-looking Trainer!<LINE>Please help me!
 TEAM PLASMA: If you're going to get in<LINE>our way, we'll take your POKéMON, too!
 TEAM PLASMA: !!
 TEAM PLASMA: This went downhill fast!<LINE>So I think… We'd better… Ruuuun!<LINE>Let's hide out at the amusement park!
 Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gratitude.<LINE>It's a brand-new Bike.<LINE>I'd always planned on riding around<LINE><LINE>NIMBASA CITY…<LINE><LINE>But I never ended up riding it.
-Day-Care Man: I have a Day Care<LINE>on ROUTE 3!<LINE>If you have any POKéMON you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
+Day-Care Man: I have a DAY-CARE<LINE>on ROUTE 3!<LINE>If you have any POKéMON you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
 BIANCA: Hey, <PLAYER>! Yoo-hoo!
 BIANCA: <PLAYER>! Know what?
 The PROFESSOR told me NIMBASA CITY<LINE>has a lot of things to see and do--<LINE>the amusement park, Big Stadium,<LINE>Small Court, and the Battle Subway!

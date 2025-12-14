@@ -1,11 +1,11 @@
 Currently, we exhibit works in the motif<LINE>of legends in the UNOVA region.
 If you want to see BURGH's paintings,<LINE>go to the POKéMON GYM!
-Title “Ideals and Truth"
-Title “Soaring White Dragon"
-Title “White Flame"
-Title “Alighting Black Dragon"
-Title “Black Lightning Bolt"
-Title “Twin Heroes"
+Title 'Ideals and Truth'
+Title 'Soaring White Dragon'
+Title 'White Flame'
+Title 'Alighting Black Dragon'
+Title 'Black Lightning Bolt'
+Title 'Twin Heroes'
 I am not as good an artist as BURGH,<LINE>but I have a liking for paintings.<LINE>Let me see. Today, I'd like to paint<LINE>\xf000ă\x0001\x0000-type POKéMON!<LINE>Will you show me what kinds of POKéMON<LINE>you have?
 Please show me a POKéMON that's<LINE>\xf000ă\x0001\x0000 type!
 Oh! You have that type!<LINE>I'm inspired!<LINE>Thank you! As a token of my gratitude,<LINE>which one would you like?

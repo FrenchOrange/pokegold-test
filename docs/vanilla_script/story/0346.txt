@@ -21,5 +21,5 @@ Cancel
 Info
 I am sorry…<LINE>You can't enter the Union Room yet.
 You have at least one POKéMON<LINE>that can't be taken in.
-Wait, Trainer!<LINE>Your title on your Trainer Card<LINE>is still just “POKéMON Trainer," isn't it?<LINE>If you change your title, you can easily<LINE>project your image to others when you<LINE><LINE>greet them in the Union Room.<LINE>Let's see…<LINE>How about \xf000Ď\x0001\x0000?<LINE><LINE>What do you think?<LINE>That is the impression I got from you.<LINE>First, let's change your title.<LINE>If you don't like the new one, you can<LINE>change it by selecting your Trainer Card.
+Wait, Trainer!<LINE>Your title on your Trainer Card<LINE>is still just 'POKéMON Trainer,' isn't it?<LINE>If you change your title, you can easily<LINE>project your image to others when you<LINE><LINE>greet them in the Union Room.<LINE>Let's see…<LINE>How about \xf000Ď\x0001\x0000?<LINE><LINE>What do you think?<LINE>That is the impression I got from you.<LINE>First, let's change your title.<LINE>If you don't like the new one, you can<LINE>change it by selecting your Trainer Card.
 It seems you can't use it yet.

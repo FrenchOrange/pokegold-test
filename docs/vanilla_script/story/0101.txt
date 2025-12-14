@@ -55,5 +55,5 @@ I'm a heartbreaker…<LINE>My name… Charles.<LINE>Riding a bike and becoming t
 DRIFTVEIL DRAWBRIDGE
 Welcome to DRIFTVEIL CITY!
 DRIFTVEIL CITY<LINE>A City of Billowing Sails
-DRIFTVEIL Market
+DRIFTVEIL MARKET
 DRIFTVEIL CITY POKéMON GYM<LINE>LEADER: CLAY<LINE><LINE>The Underground Boss

@@ -20,12 +20,12 @@ The Dark Stone draws in the aura of<LINE>the surroundings and converts it into<L
 The Light Stone draws in the aura of<LINE>the surroundings and converts it into<LINE><LINE>a powerful force, which is…now…<LINE>Being released!
 N: \xf000븉\x0001\x0001Reshiram and Zekrom…<LINE>They were once one life.<LINE>One POKéMON.<LINE>Complete opposites, yet the same.<LINE>Reshiram and Zekrom are POKéMON that<LINE>appear before the hero they recognize.<LINE>Ah… I see.<LINE>You really are a hero, too.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Zekrom and Reshiram…<LINE>They were once one life.<LINE>One POKéMON.<LINE>Complete opposites, yet the same.<LINE>Zekrom and Reshiram are POKéMON that<LINE>appear before the hero they recognize.<LINE>Ah… I see.<LINE>You really are a hero, too.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001I'll tell you what that<LINE>POKéMON is saying to you.<LINE>“I want to battle with you.<LINE>Try to make me your friend and ally."<LINE>It plans to test you to see if you are<LINE>really pursuing ideals.<LINE>I, also, am curious to see<LINE>how powerful you are.<LINE>Now, catch Zekrom and make it your ally!\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001I'll tell you what that<LINE>POKéMON is saying to you.<LINE>“I want to battle with you.<LINE>Try to make me your friend and ally."<LINE>It plans to test you to see if you are<LINE>really pursuing truth.<LINE>I, also, am curious to see<LINE>how powerful you are.<LINE>Now, catch Reshiram<LINE>and make it your ally!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001I'll tell you what that<LINE>POKéMON is saying to you.<LINE>'I want to battle with you.<LINE>Try to make me your friend and ally.'<LINE>It plans to test you to see if you are<LINE>really pursuing ideals.<LINE>I, also, am curious to see<LINE>how powerful you are.<LINE>Now, catch Zekrom and make it your ally!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001I'll tell you what that<LINE>POKéMON is saying to you.<LINE>'I want to battle with you.<LINE>Try to make me your friend and ally.'<LINE>It plans to test you to see if you are<LINE>really pursuing truth.<LINE>I, also, am curious to see<LINE>how powerful you are.<LINE>Now, catch Reshiram<LINE>and make it your ally!\xf000븉\x0001\x0000
 Bazzazzazzash!
 Preeeeaah!
-Zekrom is gazing at <PLAYER> as if<LINE>to say, “Try to catch me!"
-Reshiram is gazing at <PLAYER> as if<LINE>to say, “Try to catch me!"
+Zekrom is gazing at <PLAYER> as if<LINE>to say, 'Try to catch me!'
+Reshiram is gazing at <PLAYER> as if<LINE>to say, 'Try to catch me!'
 N: \xf000븉\x0001\x0001Ah… I see.<LINE>Zekrom, who is said to lend its power<LINE>to the hero who searches for ideals,<LINE><LINE>has recognized your power<LINE><LINE>and now agrees to stand by your side…\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Ah… I see.<LINE>Reshiram, who is said to lend its power<LINE>to the hero who searches for truth,<LINE><LINE>has recognized your power<LINE><LINE>and now agrees to stand by your side… \xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Hold on. Your POKéMON are hurt.<LINE>There is no triumph to be gained in<LINE>battling a weakened opponent.\xf000븉\x0001\x0000
