@@ -33,8 +33,8 @@ NuvemaTown_MapEvents:
 	def_warp_events
 	warp_event  4,  5, JUNIPERS_LAB, 1
 	warp_event  9,  9, PLAYERS_HOUSE_1F, 1
-	warp_event  5, 13, BIANCAS_HOUSE, 1
-	warp_event 13, 13, CHERENS_HOUSE, 1
+	warp_event  5, 13, BIANCAS_HOUSE_1F, 1
+	warp_event 13, 13, CHERENS_HOUSE_1F, 1
 
 	def_coord_events
 

@@ -1,9 +1,4 @@
-No, no, a thousand times no!
-BIANCA: But, I'm…<LINE>I'm a good Trainer who got<LINE>a POKéMON and everything!<LINE><LINE>I can totally go on an adventure!
-BIANCA: Oh…<LINE>It's OK.<LINE>…It's fine!<LINE>I'll be waiting for you in front<LINE>of the lab, OK?
-BIANCA's Dad: What nonsense is this?<LINE>How could my daughter, who knows<LINE>nothing about the world,<LINE><LINE>be going on a journey with POKéMON?
-BIANCA's Mom: Don't mind my husband,<LINE>dear. He's just being overprotective.<LINE>All children go on adventures<LINE>with POKéMON.<LINE><LINE>It's part of growing up.
-BIANCA's Dad: Well, then.<LINE>I look forward to the stories BIANCA will<LINE><LINE>have for us next time she comes home.
-BIANCA's Dad: Even if there are many<LINE>things you want to do,<LINE><LINE>you're only one person.<LINE>It's frustrating, isn't it?
-BIANCA's Mom: Choosing one thing means<LINE>having to give up something else.<LINE>So, of course it's very hard to decide.
+BIANCA's DAD: Well, then.<LINE>I look forward to the stories BIANCA will<LINE><LINE>have for us next time she comes home.
+BIANCA's DAD: Even if there are many<LINE>things you want to do,<LINE><LINE>you're only one person.<LINE>It's frustrating, isn't it?
+BIANCA's MOM: Choosing one thing means<LINE>having to give up something else.<LINE>So, of course it's very hard to decide.
 BIANCA: I was just looking over<LINE>my POKéDEX again and thinking…<LINE>I sure have met a lot<LINE>of different POKéMON.

@@ -125,7 +125,7 @@ DebugSign:
 	loadmem wPartyMon4Moves+0, FLASH
 	closetext
 	setevent EVENT_GOT_RUNNING_SHOES
-	setevent  EVENT_GAVE_MYSTERY_EGG_TO_ELM
+	setevent EVENT_GAVE_MYSTERY_EGG_TO_ELM ; can trade
 ;	setmapscene PLAYERS_HOUSE_1F, SCENE_PLAYERSHOUSE1F_NOOP
 ;	playsound SFX_WARP_TO
 ;	special FadeOutToBlack

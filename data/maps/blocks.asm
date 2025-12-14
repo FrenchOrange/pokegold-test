@@ -81,8 +81,18 @@ Route1West_Blocks:
 Route38_Blocks:
 	INCBIN "maps/Route38.blk"
 
-BiancasHouse_Blocks:
-CherensHouse_Blocks:
+BiancasHouse1F_Blocks:
+	INCBIN "maps/BiancasHouse1F.blk"
+
+BiancasHouse2F_Blocks:
+	INCBIN "maps/BiancasHouse2F.blk"
+
+CherensHouse1F_Blocks:
+	INCBIN "maps/CherensHouse1F.blk"
+
+CherensHouse2F_Blocks:
+	INCBIN "maps/CherensHouse2F.blk"
+
 AccumulaSiblingsHouse_Blocks:
 OlivineTimsHouse_Blocks:
 OlivineHouseBeta_Blocks:

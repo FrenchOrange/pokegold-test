@@ -10,6 +10,7 @@ MapScenes::
 	scene_var COLOSSEUM,                                   wColosseumSceneID
 	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
+	scene_var BIANCAS_HOUSE_1F,                            wBiancasHouse1FSceneID
 	scene_var ACCUMULA_POKECENTER_1F,                      AccumulaPokecenter1FSceneID
 	scene_var STRIATON_SIX_TEAM_CONDO_1F,                  wStriatonSixTeamCondo1FSceneID
 	scene_var STRIATON_NICKNAME_CONDO_1F,                  wStriatonNicknameCondo1FSceneID
@@ -42,7 +43,6 @@ MapScenes::
 	scene_var GOLDENROD_MAGNET_TRAIN_STATION,              wGoldenrodMagnetTrainStationSceneID ; unused
 	scene_var OLIVINE_CITY,                                wOlivineCitySceneID ; unused
 	scene_var ROUTE_34,                                    wRoute34SceneID ; unused
-	scene_var ECRUTEAK_TIN_TOWER_ENTRANCE,                 wEcruteakTinTowerEntranceSceneID ; unused
 	scene_var ECRUTEAK_POKECENTER_1F,                      wEcruteakPokecenter1FSceneID ; unused
 	scene_var MAHOGANY_TOWN,                               wMahoganyTownSceneID ; unused
 	scene_var SPROUT_TOWER_3F,                             wSproutTower3FSceneID ; unused

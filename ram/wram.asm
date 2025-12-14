@@ -2463,6 +2463,7 @@ wTradeCenterSceneID::                             db
 wColosseumSceneID::                               db
 wPlayersHouse2FSceneID::                          db
 wPlayersHouse1FSceneID::                          db
+wBiancasHouse1FSceneID::                          db
 AccumulaPokecenter1FSceneID::                     db
 wStriatonSixTeamCondo1FSceneID::                  db
 wStriatonNicknameCondo1FSceneID::                 db
@@ -2495,7 +2496,6 @@ wGoldenrodGymSceneID::                            db
 wGoldenrodMagnetTrainStationSceneID::             db
 wOlivineCitySceneID::                             db
 wRoute34SceneID::                                 db
-wEcruteakTinTowerEntranceSceneID::                db
 wEcruteakPokecenter1FSceneID::                    db
 wMahoganyTownSceneID::                            db
 wSproutTower3FSceneID::                           db

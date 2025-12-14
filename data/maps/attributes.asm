@@ -245,8 +245,11 @@ ENDM
 
 	map_attributes PlayersHouse1F, PLAYERS_HOUSE_1F, $00, 0
 	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
-	map_attributes BiancasHouse, BIANCAS_HOUSE, $00, 0
-	map_attributes CherensHouse, CHERENS_HOUSE, $00, 0
+	map_attributes BiancasHouse1F, BIANCAS_HOUSE_1F, $00, 0
+	map_attributes BiancasHouse2F, BIANCAS_HOUSE_2F, $00, 0
+	map_attributes CherensHouse1F, CHERENS_HOUSE_1F, $00, 0
+	map_attributes CherensHouse2F, CHERENS_HOUSE_2F, $00, 0
+	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
 	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
 	map_attributes AccumulaRPSCondo2F, ACCUMULA_RPS_CONDO_2F, $00, 0
@@ -407,5 +410,4 @@ ENDM
 	map_attributes CianwoodLugiaSpeechHouse, CIANWOOD_LUGIA_SPEECH_HOUSE, $00, 0
 	map_attributes TrainerHouse1F, TRAINER_HOUSE_1F, $00, 0
 	map_attributes TrainerHouseB1F, TRAINER_HOUSE_B1F, $00, 0
-	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
 	map_attributes SilphCo1F, SILPH_CO_1F, $00, 0

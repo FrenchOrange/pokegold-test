@@ -32,5 +32,12 @@
 	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 1f
 	tilecoll WALL, TRASHCAN, WALL, FLOOR ; 20
 	tilecoll UP_WALL, FLOOR, FLOOR, FLOOR ; 21
-	tilecoll WALL, WALL, WALL, WALL ; 22
-	tilecoll WALL, WALL, WALL, WALL ; 23
+	tilecoll WALL, WALL, TV, FLOOR ; 22
+	tilecoll WALL, WALL, WALL, FLOOR ; 23
+	tilecoll FLOOR, FLOOR, TRASHCAN, FLOOR ; 24
+	tilecoll WALL, WALL, LADDER, FLOOR ; 25
+	tilecoll FLOOR, FLOOR, FLOOR, WALL ; 26
+	tilecoll FLOOR, WALL, FLOOR, WALL ; 27
+	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 28
+	tilecoll WALL, WALL, WALL, WALL ; 29
+	tilecoll WALL, WALL, BOOKSHELF, TV ; 2a

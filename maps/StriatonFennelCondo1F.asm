@@ -21,6 +21,10 @@ StriatonFennelCondo1FNoop:
 	end
 
 StriatonFennelCondo1FFollow:
+	sdefer StriatonFennelCondo1FFollowScript
+	end
+
+StriatonFennelCondo1FFollowScript:
 	follow STRIATONFENNELCONDO1F_FENNEL, PLAYER
 	applymovement STRIATONFENNELCONDO1F_FENNEL, FennelWalksUp1
 	turnobject STRIATONFENNELCONDO1F_FENNEL, DOWN
@@ -40,7 +44,7 @@ StriatonFennelCondo1FFollow:
 	playsound SFX_EXIT_BUILDING
 	disappear STRIATONFENNELCONDO1F_FENNEL
 	waitsfx
-	applymovement PLAYER, PlayerWalksUp
+	applymovement PLAYER, FennelCondo1FPlayerWalksUp
 	applymovement PLAYER, FennelLeaves
 	warpcheck
 	setscene SCENE_STRIATONFENNELCONDO1F_NOOP
@@ -70,7 +74,7 @@ FennelWalksUp1:
 	step UP
 FennelWalksUp2:
 	step UP
-PlayerWalksUp:
+FennelCondo1FPlayerWalksUp:
 	step UP
 	step_end
 

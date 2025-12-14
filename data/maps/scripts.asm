@@ -331,8 +331,10 @@ SECTION "Map Scripts 30", ROMX
 INCLUDE "maps/JunipersLab.asm"
 INCLUDE "maps/PlayersHouse1F.asm"
 INCLUDE "maps/PlayersHouse2F.asm"
-INCLUDE "maps/BiancasHouse.asm"
-INCLUDE "maps/CherensHouse.asm"
+INCLUDE "maps/BiancasHouse1F.asm"
+INCLUDE "maps/BiancasHouse2F.asm"
+INCLUDE "maps/CherensHouse1F.asm"
+INCLUDE "maps/CherensHouse2F.asm"
 
 
 SECTION "Map Scripts 31", ROMX

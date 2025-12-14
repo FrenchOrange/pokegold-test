@@ -1,16 +1,15 @@
 	object_const_def
 
-CherensHouse_MapScripts:
+BiancasHouse2F_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-CherensHouse_MapEvents:
+BiancasHouse2F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  2,  7, NUVEMA_TOWN, 4
-	warp_event  3,  7, NUVEMA_TOWN, 4
+	warp_event  0,  1, BIANCAS_HOUSE_2F, 3
 
 	def_coord_events
 
