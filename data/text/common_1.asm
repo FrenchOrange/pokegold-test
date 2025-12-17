@@ -829,11 +829,6 @@ _NoCoinCaseText::
 	line "COIN CASE."
 	prompt
 
-_NPCTradeCableText::
-	text "OK, connect the"
-	line "Game Link Cable."
-	prompt
-
 Text_NPCTraded::
 	text "<PLAYER> traded"
 	line "@"
@@ -849,48 +844,64 @@ _NPCTradeFanfareText::
 	text_pause
 	text_end
 
-_NPCTradeIntroText1::
-	text "I collect #MON."
-	line "Do you have"
+_NPCTradeIntroDye::
+	text "Hi! Do you have a"
+	line "#MON called"
 	cont "@"
 	text_ram wStringBuffer1
 	text "?"
 
-	para "Want to trade it"
-	line "for my @"
+	para "Would you like to"
+	line "trade @"
+	text_ram wStringBuffer1
+	text ""
+	cont "for my @"
 	text_ram wStringBuffer2
 	text "?"
 	done
 
-_NPCTradeCancelText1::
-	text "You don't want to"
-	line "trade? Aww…"
+_NPCTradeCancelDye::
+	text "It's OK if you don't"
+	line "want to…"
+
+	para "But if you change"
+	line "your mind, let's"
+	cont "trade #MON!"
 	done
 
-_NPCTradeWrongText1::
-	text "Huh? That's not"
-	line "@"
+_NPCTradeWrongDye::
+	text "I'd like to trade"
+	line "for a @"
 	text_ram wStringBuffer1
-	text ". "
-	cont "What a letdown…"
+	text "…"
 	done
 
-_NPCTradeCompleteText1::
-	text "Yay! I got myself"
-	line "@"
+_NPCTradeLetsTradeDye::
+	text "Wow. Thanks! Then,"
+	line "let's trade!"	
+	prompt
+
+_NPCTradeAfterDye::
+	text "Yay! Please take"
+	line "good care of my"
+	cont "@"
+	text_ram wStringBuffer2
+	text "!"
+
+	para "I will take good"
+	line "care of your"
+	cont "@"
 	text_ram wStringBuffer1
 	text "!"
-	cont "Thanks!"
 	done
 
-_NPCTradeAfterText1::
-	text "Hi, how's my old"
-	line "@"
-	text_ram wStringBuffer2
-	text " doing?"
+_NPCTradeDoneDye::
+	text "Thanks to our"
+	line "#MON, you and I"
+	cont "became friends!"
 	done
 
-_NPCTradeIntroText2::
+_NPCTradeIntroKyle::
 	text "Hi, I'm looking"
 	line "for this #MON."
 
@@ -905,7 +916,7 @@ _NPCTradeIntroText2::
 	text "?"
 	done
 
-_NPCTradeCancelText2::
+_NPCTradeCancelKyle::
 	text "You don't have"
 	line "one either?"
 
@@ -913,7 +924,7 @@ _NPCTradeCancelText2::
 	line "disappointing…"
 	done
 
-_NPCTradeWrongText2::
+_NPCTradeWrongKyle::
 	text "You don't have"
 	line "@"
 	text_ram wStringBuffer1
@@ -921,7 +932,7 @@ _NPCTradeWrongText2::
 	cont "too bad, then."
 	done
 
-_NPCTradeCompleteText2::
+_NPCTradeLetsTradeKyle::
 	text "Great! Thank you!"
 
 	para "I finally got"
@@ -930,7 +941,7 @@ _NPCTradeCompleteText2::
 	text "."
 	done
 
-_NPCTradeAfterText2::
+_NPCTradeAfterKyle::
 	text "Hi! The @"
 	text_ram wMonOrItemNameBuffer
 	text_start
@@ -938,7 +949,13 @@ _NPCTradeAfterText2::
 	cont "doing great!"
 	done
 
-_NPCTradeIntroText3::
+_NPCTradeDoneKyle::
+	text "Thanks to our"
+	line "#MON, you and I"
+	cont "became friends!"
+	done
+
+_NPCTradeIntroManny::
 	text_ram wMonOrItemNameBuffer
 	text "'s cute,"
 	line "but I don't have"
@@ -954,12 +971,12 @@ _NPCTradeIntroText3::
 	text "?"
 	done
 
-_NPCTradeCancelText3::
+_NPCTradeCancelManny::
 	text "You don't want to"
 	line "trade? Oh, darn…"
 	done
 
-_NPCTradeWrongText3::
+_NPCTradeWrongManny::
 	text "That's not"
 	line "@"
 	text_ram wStringBuffer1
@@ -969,7 +986,7 @@ _NPCTradeWrongText3::
 	line "me if you get one."
 	done
 
-_NPCTradeCompleteText3::
+_NPCTradeLetsTradeManny::
 	text "Wow! Thank you!"
 	line "I always wanted"
 	cont "@"
@@ -977,7 +994,7 @@ _NPCTradeCompleteText3::
 	text "!"
 	done
 
-_NPCTradeAfterText3::
+_NPCTradeAfterManny::
 	text "How is that"
 	line "@"
 	text_ram wStringBuffer2
@@ -988,6 +1005,128 @@ _NPCTradeAfterText3::
 	text_ram wMonOrItemNameBuffer
 	text "'s"
 	line "so cute!"
+	done
+
+_NPCTradeDoneManny::
+	text "Thanks to our"
+	line "#MON, you and I"
+	cont "became friends!"
+	done
+
+_NPCTradeIntroLillian::
+	text_ram wMonOrItemNameBuffer
+	text "'s cute,"
+	line "but I don't have"
+
+	para "it. Do you have"
+	line "@"
+	text_ram wStringBuffer1
+	text "?"
+
+	para "Want to trade it"
+	line "for my @"
+	text_ram wStringBuffer2
+	text "?"
+	done
+
+_NPCTradeCancelLillian::
+	text "You don't want to"
+	line "trade? Oh, darn…"
+	done
+
+_NPCTradeWrongLillian::
+	text "That's not"
+	line "@"
+	text_ram wStringBuffer1
+	text "."
+
+	para "Please trade with"
+	line "me if you get one."
+	done
+
+_NPCTradeLetsTradeLillian::
+	text "Wow! Thank you!"
+	line "I always wanted"
+	cont "@"
+	text_ram wMonOrItemNameBuffer
+	text "!"
+	done
+
+_NPCTradeAfterLillian::
+	text "How is that"
+	line "@"
+	text_ram wStringBuffer2
+	text " I"
+	cont "traded you doing?"
+
+	para "Your @"
+	text_ram wMonOrItemNameBuffer
+	text "'s"
+	line "so cute!"
+	done
+
+_NPCTradeDoneLillian::
+	text "Thanks to our"
+	line "#MON, you and I"
+	cont "became friends!"
+	done
+
+_NPCTradeIntroAnder::
+	text_ram wMonOrItemNameBuffer
+	text "'s cute,"
+	line "but I don't have"
+
+	para "it. Do you have"
+	line "@"
+	text_ram wStringBuffer1
+	text "?"
+
+	para "Want to trade it"
+	line "for my @"
+	text_ram wStringBuffer2
+	text "?"
+	done
+
+_NPCTradeCancelAnder::
+	text "You don't want to"
+	line "trade? Oh, darn…"
+	done
+
+_NPCTradeWrongAnder::
+	text "That's not"
+	line "@"
+	text_ram wStringBuffer1
+	text "."
+
+	para "Please trade with"
+	line "me if you get one."
+	done
+
+_NPCTradeLetsTradeAnder::
+	text "Wow! Thank you!"
+	line "I always wanted"
+	cont "@"
+	text_ram wMonOrItemNameBuffer
+	text "!"
+	done
+
+_NPCTradeAfterAnder::
+	text "How is that"
+	line "@"
+	text_ram wStringBuffer2
+	text " I"
+	cont "traded you doing?"
+
+	para "Your @"
+	text_ram wMonOrItemNameBuffer
+	text "'s"
+	line "so cute!"
+	done
+
+_NPCTradeDoneAnder::
+	text "Thanks to our"
+	line "#MON, you and I"
+	cont "became friends!"
 	done
 
 _MomLeavingText1::

@@ -4,7 +4,7 @@ NPCTrade::
 	call Trade_GetDialog
 	ld b, CHECK_FLAG
 	call TradeFlagAction
-	ld a, TRADE_DIALOG_AFTER
+	ld a, TRADE_DIALOG_DONE
 	jr nz, .done
 
 	ld a, TRADE_DIALOG_INTRO
@@ -34,8 +34,8 @@ NPCTrade::
 	ld b, SET_FLAG
 	call TradeFlagAction
 
-	ld hl, NPCTradeCableText
-	call PrintText
+	ld a, TRADE_DIALOG_LETSTRADE
+	call PrintTradeText
 
 	call DoNPCTrade
 	call .TradeAnimation
@@ -46,7 +46,7 @@ NPCTrade::
 
 	call RestartMapMusic
 
-	ld a, TRADE_DIALOG_COMPLETE
+	ld a, TRADE_DIALOG_AFTER
 
 .done
 	call PrintTradeText
@@ -284,20 +284,6 @@ CopyTradeName:
 	call CopyBytes
 	ret
 
-Trade_CopyFourCharString: ; unreferenced
-	ld bc, 4
-	call CopyBytes
-	ld a, "@"
-	ld [de], a
-	ret
-
-Trade_CopyThreeCharString: ; unreferenced
-	ld bc, 3
-	call CopyBytes
-	ld a, "@"
-	ld [de], a
-	ret
-
 Trade_CopyTwoBytes:
 	ld a, [hli]
 	ld [de], a
@@ -361,16 +347,13 @@ PrintTradeText:
 	push af
 	call GetTradeMonNames
 	pop af
-	ld e, a
-	ld d, 0
+	ld bc, 2 * 5
 	ld hl, TradeTexts
-rept 6
-	add hl, de
-endr
+	call AddNTimes
 	ld a, [wTradeDialog]
-	ld e, a
-	add hl, de
-	add hl, de
+	ld c, a
+	add hl, bc
+	add hl, bc
 	ld a, [hli]
 	ld h, [hl]
 	ld l, a
@@ -379,32 +362,42 @@ endr
 
 TradeTexts:
 ; entries correspond to TRADE_DIALOG_* × TRADE_DIALOGSET_* constants
-	table_width 2
 ; TRADE_DIALOG_INTRO
-	dw NPCTradeIntroText1
-	dw NPCTradeIntroText2
-	dw NPCTradeIntroText3
+	dw NPCTradeIntroDye
+	dw NPCTradeIntroKyle
+	dw NPCTradeIntroManny
+	dw NPCTradeIntroLillian
+	dw NPCTradeIntroAnder
 ; TRADE_DIALOG_CANCEL
-	dw NPCTradeCancelText1
-	dw NPCTradeCancelText2
-	dw NPCTradeCancelText3
+	dw NPCTradeCancelDye
+	dw NPCTradeCancelKyle
+	dw NPCTradeCancelManny
+	dw NPCTradeCancelLillian
+	dw NPCTradeCancelAnder
 ; TRADE_DIALOG_WRONG
-	dw NPCTradeWrongText1
-	dw NPCTradeWrongText2
-	dw NPCTradeWrongText3
-; TRADE_DIALOG_COMPLETE
-	dw NPCTradeCompleteText1
-	dw NPCTradeCompleteText2
-	dw NPCTradeCompleteText3
+	dw NPCTradeWrongDye
+	dw NPCTradeWrongKyle
+	dw NPCTradeWrongManny
+	dw NPCTradeWrongLillian
+	dw NPCTradeWrongAnder
+; TRADE_DIALOG_LETSTRADE
+	dw NPCTradeLetsTradeDye
+	dw NPCTradeLetsTradeKyle
+	dw NPCTradeLetsTradeManny
+	dw NPCTradeLetsTradeLillian
+	dw NPCTradeLetsTradeAnder
 ; TRADE_DIALOG_AFTER
-	dw NPCTradeAfterText1
-	dw NPCTradeAfterText2
-	dw NPCTradeAfterText3
-	assert_table_length NUM_TRADE_DIALOGS * NUM_TRADE_DIALOGSETS
-
-NPCTradeCableText:
-	text_far _NPCTradeCableText
-	text_end
+	dw NPCTradeAfterDye
+	dw NPCTradeAfterKyle
+	dw NPCTradeAfterManny
+	dw NPCTradeAfterLillian
+	dw NPCTradeAfterAnder
+; TRADE_DIALOG_AFTER
+	dw NPCTradeDoneDye
+	dw NPCTradeDoneKyle
+	dw NPCTradeDoneManny
+	dw NPCTradeDoneLillian
+	dw NPCTradeDoneAnder
 
 TradedForText:
 	; traded givemon for getmon
@@ -420,62 +413,126 @@ TradedForText:
 	text_far _NPCTradeFanfareText
 	text_end
 
-NPCTradeIntroText1:
-	text_far _NPCTradeIntroText1
+NPCTradeIntroDye:
+	text_far _NPCTradeIntroDye
 	text_end
 
-NPCTradeCancelText1:
-	text_far _NPCTradeCancelText1
+NPCTradeCancelDye:
+	text_far _NPCTradeCancelDye
 	text_end
 
-NPCTradeWrongText1:
-	text_far _NPCTradeWrongText1
+NPCTradeWrongDye:
+	text_far _NPCTradeWrongDye
 	text_end
 
-NPCTradeCompleteText1:
-	text_far _NPCTradeCompleteText1
+NPCTradeLetsTradeDye:
+	text_far _NPCTradeLetsTradeDye
 	text_end
 
-NPCTradeAfterText1:
-	text_far _NPCTradeAfterText1
+NPCTradeAfterDye:
+	text_far _NPCTradeAfterDye
 	text_end
 
-NPCTradeIntroText2:
-	text_far _NPCTradeIntroText2
+NPCTradeDoneDye:
+	text_far _NPCTradeDoneDye
 	text_end
 
-NPCTradeCancelText2:
-	text_far _NPCTradeCancelText2
+
+NPCTradeIntroKyle:
+	text_far _NPCTradeIntroKyle
 	text_end
 
-NPCTradeWrongText2:
-	text_far _NPCTradeWrongText2
+NPCTradeCancelKyle:
+	text_far _NPCTradeCancelKyle
 	text_end
 
-NPCTradeCompleteText2:
-	text_far _NPCTradeCompleteText2
+NPCTradeWrongKyle:
+	text_far _NPCTradeWrongKyle
 	text_end
 
-NPCTradeAfterText2:
-	text_far _NPCTradeAfterText2
+NPCTradeLetsTradeKyle:
+	text_far _NPCTradeLetsTradeKyle
 	text_end
 
-NPCTradeIntroText3:
-	text_far _NPCTradeIntroText3
+NPCTradeAfterKyle:
+	text_far _NPCTradeAfterKyle
 	text_end
 
-NPCTradeCancelText3:
-	text_far _NPCTradeCancelText3
+NPCTradeDoneKyle:
+	text_far _NPCTradeDoneKyle
 	text_end
 
-NPCTradeWrongText3:
-	text_far _NPCTradeWrongText3
+
+NPCTradeIntroManny:
+	text_far _NPCTradeIntroManny
 	text_end
 
-NPCTradeCompleteText3:
-	text_far _NPCTradeCompleteText3
+NPCTradeCancelManny:
+	text_far _NPCTradeCancelManny
 	text_end
 
-NPCTradeAfterText3:
-	text_far _NPCTradeAfterText3
+NPCTradeWrongManny:
+	text_far _NPCTradeWrongManny
+	text_end
+
+NPCTradeLetsTradeManny:
+	text_far _NPCTradeLetsTradeManny
+	text_end
+
+NPCTradeAfterManny:
+	text_far _NPCTradeAfterManny
+	text_end
+
+NPCTradeDoneManny:
+	text_far _NPCTradeDoneManny
+	text_end
+
+
+NPCTradeIntroLillian:
+	text_far _NPCTradeIntroLillian
+	text_end
+
+NPCTradeCancelLillian:
+	text_far _NPCTradeCancelLillian
+	text_end
+
+NPCTradeWrongLillian:
+	text_far _NPCTradeWrongLillian
+	text_end
+
+NPCTradeLetsTradeLillian:
+	text_far _NPCTradeLetsTradeLillian
+	text_end
+
+NPCTradeAfterLillian:
+	text_far _NPCTradeAfterLillian
+	text_end
+
+NPCTradeDoneLillian:
+	text_far _NPCTradeDoneLillian
+	text_end
+
+
+NPCTradeIntroAnder:
+	text_far _NPCTradeIntroAnder
+	text_end
+
+NPCTradeCancelAnder:
+	text_far _NPCTradeCancelAnder
+	text_end
+
+NPCTradeWrongAnder:
+	text_far _NPCTradeWrongAnder
+	text_end
+
+NPCTradeLetsTradeAnder:
+	text_far _NPCTradeLetsTradeAnder
+	text_end
+
+NPCTradeAfterAnder:
+	text_far _NPCTradeAfterAnder
+	text_end
+
+NPCTradeDoneAnder:
+	text_far _NPCTradeDoneAnder
 	text_end

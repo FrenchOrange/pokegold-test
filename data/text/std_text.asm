@@ -370,23 +370,39 @@ BugContestPrizeNoRoomText:
 	done
 
 HappinessText3:
-	text "Wow! You and your"
-	line "#MON are really"
-	cont "close!"
+	text "Oh, your"
+	line "@"
+	text_ram wStringBuffer1
+	text "…"
+
+	para "It's very friendly"
+	line "toward you!"
+
+	para "It must be happy"
+	line "with you."
 	done
 
 HappinessText2:
-	text "#MON get more"
-	line "friendly if you"
+	text "Oh, your"
+	line "@"
+	text_ram wStringBuffer1
+	text "…"
 
-	para "spend time with"
-	line "them."
+	para "It's a little bit"
+	line "friendly to you…"
+
+	para "Something like"
+	line "that."
 	done
 
 HappinessText1:
-	text "You haven't tamed"
-	line "your #MON."
+	text "Oh, your"
+	line "@"
+	text_ram wStringBuffer1
+	text "…"
 
-	para "If you aren't"
-	line "nice, it'll pout."
+	para "Hmmm…"
+
+	para "It may still take"
+	line "some time."
 	done
