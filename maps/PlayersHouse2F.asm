@@ -113,7 +113,9 @@ DebugSign:
 	givepoke UNFEZANT, 100
 	givepoke STOUTLAND, 100
 	givepoke JOLTIK, 100
-	givepoke DITTO, 100
+;	givepoke DITTO, 100
+	givepoke COTTONEE, 100
+	givepoke PETILIL, 100
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH

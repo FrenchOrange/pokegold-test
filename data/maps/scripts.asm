@@ -233,8 +233,12 @@ INCLUDE "maps/MoveDeletersHouse.asm"
 SECTION "Map Scripts 20", ROMX
 
 INCLUDE "maps/NacrenePokecenter1F.asm"
-INCLUDE "maps/CharcoalKiln.asm"
-INCLUDE "maps/KurtsHouse.asm"
+INCLUDE "maps/NacreneFurnitureHouse.asm"
+INCLUDE "maps/NacreneTradeHouse.asm"
+INCLUDE "maps/NacreneStarterHouse.asm"
+INCLUDE "maps/NacreneStatHouse.asm"
+INCLUDE "maps/NacrenePoetHouse.asm"
+INCLUDE "maps/NacreneCafe.asm"
 INCLUDE "maps/AzaleaGym.asm"
 
 

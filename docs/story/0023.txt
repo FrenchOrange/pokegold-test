@@ -7,15 +7,15 @@ NACRENE POKéMON GYM<LINE>GYM LEADER: LENORA<LINE>Certified Trainers:
 NACRENE POKéMON GYM<LINE>GYM LEADER: LENORA<LINE>Certified Trainers:<LINE><LINE><PLAYER>
 NACRENE POKéMON GYM<LINE>GYM LEADER: LENORA<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA
 Oh?<LINE>Are you looking for a book?<LINE>…I think 'Nice to Meet You, POKéMON'<LINE>is on a shelf near the entrance.
-Hello, Trainer!<LINE>You've found a memo already, and you're<LINE>looking for a book about POKéMON?<LINE>Tee hee! In fact, I am also reading a<LINE>book about POKéMON. It's about Tepig.<LINE>I wonder if the first POKéMON you met<LINE>in this GYM was Tepig?
-Tee hee! What a pity!<LINE>The first POKéMON you met in this GYM<LINE>was not Tepig!<LINE>Try to remember the POKéMON you battled<LINE>at the entrance of the GYM.<LINE>There's a hint on the bookshelf<LINE>to the left!
+Hello, Trainer!<LINE>You've found a memo already, and you're<LINE>looking for a book about POKéMON?<LINE>Tee hee! In fact, I am also reading a<LINE>book about POKéMON. It's about TEPIG.<LINE>I wonder if the first POKéMON you met<LINE>in this GYM was TEPIG?
+Tee hee! What a pity!<LINE>The first POKéMON you met in this GYM<LINE>was not TEPIG!<LINE>Try to remember the POKéMON you battled<LINE>at the entrance of the GYM.<LINE>There's a hint on the bookshelf<LINE>to the left!
 Tee hee! OK!<LINE>What was the POKéMON you battled<LINE>at the entrance of the GYM?<LINE>There's a hint on the bookshelf<LINE>to the left!
 What was the first POKéMON you met<LINE>in this GYM?<LINE>There's a hint on the bookshelf<LINE>to the left!
-You found the second memo, and you're<LINE>looking for a book?<LINE>…What does the memo say?<LINE>'Flame burns inside its body, and it<LINE>gives off smoke from its head<LINE><LINE>while it runs.'<LINE>I'm reading a book about Tepig, but<LINE>is this book the correct answer?
-Tee hee! What a pity!<LINE>This book about Tepig says:<LINE>'It gives off flame from its nostrils.<LINE>When it's not well, it can give off<LINE><LINE>only smoke.'<LINE>That's slightly different from 'it gives<LINE>off smoke from its head while it runs.'<LINE>…The answer to this memo may not be<LINE>a living thing. Tee hee!
+You found the second memo, and you're<LINE>looking for a book?<LINE>…What does the memo say?<LINE>'Flame burns inside its body, and it<LINE>gives off smoke from its head<LINE><LINE>while it runs.'<LINE>I'm reading a book about TEPIG, but<LINE>is this book the correct answer?
+Tee hee! What a pity!<LINE>This book about TEPIG says:<LINE>'It gives off flame from its nostrils.<LINE>When it's not well, it can give off<LINE><LINE>only smoke.'<LINE>That's slightly different from 'it gives<LINE>off smoke from its head while it runs.'<LINE>…The answer to this memo may not be<LINE>a living thing. Tee hee!
 Wow! Great! That's correct!<LINE>The book that I am reading says:<LINE>'It gives off flame from its nostrils.<LINE>When it's not well, it can give off<LINE><LINE>only smoke.'<LINE>It's slightly different from 'it gives off<LINE>smoke from its head while it runs.'<LINE>…The answer to this memo may not be<LINE>a living thing. Tee hee!
 'Flame burns inside its body, and it<LINE>gives off smoke from its head while<LINE><LINE>it runs.'<LINE>Did you figure it out?<LINE>…The answer to this memo may not be<LINE>a living thing! Tee hee!
-Have you already found the third memo?<LINE>Pretty good!<LINE>…So, what does the memo say?<LINE>'If you heat it up in a pot,<LINE>it'll be delicious. What is this?'<LINE>The book I am reading is about Tepig…<LINE>But you don't think this book<LINE>about Tepig is the answer, do you?!
+Have you already found the third memo?<LINE>Pretty good!<LINE>…So, what does the memo say?<LINE>'If you heat it up in a pot,<LINE>it'll be delicious. What is this?'<LINE>The book I am reading is about TEPIG…<LINE>But you don't think this book<LINE>about TEPIG is the answer, do you?!
 Oh, I know you're just kidding!<LINE>…It reminds me. In the past, I've seen<LINE>sweets made by heating up Berries.<LINE>Now, what were they called?
 Of course you don't!<LINE>…It reminds me. In the past, I've seen<LINE>sweets made by heating up Berries.<LINE>Now, what were they called?
 In the past, I've seen sweets made by<LINE>heating up Berries.<LINE>Now, what were they called?
@@ -39,9 +39,9 @@ This is the bookshelf<LINE>for 'Children's Books.'
 'Techniques for POKéMON Battles'<LINE>Do you want to read this book?
 'The System of a POKéMON CENTER'<LINE>Do you want to read this book?
 'The Biology of Patrat'<LINE>Do you want to read this book?
-'The Biology of Snivy'<LINE>Do you want to read this book?
-'The Biology of Oshawott'<LINE>Do you want to read this book?
-'The Biology of Tepig'<LINE>Do you want to read this book?
+'The Biology of SNIVY'<LINE>Do you want to read this book?
+'The Biology of OSHAWOTT'<LINE>Do you want to read this book?
+'The Biology of TEPIG'<LINE>Do you want to read this book?
 'Connect the Dots to Draw POKéMON'<LINE>Do you want to read this book?
 'Nice to Meet You, POKéMON!'<LINE>Do you want to read this book?
 'Adventure on ROUTE 3'<LINE>Do you want to read this book?
@@ -51,9 +51,9 @@ This is a book about a locomotive.<LINE>Flame burns inside its body, and it give
 It describes the best timing<LINE>to switch POKéMON in battle.<LINE>You should switch out your POKéMON<LINE>before you think it's in danger!
 It describes how a<LINE>POKéMON CENTER works.<LINE>It also describes a typical day of a<LINE>woman who works there.
 It describes the biology of Patrat.<LINE>They communicate with each other by<LINE>movement of their tails. A Patrat raises<LINE><LINE>its tail when it sees an enemy.
-It describes the biology of Snivy.<LINE>If they expose their tails to the sun by<LINE>basking in a sunny place, they are<LINE><LINE>in the middle of photosynthesis.
-It describes the biology of Oshawott.<LINE>The scalchop on its belly is very hard<LINE>and grows from its bellybutton.<LINE>Oshawott use it as a tool.
-It describes the biology of Tepig.<LINE>Flame burns inside its body, and<LINE>it gives off flame from its nostrils.<LINE>When it's not well, it can give off<LINE>only smoke.
+It describes the biology of SNIVY.<LINE>If they expose their tails to the sun by<LINE>basking in a sunny place, they are<LINE><LINE>in the middle of photosynthesis.
+It describes the biology of OSHAWOTT.<LINE>The scalchop on its belly is very hard<LINE>and grows from its bellybutton.<LINE>OSHAWOTT use it as a tool.
+It describes the biology of TEPIG.<LINE>Flame burns inside its body, and<LINE>it gives off flame from its nostrils.<LINE>When it's not well, it can give off<LINE>only smoke.
 It's a connect-the-dots book with<LINE>lots of POKéMON pictures.
 It's a fairy tale about a little boy<LINE>who met a POKéMON for<LINE><LINE>the first time in his life.<LINE>He is with a small brown POKéMON.
 It's a story about a boy with POKéMON<LINE>embarking on a great adventure.<LINE>Two boys and a girl are having<LINE>adventures together.

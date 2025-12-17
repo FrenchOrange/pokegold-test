@@ -165,13 +165,17 @@ ENDM
 
 	newgroup AZALEA                                               ;  8
 	map_const NACRENE_POKECENTER_1F,                        7,  4 ;  1
-	map_const CHARCOAL_KILN,                                4,  4 ;  2
-	map_const KURTS_HOUSE,                                  4,  4 ;  4
-	map_const AZALEA_GYM,                                   5,  8 ;  5
-	map_const ROUTE_33,                                    10,  9 ;  6
-	map_const NACRENE_CITY,                                20,  9 ;  7
-	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 72
-	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 73
+	map_const NACRENE_FURNITURE_HOUSE,                      5,  4 ;  2
+	map_const NACRENE_TRADE_HOUSE,                          5,  5 ;  3
+	map_const NACRENE_STARTER_HOUSE,                        5,  4 ;  4
+	map_const NACRENE_STAT_HOUSE,                           5,  5 ;  5
+	map_const NACRENE_POET_HOUSE,                           5,  5 ;  6
+	map_const NACRENE_CAFE,                                 5,  6 ;  7
+	map_const AZALEA_GYM,                                   5,  8 ;  8
+	map_const NACRENE_CITY,                                20,  9 ;  9
+	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 10
+	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 11
+	map_const ROUTE_33,                                    10,  9 ; 12
 	endgroup
 
 	newgroup LAKE_OF_RAGE                                         ;  9
@@ -235,7 +239,7 @@ ENDM
 	map_const CHERENS_HOUSE_1F,                             5,  4 ;  6
 	map_const CHERENS_HOUSE_2F,                             5,  4 ;  7
 	map_const ROUTE_1,                                     12, 18 ;  8
-	map_const ROUTE_1_WEST,                                11, 18 ;  9
+	map_const ROUTE_1_WEST,                                11, 19 ;  9
 	endgroup
 
 	newgroup PEWTER                                               ; 14

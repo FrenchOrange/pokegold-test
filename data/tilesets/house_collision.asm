@@ -12,7 +12,7 @@
 	tilecoll WALL, FLOOR, WALL, FLOOR ; 0b
 	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 0c
 	tilecoll WALL, FLOOR, FLOOR, FLOOR ; 0d
-	tilecoll WALL, TOWN_MAP, FLOOR, FLOOR ; 0e
+	tilecoll FLOOR, FLOOR, WALL, WALL ; 0e
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 0f
 	tilecoll FLOOR, WALL, FLOOR, FLOOR ; 10
 	tilecoll WALL, FLOOR, WALL, FLOOR ; 11
@@ -41,3 +41,15 @@
 	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 28
 	tilecoll WALL, WALL, WALL, WALL ; 29
 	tilecoll WALL, WALL, BOOKSHELF, TV ; 2a
+	tilecoll WALL, WALL, FLOOR, FLOOR ; 2b
+	tilecoll WALL, WALL, WALL, FLOOR ; 2c
+	tilecoll WALL, WALL, WALL, FLOOR ; 2d
+	tilecoll WALL, WALL, BOOKSHELF, WALL ; 2e
+	tilecoll WALL, WALL, WALL, WALL ; 2f
+	tilecoll WALL, FLOOR, WALL, WALL ; 30
+	tilecoll WALL, WALL, TV, FLOOR ; 31
+	tilecoll WALL, WALL, WALL, WALL ; 32
+	tilecoll WALL, WALL, WALL, FLOOR ; 33
+	tilecoll WALL, FLOOR, WALL, FLOOR ; 34
+	tilecoll FLOOR, FLOOR, FLOOR, FLOOR ; 35
+	tilecoll FLOOR, FLOOR, WALL, FLOOR ; 36

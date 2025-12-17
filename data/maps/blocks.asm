@@ -102,7 +102,6 @@ MahoganyRedGyaradosSpeechHouse_Blocks:
 BlackthornDragonSpeechHouse_Blocks:
 BlackthornEmysHouse_Blocks:
 MoveDeletersHouse_Blocks:
-CharcoalKiln_Blocks:
 LakeOfRageHiddenPowerHouse_Blocks:
 LakeOfRageMagikarpHouse_Blocks:
 GoldenrodHappinessRater_Blocks:
@@ -133,6 +132,18 @@ AccumulaNewlywedsCondo2F_Blocks:
 AccumulaGreatBagCondo2F_Blocks:
 StriatonNicknameCondo2F_Blocks:
 	INCBIN "maps/Condo2FFlat.blk"
+
+NacreneTradeHouse_Blocks:
+NacreneStatHouse_Blocks:
+NacrenePoetHouse_Blocks:
+	INCBIN "maps/NacreneWarehouse.blk"
+
+NacreneStarterHouse_Blocks:
+NacreneFurnitureHouse_Blocks:
+	INCBIN "maps/NacreneHouse.blk"
+
+NacreneCafe_Blocks:
+	INCBIN "maps/NacreneCafe.blk"
 
 StriatonFennelCondo2F_Blocks:
 	INCBIN "maps/Condo2FFennel.blk"
@@ -255,9 +266,6 @@ UnionCave1F_Blocks:
 NationalPark_Blocks:
 NationalParkBugContest_Blocks:
 	INCBIN "maps/NationalPark.blk"
-
-KurtsHouse_Blocks:
-	INCBIN "maps/KurtsHouse.blk"
 
 GoldenrodMagnetTrainStation_Blocks:
 	INCBIN "maps/GoldenrodMagnetTrainStation.blk"

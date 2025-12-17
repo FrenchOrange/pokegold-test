@@ -81,6 +81,7 @@ DEF NUM_NONTRAINER_PHONECONTACTS EQU const_value - 1
 	trainerclass BIRD_KEEPER ; 18
 
 	trainerclass LASS ; 19
+	const DYE
 
 	trainerclass JANINE ; 1a
 

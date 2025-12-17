@@ -133,7 +133,7 @@ ENDM
 	connection south, NuvemaTown, NUVEMA_TOWN, 0
 	connection west, Route1West, ROUTE_1_WEST, 9
 
-	map_attributes Route1West, ROUTE_1_WEST, $43, WEST | EAST
+	map_attributes Route1West, ROUTE_1_WEST, $0f, WEST | EAST
 	connection west, Route17, ROUTE_17, -1
 	connection east, Route1, ROUTE_1, -9
 
@@ -267,6 +267,14 @@ ENDM
 	map_attributes StriatonSixTeamCondo2F, STRIATON_SIX_TEAM_CONDO_2F, $00, 0
 	map_attributes StriatonFennelCondo1F, STRIATON_FENNEL_CONDO_1F, $00, 0
 	map_attributes StriatonFennelCondo2F, STRIATON_FENNEL_CONDO_2F, $00, 0
+	map_attributes NacrenePokecenter1F, NACRENE_POKECENTER_1F, $00, 0
+	map_attributes NacreneFurnitureHouse, NACRENE_FURNITURE_HOUSE, $00, 0
+	map_attributes NacreneTradeHouse, NACRENE_TRADE_HOUSE, $00, 0
+	map_attributes NacreneStarterHouse, NACRENE_STARTER_HOUSE, $00, 0
+	map_attributes NacreneStatHouse, NACRENE_STAT_HOUSE, $00, 0
+	map_attributes NacrenePoetHouse, NACRENE_POET_HOUSE, $00, 0
+	map_attributes NacreneCafe, NACRENE_CAFE, $00, 0
+	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
@@ -361,10 +369,6 @@ ENDM
 	map_attributes BlackthornEmysHouse, BLACKTHORN_EMYS_HOUSE, $00, 0
 	map_attributes BlackthornPokecenter1F, BLACKTHORN_POKECENTER_1F, $00, 0
 	map_attributes MoveDeletersHouse, MOVE_DELETERS_HOUSE, $00, 0
-	map_attributes NacrenePokecenter1F, NACRENE_POKECENTER_1F, $00, 0
-	map_attributes CharcoalKiln, CHARCOAL_KILN, $00, 0
-	map_attributes KurtsHouse, KURTS_HOUSE, $00, 0
-	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
 	map_attributes LakeOfRageHiddenPowerHouse, LAKE_OF_RAGE_HIDDEN_POWER_HOUSE, $00, 0
 	map_attributes LakeOfRageMagikarpHouse, LAKE_OF_RAGE_MAGIKARP_HOUSE, $00, 0
 	map_attributes GoldenrodGym, GOLDENROD_GYM, $00, 0

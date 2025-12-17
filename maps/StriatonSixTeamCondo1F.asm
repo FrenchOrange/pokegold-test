@@ -1,7 +1,7 @@
 	object_const_def
-	const STRIATONSIXTEAMCONDO1F_YOUNGSTER1
+	const STRIATONSIXTEAMCONDO1F_YOUNGSTER
 	const STRIATONSIXTEAMCONDO1F_MIDDLEF
-	const STRIATONSIXTEAMCONDO1F_YOUNGSTER2
+	const STRIATONSIXTEAMCONDO1F_SUPERNERD
 
 StriatonSixTeamCondo1F_MapScripts:
 	def_scene_scripts
@@ -16,16 +16,16 @@ StriatonSixTeamCondo1FScene:
 StriatonSixTeamCondo1FNoop:
 	end
 
-StriatonSixTeamCondo1FYoungster1:
-	jumptextfaceplayer StriatonSixTeamCondo1FYoungster1Text
+StriatonSixTeamCondo1FYoungster:
+	jumptextfaceplayer StriatonSixTeamCondo1FYoungsterText
 
 StriatonSixTeamCondo1FMiddleF:
 	jumptextfaceplayer StriatonSixTeamCondo1FMiddleFText
 
-StriatonSixTeamCondo1FYoungster2:
-	jumptextfaceplayer StriatonSixTeamCondo1FYoungster2Text
+StriatonSixTeamCondo1FSuperNerd:
+	jumptextfaceplayer StriatonSixTeamCondo1FSuperNerdText
 
-StriatonSixTeamCondo1FYoungster1Text:
+StriatonSixTeamCondo1FYoungsterText:
 	text "The CABLE CLUB! It"
 	line "links your friends"
 	cont "from the second"
@@ -53,7 +53,7 @@ StriatonSixTeamCondo1FMiddleFText:
 	line "of BADGES!"
 	done
 
-StriatonSixTeamCondo1FYoungster2Text:
+StriatonSixTeamCondo1FSuperNerdText:
 	text "Lately, I have a"
 	line "favorite model."
 
@@ -75,6 +75,6 @@ StriatonSixTeamCondo1F_MapEvents:
 	def_bg_events
 
 	def_object_events
-	object_event  1,  2, SPRITE_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StriatonSixTeamCondo1FYoungster1, -1
+	object_event  1,  2, SPRITE_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StriatonSixTeamCondo1FYoungster, -1
 	object_event  3,  2, SPRITE_MIDDLE_F, SPRITEMOVEDATA_STANDING_LEFT, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StriatonSixTeamCondo1FMiddleF, -1
-	object_event  7,  2, SPRITE_YOUNGSTER, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StriatonSixTeamCondo1FYoungster2, -1
+	object_event  7,  2, SPRITE_SUPER_NERD, SPRITEMOVEDATA_SPINRANDOM_SLOW, 0, 0, -1, -1, 0, OBJECTTYPE_SCRIPT, 0, StriatonSixTeamCondo1FSuperNerd, -1

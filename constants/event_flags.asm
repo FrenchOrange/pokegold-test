@@ -39,6 +39,10 @@
 	const EVENT_GOT_GREAT_BALL_FROM_STRIATON_CONDO
 	const EVENT_GOT_TRAINER_SCHOOL_FULL_HEAL
 	const EVENT_MET_AMANITA
+	const EVENT_GOT_ITEM_IN_NACRENE_STARTER_HOUSE
+	const EVENT_TRADED_WITH_LASS_DYE
+	const EVENT_GOT_CAFE_WAREHOUSE_SPECIAL
+	const EVENT_BEAT_ELITE_FOUR
 ; vanilla
 	const EVENT_GOT_A_POKEMON_FROM_ELM
 	const EVENT_GOT_CYNDAQUIL_FROM_ELM
@@ -52,7 +56,6 @@
 	const EVENT_GOT_SS_TICKET_FROM_ELM
 	const EVENT_USED_THE_CARD_KEY_IN_THE_RADIO_TOWER
 	const EVENT_MADE_WHITNEY_CRY
-	const EVENT_HERDED_FARFETCHD
 	const EVENT_FOUGHT_SUDOWOODO
 	const EVENT_CLEARED_SLOWPOKE_WELL
 	const EVENT_REFUSED_TO_TAKE_EGG_FROM_ELMS_AIDE
@@ -71,13 +74,11 @@
 	const EVENT_LAKE_OF_RAGE_ELIXIR_ON_STANDBY
 	const_skip ; unused
 	const_skip ; unused
-	const EVENT_HEALED_MOOMOO
 	const EVENT_TALKED_TO_FARMER_ABOUT_MOOMOO
 	const EVENT_TALKED_TO_MOM_AFTER_MYSTERY_EGG_QUEST
 	const EVENT_DUDE_TALKED_TO_YOU
 	const EVENT_LEARNED_TO_CATCH_POKEMON
 	const EVENT_ELM_CALLED_ABOUT_STOLEN_POKEMON
-	const EVENT_BEAT_ELITE_FOUR
 	const EVENT_GOT_SHUCKIE
 	const EVENT_MANIA_TOOK_SHUCKIE_OR_LET_YOU_KEEP_HIM
 	const EVENT_GOT_SUNNY_DAY_FROM_RADIO_TOWER
@@ -103,7 +104,6 @@
 	const EVENT_GOT_BICYCLE
 	const EVENT_GOT_SQUIRTBOTTLE
 	const EVENT_GOT_MIRACLE_SEED_IN_ROUTE_32
-	const EVENT_GOT_CHARCOAL_IN_CHARCOAL_KILN
 	const EVENT_GOT_TM02_HEADBUTT
 	const EVENT_GOT_TYROGUE_FROM_KIYO
 	const EVENT_MET_FRIEDA_OF_FRIDAY
@@ -472,511 +472,511 @@
 	const_next 1000
 ; Trainer flags
 ; Swimmer F
-	const EVENT_BEAT_SWIMMERF_ELAINE
-	const EVENT_BEAT_SWIMMERF_PAULA
-	const EVENT_BEAT_SWIMMERF_KAYLEE
-	const EVENT_BEAT_SWIMMERF_SUSIE
-	const EVENT_BEAT_SWIMMERF_DENISE
-	const EVENT_BEAT_SWIMMERF_KARA
-	const EVENT_BEAT_SWIMMERF_WENDY
-	const EVENT_BEAT_SWIMMERF_LISA
-	const EVENT_BEAT_SWIMMERF_JILL
-	const EVENT_BEAT_SWIMMERF_MARY
-	const EVENT_BEAT_SWIMMERF_KATIE
-	const EVENT_BEAT_SWIMMERF_DAWN
-	const EVENT_BEAT_SWIMMERF_TARA
-	const EVENT_BEAT_SWIMMERF_NICOLE
-	const EVENT_BEAT_SWIMMERF_LORI
-	const EVENT_BEAT_SWIMMERF_JODY
-	const EVENT_BEAT_SWIMMERF_NIKKI
-	const EVENT_BEAT_SWIMMERF_DIANA
-	const EVENT_BEAT_SWIMMERF_BRIANA
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Bird Keeper
-	const EVENT_BEAT_BIRD_KEEPER_ROD
-	const EVENT_BEAT_BIRD_KEEPER_ABE
-	const EVENT_BEAT_BIRD_KEEPER_BRYAN
-	const EVENT_BEAT_BIRD_KEEPER_THEO
-	const EVENT_BEAT_BIRD_KEEPER_TOBY
-	const EVENT_BEAT_BIRD_KEEPER_DENIS
-	const EVENT_BEAT_BIRD_KEEPER_VANCE
-	const EVENT_BEAT_BIRD_KEEPER_HANK
-	const EVENT_BEAT_BIRD_KEEPER_ROY
-	const EVENT_BEAT_BIRD_KEEPER_BORIS
-	const EVENT_BEAT_BIRD_KEEPER_BOB
-	const EVENT_BEAT_BIRD_KEEPER_JOSE
-	const EVENT_BEAT_BIRD_KEEPER_PETER
-	const EVENT_BEAT_BIRD_KEEPER_JOSE2
-	const EVENT_BEAT_BIRD_KEEPER_PERRY
-	const EVENT_BEAT_BIRD_KEEPER_BRET
-	const EVENT_BEAT_BIRD_KEEPER_JOSE3
-	const EVENT_BEAT_BIRD_KEEPER_VANCE2
-	const EVENT_BEAT_BIRD_KEEPER_VANCE3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Boarder
-	const EVENT_BEAT_BOARDER_RONALD
-	const EVENT_BEAT_BOARDER_BRAD
-	const EVENT_BEAT_BOARDER_DOUGLAS
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Sage
-	const EVENT_BEAT_SAGE_CHOW
-	const EVENT_BEAT_SAGE_NICO
-	const EVENT_BEAT_SAGE_JIN
-	const EVENT_BEAT_SAGE_TROY
-	const EVENT_BEAT_SAGE_JEFFREY
-	const EVENT_BEAT_SAGE_PING
-	const EVENT_BEAT_SAGE_EDMOND
-	const EVENT_BEAT_SAGE_NEAL
-	const EVENT_BEAT_SAGE_LI
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Camper
-	const EVENT_BEAT_CAMPER_ROLAND
-	const EVENT_BEAT_CAMPER_TODD
-	const EVENT_BEAT_CAMPER_IVAN
-	const EVENT_BEAT_CAMPER_ELLIOT
-	const EVENT_BEAT_CAMPER_BARRY
-	const EVENT_BEAT_CAMPER_LLOYD
-	const EVENT_BEAT_CAMPER_DEAN
-	const EVENT_BEAT_CAMPER_SID
-	const EVENT_BEAT_CAMPER_HERVEY
-	const EVENT_BEAT_CAMPER_DALE
-	const EVENT_BEAT_CAMPER_TED
-	const EVENT_BEAT_CAMPER_TODD2
-	const EVENT_BEAT_CAMPER_TODD3
-	const EVENT_BEAT_CAMPER_THOMAS
-	const EVENT_BEAT_CAMPER_LEROY
-	const EVENT_BEAT_CAMPER_DAVID
-	const EVENT_BEAT_CAMPER_JOHN
-	const EVENT_BEAT_CAMPER_JERRY
-	const EVENT_BEAT_CAMPER_SPENCER
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Burglar
-	const EVENT_BEAT_BURGLAR_DUNCAN
-	const EVENT_BEAT_BURGLAR_EDDIE
-	const EVENT_BEAT_BURGLAR_COREY
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 	const_skip ; unused
 ; Biker
-	const EVENT_BEAT_BIKER_BENNY
-	const EVENT_BEAT_BIKER_KAZU
-	const EVENT_BEAT_BIKER_DWAYNE
-	const EVENT_BEAT_BIKER_HARRIS
-	const EVENT_BEAT_BIKER_ZEKE
-	const EVENT_BEAT_BIKER_CHARLES
-	const EVENT_BEAT_BIKER_RILEY
-	const EVENT_BEAT_BIKER_JOEL
-	const EVENT_BEAT_BIKER_GLENN
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Psychic
-	const EVENT_BEAT_PSYCHIC_NATHAN
-	const EVENT_BEAT_PSYCHIC_FRANKLIN
-	const EVENT_BEAT_PSYCHIC_HERMAN
-	const EVENT_BEAT_PSYCHIC_FIDEL
-	const EVENT_BEAT_PSYCHIC_GREG
-	const EVENT_BEAT_PSYCHIC_NORMAN
-	const EVENT_BEAT_PSYCHIC_MARK
-	const EVENT_BEAT_PSYCHIC_PHIL
-	const EVENT_BEAT_PSYCHIC_RICHARD
-	const EVENT_BEAT_PSYCHIC_GILBERT
-	const EVENT_BEAT_PSYCHIC_JARED
-	const EVENT_BEAT_PSYCHIC_RODNEY
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Firebreather
-	const EVENT_BEAT_FIREBREATHER_OTIS
-	const EVENT_BEAT_FIREBREATHER_DICK
-	const EVENT_BEAT_FIREBREATHER_NED
-	const EVENT_BEAT_FIREBREATHER_BURT
-	const EVENT_BEAT_FIREBREATHER_BILL
-	const EVENT_BEAT_FIREBREATHER_WALT
-	const EVENT_BEAT_FIREBREATHER_RAY
-	const EVENT_BEAT_FIREBREATHER_LYLE
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Fisher
-	const EVENT_BEAT_FISHER_JUSTIN
-	const EVENT_BEAT_FISHER_RALPH
-	const EVENT_BEAT_FISHER_ARNOLD
-	const EVENT_BEAT_FISHER_KYLE
-	const EVENT_BEAT_FISHER_HENRY
-	const EVENT_BEAT_FISHER_MARVIN
-	const EVENT_BEAT_FISHER_CHRIS
-	const EVENT_BEAT_FISHER_ANDRE
-	const EVENT_BEAT_FISHER_RAYMOND
-	const EVENT_BEAT_FISHER_WILTON
-	const EVENT_BEAT_FISHER_EDGAR
-	const EVENT_BEAT_FISHER_JONAH
-	const EVENT_BEAT_FISHER_MARTIN
-	const EVENT_BEAT_FISHER_STEPHEN
-	const EVENT_BEAT_FISHER_BARNEY
-	const EVENT_BEAT_FISHER_RALPH2
-	const EVENT_BEAT_FISHER_RALPH3
-	const EVENT_BEAT_FISHER_CHRIS2
-	const EVENT_BEAT_FISHER_CHRIS3
-	const EVENT_BEAT_FISHER_WILTON2
-	const EVENT_BEAT_FISHER_SCOTT
-	const EVENT_BEAT_FISHER_WILTON3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Twins
-	const EVENT_BEAT_TWINS_AMY_AND_MAY
-	const EVENT_BEAT_TWINS_ANN_AND_ANNE
-	const EVENT_BEAT_TWINS_ANN_AND_ANNE2
-	const EVENT_BEAT_TWINS_AMY_AND_MAY2
-	const EVENT_BEAT_TWINS_JO_AND_ZOE
-	const EVENT_BEAT_TWINS_JO_AND_ZOE2
-	const EVENT_BEAT_TWINS_MEG_AND_PEG
-	const EVENT_BEAT_TWINS_MEG_AND_PEG2
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Schoolboy
-	const EVENT_BEAT_SCHOOLBOY_JACK
-	const EVENT_BEAT_SCHOOLBOY_KIP
-	const EVENT_BEAT_SCHOOLBOY_ALAN
-	const EVENT_BEAT_SCHOOLBOY_JOHNNY
-	const EVENT_BEAT_SCHOOLBOY_DANNY
-	const EVENT_BEAT_SCHOOLBOY_TOMMY
-	const EVENT_BEAT_SCHOOLBOY_DUDLEY
-	const EVENT_BEAT_SCHOOLBOY_JOE
-	const EVENT_BEAT_SCHOOLBOY_BILLY
-	const EVENT_BEAT_SCHOOLBOY_CHAD
-	const EVENT_BEAT_SCHOOLBOY_NATE
-	const EVENT_BEAT_SCHOOLBOY_RICKY
-	const EVENT_BEAT_SCHOOLBOY_JACK2
-	const EVENT_BEAT_SCHOOLBOY_JACK3
-	const EVENT_BEAT_SCHOOLBOY_ALAN2
-	const EVENT_BEAT_SCHOOLBOY_ALAN3
-	const EVENT_BEAT_SCHOOLBOY_CHAD2
-	const EVENT_BEAT_SCHOOLBOY_CHAD3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Picnicker
-	const EVENT_BEAT_PICNICKER_LIZ
-	const EVENT_BEAT_PICNICKER_GINA
-	const EVENT_BEAT_PICNICKER_BROOKE
-	const EVENT_BEAT_PICNICKER_KIM
-	const EVENT_BEAT_PICNICKER_CINDY
-	const EVENT_BEAT_PICNICKER_HOPE
-	const EVENT_BEAT_PICNICKER_SHARON
-	const EVENT_BEAT_PICNICKER_DEBRA
-	const EVENT_BEAT_PICNICKER_GINA2
-	const EVENT_BEAT_PICNICKER_ERIN
-	const EVENT_BEAT_PICNICKER_LIZ2
-	const EVENT_BEAT_PICNICKER_LIZ3
-	const EVENT_BEAT_PICNICKER_HEIDI
-	const EVENT_BEAT_PICNICKER_EDNA
-	const EVENT_BEAT_PICNICKER_GINA3
-	const EVENT_BEAT_PICNICKER_TIFFANY2
-	const EVENT_BEAT_PICNICKER_TIFFANY3
-	const EVENT_BEAT_PICNICKER_ERIN2
-	const EVENT_BEAT_PICNICKER_TANYA
-	const EVENT_BEAT_PICNICKER_TIFFANY
-	const EVENT_BEAT_PICNICKER_ERIN3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Guitarist
-	const EVENT_BEAT_GUITARIST_CLYDE
-	const EVENT_BEAT_GUITARIST_VINCENT
+	const_skip ; unused
+	const_skip ; unused
 ; Juggler
-	const EVENT_BEAT_JUGGLER_IRWIN
-	const EVENT_BEAT_JUGGLER_FRITZ
-	const EVENT_BEAT_JUGGLER_HORTON
-	const EVENT_BEAT_JUGGLER_IRWIN2
-	const EVENT_BEAT_JUGGLER_IRWIN3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Gentleman
-	const EVENT_BEAT_GENTLEMAN_PRESTON
-	const EVENT_BEAT_GENTLEMAN_EDWARD
-	const EVENT_BEAT_GENTLEMAN_GREGORY
-	const EVENT_BEAT_GENTLEMAN_VIRGIL
-	const EVENT_BEAT_GENTLEMAN_ALFRED
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Scientist
-	const EVENT_BEAT_SCIENTIST_ROSS
-	const EVENT_BEAT_SCIENTIST_MITCH
-	const EVENT_BEAT_SCIENTIST_JED
-	const EVENT_BEAT_SCIENTIST_MARC
-	const EVENT_BEAT_SCIENTIST_RICH
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Blackbelt
-	const EVENT_BEAT_BLACKBELT_KENJI2
-	const EVENT_BEAT_BLACKBELT_YOSHI
-	const EVENT_BEAT_BLACKBELT_KENJI3
-	const EVENT_BEAT_BLACKBELT_LAO
-	const EVENT_BEAT_BLACKBELT_NOB
-	const EVENT_BEAT_BLACKBELT_KIYO
-	const EVENT_BEAT_BLACKBELT_LUNG
-	const EVENT_BEAT_BLACKBELT_KENJI
-	const EVENT_BEAT_BLACKBELT_WAI
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Beauty
-	const EVENT_BEAT_BEAUTY_VICTORIA
-	const EVENT_BEAT_BEAUTY_SAMANTHA
-	const EVENT_BEAT_BEAUTY_JULIE
-	const EVENT_BEAT_BEAUTY_JACLYN
-	const EVENT_BEAT_BEAUTY_BRENDA
-	const EVENT_BEAT_BEAUTY_CASSIE
-	const EVENT_BEAT_BEAUTY_CAROLINE
-	const EVENT_BEAT_BEAUTY_CARLENE
-	const EVENT_BEAT_BEAUTY_JESSICA
-	const EVENT_BEAT_BEAUTY_RACHAEL
-	const EVENT_BEAT_BEAUTY_ANGELICA
-	const EVENT_BEAT_BEAUTY_KENDRA
-	const EVENT_BEAT_BEAUTY_VERONICA
-	const EVENT_BEAT_BEAUTY_JULIA
-	const EVENT_BEAT_BEAUTY_THERESA
-	const EVENT_BEAT_BEAUTY_VALERIE
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Unova Gym Leaders
-	const EVENT_BEAT_FALKNER
-	const EVENT_BEAT_BUGSY
-	const EVENT_BEAT_WHITNEY
-	const EVENT_BEAT_MORTY
-	const EVENT_BEAT_JASMINE
-	const EVENT_BEAT_CHUCK
-	const EVENT_BEAT_PRYCE
-	const EVENT_BEAT_CLAIR
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Kanto Gym Leaders
-	const EVENT_BEAT_BROCK
-	const EVENT_BEAT_MISTY
-	const EVENT_BEAT_LTSURGE
-	const EVENT_BEAT_ERIKA
-	const EVENT_BEAT_JANINE
-	const EVENT_BEAT_SABRINA
-	const EVENT_BEAT_BLAINE
-	const EVENT_BEAT_BLUE
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; PokefanM
-	const EVENT_BEAT_POKEFANM_WILLIAM
-	const EVENT_BEAT_POKEFANM_DEREK
-	const EVENT_BEAT_POKEFANM_ROBERT
-	const EVENT_BEAT_POKEFANM_JOSHUA
-	const EVENT_BEAT_POKEFANM_CARTER
-	const EVENT_BEAT_POKEFANM_TREVOR
-	const EVENT_BEAT_POKEFANM_BRANDON
-	const EVENT_BEAT_POKEFANM_JEREMY
-	const EVENT_BEAT_POKEFANM_COLIN
-	const EVENT_BEAT_POKEFANM_DEREK2
-	const EVENT_BEAT_POKEFANM_DEREK3
-	const EVENT_BEAT_POKEFANM_ALEX
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; PokefanF
-	const EVENT_BEAT_POKEFANF_BEVERLY
-	const EVENT_BEAT_POKEFANF_RUTH
-	const EVENT_BEAT_POKEFANF_BEVERLY2
-	const EVENT_BEAT_POKEFANF_BEVERLY3
-	const EVENT_BEAT_POKEFANF_GEORGIA
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Kimono Girl
 	const_skip ; unused
-	const EVENT_BEAT_KIMONO_GIRL_NAOKO
-	const EVENT_BEAT_KIMONO_GIRL_SAYO
-	const EVENT_BEAT_KIMONO_GIRL_ZUKI
-	const EVENT_BEAT_KIMONO_GIRL_KUNI
-	const EVENT_BEAT_KIMONO_GIRL_MIKI
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Pokemaniac
-	const EVENT_BEAT_POKEMANIAC_LARRY
-	const EVENT_BEAT_POKEMANIAC_ANDREW
-	const EVENT_BEAT_POKEMANIAC_CALVIN
-	const EVENT_BEAT_POKEMANIAC_SHANE
-	const EVENT_BEAT_POKEMANIAC_BEN
-	const EVENT_BEAT_POKEMANIAC_BRENT
-	const EVENT_BEAT_POKEMANIAC_RON
-	const EVENT_BEAT_POKEMANIAC_ETHAN
-	const EVENT_BEAT_POKEMANIAC_BRENT2
-	const EVENT_BEAT_POKEMANIAC_BRENT3
-	const EVENT_BEAT_POKEMANIAC_ISSAC
-	const EVENT_BEAT_POKEMANIAC_DONALD
-	const EVENT_BEAT_POKEMANIAC_ZACH
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; GruntM
-	const EVENT_BEAT_ROCKET_GRUNTM_1
-	const EVENT_BEAT_ROCKET_GRUNTM_2
-	const EVENT_BEAT_ROCKET_GRUNTM_3
-	const EVENT_BEAT_ROCKET_GRUNTM_4
-	const EVENT_BEAT_ROCKET_GRUNTM_5
-	const EVENT_BEAT_ROCKET_GRUNTM_6
-	const EVENT_BEAT_ROCKET_GRUNTM_7
-	const EVENT_BEAT_ROCKET_GRUNTM_8
-	const EVENT_BEAT_ROCKET_GRUNTM_9
-	const EVENT_BEAT_ROCKET_GRUNTM_10
-	const EVENT_BEAT_ROCKET_GRUNTM_11
-	const EVENT_BEAT_ROCKET_GRUNTM_12
-	const EVENT_BEAT_ROCKET_GRUNTM_13
-	const EVENT_BEAT_ROCKET_GRUNTM_14
-	const EVENT_BEAT_ROCKET_GRUNTM_15
-	const EVENT_BEAT_ROCKET_GRUNTM_16
-	const EVENT_BEAT_ROCKET_GRUNTM_17
-	const EVENT_BEAT_ROCKET_GRUNTM_18
-	const EVENT_BEAT_ROCKET_GRUNTM_19
-	const EVENT_BEAT_ROCKET_GRUNTM_20
-	const EVENT_BEAT_ROCKET_GRUNTM_21
-	const EVENT_BEAT_ROCKET_GRUNTM_22
-	const EVENT_BEAT_ROCKET_GRUNTM_23
-	const EVENT_BEAT_ROCKET_GRUNTM_24
-	const EVENT_BEAT_ROCKET_GRUNTM_25
-	const EVENT_BEAT_ROCKET_GRUNTM_26
-	const EVENT_BEAT_ROCKET_GRUNTM_27
-	const EVENT_BEAT_ROCKET_GRUNTM_28
-	const EVENT_BEAT_ROCKET_GRUNTM_29
-	const EVENT_BEAT_ROCKET_GRUNTM_30
-	const EVENT_BEAT_ROCKET_GRUNTM_31
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; GruntF
-	const EVENT_BEAT_ROCKET_GRUNTF_1
-	const EVENT_BEAT_ROCKET_GRUNTF_2
-	const EVENT_BEAT_ROCKET_GRUNTF_3
-	const EVENT_BEAT_ROCKET_GRUNTF_4
-	const EVENT_BEAT_ROCKET_GRUNTF_5
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Lass
-	const EVENT_BEAT_LASS_CARRIE
-	const EVENT_BEAT_LASS_BRIDGET
-	const EVENT_BEAT_LASS_ALICE
-	const EVENT_BEAT_LASS_KRISE
-	const EVENT_BEAT_LASS_CONNIE
-	const EVENT_BEAT_LASS_LINDA
-	const EVENT_BEAT_LASS_LAURA
-	const EVENT_BEAT_LASS_SHANNON
-	const EVENT_BEAT_LASS_MICHELLE
-	const EVENT_BEAT_LASS_DANA
-	const EVENT_BEAT_LASS_ELLEN
-	const EVENT_BEAT_LASS_CONNIE2
-	const EVENT_BEAT_LASS_CONNIE3
-	const EVENT_BEAT_LASS_DANA2
-	const EVENT_BEAT_LASS_DANA3
+	const EVENT_BEAT_LASS_DYE
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Hiker
-	const EVENT_BEAT_HIKER_ANTHONY2
-	const EVENT_BEAT_HIKER_RUSSELL
-	const EVENT_BEAT_HIKER_PHILLIP
-	const EVENT_BEAT_HIKER_LEONARD
-	const EVENT_BEAT_HIKER_ANTHONY
-	const EVENT_BEAT_HIKER_BENJAMIN
-	const EVENT_BEAT_HIKER_ERIK
-	const EVENT_BEAT_HIKER_MICHAEL
-	const EVENT_BEAT_HIKER_PARRY
-	const EVENT_BEAT_HIKER_TIMOTHY
-	const EVENT_BEAT_HIKER_BAILEY
-	const EVENT_BEAT_HIKER_ANTHONY3
-	const EVENT_BEAT_HIKER_TIM
-	const EVENT_BEAT_HIKER_NOLAND
-	const EVENT_BEAT_HIKER_SIDNEY
-	const EVENT_BEAT_HIKER_KENNY
-	const EVENT_BEAT_HIKER_JIM
-	const EVENT_BEAT_HIKER_DANIEL
-	const EVENT_BEAT_HIKER_PARRY2
-	const EVENT_BEAT_HIKER_PARRY3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Bug Catcher
-	const EVENT_BEAT_BUG_CATCHER_DON
-	const EVENT_BEAT_BUG_CATCHER_ROB
-	const EVENT_BEAT_BUG_CATCHER_ED
-	const EVENT_BEAT_BUG_CATCHER_WADE
-	const EVENT_BEAT_BUG_CATCHER_BENNY
-	const EVENT_BEAT_BUG_CATCHER_AL
-	const EVENT_BEAT_BUG_CATCHER_JOSH
-	const EVENT_BEAT_BUG_CATCHER_ARNIE
-	const EVENT_BEAT_BUG_CATCHER_KEN
-	const EVENT_BEAT_BUG_CATCHER_WADE2
-	const EVENT_BEAT_BUG_CATCHER_WADE3
-	const EVENT_BEAT_BUG_CATCHER_DOUG
-	const EVENT_BEAT_BUG_CATCHER_ARNIE2
-	const EVENT_BEAT_BUG_CATCHER_ARNIE3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Officer
-	const EVENT_BEAT_OFFICER_KEITH
-	const EVENT_BEAT_OFFICER_DIRK
+	const_skip ; unused
+	const_skip ; unused
 ; CooltrainerM
-	const EVENT_BEAT_COOLTRAINERM_NICK
-	const EVENT_BEAT_COOLTRAINERM_AARON
-	const EVENT_BEAT_COOLTRAINERM_PAUL
-	const EVENT_BEAT_COOLTRAINERM_CODY
-	const EVENT_BEAT_COOLTRAINERM_MIKE
-	const EVENT_BEAT_COOLTRAINERM_GAVEN2
-	const EVENT_BEAT_COOLTRAINERM_GAVEN3
-	const EVENT_BEAT_COOLTRAINERM_RYAN
-	const EVENT_BEAT_COOLTRAINERM_JAKE
-	const EVENT_BEAT_COOLTRAINERM_GAVEN
-	const EVENT_BEAT_COOLTRAINERM_BLAKE
-	const EVENT_BEAT_COOLTRAINERM_BRIAN
-	const EVENT_BEAT_COOLTRAINERM_ERICK
-	const EVENT_BEAT_COOLTRAINERM_ANDY
-	const EVENT_BEAT_COOLTRAINERM_TYLER
-	const EVENT_BEAT_COOLTRAINERM_SEAN
-	const EVENT_BEAT_COOLTRAINERM_KEVIN
-	const EVENT_BEAT_COOLTRAINERM_STEVE
-	const EVENT_BEAT_COOLTRAINERM_ALLEN
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; CooltrainerF
-	const EVENT_BEAT_COOLTRAINERF_GWEN
-	const EVENT_BEAT_COOLTRAINERF_LOIS
-	const EVENT_BEAT_COOLTRAINERF_FRAN
-	const EVENT_BEAT_COOLTRAINERF_LOLA
-	const EVENT_BEAT_COOLTRAINERF_KATE
-	const EVENT_BEAT_COOLTRAINERF_IRENE
-	const EVENT_BEAT_COOLTRAINERF_KELLY
-	const EVENT_BEAT_COOLTRAINERF_JOYCE
-	const EVENT_BEAT_COOLTRAINERF_BETH
-	const EVENT_BEAT_COOLTRAINERF_REENA
-	const EVENT_BEAT_COOLTRAINERF_MEGAN
-	const EVENT_BEAT_COOLTRAINERF_BETH2
-	const EVENT_BEAT_COOLTRAINERF_CAROL
-	const EVENT_BEAT_COOLTRAINERF_QUINN
-	const EVENT_BEAT_COOLTRAINERF_EMMA
-	const EVENT_BEAT_COOLTRAINERF_CYBIL
-	const EVENT_BEAT_COOLTRAINERF_JENN
-	const EVENT_BEAT_COOLTRAINERF_BETH3
-	const EVENT_BEAT_COOLTRAINERF_REENA2
-	const EVENT_BEAT_COOLTRAINERF_REENA3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; ExecutiveF
-	const EVENT_BEAT_ROCKET_EXECUTIVEF_1
-	const EVENT_BEAT_ROCKET_EXECUTIVEF_2
+	const_skip ; unused
+	const_skip ; unused
 ; ExecutiveM
-	const EVENT_BEAT_ROCKET_EXECUTIVEM_1
-	const EVENT_BEAT_ROCKET_EXECUTIVEM_2
-	const EVENT_BEAT_ROCKET_EXECUTIVEM_3
-	const EVENT_BEAT_ROCKET_EXECUTIVEM_4
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Sailor
-	const EVENT_BEAT_SAILOR_EUGENE
-	const EVENT_BEAT_SAILOR_HUEY
-	const EVENT_BEAT_SAILOR_TERRELL
-	const EVENT_BEAT_SAILOR_KENT
-	const EVENT_BEAT_SAILOR_ERNEST
-	const EVENT_BEAT_SAILOR_JEFF
-	const EVENT_BEAT_SAILOR_GARRETT
-	const EVENT_BEAT_SAILOR_KENNETH
-	const EVENT_BEAT_SAILOR_STANLY
-	const EVENT_BEAT_SAILOR_HARRY
-	const EVENT_BEAT_SAILOR_HUEY2
-	const EVENT_BEAT_SAILOR_HUEY3
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Super Nerd
-	const EVENT_BEAT_SUPER_NERD_ERIC_UNUSED
-	const EVENT_BEAT_SUPER_NERD_ERIC
-	const EVENT_BEAT_SUPER_NERD_GREGG
-	const EVENT_BEAT_SUPER_NERD_JAY
-	const EVENT_BEAY_SUPER_NERD_DAVE
-	const EVENT_BEAT_SUPER_NERD_SAM
-	const EVENT_BEAT_SUPER_NERD_TOM
-	const EVENT_BEAT_SUPER_NERD_PAT
-	const EVENT_BEAT_SUPER_NERD_SHAWN
-	const EVENT_BEAT_SUPER_NERD_TERU
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Medium
-	const EVENT_BEAT_MEDIUM_MARTHA
-	const EVENT_BEAT_MEDIUM_GRACE
-	const EVENT_BEAT_MEDIUM_BETHANY
-	const EVENT_BEAT_MEDIUM_MARGRET
-	const EVENT_BEAT_MEDIUM_ETHEL
-	const EVENT_BEAT_MEDIUM_REBECCA
-	const EVENT_BEAT_MEDIUM_DORIS
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Skier
-	const EVENT_BEAT_SKIER_ROXANNE
-	const EVENT_BEAT_SKIER_CLARISSA
+	const_skip ; unused
+	const_skip ; unused
 ; SwimmerM
-	const EVENT_BEAT_SWIMMERM_HAROLD
-	const EVENT_BEAT_SWIMMERM_SIMON
-	const EVENT_BEAT_SWIMMERM_RANDALL
-	const EVENT_BEAT_SWIMMERM_CHARLIE
-	const EVENT_BEAT_SWIMMERM_GEORGE
-	const EVENT_BEAT_SWIMMERM_BERKE
-	const EVENT_BEAT_SWIMMERM_KIRK
-	const EVENT_BEAT_SWIMMERM_MATHEW
-	const EVENT_BEAT_SWIMMERM_HAL
-	const EVENT_BEAT_SWIMMERM_PATON
-	const EVENT_BEAT_SWIMMERM_DARYL
-	const EVENT_BEAT_SWIMMERM_WALTER
-	const EVENT_BEAT_SWIMMERM_TONY
-	const EVENT_BEAT_SWIMMERM_JEROME
-	const EVENT_BEAT_SWIMMERM_TUCKER
-	const EVENT_BEAT_SWIMMERM_RICK
-	const EVENT_BEAT_SWIMMERM_CAMERON
-	const EVENT_BEAT_SWIMMERM_SETH
-	const EVENT_BEAT_SWIMMERM_JAMES
-	const EVENT_BEAT_SWIMMERM_LEWIS
-	const EVENT_BEAT_SWIMMERM_PARKER
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Youngster
-	const EVENT_BEAT_YOUNGSTER_JOEY
-	const EVENT_BEAT_YOUNGSTER_MIKEY
-	const EVENT_BEAT_YOUNGSTER_ALBERT
-	const EVENT_BEAT_YOUNGSTER_GORDON
-	const EVENT_BEAT_YOUNGSTER_SAMUEL
-	const EVENT_BEAT_YOUNGSTER_IAN
-	const EVENT_BEAT_YOUNGSTER_JOEY2
-	const EVENT_BEAT_YOUNGSTER_JOEY3
-	const EVENT_BEAT_YOUNGSTER_WARREN
-	const EVENT_BEAT_YOUNGSTER_JIMMY
-	const EVENT_BEAT_YOUNGSTER_OWEN
-	const EVENT_BEAT_YOUNGSTER_JASON
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Teacher
-	const EVENT_BEAT_TEACHER_COLETTE
-	const EVENT_BEAT_TEACHER_HILLARY
-	const EVENT_BEAT_TEACHER_SHIRLEY
+	const_skip ; unused
+	const_skip ; unused
+	const_skip ; unused
 ; Elite Four and Champion
 	const EVENT_BEAT_ELITE_4_WILL
 	const EVENT_BEAT_ELITE_4_KOGA

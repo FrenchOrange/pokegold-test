@@ -20,7 +20,7 @@ Marts:
 	dw MartMahogany2
 	dw MartBlackthorn
 	dw MartIndigoPlateau
-	dw MartUnderground
+	dw MartNacreneStat
 	assert_table_length NUM_MARTS
 
 MartCherrygrove:
@@ -218,12 +218,15 @@ MartIndigoPlateau:
 	db FULL_HEAL
 	db -1 ; end
 
-MartUnderground:
-	db 4 ; # items
-	db ENERGYPOWDER
-	db ENERGY_ROOT
-	db HEAL_POWDER
-	db REVIVAL_HERB
+MartNacreneStat:
+	db 7 ; # items
+	db X_SPEED
+	db X_ATTACK
+	db X_DEFEND
+	db GUARD_SPEC
+	db DIRE_HIT
+	db X_ACCURACY
+	db X_SPECIAL
 	db -1 ; end
 
 DefaultMart:

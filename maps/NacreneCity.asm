@@ -49,8 +49,12 @@ NacreneCity_MapEvents:
 	warp_event 24,  3, AZALEA_GYM, 1
 	warp_event 37, 14, ROUTE_3_GATE, 1
 	warp_event 37, 15, ROUTE_3_GATE, 2
-	warp_event 26, 11, KURTS_HOUSE, 1
-	warp_event 32, 11, CHARCOAL_KILN, 1
+	warp_event 26, 11, NACRENE_TRADE_HOUSE, 1
+	warp_event 32, 11, NACRENE_FURNITURE_HOUSE, 1
+	warp_event  8, 11, NACRENE_STARTER_HOUSE, 1
+	warp_event 12, 11, NACRENE_STAT_HOUSE, 1
+	warp_event 32,  5, NACRENE_POET_HOUSE, 1
+	warp_event  9,  3, NACRENE_CAFE, 1
 
 	def_coord_events
 

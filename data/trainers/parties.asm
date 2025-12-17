@@ -93,6 +93,14 @@ SchoolboyGroup:
 BirdKeeperGroup:
 
 LassGroup:
+	; DYE (1)
+	db "DYE@", TRAINERTYPE_NORMAL
+IF DEF(_GOLD)
+	db 65, WHIMSICOTT
+ELIF DEF(_SILVER)
+	db 65, LILLIGANT
+ENDC
+	db -1 ; end
 
 JanineGroup:
 
