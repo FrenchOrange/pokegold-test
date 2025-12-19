@@ -3,7 +3,7 @@ It's full of cardboard boxes with<LINE>electrical appliances in them.<LINE>Oh? R
 Rotom reluctantly gave up<LINE>on entering a motor…
 Which Rotom will you allow<LINE>to enter a motor?
 That POKéMON can't enter a motor.
-An Egg can't enter a motor.
+An EGG can't enter a motor.
 Which appliance's motor will you<LINE>allow \xf000Ă\x0001\x0000 to enter?
 Microwave oven
 Washing machine

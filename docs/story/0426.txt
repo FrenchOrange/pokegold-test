@@ -4,11 +4,11 @@ Glad you came!<LINE>Your \xf000Ă\x0001\x0000 and<LINE>\xf000Ă\x0001\x0001 are 
 Glad you came!<LINE>Your \xf000Ă\x0001\x0000 and<LINE>\xf000Ă\x0001\x0001 are doing just fine.<LINE>The two seem to get along.
 Glad you came!<LINE>Your \xf000Ă\x0001\x0000 and<LINE>\xf000Ă\x0001\x0001 are doing just fine.<LINE>The two don't really seem to like<LINE>each other much.
 Glad you came!<LINE>Your \xf000Ă\x0001\x0000 and<LINE>\xf000Ă\x0001\x0001 are doing just fine.<LINE>The two prefer to play with other<LINE>POKéMON more than with each other.
-Ah, it's you!<LINE>We were raising your POKéMON,<LINE>and my goodness, were we surprised!<LINE>Your POKéMON was holding an Egg!<LINE>We don't know how it got there,<LINE>but your POKéMON had it.<LINE>You do want it, don't you?
-<PLAYER> received the Egg from<LINE>the Day-Care Man.
+Ah, it's you!<LINE>We were raising your POKéMON,<LINE>and my goodness, were we surprised!<LINE>Your POKéMON was holding an EGG!<LINE>We don't know how it got there,<LINE>but your POKéMON had it.<LINE>You do want it, don't you?
+<PLAYER> received the EGG from<LINE>the Day-Care Man.
 You take good care of it.
 You have no room for it right now…<LINE>Come back when you've made room.
-I really will keep it.<LINE>You do want this Egg, yes?
+I really will keep it.<LINE>You do want this EGG, yes?
 Well then, I'll hang on to it.<LINE>Thanks!
 I'm the Day-Care Lady.<LINE>We can raise POKéMON for you.<LINE>Would you like us to raise<LINE>your POKéMON?
 I'm the Day-Care Lady.<LINE>We can raise POKéMON for you.<LINE>What do you want to do today?
@@ -16,7 +16,7 @@ Very good.<LINE>Come again.
 Ah, there you are!<LINE>My husband was looking for you.
 You can't leave your only POKéMON<LINE>with me! How would you battle?<LINE>Come back another time.
 Which POKéMON should we raise<LINE>for you?
-Now, now.<LINE>That is merely an Egg!
+Now, now.<LINE>That is merely an EGG!
 Fine, we'll raise your \xf000Ă\x0001\x0000<LINE>for a while.
 Come back for it later.
 We can raise two of your POKéMON.<LINE>Would you like us to raise another?

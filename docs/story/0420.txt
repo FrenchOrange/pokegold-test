@@ -1,10 +1,10 @@
-POKéMON Trainer.<LINE>The sparkle in your eyes…<LINE>I feel your kindness toward POKéMON!<LINE>I have decided! I will entrust the Egg<LINE>I found in the RELIC CASTLE to you!<LINE>Would you like to receive this<LINE>POKéMON Egg and raise it?
-Would you like to receive this<LINE>POKéMON Egg and raise it?
-I appreciate your thought, but you<LINE>cannot take the Egg right now because<LINE><LINE>your party is full.
+POKéMON Trainer.<LINE>The sparkle in your eyes…<LINE>I feel your kindness toward POKéMON!<LINE>I have decided! I will entrust the EGG<LINE>I found in the RELIC CASTLE to you!<LINE>Would you like to receive this<LINE>POKéMON EGG and raise it?
+Would you like to receive this<LINE>POKéMON EGG and raise it?
+I appreciate your thought, but you<LINE>cannot take the EGG right now because<LINE><LINE>your party is full.
 Well, that's certainly up to you.
 Yes! I'm counting on you.
-POKéMON Eggs hatch when you carry them<LINE>with you. Being around healthy POKéMON<LINE><LINE>helps them grow!
-<PLAYER> obtained the Egg!
+POKéMON EGGs hatch when you carry them<LINE>with you. Being around healthy POKéMON<LINE><LINE>helps them grow!
+<PLAYER> obtained the EGG!
 
 Wait! Wait!<LINE>Aren't your POKéMON a bit tired?<LINE>Here, don't be shy! Let them rest!
 Your POKéMON are so energetic!

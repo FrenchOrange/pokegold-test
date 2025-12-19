@@ -1,8 +1,8 @@
 Your favorite is <PLAYER>, isn't it?
-Your favorite is that Egg, isn't it?
+Your favorite is that EGG, isn't it?
 Yes, I was right! I thought so!
 What? Your favorite isn't <PLAYER>?!
-…Oh? Your favorite really is that Egg,<LINE>isn't it?
+…Oh? Your favorite really is that EGG,<LINE>isn't it?
 I want to know<LINE>everyone's favorite kind of POKéMON!
 When you're tired, take a rest!<LINE>It's the same for people and POKéMON.
 Wanna recover POKéMON?<LINE>Oh, soooooorry!

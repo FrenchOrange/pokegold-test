@@ -12,7 +12,7 @@ Th-that Trainer Card!<LINE>That wonderful shade! That sparkle!<LINE>I've seen se
 Great to see you, <PLAYER>!<LINE>You want the usual, right?
 Oh… It looks like your POKéMON may be<LINE>infected with the Pokérus.<LINE>Little is known about the Pokérus,<LINE>except that it is a microscopic life-form<LINE><LINE>that attaches to POKéMON.<LINE>While infected, POKéMON are said to<LINE>grow exceptionally well.
 Welcome to the POKéMON Wireless<LINE>Club Union Room.<LINE>You may interact directly with<LINE>many Trainers here.<LINE>Would you like to enter the room?
-The Trainers in the Union Room<LINE>will be those players around you<LINE><LINE>who have also entered the room.<LINE>You may trade your POKéMON here<LINE>or have battles for two or four.<LINE>Also, you may exchange Eggs<LINE>or draw pictures with other players.<LINE>You may also chat with other<LINE>players in the room.<LINE>Or you may find friends by touching<LINE>the spoken words.<LINE>Would you like to enter the room?
+The Trainers in the Union Room<LINE>will be those players around you<LINE><LINE>who have also entered the room.<LINE>You may trade your POKéMON here<LINE>or have battles for two or four.<LINE>Also, you may exchange EGGs<LINE>or draw pictures with other players.<LINE>You may also chat with other<LINE>players in the room.<LINE>Or you may find friends by touching<LINE>the spoken words.<LINE>Would you like to enter the room?
 DS Wireless Communications<LINE>will be launched.
 I hope you enjoy your time in<LINE>the Union Room.
 Please do visit again.

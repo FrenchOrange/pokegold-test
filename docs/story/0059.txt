@@ -1,7 +1,7 @@
 Hello!<LINE>If you'd like, I will massage<LINE>your POKéMON.
 Oh, I see.<LINE>Please see me if you change your mind.
 All right! Let me get started.
-Massage the Egg?<LINE>It may be a bit too early for that.
+Massage the EGG?<LINE>It may be a bit too early for that.
 There. All done!<LINE>The massage has made your POKéMON<LINE>much more friendly to you!
 There. All done!<LINE>The massage has made your POKéMON<LINE>more friendly to you!
 There. All done!<LINE>The massage has made your POKéMON<LINE>a little bit more friendly to you!

@@ -12,7 +12,7 @@ Right, PROFESSOR?
 PROFESSOR JUNIPER: Hi there!<LINE>How are you, <PLAYER>?
 This place is always charged with<LINE>lots of electricity that POKéMON like!<LINE>The electric charges react from one<LINE>stone to another, and that's why<LINE><LINE>some of the stones are floating!<LINE>But not all of the stones can be pushed.
 My father asked me to research Klink,<LINE>which is a POKéMON that looks like a gear,<LINE><LINE>because I'm researching the origins<LINE><LINE>of POKéMON and the era they appeared.<LINE>He knows how to get what he wants from<LINE>people, but I was already interested in<LINE><LINE>this anyway, so it's a lot of fun!<LINE>Oh, yeah! <PLAYER>, this is for you!
-PROFESSOR JUNIPER: Giving that Lucky Egg<LINE>to a POKéMON to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong POKéMON will make<LINE>it easier to fill your POKéDEX pages!
+PROFESSOR JUNIPER: Giving that Lucky EGG<LINE>to a POKéMON to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong POKéMON will make<LINE>it easier to fill your POKéDEX pages!
 PROFESSOR JUNIPER: <PLAYER>!<LINE>Are you working on your POKéDEX?<LINE>Keep encountering lots of POKéMON,<LINE>so you can keep filling in those pages!
 BIANCA: I'm the PROFESSOR's bodyguard!<LINE>Well, that's probably not necessary, but<LINE>you have to protect important things!
 PROFESSOR JUNIPER: Hi there!<LINE>Did you find something?<LINE>I think we're just about<LINE>done collecting data.

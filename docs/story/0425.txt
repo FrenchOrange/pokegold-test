@@ -4,7 +4,7 @@ Let me see…<LINE>Well, this POKéMON can learn the move,<LINE>but you need to 
 OK, great!<LINE>Oh, but…<LINE>You don't seem to have a<LINE>POKéMON that can learn this move.
 OK, great! Which POKéMON should<LINE>learn this move?
 Um… I'm sorry…<LINE>That POKéMON can't learn this move!
-What?<LINE>You want me to teach the move to an Egg?<LINE>OK, I'll do my best!<LINE>…<LINE>…<LINE>Sorry!<LINE>I think it's impossible!
+What?<LINE>You want me to teach the move to an EGG?<LINE>OK, I'll do my best!<LINE>…<LINE>…<LINE>Sorry!<LINE>I think it's impossible!
 This one?<LINE>Um, but…it looks like this POKéMON<LINE>already knows \xf000ć\x0001\x0000.
 IRIS: Draco Meteor's power is<LINE>really amazing!<LINE>But after you use it, your Sp. Atk stat<LINE>goes down.
 
@@ -21,7 +21,7 @@ Hmm…<LINE>This POKéMON can learn this move, but<LINE>your bond of friendship 
 I see…<LINE>But there are no POKéMON with<LINE>you right now that can learn this move.
 Which POKéMON should<LINE>learn this move?
 I'm very sorry, but…<LINE>This POKéMON cannot learn this move.
-That's an interesting request, but…<LINE>Not even I can teach a move to an Egg.
+That's an interesting request, but…<LINE>Not even I can teach a move to an EGG.
 Hmm… It looks like this POKéMON<LINE>already knows \xf000ć\x0001\x0000.
 DRAYDEN: Draco Meteor's power is<LINE>exceptional, but using it lowers<LINE><LINE>the user's Sp. Atk stat.
 Your quest for power has brought<LINE>you here…<LINE>Very well.<LINE>Let me reward your passion with some<LINE>absolutely astounding moves.<LINE>They're the ultimate moves!<LINE>Shall I teach them to<LINE>your POKéMON?
@@ -30,7 +30,7 @@ The POKéMON with you can't<LINE>learn these moves!<LINE>Go talk to my wife! Keh
 Hmm… Well, that is fine, as well.<LINE>Visit if you have a change of heart.
 Well, which POKéMON should I teach?
 That POKéMON can't learn a move!<LINE>Go talk to my wife! Keh!
-Teach a move to an Egg?<LINE>Impossible, even for me! Keh!
+Teach a move to an EGG?<LINE>Impossible, even for me! Keh!
 The bond with your POKéMON<LINE>is not strong enough! Keh!
 That POKéMON already knows<LINE>that move! Keh!
 I should teach \xf000ć\x0001\x0001 to<LINE><PLAYER>, right? Keh!
@@ -41,7 +41,7 @@ I can't teach these POKéMON.
 Is that so…<LINE>Well, come on back now, y'hear?
 Which POKéMON should learn the move?
 Now, that POKéMON can't learn this<LINE>special move!<LINE>I told ya, it's only for the POKéMON who<LINE>started your journey with you.
-Teach a move to an Egg?<LINE>What kinda crazy talk is that?!
+Teach a move to an EGG?<LINE>What kinda crazy talk is that?!
 This POKéMON… Well, it doesn't look<LINE>like it's too comfortable with you yet.
 I can't teach it twice. This POKéMON<LINE>already knows the special move!
 Want me to teach \xf000ć\x0001\x0001<LINE>to <PLAYER>?
