@@ -20,7 +20,6 @@ DidntTradeWithDye:
 	trade NPC_TRADE_DYE
 	waitbutton
 	closetext
-;	setevent EVENT_TRADED_WITH_LASS_DYE
 	end
 
 PostGameTradeLass:
@@ -105,7 +104,6 @@ LassDyeAfterBattleText:
 
 NacreneTradeHouseGirl:
 	faceplayer
-	setevent EVENT_BEAT_ELITE_FOUR ; DEBUG
 	opentext
 	writetext NacreneTradeHouseGirlText
 	waitbutton
@@ -130,10 +128,6 @@ NacreneTradeHousePlantPokemon:
 
 NacreneTradeHouseSuperNerd:
 	jumptextfaceplayer NacreneTradeHouseSuperNerdText
-
-NacreneTradeHouseLassText:
-	text "WIP"
-	done
 
 NacreneTradeHouseGirlText:
 	text "Oh my, what a"

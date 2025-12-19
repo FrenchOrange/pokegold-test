@@ -44,6 +44,14 @@ NPCTrade::
 	ld hl, TradedForText
 	call PrintText
 
+	ld a, [wMapGroup]
+	cp GROUP_NACRENE_CITY
+	jr z, .traded_with_Dye
+
+;	ld a, [wMapGroup]
+;	cp GROUP_DRIFTVEIL_CITY
+;	jr z, .traded_with_Kyle
+
 	call RestartMapMusic
 
 	ld a, TRADE_DIALOG_AFTER
@@ -51,6 +59,26 @@ NPCTrade::
 .done
 	call PrintTradeText
 	ret
+
+.traded_with_Dye
+	ld de, EVENT_TRADED_WITH_LASS_DYE
+	ld b, SET_FLAG
+	call EventFlagAction
+
+	call RestartMapMusic
+	ld a, TRADE_DIALOG_AFTER
+	call PrintTradeText
+	ret
+
+;.traded_with_Kyle
+;	ld de, EVENT_TRADED_WITH_YOUNGSTER_KYLE
+;	ld b, SET_FLAG
+;	call EventFlagAction
+;
+;	call RestartMapMusic
+;	ld a, TRADE_DIALOG_AFTER
+;	call PrintTradeText
+;	ret
 
 .TradeAnimation:
 	call DisableSpriteUpdates
