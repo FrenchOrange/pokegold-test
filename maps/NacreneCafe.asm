@@ -11,6 +11,14 @@ NacreneCafe_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
+	callback MAPCALLBACK_NEWMAP, NacreneCafeSpecialCallback
+
+NacreneCafeSpecialCallback:
+	readvar VAR_WEEKDAY
+	ifequal WEDNESDAY, .WednesdaySpecial
+	clearevent EVENT_GOT_CAFE_WAREHOUSE_SPECIAL
+.WednesdaySpecial:
+	endcallback
 
 NacreneCafeOfficeWoman:
 	faceplayer
