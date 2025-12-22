@@ -133,6 +133,9 @@ AccumulaGreatBagCondo2F_Blocks:
 StriatonNicknameCondo2F_Blocks:
 	INCBIN "maps/Condo2FFlat.blk"
 
+Route18EggBarrack_Blocks:
+	INCBIN "maps/Barrack.blk"
+
 NacreneTradeHouse_Blocks:
 NacreneStatHouse_Blocks:
 NacrenePoetHouse_Blocks:

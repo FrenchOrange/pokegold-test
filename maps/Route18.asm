@@ -44,6 +44,7 @@ Route18_MapEvents:
 
 	def_warp_events
 	warp_event 19, 27, NUVEMA_TOWN, 1 ; pit
+	warp_event 21, 15, ROUTE_18_EGG_BARRACK, 1
 
 	def_coord_events
 

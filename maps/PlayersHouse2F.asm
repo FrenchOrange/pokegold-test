@@ -87,6 +87,7 @@ DebugSign:
 	giveitem MAX_REPEL, 99
 	giveitem ESCAPE_ROPE, 99
 	giveitem MAIL, 5
+	giveitem HARD_STONE, 5
 	giveitem BICYCLE
 	giveitem SUPER_ROD
 	giveitem HM_CUT
@@ -113,9 +114,7 @@ DebugSign:
 	givepoke UNFEZANT, 100
 	givepoke STOUTLAND, 100
 	givepoke JOLTIK, 100
-;	givepoke DITTO, 100
-	givepoke COTTONEE, 100
-	givepoke PETILIL, 100
+	givepoke DITTO, 100
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH

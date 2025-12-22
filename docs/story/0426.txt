@@ -22,7 +22,7 @@ Come back for it later.
 We can raise two of your POKéMON.<LINE>Would you like us to raise another?
 You have energetic POKéMON.<LINE>Do you want your POKéMON back?
 By level, your <PLAYER> has<LINE>grown by about \xf000ȁ\x0001\x0001.
-If you want your <PLAYER> back,<LINE>it will cost $\xf000Ȅ\x0001\x0001.<LINE><LINE>Do you want it back?
+If you want your <PLAYER> back,<LINE>it will cost ¥\xf000Ȅ\x0001\x0001.<LINE><LINE>Do you want it back?
 You don't have enough money…
 <POKEMON> took <PLAYER> back<LINE>from the Day-Care Lady.
 Do you want to take back the other<LINE>one, too? 

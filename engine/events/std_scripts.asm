@@ -45,7 +45,7 @@ StdScripts::
 	add_stdscript GymStatue1Script
 	add_stdscript GymStatue2Script
 	add_stdscript ReceiveItemScript
-	add_stdscript ReceiveTogepiEggScript
+	add_stdscript ReceiveEggScript
 	add_stdscript PCScript
 	add_stdscript GameCornerCoinVendorScript
 	add_stdscript HappinessCheckScript
@@ -546,7 +546,7 @@ ReceiveItemScript:
 	waitsfx
 	end
 
-ReceiveTogepiEggScript:
+ReceiveEggScript:
 	waitsfx
 	writetext ReceivedItemText
 	playsound SFX_GET_EGG

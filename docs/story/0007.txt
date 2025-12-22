@@ -2,7 +2,7 @@ Welcome to BLACK CITY.<LINE>This is the city of dreams, greed, and<LINE>more gre
 This city is filled with vibrant people<LINE>who are like big piles of greed.<LINE>Hmm. Try defeating \xf000Ȅ\x0001\x0000 of the<LINE>people outside.<LINE>Then I'll respond to your greed.
 I see you've defeated \xf000Ȅ\x0001\x0001 of them.<LINE>Hmph. Keep trying.
 What?<LINE>You've already beaten \xf000Ȅ\x0001\x0000 people?<LINE>You…<LINE>You're a greedier one than I expected.<LINE><LINE>Deep down, you want a lot.<LINE>I like you!<LINE>I'll respond to your greed.
-\xf000Ā\x0001\x0002 received $\xf000Ȅ\x0001\x0003!
+\xf000Ā\x0001\x0002 received ¥\xf000Ȅ\x0001\x0003!
 Next, try to defeat \xf000Ȅ\x0001\x0004 people.<LINE>Show me how greedy you really are.
 Wow! You're the best!<LINE>You're definitely the greediest<LINE>of the greedy!<LINE>You put the other greedies to shame!
 Wow! It's all really expensive, so these<LINE>things must be great…<LINE>I want this, and that, and that<LINE>thing over there!

@@ -1,33 +1,25 @@
 Hi! I am a humble Maid!<LINE>My master has a big heart to match his<LINE>big belly. He's a gourmet!<LINE>So I am looking for ingredients that will<LINE>make his heart jump for joy!
 Sniff, sniff… Sniff, sniff…<LINE>Oh, that aroma! It smells so gourmet!<LINE>Do you have a wonderful ingredient in<LINE>your BAG?<LINE><LINE>Would you consider selling it to me?
-Oh, it smells so good!<LINE>That \xf000ĉ\x0001\x0000 of yours is a very<LINE>rare ingredient indeed!<LINE>Would you take $\xf000ȇ\x0001\x0001 for it?
-Turned over the \xf000ĉ\x0001\x0000 and<LINE>received $\xf000ȇ\x0001\x0001!
+Oh, it smells so good!<LINE>That \xf000ĉ\x0001\x0000 of yours is a very<LINE>rare ingredient indeed!<LINE>Would you take ¥\xf000ȇ\x0001\x0001 for it?
+Turned over the \xf000ĉ\x0001\x0000 and<LINE>received ¥\xf000ȇ\x0001\x0001!
 Merci! Thank you!!<LINE>With this, I can create a superb menu.<LINE>My master will be so surprised!
 Hmmm… This is not quite what I'm<LINE>looking for.<LINE>I don't think my master will be satisfied<LINE>with such a smell…
 Aww… Well, that's OK.<LINE>If you find a gourmet ingredient for me,<LINE>please let me know!
 Sniff, sniff… Sniff, sniff…<LINE>Well, I don't smell anything interesting<LINE>in your BAG.<LINE>But if you find a gourmet ingredient,<LINE>please let me know!
 Ore, ore, ore…<LINE>Ores that I adore!<LINE>Ah, this is where you should laugh…<LINE>Anyway… I will pay you well for<LINE>rare ores.<LINE>And not just ores! Stones, gems,<LINE>shards…anything mineral! I love it all!
 Don't you have an adorable ore<LINE>that shakes my core?
-Oh, I do adore the ores!<LINE>That \xf000ĉ\x0001\x0000, it's shaking me!<LINE>Will you sell it for $\xf000ȇ\x0001\x0001?
-Turned over the \xf000ĉ\x0001\x0000<LINE>and received $\xf000ȇ\x0001\x0001!
+Oh, I do adore the ores!<LINE>That \xf000ĉ\x0001\x0000, it's shaking me!<LINE>Will you sell it for ¥\xf000ȇ\x0001\x0001?
+Turned over the \xf000ĉ\x0001\x0000<LINE>and received ¥\xf000ȇ\x0001\x0001!
 The deal is done!<LINE>I've scored an ore I can adore!
 Huh? What on earth is this?<LINE>You can't shake my core<LINE>with an ore so poor!
 Hmmm. My core won't change.<LINE>I hope you sell it to me someday.
 Don't you have an adorable ore<LINE>that shakes my core?<LINE>Hmmmm. You don't seem to have it.<LINE>Come back again.
 As you can see,<LINE>I am an ultrarich billionaire!<LINE>And as you can see,<LINE>my hobby is to collect rare items!<LINE>In fact, this outfit is ultra expensive<LINE>and rare.<LINE><LINE>Can you see it? Can you?
 There's something that this billionaire<LINE>wants to get his hands on, even if it<LINE><LINE>means spending a lot of money.<LINE>Do you have such a rare item?<LINE>Do you?
-That \xf000ĉ\x0001\x0000!! Will you sell it to me<LINE>for $\xf000ȇ\x0001\x0001? Will you?
-Turned over the \xf000ĉ\x0001\x0000<LINE>and received $\xf000ȇ\x0001\x0001!
+That \xf000ĉ\x0001\x0000!! Will you sell it to me<LINE>for ¥\xf000ȇ\x0001\x0001? Will you?
+Turned over the \xf000ĉ\x0001\x0000<LINE>and received ¥\xf000ȇ\x0001\x0001!
 I got a very good item!<LINE>Don't you think it's great? Don't you?
 This is slightly different.<LINE>Don't you think so, too? Don't you?
 If you ever change your mind,<LINE>will you sell me the rare item? Will you?
-Actually, it's…<LINE>It's a rare treasure, Relic Crown!<LINE>I was told it was at the innermost part<LINE>of the ABYSSAL RUINS!<LINE>I think it is understandable that you<LINE>want to treasure it, but will you sell it<LINE><LINE>to me for $\xf000ȇ\x0001\x0001? Will you?
+Actually, it's…<LINE>It's a rare treasure, Relic Crown!<LINE>I was told it was at the innermost part<LINE>of the ABYSSAL RUINS!<LINE>I think it is understandable that you<LINE>want to treasure it, but will you sell it<LINE><LINE>to me for ¥\xf000ȇ\x0001\x0001? Will you?
 There's something that this billionaire<LINE>wants to get his hands on, even if it<LINE><LINE>means spending a lot of money.<LINE>Do you have such a rare item?<LINE>Do you?<LINE>Grrr! You don't have a rare item,<LINE>do you?
-Hey, check it out. I've got a sweet deal<LINE>for ya!<LINE>You know how POKéMON like to hide behind<LINE>stones or rocks, yeah?<LINE>Sometimes they hide cool stuff, too.<LINE>If you find something cool behind a rock,<LINE>you should bring it to me.<LINE>I'll make it worth your while.
-What's up?<LINE>Did you find something cool for me?
-Hey, nice! Let me check out<LINE>that \xf000ĉ\x0001\x0000…<LINE>I'll give you $\xf000ȇ\x0001\x0001 for it.<LINE>Whaddaya say?
-Turned over the \xf000ĉ\x0001\x0000<LINE>and received $\xf000ȇ\x0001\x0001!
-Hey, thanks!<LINE>I bet I can sell this to a collector for<LINE>way more than I just gave you.<LINE>Ha! That's business for ya!
-Nope, this is no good. Not worth my while.
-Hey, come see me if you find something<LINE>cool, got it?<LINE>I'll make it worth your while.
-What's up?<LINE>Did you find something cool for me?<LINE>…Nope, nothing cool in your BAG.<LINE>Oh well. Maybe next time!

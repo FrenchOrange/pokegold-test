@@ -1,8 +1,8 @@
-Welcome to the ROYAL UNOVA!<LINE>The scenery is exhilarating,<LINE>the battles are exciting.<LINE>The ticket is $1,000.<LINE>Would you like to get on board?
+Welcome to the ROYAL UNOVA!<LINE>The scenery is exhilarating,<LINE>the battles are exciting.<LINE>The ticket is ¥1,000.<LINE>Would you like to get on board?
 The ROYAL UNOVA leaves once a day,<LINE>only in the evening.<LINE><LINE>It is a cruiser-type passenger ship.
 The ROYAL UNOVA operates only in<LINE>the evening.<LINE><LINE>Please come back again.
 I'm sorry, you don't have enough money.<LINE>Please come back again.
-The ticket is $1,000.<LINE>Would you like to get on board?
+The ticket is ¥1,000.<LINE>Would you like to get on board?
 The ship goes under a big bridge called<LINE>SKYARROW BRIDGE in the UNOVA region,<LINE><LINE>then turns around at MARVELOUS BRIDGE<LINE><LINE>and returns to CASTELIA CITY.<LINE>We'll let you know when it's time<LINE>to leave by blowing a whistle five times.
 From the deck of the world-famous Royal<LINE>UNOVA, you can enjoy a spectacular view.<LINE>And the passenger cabins are full of<LINE>Trainers who love to battle.<LINE>Please enjoy both the view and<LINE>the battles!<LINE>Note that as C-Gears may affect radio<LINE>signals or instruments in the ship,<LINE><LINE>we ask that you refrain from using them.<LINE><LINE>Thank you.
 The power of the C-Gear will be turned<LINE>off. Is that OK?

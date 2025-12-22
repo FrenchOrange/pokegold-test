@@ -7,7 +7,7 @@ I see!<LINE>The line gets really long!<LINE>But it's definitely delicious.<LINE>
 I see. Well, it is crowded.<LINE>But just between you and me,<LINE>it's actually pretty empty today.<LINE>Usually, it's sold out by now.
 Huh? Oh, here you can buy the dessert<LINE>that everyone in CASTELIA CITY<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!
 Huh? Oh, here you can buy the dessert<LINE>that everyone in CASTELIA CITY<LINE><LINE>is talking about!<LINE>But it looks like I got the last one.<LINE>They're sold out for today!<LINE>Try again on a different day!
-How about CASTELIA CITY's famous<LINE>CASTELIAcone!<LINE>It's $100.<LINE>Would you like to buy one?
+How about CASTELIA CITY's famous<LINE>CASTELIAcone!<LINE>It's ¥100.<LINE>Would you like to buy one?
 Oh, you really aren't going to buy one?<LINE>They'll sell out soon!
 Thank you very much!<LINE>We hope you enjoy the cute appearance<LINE>and the naive flavor!
 Thank you very much!<LINE>…Huh? Oh, dear!<LINE>It looks like you don't have enough<LINE><LINE>money. Please come again sometime.

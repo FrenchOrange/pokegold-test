@@ -274,6 +274,7 @@ ENDM
 	map_const ROUTE_14,                                    10, 18 ;  2
 	map_const ROUTE_15,                                    20,  9 ;  3
 	map_const ROUTE_18,                                    23, 20 ;  4
+	map_const ROUTE_18_EGG_BARRACK,                         4,  5 ;  4
 	endgroup
 
 	newgroup LAVENDER                                             ; 18

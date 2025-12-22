@@ -278,6 +278,7 @@ ENDM
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
+	map_attributes Route18EggBarrack, ROUTE_18_EGG_BARRACK, $00, 0
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
 	map_attributes PinwheelForest, PINWHEEL_FOREST, $02, 0
 	map_attributes SlowpokeWellB2F, SLOWPOKE_WELL_B2F, $09, 0
