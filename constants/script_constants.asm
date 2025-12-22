@@ -200,7 +200,7 @@ DEF EMOTE_FROM_MEM EQU -1
 DEF EMOTE_LENGTH EQU 6
 
 ; FossilScientist setval arguments
-	const_def 1
+	const_def
 	const REVIVE_PLUME_FOSSIL ; 1
 	const REVIVE_COVER_FOSSIL ; 2
 

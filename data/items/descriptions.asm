@@ -517,7 +517,6 @@ EverStoneDesc:
 EvioliteDesc:
 	db   "Ups DEF and SP.DEF"
 	next "of evolvers.@"
-	done
 
 LuckyEggDesc:
 	db   "Earns extra EXP."

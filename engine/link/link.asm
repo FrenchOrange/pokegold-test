@@ -591,23 +591,6 @@ Link_CopyMailPreamble:
 	ret
 
 TimeCapsule_ReplaceTeruSama:
-	ld a, b
-	and a
-	ret z
-.loop
-	ld a, [hli]
-	and a
-	jr z, .end
-	cp b
-	jr z, .found
-	inc hl
-	jr .loop
-
-.found
-	ld b, [hl]
-
-.end
-	pop hl
 	ret
 
 Link_CopyOTData:
