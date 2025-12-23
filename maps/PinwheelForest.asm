@@ -26,6 +26,8 @@ PinwheelForest_MapEvents:
 	def_warp_events
 	warp_event 43, 30, PINWHEEL_FOREST_OUTSIDE, 1
 	warp_event 43, 31, PINWHEEL_FOREST_OUTSIDE, 2
+	warp_event 46,  0, RUMINATION_FIELD, 1
+	warp_event 47,  0, RUMINATION_FIELD, 2
 
 	def_coord_events
 

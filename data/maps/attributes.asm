@@ -243,6 +243,7 @@ ENDM
 
 	map_attributes Route23, ROUTE_23, $0f, 0
 
+; New Bark Town
 	map_attributes PlayersHouse1F, PLAYERS_HOUSE_1F, $00, 0
 	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
 	map_attributes BiancasHouse1F, BIANCAS_HOUSE_1F, $00, 0
@@ -250,6 +251,7 @@ ENDM
 	map_attributes CherensHouse1F, CHERENS_HOUSE_1F, $00, 0
 	map_attributes CherensHouse2F, CHERENS_HOUSE_2F, $00, 0
 	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
+; Accumula Town
 	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
 	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
 	map_attributes AccumulaRPSCondo2F, ACCUMULA_RPS_CONDO_2F, $00, 0
@@ -259,6 +261,7 @@ ENDM
 	map_attributes AccumulaNewlywedsCondo2F, ACCUMULA_NEWLYWEDS_CONDO_2F, $00, 0
 	map_attributes AccumulaSiblingsHouse, ACCUMULA_SIBLINGS_HOUSE, $00, 0
 	map_attributes VioletGym, VIOLET_GYM, $00, 0
+; Striaton City
 	map_attributes TrainersSchool, TRAINERS_SCHOOL, $00, 0
 	map_attributes StriatonNicknameCondo1F, STRIATON_NICKNAME_CONDO_1F, $00, 0
 	map_attributes StriatonNicknameCondo2F, STRIATON_NICKNAME_CONDO_2F, $00, 0
@@ -267,6 +270,7 @@ ENDM
 	map_attributes StriatonSixTeamCondo2F, STRIATON_SIX_TEAM_CONDO_2F, $00, 0
 	map_attributes StriatonFennelCondo1F, STRIATON_FENNEL_CONDO_1F, $00, 0
 	map_attributes StriatonFennelCondo2F, STRIATON_FENNEL_CONDO_2F, $00, 0
+; Nacrene City
 	map_attributes NacrenePokecenter1F, NACRENE_POKECENTER_1F, $00, 0
 	map_attributes NacreneFurnitureHouse, NACRENE_FURNITURE_HOUSE, $00, 0
 	map_attributes NacreneTradeHouse, NACRENE_TRADE_HOUSE, $00, 0
@@ -275,15 +279,19 @@ ENDM
 	map_attributes NacrenePoetHouse, NACRENE_POET_HOUSE, $00, 0
 	map_attributes NacreneCafe, NACRENE_CAFE, $00, 0
 	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
+; Gates
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
 	map_attributes Route18EggBarrack, ROUTE_18_EGG_BARRACK, $00, 0
+; Dungeons
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
 	map_attributes DreamyardInterior, DREAMYARD_INTERIOR, $00, 0
 	map_attributes WellspringCave1F, WELLSPRING_CAVE_1F, $19, 0
 	map_attributes WellspringCaveB1F, WELLSPRING_CAVE_B1F, $19, 0
 	map_attributes PinwheelForest, PINWHEEL_FOREST, $02, 0
+	map_attributes RuminationField, RUMINATION_FIELD, $02, 0
+; vanilla
 	map_attributes SproutTower1F, SPROUT_TOWER_1F, $00, 0
 	map_attributes SproutTower2F, SPROUT_TOWER_2F, $00, 0
 	map_attributes SproutTower3F, SPROUT_TOWER_3F, $00, 0
@@ -312,7 +320,6 @@ ENDM
 	map_attributes RuinsOfAlphAerodactylChamber, RUINS_OF_ALPH_AERODACTYL_CHAMBER, $00, 0
 	map_attributes RuinsOfAlphInnerChamber, RUINS_OF_ALPH_INNER_CHAMBER, $00, 0
 	map_attributes RuinsOfAlphResearchCenter, RUINS_OF_ALPH_RESEARCH_CENTER, $00, 0
-	map_attributes UnionCaveB2F, UNION_CAVE_B2F, $19, 0
 	map_attributes OlivineLighthouse1F, OLIVINE_LIGHTHOUSE_1F, $00, 0
 	map_attributes OlivineLighthouse2F, OLIVINE_LIGHTHOUSE_2F, $00, 0
 	map_attributes OlivineLighthouse3F, OLIVINE_LIGHTHOUSE_3F, $00, 0

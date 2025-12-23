@@ -257,9 +257,6 @@ Colosseum_Blocks:
 TradeCenter_Blocks:
 	INCBIN "maps/TradeCenter.blk"
 
-UnionCaveB2F_Blocks:
-	INCBIN "maps/UnionCaveB2F.blk"
-
 NationalPark_Blocks:
 NationalParkBugContest_Blocks:
 	INCBIN "maps/NationalPark.blk"
@@ -533,6 +530,9 @@ WellspringCaveB1F_Blocks:
 
 PinwheelForest_Blocks:
 	INCBIN "maps/PinwheelForest.blk"
+
+RuminationField_Blocks:
+	INCBIN "maps/RuminationField.blk"
 
 DarkCaveVioletEntrance_Blocks:
 	INCBIN "maps/DarkCaveVioletEntrance.blk"

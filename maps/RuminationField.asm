@@ -1,15 +1,16 @@
 	object_const_def
 
-UnionCaveB2F_MapScripts:
+RuminationField_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-UnionCaveB2F_MapEvents:
+RuminationField_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  5,  3, UNION_CAVE_B2F, 1
+	warp_event  6, 13, PINWHEEL_FOREST, 3
+	warp_event  7, 13, PINWHEEL_FOREST, 4
 
 	def_coord_events
 
