@@ -257,9 +257,6 @@ Colosseum_Blocks:
 TradeCenter_Blocks:
 	INCBIN "maps/TradeCenter.blk"
 
-UnionCaveB1F_Blocks:
-	INCBIN "maps/UnionCaveB1F.blk"
-
 UnionCaveB2F_Blocks:
 	INCBIN "maps/UnionCaveB2F.blk"
 
@@ -524,6 +521,9 @@ SECTION "Map Blocks 3", ROMX
 
 DreamyardOutside_Blocks:
 	INCBIN "maps/DreamyardOutside.blk"
+
+DreamyardInterior_Blocks:
+	INCBIN "maps/DreamyardInterior.blk"
 
 WellspringCave1F_Blocks:
 	INCBIN "maps/WellspringCave1F.blk"

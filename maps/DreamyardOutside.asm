@@ -46,6 +46,9 @@ DreamyardOutside_MapEvents:
 	warp_event  0, 22, STRIATON_CITY, 3
 	warp_event  0, 23, STRIATON_CITY, 4
 	warp_event 12, 27, NUVEMA_TOWN, 1 ; pit
+	warp_event 38,  8, DREAMYARD_INTERIOR, 1
+	warp_event 10, 32, DREAMYARD_INTERIOR, 2
+	warp_event 38, 36, DREAMYARD_INTERIOR, 3
 
 	def_coord_events
 

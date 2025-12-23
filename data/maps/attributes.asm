@@ -280,6 +280,7 @@ ENDM
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
 	map_attributes Route18EggBarrack, ROUTE_18_EGG_BARRACK, $00, 0
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
+	map_attributes DreamyardInterior, DREAMYARD_INTERIOR, $00, 0
 	map_attributes WellspringCave1F, WELLSPRING_CAVE_1F, $19, 0
 	map_attributes WellspringCaveB1F, WELLSPRING_CAVE_B1F, $19, 0
 	map_attributes PinwheelForest, PINWHEEL_FOREST, $02, 0
@@ -311,8 +312,7 @@ ENDM
 	map_attributes RuinsOfAlphAerodactylChamber, RUINS_OF_ALPH_AERODACTYL_CHAMBER, $00, 0
 	map_attributes RuinsOfAlphInnerChamber, RUINS_OF_ALPH_INNER_CHAMBER, $00, 0
 	map_attributes RuinsOfAlphResearchCenter, RUINS_OF_ALPH_RESEARCH_CENTER, $00, 0
-	map_attributes UnionCaveB1F, UNION_CAVE_B1F, $09, 0
-	map_attributes UnionCaveB2F, UNION_CAVE_B2F, $09, 0
+	map_attributes UnionCaveB2F, UNION_CAVE_B2F, $19, 0
 	map_attributes OlivineLighthouse1F, OLIVINE_LIGHTHOUSE_1F, $00, 0
 	map_attributes OlivineLighthouse2F, OLIVINE_LIGHTHOUSE_2F, $00, 0
 	map_attributes OlivineLighthouse3F, OLIVINE_LIGHTHOUSE_3F, $00, 0
@@ -335,17 +335,17 @@ ENDM
 	map_attributes IcePathB2FMahoganySide, ICE_PATH_B2F_MAHOGANY_SIDE, $19, 0
 	map_attributes IcePathB2FBlackthornSide, ICE_PATH_B2F_BLACKTHORN_SIDE, $19, 0
 	map_attributes IcePathB3F, ICE_PATH_B3F, $19, 0
-	map_attributes WhirlIslandNW, WHIRL_ISLAND_NW, $09, 0
-	map_attributes WhirlIslandNE, WHIRL_ISLAND_NE, $09, 0
-	map_attributes WhirlIslandSW, WHIRL_ISLAND_SW, $09, 0
-	map_attributes WhirlIslandCave, WHIRL_ISLAND_CAVE, $09, 0
-	map_attributes WhirlIslandSE, WHIRL_ISLAND_SE, $0f, 0
-	map_attributes WhirlIslandB1F, WHIRL_ISLAND_B1F, $09, 0
-	map_attributes WhirlIslandB2F, WHIRL_ISLAND_B2F, $2e, 0
-	map_attributes WhirlIslandLugiaChamber, WHIRL_ISLAND_LUGIA_CHAMBER, $0f, 0
-	map_attributes DarkCaveVioletEntrance, DARK_CAVE_VIOLET_ENTRANCE, $09, 0
-	map_attributes DarkCaveBlackthornEntrance, DARK_CAVE_BLACKTHORN_ENTRANCE, $09, 0
-	map_attributes TohjoFalls, TOHJO_FALLS, $09, 0
+	map_attributes WhirlIslandNW, WHIRL_ISLAND_NW, $19, 0
+	map_attributes WhirlIslandNE, WHIRL_ISLAND_NE, $19, 0
+	map_attributes WhirlIslandSW, WHIRL_ISLAND_SW, $19, 0
+	map_attributes WhirlIslandCave, WHIRL_ISLAND_CAVE, $19, 0
+	map_attributes WhirlIslandSE, WHIRL_ISLAND_SE, $19, 0
+	map_attributes WhirlIslandB1F, WHIRL_ISLAND_B1F, $19, 0
+	map_attributes WhirlIslandB2F, WHIRL_ISLAND_B2F, $19, 0
+	map_attributes WhirlIslandLugiaChamber, WHIRL_ISLAND_LUGIA_CHAMBER, $19, 0
+	map_attributes DarkCaveVioletEntrance, DARK_CAVE_VIOLET_ENTRANCE, $19, 0
+	map_attributes DarkCaveBlackthornEntrance, DARK_CAVE_BLACKTHORN_ENTRANCE, $19, 0
+	map_attributes TohjoFalls, TOHJO_FALLS, $19, 0
 	map_attributes OlivinePokecenter1F, OLIVINE_POKECENTER_1F, $00, 0
 	map_attributes OlivineGym, OLIVINE_GYM, $00, 0
 	map_attributes OlivineTimsHouse, OLIVINE_TIMS_HOUSE, $00, 0

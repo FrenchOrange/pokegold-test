@@ -59,6 +59,7 @@ ENDM
 
 	newgroup DUNGEONS                                             ;  3
 	map_const DREAMYARD_OUTSIDE,                           22, 22 ;  1
+	map_const DREAMYARD_INTERIOR,                          10, 10 ;  2
 	map_const WELLSPRING_CAVE_1F,                          12, 10 ;  3
 	map_const WELLSPRING_CAVE_B1F,                         11, 22 ;  4
 	map_const PINWHEEL_FOREST,                             25, 18 ; 44
@@ -90,7 +91,6 @@ ENDM
 	map_const RUINS_OF_ALPH_AERODACTYL_CHAMBER,             4,  5 ; 26
 	map_const RUINS_OF_ALPH_INNER_CHAMBER,                 10, 14 ; 27
 	map_const RUINS_OF_ALPH_RESEARCH_CENTER,                4,  4 ; 28
-	map_const UNION_CAVE_B1F,                              10, 18 ; 30
 	map_const UNION_CAVE_B2F,                              10, 18 ; 31
 	map_const OLIVINE_LIGHTHOUSE_1F,                       10,  9 ; 34
 	map_const OLIVINE_LIGHTHOUSE_2F,                       10,  9 ; 35
