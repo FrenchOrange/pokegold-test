@@ -11,6 +11,7 @@ MapScenes::
 	scene_var PLAYERS_HOUSE_2F,                            wPlayersHouse2FSceneID
 	scene_var PLAYERS_HOUSE_1F,                            wPlayersHouse1FSceneID
 	scene_var BIANCAS_HOUSE_1F,                            wBiancasHouse1FSceneID
+	scene_var P2_LAB,                                      wP2LabSceneID
 	scene_var ACCUMULA_POKECENTER_1F,                      AccumulaPokecenter1FSceneID
 	scene_var STRIATON_SIX_TEAM_CONDO_1F,                  wStriatonSixTeamCondo1FSceneID
 	scene_var STRIATON_NICKNAME_CONDO_1F,                  wStriatonNicknameCondo1FSceneID
@@ -51,7 +52,6 @@ MapScenes::
 	scene_var RADIO_TOWER_4F,                              wRadioTower4FSceneID ; unused
 	scene_var RADIO_TOWER_5F,                              wRadioTower5FSceneID ; unused
 	scene_var RUINS_OF_ALPH_OUTSIDE,                       wRuinsOfAlphOutsideSceneID ; unused
-	scene_var RUINS_OF_ALPH_RESEARCH_CENTER,               wRuinsOfAlphResearchCenterSceneID ; unused
 	scene_var RUINS_OF_ALPH_INNER_CHAMBER,                 wRuinsOfAlphInnerChamberSceneID ; unused
 	scene_var SPROUT_TOWER_2F,                             wSproutTower2fSceneID ; unused
 	scene_var TEAM_ROCKET_BASE_B1F,                        wTeamRocketBaseB1FSceneID ; unused

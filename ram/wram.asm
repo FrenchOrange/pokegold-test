@@ -2464,6 +2464,7 @@ wColosseumSceneID::                               db
 wPlayersHouse2FSceneID::                          db
 wPlayersHouse1FSceneID::                          db
 wBiancasHouse1FSceneID::                          db
+wP2LabSceneID::                                   db
 AccumulaPokecenter1FSceneID::                     db
 wStriatonSixTeamCondo1FSceneID::                  db
 wStriatonNicknameCondo1FSceneID::                 db
@@ -2504,7 +2505,6 @@ wBurnedTowerB1FSceneID::                          db
 wRadioTower4FSceneID::                            db
 wRadioTower5FSceneID::                            db
 wRuinsOfAlphOutsideSceneID::                      db
-wRuinsOfAlphResearchCenterSceneID::               db
 wRuinsOfAlphInnerChamberSceneID::                 db
 wSproutTower2fSceneID::                           db
 wTeamRocketBaseB1FSceneID::                       db

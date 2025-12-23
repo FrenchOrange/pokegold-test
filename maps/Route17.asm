@@ -21,6 +21,7 @@ Route17_MapEvents:
 	def_warp_events
 	warp_event 47, 30, ROUTE_17_GATE, 1
 	warp_event 47, 31, ROUTE_17_GATE, 2
+	warp_event 40,  3, P2_LAB, 1
 
 	def_coord_events
 

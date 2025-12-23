@@ -45,7 +45,7 @@ Landmarks:
 	landmark 108,  44, MahoganyTownName
 	landmark 108,  36, Route43Name
 	landmark 108,  28, LakeOfRageName
-	landmark 120,  44, Route44Name
+	landmark 120,  44, P2LabName
 	landmark 130,  38, IcePathName
 	landmark 132,  44, BlackthornCityName
 	landmark 132,  36, DragonsDenName
@@ -153,7 +153,7 @@ Route40Name:         db "ROUTE 40@"
 Route41Name:         db "ROUTE 41@"
 Route42Name:         db "ROUTE 42@"
 Route43Name:         db "ROUTE 43@"
-Route44Name:         db "ROUTE 44@"
+P2LabName:           db "P2 LAB@"
 WellspringCaveName:  db "WELLSPRING<BSP>CAVE@"
 DarkCaveName:        db "DARK CAVE@"
 PinwheelForestName:  db "PINWHEEL<BSP>FOREST@"

@@ -534,14 +534,14 @@ PinwheelForest_Blocks:
 RuminationField_Blocks:
 	INCBIN "maps/RuminationField.blk"
 
+P2Lab_Blocks:
+	INCBIN "maps/P2Lab.blk"
+
 DarkCaveVioletEntrance_Blocks:
 	INCBIN "maps/DarkCaveVioletEntrance.blk"
 
 DarkCaveBlackthornEntrance_Blocks:
 	INCBIN "maps/DarkCaveBlackthornEntrance.blk"
-
-RuinsOfAlphResearchCenter_Blocks:
-	INCBIN "maps/RuinsOfAlphResearchCenter.blk"
 
 GoldenrodBikeShop_Blocks:
 	INCBIN "maps/GoldenrodBikeShop.blk"
