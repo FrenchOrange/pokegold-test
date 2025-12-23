@@ -49,7 +49,7 @@ Landmarks:
 	landmark 130,  38, IcePathName
 	landmark 132,  44, BlackthornCityName
 	landmark 132,  36, DragonsDenName
-	landmark 132,  64, Route45Name
+	landmark 132,  64, WellspringCaveName
 	landmark 112,  72, DarkCaveName
 	landmark  52,  92, Route1Name
 	landmark  52,  64, Route2Name
@@ -154,7 +154,7 @@ Route41Name:         db "ROUTE 41@"
 Route42Name:         db "ROUTE 42@"
 Route43Name:         db "ROUTE 43@"
 Route44Name:         db "ROUTE 44@"
-Route45Name:         db "ROUTE 45@"
+WellspringCaveName:  db "WELLSPRING<BSP>CAVE@"
 DarkCaveName:        db "DARK CAVE@"
 PinwheelForestName:  db "PINWHEEL<BSP>FOREST@"
 BurnedTowerName:     db "BURNED<BSP>TOWER@"

@@ -263,9 +263,6 @@ UnionCaveB1F_Blocks:
 UnionCaveB2F_Blocks:
 	INCBIN "maps/UnionCaveB2F.blk"
 
-UnionCave1F_Blocks:
-	INCBIN "maps/UnionCave1F.blk"
-
 NationalPark_Blocks:
 NationalParkBugContest_Blocks:
 	INCBIN "maps/NationalPark.blk"
@@ -528,8 +525,11 @@ SECTION "Map Blocks 3", ROMX
 DreamyardOutside_Blocks:
 	INCBIN "maps/DreamyardOutside.blk"
 
-SlowpokeWellB2F_Blocks:
-	INCBIN "maps/SlowpokeWellB2F.blk"
+WellspringCave1F_Blocks:
+	INCBIN "maps/WellspringCave1F.blk"
+
+WellspringCaveB1F_Blocks:
+	INCBIN "maps/WellspringCaveB1F.blk"
 
 PinwheelForest_Blocks:
 	INCBIN "maps/PinwheelForest.blk"

@@ -42,7 +42,7 @@
 	const LANDMARK_ICE_PATH          ; 27
 	const LANDMARK_BLACKTHORN_CITY   ; 28
 	const LANDMARK_DRAGONS_DEN       ; 29
-	const LANDMARK_ROUTE_45          ; 2a
+	const LANDMARK_WELLSPRING_CAVE   ; 2a
 	const LANDMARK_DARK_CAVE         ; 2b
 	const LANDMARK_ROUTE_1           ; 2f
 	const LANDMARK_ROUTE_2           ; 31
