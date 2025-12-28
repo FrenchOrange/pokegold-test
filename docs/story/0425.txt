@@ -35,7 +35,7 @@ The bond with your POKéMON<LINE>is not strong enough! Keh!
 That POKéMON already knows<LINE>that move! Keh!
 I should teach \xf000ć\x0001\x0001 to<LINE><PLAYER>, right? Keh!
 
-Heya!<LINE>The PROFESSOR gave you a POKéMON to<LINE>start your journey, right?<LINE>If that POKéMON is still with you, and if<LINE>you two have a strong bond, there's a<LINE><LINE>special move it can learn…<LINE>Want me to teach it a battle combo move?
+Heya!<LINE>The professor gave you a POKéMON to<LINE>start your journey, right?<LINE>If that POKéMON is still with you, and if<LINE>you two have a strong bond, there's a<LINE><LINE>special move it can learn…<LINE>Want me to teach it a battle combo move?
 A special move…<LINE>Should I teach it a battle-combo move?
 I can't teach these POKéMON.
 Is that so…<LINE>Well, come on back now, y'hear?
@@ -45,4 +45,4 @@ Teach a move to an EGG?<LINE>What kinda crazy talk is that?!
 This POKéMON… Well, it doesn't look<LINE>like it's too comfortable with you yet.
 I can't teach it twice. This POKéMON<LINE>already knows the special move!
 Want me to teach \xf000ć\x0001\x0001<LINE>to <PLAYER>?
-The POKéMON I've taken a shine to are<LINE>the ones you get from the PROFESSOR!<LINE>To teach all of these POKéMON a<LINE>special move, a battle combo move…<LINE><LINE>That's my pledge!
+The POKéMON I've taken a shine to are<LINE>the ones you get from the professor!<LINE>To teach all of these POKéMON a<LINE>special move, a battle combo move…<LINE><LINE>That's my pledge!

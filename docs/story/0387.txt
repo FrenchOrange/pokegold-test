@@ -1,5 +1,5 @@
 CHEREN: Stop!<LINE><PLAYER>!
-DRAYDEN and PROFESSOR JUNIPER told me.<LINE>You're heading for the<LINE><LINE>POKéMON LEAGUE, right?
+DRAYDEN and PROF.JUNIPER told me.<LINE>You're heading for the<LINE><LINE>POKéMON LEAGUE, right?
 CHEREN: Since it's ALDER…<LINE>Since it's the Champion,<LINE><LINE>I think it will be all right.<LINE>Worst-case scenario…<LINE>you'll be battling TEAM PLASMA's boss, N.<LINE>I need to know if you can handle it!
 CHEREN: Now is not the time for modesty.<LINE>Worst-case scenario, you'll be battling<LINE>TEAM PLASMA's boss, N!<LINE>I need proof you can handle it!
 CHEREN: Yep, you are something else.<LINE>And I mean that sincerely.<LINE>Right. Now, I have to make<LINE>your POKéMON healthy.

@@ -9,7 +9,7 @@ Day-Care Man: Thank you so much!<LINE>Please take this as a token<LINE>of my gra
 Day-Care Man: I have a DAY-CARE<LINE>on ROUTE 3!<LINE>If you have any POKéMON you want<LINE>me to raise, please drop them off!<LINE>I just came to sightsee, but<LINE>I got in a lot of trouble!
 BIANCA: Hey, <PLAYER>! Yoo-hoo!
 BIANCA: <PLAYER>! Know what?
-The PROFESSOR told me NIMBASA CITY<LINE>has a lot of things to see and do--<LINE>the amusement park, Big Stadium,<LINE>Small Court, and the Battle Subway!
+The professor told me NIMBASA CITY<LINE>has a lot of things to see and do--<LINE>the amusement park, Big Stadium,<LINE>Small Court, and the Battle Subway!
 I'm going to go see the POKéMON Musical!<LINE>See you later!
 BIANCA: Yoo-hoo, <PLAYER>!
 BIANCA: <PLAYER>! Know what?

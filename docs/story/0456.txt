@@ -47,7 +47,7 @@ ELESA: You know NIMBASA CITY?<LINE>You know it runs on energy generated<LINE>by 
 ELESA: Getting wrapped up in worries<LINE>is bad for your body and spirit.<LINE>That's when you must short out your<LINE>logic circuits and reboot your heart.
 ELESA: Without a word…<LINE>Without even a whisper…<LINE>My POKéMON connect me to other Trainers,<LINE>transmitting the current of my feelings.
 ELESA: Put bluntly, <LINE>swimsuits are nothing but cloth, right?
-LENORA: Aren't fossils amazing?<LINE>Although they are not alive and<LINE>cannot speak, they tell us so much<LINE><LINE>about the era in which they lived.<LINE>Hee, hee.<LINE>It was PROFESSOR JUNIPER who said that.
+LENORA: Aren't fossils amazing?<LINE>Although they are not alive and<LINE>cannot speak, they tell us so much<LINE><LINE>about the era in which they lived.<LINE>Hee, hee.<LINE>It was PROF.JUNIPER who said that.
 LENORA: TMs can be used as many times<LINE>as you wish, to be sure.<LINE>If you teach Retaliate to many different<LINE>POKéMON, eventually you should find<LINE><LINE>the perfect POKéMON for it!
 LENORA: When I was a little girl,<LINE>my dad, who was a miner, would<LINE><LINE>always bring back bones for me.<LINE>My young heart was captured by bones!<LINE>Before I knew it, I was a researcher.
 LENORA: Recently, a girl named BIANCA<LINE>came to ask me about POKéMON.<LINE>A Trainer's curiosity is insatiable<LINE>at any stage.

@@ -1,4 +1,4 @@
-PROFESSOR JUNIPER: Hi there, <PLAYER>!
+PROF.JUNIPER: Hi there, <PLAYER>!
 I heard about these POKéMON statues,<LINE>and I came to look into their origins!
 I've learned that each of these POKéMON<LINE>statues is actually a real POKéMON!<LINE>It's called Darmanitan. It's sleeping,<LINE>so it's become like a stone.
 When I quickly measured how long<LINE>they've existed…<LINE>It was amazing! Around 2,500 years!<LINE>Seems like they went to sleep that<LINE><LINE>long ago.<LINE>That means they've been here since<LINE>before this place was in ruins, when<LINE><LINE>the RELIC CASTLE was flourishing.<LINE>Perhaps they were guarding the city.
@@ -16,7 +16,7 @@ ALDER: What could that guy called<LINE>N possibly want?<LINE>Could he be trying 
 
 The XCASTER is ringing.
 <PLAYER> picked up the XCASTER.
-ALDER: I could hear PROFESSOR JUNIPER's<LINE>voice from clear over here!<LINE><LINE>Seems like something big is happening.<LINE>I wonder what is waiting at the museum<LINE>in NACRENE CITY.<LINE><LINE>I'll go on ahead!
+ALDER: I could hear PROF.JUNIPER's<LINE>voice from clear over here!<LINE><LINE>Seems like something big is happening.<LINE>I wonder what is waiting at the museum<LINE>in NACRENE CITY.<LINE><LINE>I'll go on ahead!
 CHEREN: I'll look around here once more.<LINE>I don't want to believe what<LINE>that GHETSIS says…<LINE>You should head for the<LINE>NACRENE CITY Museum.
 I came clear out to the DESERT RESORT<LINE>to train, but…<LINE>There are so many Ground-type POKéMON,<LINE>and I'm already in tatters…
 You're the first person to come<LINE>clear out here to talk to me!<LINE>I'm so moved!<LINE>So, I'll give you this!

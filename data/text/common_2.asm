@@ -983,8 +983,8 @@ _OakRating19::
 	done
 
 _OakPCText4::
-	text "The link to PROF."
-	line "OAK's PC closed."
+	text "Closing link to"
+	line "PROF.JUNIPER's PC."
 	done
 
 _MemoryGameYeahText::

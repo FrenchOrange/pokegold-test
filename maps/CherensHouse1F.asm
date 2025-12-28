@@ -61,7 +61,7 @@ CherensHouse1FCherensMom_AfterText:
 	cont "complete the"
 
 	para "#DEX by the"
-	line "PROFESSOR."
+	line "professor."
 
 	para "Don't worry!"
 
@@ -75,7 +75,7 @@ CherensHouse1FCherensDad_InitialText:
 	line "Hey, <PLAYER>!"
 
 	para "I heard it from"
-	line "the PROFESSOR!"
+	line "the professor!"
 
 	para "So, you're getting"
 	line "a #MON, eh?"

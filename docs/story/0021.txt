@@ -30,13 +30,13 @@ These old textile factories<LINE>and storehouses were abandoned.<LINE>But enterp
 That warehouse…<LINE>They're selling something good inside.
 Even though it's just an old warehouse,<LINE>it's become so popular…<LINE>It makes me take a second look at<LINE>what I think things are worth.
 NACRENE CITY is a highly fashionable<LINE>and admired locale!<LINE>Contrariwise, if you happen to be a bit<LINE>ordinary, here that's cool in its own way.
-PROFESSOR JUNIPER: ALDER told me what's<LINE>going on.<LINE><PLAYER>, you got caught up<LINE>in something serious, it seems…
+PROF.JUNIPER: ALDER told me what's<LINE>going on.<LINE><PLAYER>, you got caught up<LINE>in something serious, it seems…
 LENORA: Is this it?
 BIANCA: Whoa. Isn't that the…stone…<LINE>found in the DESERT RESORT?
 LENORA: Yes, that's right, but is this<LINE>really a Dragon-type POKéMON?
 CEDRIC: Surely…<LINE>When I investigated DRAGONSPIRAL TOWER,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Dark Stone!
 CEDRIC: Surely…<LINE>When I investigated DRAGONSPIRAL TOWER,<LINE><LINE>I found elements that were dated to the<LINE><LINE>same era as this Light Stone!
-PROFESSOR JUNIPER: …I looked into that.
+PROF.JUNIPER: …I looked into that.
 LENORA: Impressive, as always.
 BIANCA: But, you know, we're lucky…<LINE>'Cause what if TEAM PLASMA, like, noticed<LINE><LINE>that old stone that time…
 LENORA: That's a good point.<LINE>It's clear to me that they were<LINE>trying to steal the Dragon Skull so<LINE><LINE>they could revive the legendary<LINE><LINE>Dragon-type POKéMON.
@@ -57,10 +57,10 @@ Umm…
 LENORA: That's it!<LINE>We've got them, don't we?
 ALDER: Ah-hah. We've got those two.
 <PLAYER>!<LINE>Go to OPELUCID CITY.<LINE>The GYM LEADER of that city<LINE>uses Dragon-type POKéMON.<LINE>The GYM LEADER could know something.<LINE>I'll go ahead and wait for you there!<LINE>Until then!
-PROFESSOR JUNIPER: That's right!<LINE>OPELUCID CITY's IRIS might know something!
-PROFESSOR JUNIPER: That's right!<LINE>OPELUCID CITY's DRAYDEN might<LINE>know something!
+PROF.JUNIPER: That's right!<LINE>OPELUCID CITY's IRIS might know something!
+PROF.JUNIPER: That's right!<LINE>OPELUCID CITY's DRAYDEN might<LINE>know something!
 CEDRIC: Hey, <PLAYER>.<LINE>Never forget that you always<LINE>have POKéMON right by your side.
-PROFESSOR JUNIPER: I'm going to head<LINE>back to the lab and do some research…<LINE>I'll see if I can uncover what kinds of<LINE>beings these legendary Dragon-type<LINE><LINE>POKéMON are and if there is any way<LINE><LINE>to awaken them…
+PROF.JUNIPER: I'm going to head<LINE>back to the lab and do some research…<LINE>I'll see if I can uncover what kinds of<LINE>beings these legendary Dragon-type<LINE><LINE>POKéMON are and if there is any way<LINE><LINE>to awaken them…
 LENORA: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
 LENORA: Don't worry!<LINE>If we have something for you,<LINE>we'll come running to find you!
 BIANCA: Ooh. Sounds real serious…<LINE>Um, that's about all I got out of it.<LINE><PLAYER>, do you know OPELUCID CITY?<LINE>When you leave from ICIRRUS CITY<LINE>and, like, cross the TUBELINE BRIDGE,<LINE><LINE>it's on the other side. Umm…<LINE>I'm not that great with directions, so if<LINE>you need more, check your Town Map, OK?

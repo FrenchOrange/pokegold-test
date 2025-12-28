@@ -8,14 +8,14 @@ N: \xf000븉\x0001\x0001CHARGESTONE CAVE…<LINE>I like this place.<LINE>Formula
 Heeey!
 Guess what!
 BIANCA: <PLAYER>, did you know this?<LINE>The floating stones move<LINE>when you touch them!
-Right, PROFESSOR?
-PROFESSOR JUNIPER: Hi there!<LINE>How are you, <PLAYER>?
+Right, professor?
+PROF.JUNIPER: Hi there!<LINE>How are you, <PLAYER>?
 This place is always charged with<LINE>lots of electricity that POKéMON like!<LINE>The electric charges react from one<LINE>stone to another, and that's why<LINE><LINE>some of the stones are floating!<LINE>But not all of the stones can be pushed.
 My father asked me to research Klink,<LINE>which is a POKéMON that looks like a gear,<LINE><LINE>because I'm researching the origins<LINE><LINE>of POKéMON and the era they appeared.<LINE>He knows how to get what he wants from<LINE>people, but I was already interested in<LINE><LINE>this anyway, so it's a lot of fun!<LINE>Oh, yeah! <PLAYER>, this is for you!
-PROFESSOR JUNIPER: Giving that Lucky EGG<LINE>to a POKéMON to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong POKéMON will make<LINE>it easier to fill your POKéDEX pages!
-PROFESSOR JUNIPER: <PLAYER>!<LINE>Are you working on your POKéDEX?<LINE>Keep encountering lots of POKéMON,<LINE>so you can keep filling in those pages!
-BIANCA: I'm the PROFESSOR's bodyguard!<LINE>Well, that's probably not necessary, but<LINE>you have to protect important things!
-PROFESSOR JUNIPER: Hi there!<LINE>Did you find something?<LINE>I think we're just about<LINE>done collecting data.
+PROF.JUNIPER: Giving that Lucky EGG<LINE>to a POKéMON to hold increases the<LINE><LINE>amount of Exp. Points received in<LINE><LINE>battle by a lot!<LINE>Having strong POKéMON will make<LINE>it easier to fill your POKéDEX pages!
+PROF.JUNIPER: <PLAYER>!<LINE>Are you working on your POKéDEX?<LINE>Keep encountering lots of POKéMON,<LINE>so you can keep filling in those pages!
+BIANCA: I'm the professor's bodyguard!<LINE>Well, that's probably not necessary, but<LINE>you have to protect important things!
+PROF.JUNIPER: Hi there!<LINE>Did you find something?<LINE>I think we're just about<LINE>done collecting data.
 This cave has been around since the<LINE>distant past, but…<LINE>Data to prove that Klink existed more<LINE>than a hundred years ago can't be found.<LINE>So that must mean…<LINE>Klink suddenly appeared a hundred<LINE>years ago!
 Where POKéMON came from<LINE>and where they are going…<LINE>If we can learn that, I believe<LINE>we can get along even better!
 BIANCA: Know what, <PLAYER>?<LINE>POKéMON are mysterious!<LINE>I wonder why these amazing<LINE>little guys stay by our sides.
@@ -31,10 +31,10 @@ N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE
 N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue my ideals with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
 BIANCA: <PLAYER>!
 Just a little further to MISTRALTON CITY!
-PROFESSOR JUNIPER: BIANCA,<LINE>you have good ears.<LINE>I can't believe you heard<LINE><PLAYER>'s voice from that far away.<LINE><PLAYER>, who is this Trainer?
-N: \xf000븉\x0001\x0001PROFESSOR JUNIPER,<LINE>what are you thinking?<LINE>You appear to have no qualms about the<LINE>relationship between POKéMON and people.<LINE>You put POKéMON into categories using<LINE>arbitrary rules and think you can<LINE><LINE>understand them like that…<LINE><LINE>The very idea of a POKéDEX revolts me.<LINE>What do you have to say for yourself?\xf000븉\x0001\x0000
-PROFESSOR JUNIPER: Oh, my.<LINE>Looks like you're not my biggest fan.<LINE>Your opinion is understandable.<LINE>It happens to be different from mine,<LINE><LINE>which is equally understandable.<LINE>How about if all people get to decide for<LINE>themselves how to relate to POKéMON?
+PROF.JUNIPER: BIANCA,<LINE>you have good ears.<LINE>I can't believe you heard<LINE><PLAYER>'s voice from that far away.<LINE><PLAYER>, who is this Trainer?
+N: \xf000븉\x0001\x0001PROF.JUNIPER,<LINE>what are you thinking?<LINE>You appear to have no qualms about the<LINE>relationship between POKéMON and people.<LINE>You put POKéMON into categories using<LINE>arbitrary rules and think you can<LINE><LINE>understand them like that…<LINE><LINE>The very idea of a POKéDEX revolts me.<LINE>What do you have to say for yourself?\xf000븉\x0001\x0000
+PROF.JUNIPER: Oh, my.<LINE>Looks like you're not my biggest fan.<LINE>Your opinion is understandable.<LINE>It happens to be different from mine,<LINE><LINE>which is equally understandable.<LINE>How about if all people get to decide for<LINE>themselves how to relate to POKéMON?
 N: \xf000븉\x0001\x0001You're saying I should just allow<LINE>people to think whatever they want and<LINE><LINE>treat POKéMON however they want,<LINE><LINE>no matter whether the POKéMON suffer?<LINE>I refuse to tolerate the existence<LINE>of a world like that!\xf000븉\x0001\x0000
-PROFESSOR JUNIPER: Well, I didn't expect<LINE>him to change his mind right away.<LINE>But I hope he'll spend a little time<LINE>trying to understand how others feel.
+PROF.JUNIPER: Well, I didn't expect<LINE>him to change his mind right away.<LINE>But I hope he'll spend a little time<LINE>trying to understand how others feel.
 Now, then…<LINE>I think I'll go collect a little more data.<LINE>For POKéMON and people to get<LINE>along better, we need to take steps<LINE><LINE>to learn more about them!
-BIANCA: Umm, <PLAYER>!<LINE>I'm gonna go with PROFESSOR JUNIPER<LINE>now 'cause I'm her bodyguard!
+BIANCA: Umm, <PLAYER>!<LINE>I'm gonna go with PROF.JUNIPER<LINE>now 'cause I'm her bodyguard!

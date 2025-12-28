@@ -1,10 +1,10 @@
 CEDRIC: That building serenely towering<LINE>over everything is DRAGONSPIRAL TOWER.<LINE>From far in the past, before UNOVA was<LINE>founded, it still stands tall today.<LINE>On the top floor, so it's been told,<LINE>the legendary POKéMON is waiting for<LINE><LINE>a person seeking the truth to appear.
 CEDRIC: That building serenely towering<LINE>over everything is DRAGONSPIRAL TOWER.<LINE>From far in the past, before UNOVA was<LINE>founded, it still stands tall today.<LINE>On the top floor, so it's been told,<LINE>the legendary POKéMON is waiting for<LINE><LINE>a person pursuing ideals to appear.
 BIANCA: Hey, <PLAYER>!
-CEDRIC: Oh, <PLAYER>!<LINE>And you must be BIANCA.<LINE>I'm the other PROFESSOR JUNIPER.<LINE>The PROFESSOR JUNIPER who gave you<LINE>the POKéDEX is my daughter.
-BIANCA: Nice to meet you, PROFESSOR!<LINE>Thanks to PROFESSOR JUNIPER,<LINE>I got to go on a journey and start<LINE><LINE>figuring out possibilities for my life.<LINE>I'm very, very grateful to her!
+CEDRIC: Oh, <PLAYER>!<LINE>And you must be BIANCA.<LINE>I'm the other PROF.JUNIPER.<LINE>The PROF.JUNIPER who gave you<LINE>the POKéDEX is my daughter.
+BIANCA: Nice to meet you, professor!<LINE>Thanks to PROF.JUNIPER,<LINE>I got to go on a journey and start<LINE><LINE>figuring out possibilities for my life.<LINE>I'm very, very grateful to her!
 CEDRIC: Is that right? Grand, grand.<LINE>Actually, we should chat later.<LINE><PLAYER>, BIANCA,<LINE>here's the situation.<LINE>Some members of TEAM PLASMA--quite<LINE>a large group--broke through the<LINE><LINE>tower wall and went inside.<LINE>BRYCEN and that young man--<LINE>I believe his name is CHEREN--<LINE><LINE>the two of them went after<LINE><LINE>TEAM PLASMA, but…
-BIANCA: PROFESSOR, what's the<LINE>DRAGONSPIRAL TOWER?
+BIANCA: Professor, what's the<LINE>DRAGONSPIRAL TOWER?
 CEDRIC: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>DRAGONSPIRAL TOWER has stood tall since<LINE>long before UNOVA was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type POKéMON waits for<LINE><LINE>a person seeking truth to appear…<LINE>That's what is said.
 CEDRIC: Ha! I guess you would be curious.<LINE>Well, I'll explain briefly.<LINE>DRAGONSPIRAL TOWER has stood tall since<LINE>long before UNOVA was founded.<LINE>On the top floor, the legendary<LINE>Dragon-type POKéMON waits for<LINE><LINE>a person pursuing ideals to appear…<LINE>That's what is said.
 Are you going to go after TEAM PLASMA<LINE>like your friend did?<LINE>It's admirable of you to join the fight<LINE>against TEAM PLASMA, but it's risky, too.

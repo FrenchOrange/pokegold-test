@@ -16,7 +16,7 @@ CherensHouse2FPCText:
 	line "Chapter 1"
 
 	para "The START Button"
-	line "opens the menu!"
+	line "opens the menu."
 
 	para "Adventure Rules -"
 	line "Chapter 2"

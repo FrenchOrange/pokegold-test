@@ -1,2 +1,2 @@
 Use a POKé BALL after<LINE>lowering its HP!
-PROFESSOR JUNIPER used<LINE>a POKé BALL!
+PROF.JUNIPER used<LINE>a POKé BALL!

@@ -194,8 +194,8 @@ JuniperLeaves:
 	step_end
 
 JuniperIntroText:
-	text "PROFESSOR JUNIPER:"
-	line "This is a #MON"
+	text "PROF.JUNIPER: This"
+	line "is a #MON"
 	cont "CENTER!"
 
 	para "Don't you feel"
@@ -213,10 +213,10 @@ BiancaIntroText:
 	done
 
 JuniperExplainHealingText:
-	text "PROFESSOR JUNIPER:"
-	line "A #MON CENTER"
-	cont "is a truly"
-	cont "incredible place!"
+	text "PROF.JUNIPER: A"
+	line "#MON CENTER is a"
+	cont "truly incredible"
+	cont "place!"
 
 	para "Do you know why?"
 
@@ -236,8 +236,8 @@ JuniperExplainHealingText:
 	done
 
 JuniperAfterHealingText:
-	text "PROFESSOR JUNIPER:"
-	line "OK. Now that your"
+	text "PROF.JUNIPER: OK."
+	line "Now that your"
 	cont "#MON have"
 
 	para "rested, I'll show"
@@ -246,8 +246,8 @@ JuniperAfterHealingText:
 	done
 
 JuniperExplainPCText:
-	text "PROFESSOR JUNIPER:"
-	line "This is the PC."
+	text "PROF.JUNIPER: This"
+	line "is the PC."
 
 	para "It's free for any"
 	line "Trainer to use."
@@ -287,14 +287,14 @@ JuniperExplainPCText:
 	done
 
 SomeoneExchangeText:
-	text "BIANCA: PROFESSOR…"
+	text "BIANCA: Professor…"
 	line "The screen says"
 	cont "'SOMEONE's PC'."
 
 	para "Who is SOMEONE?"
 
-	para "PROFESSOR JUNIPER:"
-	line "Very good, BIANCA."
+	para "PROF.JUNIPER: Very"
+	line "good, BIANCA."
 
 	para "That's a great"
 	line "observation!"
@@ -320,8 +320,8 @@ SomeoneExchangeText:
 	done
 
 JuniperExplainMartText:
-	text "PROFESSOR JUNIPER:"
-	line "Now, this is the"
+	text "PROF.JUNIPER: Now,"
+	line "this is the"
 	cont "# MART."
 
 	para "This is the place"
@@ -335,8 +335,8 @@ JuniperExplainMartText:
 	line "there will help"
 	cont "you with a smile!"
 
-	para "PROFESSOR JUNIPER:"
-	line "Let's wrap this up."
+	para "PROF.JUNIPER: Let's"
+	line "wrap this up."
 
 	para "I've given you the"
 	line "basics of being a"
@@ -470,8 +470,8 @@ AccumulaPokecenter1FBiancaScript:
 	end
 
 JuniperTryToLeaveText:
-	text "PROFESSOR JUNIPER:"
-	line "Hey, <PLAYER>."
+	text "PROF.JUNIPER: Hey,"
+	line "<PLAYER>."
 
 	para "Where are you off"
 	line "to? Humor me and"
@@ -483,7 +483,7 @@ JuniperTryToLeaveText:
 	done
 
 AccumulaPokecenter1FJuniperText:
-	text "PROFESSOR JUNIPER:"
+	text "PROF.JUNIPER:"
 	line "You should be talk"
 	cont "-ing to the lady"
 

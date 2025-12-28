@@ -51,8 +51,8 @@ MeetFennelText:
 	line "ect I'm researching"
 	cont "is Trainers!"
 
-	para "PROFESSOR JUNIPER"
-	line "is my friend from"
+	para "PROF.JUNIPER is my"
+	line "friend from"
 	cont "college."
 
 	para "She asked me to"

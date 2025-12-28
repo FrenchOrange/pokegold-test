@@ -1,10 +1,10 @@
-CHEREN: <PLAYER>! <LINE>I understand the feeling.<LINE>I want to go somewhere with<LINE><LINE>my POKéMON too, but first<LINE><LINE>we have to go thank PROFESSOR JUNIPER.<LINE>Come on. The lab is this way!
+CHEREN: <PLAYER>! <LINE>I understand the feeling.<LINE>I want to go somewhere with<LINE><LINE>my POKéMON too, but first<LINE><LINE>we have to go thank PROF.JUNIPER.<LINE>Come on. The lab is this way!
 CHEREN: I'm sorry, but could you<LINE>go to BIANCA's house?<LINE>I'll bet she's spacing out<LINE>like she usually does.<LINE><LINE>She's totally flighty.
 BIANCA: …That's a secret, OK?
-CHEREN: OK!<LINE>Let's go meet the PROFESSOR.
+CHEREN: OK!<LINE>Let's go meet the professor.
 BIANCA: Heeey!<LINE><PLAYER>, wait up!
 BIANCA: Come on!<LINE><PLAYER>, wait up!
-Mom: Oh, there you are! And…?<LINE>What did the PROFESSOR have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
+Mom: Oh, there you are! And…?<LINE>What did the professor have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
 Well, actually, I can.<LINE>I already knew she was going to ask.
 That's why I brought you three of<LINE>these Town Maps. Take them with you!
 Mom: Here you are, CHEREN.
@@ -14,7 +14,7 @@ BIANCA: Th-thank you so much!
 Mom: As for your room, <PLAYER>--<LINE>or what's left of it…<LINE>No need for any of you to worry.<LINE>I'll take care of tidying up.<LINE>OK, <PLAYER>?
 Mom: Ah, POKéMON. They are so cute,<LINE>but they have enough power to destroy<LINE><LINE>a bedroom! They are really something.<LINE>With POKéMON like that at your side,<LINE>you'll be safe wherever you go!
 I'll let your parents know!<LINE>I hope that, in addition to POKéMON,<LINE>you'll find lots and lots of places<LINE><LINE>you like in the UNOVA region--<LINE><LINE>and become wonderful adults!<LINE>Have a great trip!
-CHEREN: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to ROUTE 1?<LINE>The PROFESSOR's waiting.
+CHEREN: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to ROUTE 1?<LINE>The professor's waiting.
 BIANCA: Let's go, let's go!<LINE><PLAYER>, hurry and come too, OK?
 BIANCA: <PLAYER>…<LINE>It's this way!
 CHEREN: BIANCA says if we're starting a<LINE>journey together, she wants us all to<LINE><LINE>take our first step at the same time.
@@ -28,7 +28,7 @@ Me too! Traveling and thinking about many<LINE>things can definitely make a diff
 You're right! It's fine to just enjoy the<LINE>journey without overthinking it!
 I've heard there are a lot of POKéMON<LINE>and many different people in the world.<LINE>When I hear stories about them,<LINE>I get very excited!
 BIANCA: Oh! I wonder what will happen!<LINE>Isn't this so exciting?!
-CHEREN: It sure is!<LINE>C'mon, the PROFESSOR's waiting.
+CHEREN: It sure is!<LINE>C'mon, the professor's waiting.
 CHEREN: Hey, <PLAYER>.<LINE>Is LOOKER through talking to you?
 BIANCA: …I'm sorry.<LINE>By the time I went to get the<LINE>STRIATON CITY GYM LEADERs,<LINE><LINE>everything was over…
 CHEREN: If that's the case…<LINE>I let GHETSIS escape when the<LINE>Shadow Triad created an opening.

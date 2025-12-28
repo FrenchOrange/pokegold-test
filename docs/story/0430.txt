@@ -1,7 +1,7 @@
-CHEREN: <PLAYER>!<LINE>I heard from PROFESSOR JUNIPER.<LINE>We can have a POKéMON?
+CHEREN: <PLAYER>!<LINE>I heard from PROF.JUNIPER.<LINE>We can have a POKéMON?
 …<LINE>…<LINE>What's keeping BIANCA?
 BIANCA: Am I a little late again?<LINE>So-oooo-orry!
-CHEREN: BIANCA…<LINE>I've known for ten years that you<LINE>have no sense of time, but…seriously…<LINE>Today's the day we can get a<LINE>POKéMON from PROFESSOR JUNIPER!
+CHEREN: BIANCA…<LINE>I've known for ten years that you<LINE>have no sense of time, but…seriously…<LINE>Today's the day we can get a<LINE>POKéMON from PROF.JUNIPER!
 BIANCA: I know. Sorry, <PLAYER>.<LINE>Sorry, CHEREN.
 BIANCA: So, where are the POKéMON?<LINE>They were delivered to <PLAYER>'s<LINE>house, so <PLAYER> gets first pick.
 CHEREN: Naturally.
@@ -10,7 +10,7 @@ CHEREN: Aren't you going to check<LINE>out the gift box? Where are you going?
 CHEREN: Would you get a move on<LINE>and open the gift box already?<LINE>I'm sure the POKéMON are just as<LINE>excited to meet us!
 BIANCA: Ooh!<LINE>What kind of POKéMON could they be?
 <PLAYER> opened the gift box!
-I've brought three POKéMON,<LINE>one for you and one for each<LINE>of your friends. Please settle<LINE>your choices politely.<LINE>Enjoy your POKéMON!<LINE>                --PROFESSOR JUNIPER
+I've brought three POKéMON,<LINE>one for you and one for each<LINE>of your friends. Please settle<LINE>your choices politely.<LINE>Enjoy your POKéMON!<LINE>                --PROF.JUNIPER
 
 
 

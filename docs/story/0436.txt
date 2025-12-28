@@ -1,9 +1,9 @@
-PROFESSOR JUNIPER: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your POKéMON is truly one<LINE>of the joys of being a Trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a Trainer to know!
+PROF.JUNIPER: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your POKéMON is truly one<LINE>of the joys of being a Trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a Trainer to know!
 Please listen, everyone.<LINE>We have something important to talk<LINE>to you about. Wait here for a moment.
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
 
-CHEREN: Wasn't that the PROFESSOR<LINE>waiting in front of the POKéMON CENTER?<LINE>I know about the POKéMON CENTER<LINE>already. Anyway, I want to battle soon!<LINE>Real battles are the best way to become<LINE>stronger, you know!
+CHEREN: Wasn't that the professor<LINE>waiting in front of the POKéMON CENTER?<LINE>I know about the POKéMON CENTER<LINE>already. Anyway, I want to battle soon!<LINE>Real battles are the best way to become<LINE>stronger, you know!
 Sounds like something's going<LINE>on in the plaza!
 Well, let's have a little look-see.
 CHEREN: <PLAYER>, come here a sec.

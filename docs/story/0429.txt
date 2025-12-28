@@ -1,7 +1,7 @@
 CHEREN: I'm very sorry about<LINE>all the trouble, ma'am.
 BIANCA: Well, um…<LINE>We can clean up…
-Mom: Cleaning up?<LINE>No worries. I'll take care of it later.<LINE>Shouldn't you be on your way to<LINE>meet PROFESSOR JUNIPER?
-CHEREN: Yes, thank you!<LINE>Please excuse us.<LINE>Come on.<LINE>Let's go thank PROFESSOR JUNIPER.
+Mom: Cleaning up?<LINE>No worries. I'll take care of it later.<LINE>Shouldn't you be on your way to<LINE>meet PROF.JUNIPER?
+CHEREN: Yes, thank you!<LINE>Please excuse us.<LINE>Come on.<LINE>Let's go thank PROF.JUNIPER.
 CHEREN: I'll be waiting in front of<LINE>the POKéMON Research Lab.
 BIANCA: Oh! Wait!<LINE>I've gotta go home first.
 Thanks for having us over!
@@ -9,7 +9,7 @@ Mom: My, my, <PLAYER>.<LINE>POKéMON battles are so lively,<LINE>aren't they?<LI
 Hm. That sure reminded me of<LINE>my first POKéMON battle!
 Oh, and you know? After a battle,<LINE>you need to rest your POKéMON!
 Your POKéMON is looking great!<LINE>Now, if you're going out,<LINE>don't forget your 'cross-transceiver'!
-You're going to thank the<LINE>PROFESSOR too, right?<LINE><LINE>Better get going, honey!
+You're going to thank the<LINE>professor too, right?<LINE><LINE>Better get going, honey!
 Mom: Phew! I'm taking a little break<LINE>from cleaning up.<LINE>You and your POKéMON should take<LINE>a break, too.<LINE>Good Trainers don't push their<LINE>POKéMON too hard.
 Mom: You and your POKéMON should all be<LINE>filled with energy again!<LINE><LINE>Now, you can go anywhere!
 Mom: I wonder where you'll go next<LINE>and what kind of POKéMON you'll meet.
@@ -17,7 +17,7 @@ Mom: <PLAYER>!<LINE>How are your POKéMON?<LINE>You should rest a little!<LINE>G
 Mom: Great! You and your POKéMON<LINE>look raring to go, <PLAYER>.<LINE>Best get back to your journey!
 Mom: <PLAYER>,<LINE>are you being kind to your POKéMON?<LINE>POKéMON work so hard to help you out!<LINE>You're normally very kind to your<LINE>POKéMON, aren't you?
 Mom: Now that you mention it…<LINE>Your father went on a journey<LINE>with POKéMON, just as you are!<LINE>We met during his trip…
-Mom: How are things going?<LINE>Have you caught many POKéMON?<LINE>That was the PROFESSOR's request, right?
+Mom: How are things going?<LINE>Have you caught many POKéMON?<LINE>That was the professor's request, right?
 Mom: I wonder what CHEREN and BIANCA<LINE>will find during their travels.<LINE>What they really want from life…<LINE>If they figure that out for themselves,<LINE>I think their journeys will prove to be<LINE><LINE>all they could hope for!
 Mom: <PLAYER>!<LINE>Welcome home!<LINE>Sounds like you've been through a lot!<LINE>You should rest a little bit!
 Mom: Oh, my!<LINE>You and your POKéMON look full of bounce!<LINE>This is just a little advice from your<LINE>mother, but…<LINE>When a POKéMON's energy--um, I mean,<LINE>HP--runs out, hurry to a POKéMON CENTER<LINE><LINE>and get it restored.<LINE>It's also a good idea to buy Potions<LINE>at a POKéMON Mart for times when you're<LINE><LINE>adventuring far from civilization.<LINE>Please be careful!<LINE>Have a good trip!<LINE><LINE>I'll always be cheering for you!

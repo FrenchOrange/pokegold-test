@@ -1,12 +1,12 @@
-PROFESSOR JUNIPER: Hello, <PLAYER>!
+PROF.JUNIPER: Hello, <PLAYER>!
 CHEREN: Come here.
-PROFESSOR JUNIPER: ELESA called and was<LINE>asking me all about Electric-type<LINE><LINE>POKéMON, and I thought about you guys.<LINE>That's why I wanted to see you.<LINE>Ta-da! Freebies for you!
+PROF.JUNIPER: ELESA called and was<LINE>asking me all about Electric-type<LINE><LINE>POKéMON, and I thought about you guys.<LINE>That's why I wanted to see you.<LINE>Ta-da! Freebies for you!
 Here, CHEREN!
 You, too, <PLAYER>.
 If you see a POKéMON that<LINE>you want to have join you,<LINE><LINE>be sure to use a good type of POKé BALL.<LINE>Because this could be the<LINE>first and last time you see that POKéMON!
 I know it might seem strange for me<LINE>to say this, since I'm the one who asked<LINE><LINE>you to complete the POKéDEX, but please,<LINE><LINE>remember to enjoy your journey!
 Of course, I'm not saying you can just<LINE>neglect the POKéDEX. But you know that!<LINE>Now, if you'll please excuse me,<LINE>I have to go meet BIANCA.
-CHEREN: It seems the PROFESSOR<LINE>gave us the POKéDEX as a reason<LINE><LINE>to send us on a journey.<LINE>At least, that's what my mom told me.<LINE>They wanted us to go out and see the<LINE>world, so my mom, BIANCA's mom, and your<LINE><LINE>mom made a request to PROFESSOR JUNIPER.
-<PLAYER>, what should we do now?<LINE>I think I'd like to show the PROFESSOR my<LINE>thanks by going to ROUTE 4 and catching<LINE><LINE>some POKéMON I haven't yet caught.
+CHEREN: It seems the professor<LINE>gave us the POKéDEX as a reason<LINE><LINE>to send us on a journey.<LINE>At least, that's what my mom told me.<LINE>They wanted us to go out and see the<LINE>world, so my mom, BIANCA's mom, and your<LINE><LINE>mom made a request to PROF.JUNIPER.
+<PLAYER>, what should we do now?<LINE>I think I'd like to show the professor my<LINE>thanks by going to ROUTE 4 and catching<LINE><LINE>some POKéMON I haven't yet caught.
 If you've come from ROUTE 4,<LINE>NIMBASA CITY is ahead.<LINE>Next! If you've come from NIMBASA CITY,<LINE>ROUTE 4 is ahead!
 Look at the electric bulletin board to<LINE>see what's happening in NIMBASA CITY!

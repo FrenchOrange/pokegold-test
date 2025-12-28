@@ -231,7 +231,7 @@ ENDM
 
 	newgroup PALLET                                               ; 13
 	map_const NUVEMA_TOWN,                                 12,  9 ;  1
-	map_const JUNIPERS_LAB,                                 5,  6 ;  2
+	map_const JUNIPERS_LAB,                                 6,  5 ;  2
 	map_const PLAYERS_HOUSE_1F,                             5,  4 ;  3
 	map_const PLAYERS_HOUSE_2F,                             5,  4 ;  4
 	map_const BIANCAS_HOUSE_1F,                             5,  4 ;  5

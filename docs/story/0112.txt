@@ -2,18 +2,18 @@ Oh! Hey!<LINE><PLAYER>, right?
 Let me see your POKéDEX for a moment.<LINE>What do we have here?<LINE>So, you've found \xf000Ȃ\x0001\x0000 POKéMON, eh?
 Staggering! You've seen a Klink!<LINE>You're becoming quite the Trainer.
 Hmmm…<LINE>You haven't seen a Klink yet, eh?<LINE>Still, that's a great POKéDEX!
-Excuse me! I was a little excited<LINE>and forgot my manners.<LINE>My name is JUNIPER, too! CEDRIC JUNIPER.<LINE>Heh! The PROFESSOR who gave you<LINE>the POKéDEX is my daughter!<LINE>That girl has told me a lot about you.<LINE>It really makes my day to meet you!
+Excuse me! I was a little excited<LINE>and forgot my manners.<LINE>My name is JUNIPER, too! CEDRIC JUNIPER.<LINE>Heh! The professor who gave you<LINE>the POKéDEX is my daughter!<LINE>That girl has told me a lot about you.<LINE>It really makes my day to meet you!
 In honor of our meeting,<LINE>I'm going to upgrade your POKéDEX!
 <PLAYER>'s POKéDEX has<LINE>been upgraded!
 CEDRIC: Some POKéMON can change forms<LINE>even when it's the same individual.<LINE>If you have already seen a form, you<LINE>can check it with this whenever you want.<LINE>I also added a function to make<LINE>searching easier.
-???: PROFESSOR, who's that Trainer?
+???: Professor, who's that Trainer?
 CEDRIC: Oh! I forgot my introductions!<LINE>SKYLA, this is a friend of my daughter's.<LINE><PLAYER> is traveling around<LINE>UNOVA to complete the POKéDEX.
 SKYLA: Oh, I see! So that means you'll<LINE>be challenging the GYM!<LINE><LINE>Oh boy! I'm really looking forward to it!
 CEDRIC: That's right, <PLAYER>.<LINE>You should challenge this GYM!<LINE>If nothing else, this GYM<LINE>is really out there!
 See you, SKYLA. If something comes<LINE>up again, I'll let you know!
-SKYLA: PROFESSOR, my plane<LINE>is a cargo plane!<LINE>It carries cargo, not people!<LINE>And you're talking as if places like Kanto<LINE>and Sinnoh are right around the corner!
+SKYLA: Professor, my plane<LINE>is a cargo plane!<LINE>It carries cargo, not people!<LINE>And you're talking as if places like Kanto<LINE>and Sinnoh are right around the corner!
 CEDRIC: Aww, SKYLA.<LINE>If you keep frowning, your face might<LINE><LINE>freeze like that, and that'd be a shame.<LINE>People and POKéMON, we all have<LINE>to help each other out!<LINE>See you later!
-SKYLA: Sheesh!<LINE>It's hard to believe a happy-go-lucky<LINE>guy like that could be a world-renowned<LINE><LINE>POKéMON PROFESSOR.
+SKYLA: Sheesh!<LINE>It's hard to believe a happy-go-lucky<LINE>guy like that could be a world-renowned<LINE><LINE>POKéMON professor.
 Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the GYM, but there's<LINE><LINE>something I need to take care of first.
 Heads-up, <PLAYER>.<LINE>As a GYM LEADER, I'd be happy to have<LINE>you challenge the GYM, but there's<LINE><LINE>something I need to take care of first.
 Just now, as I was flying the<LINE>cargo plane, I saw something<LINE><LINE>on top of the CELESTIAL TOWER.

@@ -255,7 +255,7 @@ Ah! I cannot go anywhere<LINE>if I am stopping!
 To go to the CELESTIAL TOWER…<LINE>Walk along the road! That's right!<LINE>If you keep walking, someday<LINE>you'll arrive at your destination.
 Oh! A POKéDEX!<LINE>I see. That is the reason<LINE>for your journey!
 Impressive! That's what you'd expect<LINE>from the owner of a POKéDEX!
-I've heard that both PROFESSOR JUNIPERs<LINE>were Backpackers when they were young.
+I've heard that both PROF.JUNIPERs<LINE>were Backpackers when they were young.
 My travel partner is a POKéMON<LINE>that a popular guidebook recommended!
 The guidebook does not tell me<LINE>how to win.
 According to the popular guidebook,<LINE>NIMBASA CITY is an entertainment city.<LINE><LINE>It must be full of fun!
@@ -1644,7 +1644,7 @@ Your battling style<LINE>is very rough and ready!
 Floating in the sea, very nice!<LINE>Being with POKéMON, very nice!
 What I learned after reading many books<LINE>is that there are still a lot of mysteries<LINE><LINE>in the world!
 How we can be friendlier with POKéMON<LINE>is also a mystery.
-The book I am reading now was<LINE>written by PROFESSOR JUNIPER.<LINE>It says the origin of POKéMON<LINE>is still a mystery.
+The book I am reading now was<LINE>written by PROF.JUNIPER.<LINE>It says the origin of POKéMON<LINE>is still a mystery.
 I've been researching the VILLAGE BRIDGE,<LINE>but taking a break is also important!
 You and your POKéMON!<LINE>You are supporting each other perfectly!
 In the VILLAGE BRIDGE,<LINE>a lot of bricks support each other<LINE><LINE>and keep the bridge from collapsing.<LINE>That's how the bridge has kept its shape<LINE>for over 100 years.
