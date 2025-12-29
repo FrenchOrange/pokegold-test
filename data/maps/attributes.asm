@@ -260,7 +260,6 @@ ENDM
 	map_attributes AccumulaNewlywedsCondo1F, ACCUMULA_NEWLYWEDS_CONDO_1F, $00, 0
 	map_attributes AccumulaNewlywedsCondo2F, ACCUMULA_NEWLYWEDS_CONDO_2F, $00, 0
 	map_attributes AccumulaSiblingsHouse, ACCUMULA_SIBLINGS_HOUSE, $00, 0
-	map_attributes VioletGym, VIOLET_GYM, $00, 0
 ; Striaton City
 	map_attributes TrainersSchool, TRAINERS_SCHOOL, $00, 0
 	map_attributes StriatonNicknameCondo1F, STRIATON_NICKNAME_CONDO_1F, $00, 0
@@ -270,6 +269,7 @@ ENDM
 	map_attributes StriatonSixTeamCondo2F, STRIATON_SIX_TEAM_CONDO_2F, $00, 0
 	map_attributes StriatonFennelCondo1F, STRIATON_FENNEL_CONDO_1F, $00, 0
 	map_attributes StriatonFennelCondo2F, STRIATON_FENNEL_CONDO_2F, $00, 0
+	map_attributes StriatonGym, STRIATON_GYM, $00, 0
 ; Nacrene City
 	map_attributes NacrenePokecenter1F, NACRENE_POKECENTER_1F, $00, 0
 	map_attributes NacreneFurnitureHouse, NACRENE_FURNITURE_HOUSE, $00, 0
@@ -278,7 +278,8 @@ ENDM
 	map_attributes NacreneStatHouse, NACRENE_STAT_HOUSE, $00, 0
 	map_attributes NacrenePoetHouse, NACRENE_POET_HOUSE, $00, 0
 	map_attributes NacreneCafe, NACRENE_CAFE, $00, 0
-	map_attributes AzaleaGym, AZALEA_GYM, $00, 0
+	map_attributes NacreneMuseum, NACRENE_MUSEUM, $00, 0
+	map_attributes NacreneGym, NACRENE_GYM, $00, 0
 ; Gates
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0

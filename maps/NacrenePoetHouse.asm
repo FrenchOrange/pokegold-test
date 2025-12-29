@@ -31,8 +31,8 @@ NacrenePoetHouseLittleBoy:
 	jumptextfaceplayer NacrenePoetHouseLittleBoyText
 
 NacrenePoetHouseYoungster1Text:
-	text "I play the guitar and"
-	line "have #MON"
+	text "I play the guitar"
+	line "and have #MON"
 	cont "battles every day."
 
 	para "I keep doing that"

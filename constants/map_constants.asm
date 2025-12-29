@@ -171,11 +171,12 @@ ENDM
 	map_const NACRENE_STAT_HOUSE,                           5,  5 ;  5
 	map_const NACRENE_POET_HOUSE,                           5,  5 ;  6
 	map_const NACRENE_CAFE,                                 5,  6 ;  7
-	map_const AZALEA_GYM,                                   5,  8 ;  8
-	map_const NACRENE_CITY,                                20,  9 ;  9
-	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 10
-	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 11
-	map_const ROUTE_33,                                    10,  9 ; 12
+	map_const NACRENE_MUSEUM,                               7, 11 ;  8
+	map_const NACRENE_GYM,                                  5,  8 ;  9
+	map_const NACRENE_CITY,                                20,  9 ; 10
+	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 11
+	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 12
+	map_const ROUTE_33,                                    10,  9 ; 13
 	endgroup
 
 	newgroup LAKE_OF_RAGE                                         ;  9
@@ -191,15 +192,15 @@ ENDM
 	map_const ROUTE_36,                                    30,  9 ;  3
 	map_const ROUTE_37,                                    10,  9 ;  4
 	map_const STRIATON_CITY,                               16,  9 ;  5
-	map_const VIOLET_GYM,                                   5,  8 ;  7
-	map_const TRAINERS_SCHOOL,                              5,  8 ;  8
-	map_const STRIATON_NICKNAME_CONDO_1F,                   6,  4 ;  9
-	map_const STRIATON_NICKNAME_CONDO_2F,                   6,  4 ; 10
-	map_const STRIATON_POKECENTER_1F,                       7,  4 ; 11
-	map_const STRIATON_SIX_TEAM_CONDO_1F,                   6,  4 ; 12
-	map_const STRIATON_SIX_TEAM_CONDO_2F,                   6,  4 ; 13
-	map_const STRIATON_FENNEL_CONDO_1F,                     6,  4 ; 14
-	map_const STRIATON_FENNEL_CONDO_2F,                     6,  4 ; 15
+	map_const STRIATON_GYM,                                 5,  8 ;  6
+	map_const TRAINERS_SCHOOL,                              5,  8 ;  7
+	map_const STRIATON_NICKNAME_CONDO_1F,                   6,  4 ;  8
+	map_const STRIATON_NICKNAME_CONDO_2F,                   6,  4 ;  9
+	map_const STRIATON_POKECENTER_1F,                       7,  4 ; 10
+	map_const STRIATON_SIX_TEAM_CONDO_1F,                   6,  4 ; 11
+	map_const STRIATON_SIX_TEAM_CONDO_2F,                   6,  4 ; 12
+	map_const STRIATON_FENNEL_CONDO_1F,                     6,  4 ; 13
+	map_const STRIATON_FENNEL_CONDO_2F,                     6,  4 ; 14
 	endgroup
 
 	newgroup GOLDENROD                                            ; 11

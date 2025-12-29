@@ -1,16 +1,16 @@
 	object_const_def
 
-AzaleaGym_MapScripts:
+StriatonGym_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-AzaleaGym_MapEvents:
+StriatonGym_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4, 15, NACRENE_CITY, 2
-	warp_event  5, 15, NACRENE_CITY, 2
+	warp_event  4, 15, STRIATON_CITY, 1
+	warp_event  5, 15, STRIATON_CITY, 1
 
 	def_coord_events
 

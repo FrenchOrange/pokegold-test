@@ -240,12 +240,13 @@ INCLUDE "maps/NacreneStarterHouse.asm"
 INCLUDE "maps/NacreneStatHouse.asm"
 INCLUDE "maps/NacrenePoetHouse.asm"
 INCLUDE "maps/NacreneCafe.asm"
-INCLUDE "maps/AzaleaGym.asm"
+INCLUDE "maps/NacreneMuseum.asm"
+INCLUDE "maps/NacreneGym.asm"
 
 
 SECTION "Map Scripts 21", ROMX
 
-INCLUDE "maps/VioletGym.asm"
+INCLUDE "maps/StriatonGym.asm"
 INCLUDE "maps/TrainersSchool.asm"
 INCLUDE "maps/StriatonNicknameCondo1F.asm"
 INCLUDE "maps/StriatonNicknameCondo2F.asm"

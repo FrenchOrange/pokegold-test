@@ -468,11 +468,14 @@ BrunosRoom_Blocks:
 KarensRoom_Blocks:
 	INCBIN "maps/KarensRoom.blk"
 
-AzaleaGym_Blocks:
-	INCBIN "maps/AzaleaGym.blk"
+NacreneMuseum_Blocks:
+	INCBIN "maps/NacreneMuseum.blk"
 
-VioletGym_Blocks:
-	INCBIN "maps/VioletGym.blk"
+NacreneGym_Blocks:
+	INCBIN "maps/NacreneGym.blk"
+
+StriatonGym_Blocks:
+	INCBIN "maps/StriatonGym.blk"
 
 GoldenrodGym_Blocks:
 	INCBIN "maps/GoldenrodGym.blk"

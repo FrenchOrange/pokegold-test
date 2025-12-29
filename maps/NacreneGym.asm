@@ -1,16 +1,16 @@
 	object_const_def
 
-VioletGym_MapScripts:
+NacreneGym_MapScripts:
 	def_scene_scripts
 
 	def_callbacks
 
-VioletGym_MapEvents:
+NacreneGym_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4, 15, STRIATON_CITY, 1
-	warp_event  5, 15, STRIATON_CITY, 1
+	warp_event  4, 15, NACRENE_MUSEUM, 3
+	warp_event  5, 15, NACRENE_MUSEUM, 4
 
 	def_coord_events
 

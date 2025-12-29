@@ -5,7 +5,7 @@ If you have two BADGES, traded<LINE>POKéMON up to Lv. 30 will obey you.<LINE>He
 Retaliate does a lot more damage if an<LINE>ally fainted the turn before you use it!<LINE>If you master the timing, you can defeat<LINE>even strong opponents.
 Some problems you can't solve even if you<LINE>think about them your whole life.<LINE>Some problems have different answers<LINE>depending on the person.<LINE>Still, the reason I can't keep my<LINE>curiosity down is this:<LINE><LINE>I want to figure out the truth, but I<LINE><LINE>also have a desire for adventure!
 Deeear!
-Hawes: Dear! Come quickly!<LINE>TEAM PLASMA is threatening to steal<LINE>some bones!
+HAWES: Dear! Come quickly!<LINE>TEAM PLASMA is threatening to steal<LINE>some bones!
 LENORA: What? What's going on?!<LINE><PLAYER>!<LINE>You come, too!
 LENORA: Oh, it's you!<LINE>As always, you're raising your POKéMON<LINE>with a lot of love!<LINE>By the way, ol' CLAY contacted me<LINE>recently.<LINE>He said you can find POKéMON fossils<LINE>in TWIST MOUNTAIN!<LINE>Go check it out if you like!
 LENORA's research materials are stored<LINE>in an orderly fashion.

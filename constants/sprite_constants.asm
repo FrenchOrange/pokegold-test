@@ -2,8 +2,8 @@
 ; OverworldSprites indexes (see data/sprites/sprites.asm)
 	const_def
 	const SPRITE_NONE              ; 00
-	const SPRITE_CHRIS             ; (TEMP) 01
-	const SPRITE_CHRIS_BIKE        ; (TEMP) 02
+	const SPRITE_CHRIS             ; 01
+	const SPRITE_CHRIS_BIKE        ; 02
 	const SPRITE_CLIPBOARD         ; 03
 	const SPRITE_CHEREN            ; (TEMP) 04
 	const SPRITE_JUNIPER           ; (TEMP) 05
@@ -73,12 +73,12 @@
 	const SPRITE_SURF              ; 45
 	const SPRITE_POKE_BALL         ; 46
 	const SPRITE_BOOK              ; 47
-	const SPRITE_PAPER             ; (TEMP) 48
+	const SPRITE_PAPER             ; 48
 	const SPRITE_COOK              ; 49
 	const SPRITE_BOULDER           ; 4a
-	const SPRITE_GOLD_TROPHY       ; (TEMP) 4b
-	const SPRITE_SILVER_TROPHY     ; (TEMP) 4c
-	const SPRITE_CHRIS_RUN         ; (TEMP) 4d
+	const SPRITE_TROPHY            ; 4b
+	const SPRITE_DRAGON_STONE      ; 4c
+	const SPRITE_CHRIS_RUN         ; 4d
 DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)

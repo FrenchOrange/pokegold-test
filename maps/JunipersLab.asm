@@ -54,7 +54,7 @@ JunipersLabRulebook2Text:
 
 JunipersLabPhotoManText:
 	text "Who is this with"
-	line "PROFESSOR JUNIPER?"
+	line "PROF.JUNIPER?"
 
 	para "There's a smiling"
 	line "man in the photo."

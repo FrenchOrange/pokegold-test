@@ -54,7 +54,7 @@ StriatonCity_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event 22,  3, VIOLET_GYM, 1
+	warp_event 22,  3, STRIATON_GYM, 1
 	warp_event 15,  3, STRIATON_POKECENTER_1F, 1
 	warp_event 31,  2, DREAMYARD_OUTSIDE, 1
 	warp_event 31,  3, DREAMYARD_OUTSIDE, 2

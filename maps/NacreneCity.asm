@@ -46,7 +46,7 @@ NacreneCity_MapEvents:
 
 	def_warp_events
 	warp_event 17, 11, NACRENE_POKECENTER_1F, 1
-	warp_event 24,  3, AZALEA_GYM, 1
+	warp_event 24,  3, NACRENE_MUSEUM, 1
 	warp_event 37, 14, ROUTE_3_GATE, 1
 	warp_event 37, 15, ROUTE_3_GATE, 2
 	warp_event 26, 11, NACRENE_TRADE_HOUSE, 1
