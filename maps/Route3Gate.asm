@@ -168,7 +168,7 @@ Route3GateLass:
 	jumptextfaceplayer Route3GateLassText
 
 Route3GateReceptionistText:
-	text "Hello, Trainer!"
+	text "Hello, trainer!"
 
 	para "I think POTIONS"
 	line "are important for"

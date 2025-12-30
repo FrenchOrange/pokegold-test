@@ -131,7 +131,7 @@ NacreneTradeHouseSuperNerd:
 
 NacreneTradeHouseGirlText:
 	text "Oh my, what a"
-	line "lovely Trainer!"
+	line "lovely trainer!"
 
 	para "What kind of #-"
 	line "MON do you have?"

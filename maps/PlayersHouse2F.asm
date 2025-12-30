@@ -61,7 +61,7 @@ PlayersHouse2FPCText:
 	para "The people who"
 	line "battle with"
 	cont "#MON are called"
-	cont "#MON Trainers."
+	cont "#MON trainers."
 	done
 
 DebugSign:

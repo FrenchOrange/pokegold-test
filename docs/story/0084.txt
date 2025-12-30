@@ -9,9 +9,9 @@ I'm raising the same POKéMON as<LINE>my favorite athlete's POKéMON.
 When I throw a POKé BALL, I copy the<LINE>throwing form of a quarterback!
 When I throw a POKé BALL, I copy the form<LINE>of a pitcher!
 When I throw a POKé BALL, I copy the<LINE>throw-in of a keeper!
-Ha ha! I am a football player!<LINE>I injured my hand, so I can't sign<LINE>autographs! I'm sorry about that.<LINE>So, what does the autograph on your<LINE>Trainer Card look like?
-Yeah! I am an Infielder!<LINE>I hurt my hand, so I can't write<LINE>an autograph! Sorry!<LINE>Say, how did you sign your Trainer Card?
-Bwa ha ha! I am a Striker!<LINE>My hand got hurt, so I won't be able to<LINE>sign any autographs! Regrets!<LINE>What does your Trainer Card signature<LINE>look like?
+Ha ha! I am a football player!<LINE>I injured my hand, so I can't sign<LINE>autographs! I'm sorry about that.<LINE>So, what does the autograph on your<LINE>trainer Card look like?
+Yeah! I am an Infielder!<LINE>I hurt my hand, so I can't write<LINE>an autograph! Sorry!<LINE>Say, how did you sign your trainer Card?
+Bwa ha ha! I am a Striker!<LINE>My hand got hurt, so I won't be able to<LINE>sign any autographs! Regrets!<LINE>What does your trainer Card signature<LINE>look like?
 I am sorry.<LINE>But you cannot go onto the field<LINE>because a game is in progress.
 I am sorry.<LINE>But you cannot go onto the field<LINE>because a game is in progress.
 I am sorry.<LINE>But you cannot go onto the field<LINE>because a game is in progress.

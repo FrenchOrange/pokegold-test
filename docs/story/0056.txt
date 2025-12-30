@@ -2,7 +2,7 @@ BIANCA: Heeey, <PLAYER>!<LINE>You remember the promise you<LINE>made on the XCAS
 BIANCA: Hello, <PLAYER>!<LINE>You remember the promise you<LINE>made on the XCASTER, right?<LINE>So, let's get right to our<LINE>POKéMON battle!
 But, before that…
 They said we can have a POKéMON battle<LINE>in the gate as long as we're careful not<LINE><LINE>to break the electric bulletin board.<LINE>I'm the new-and-improved version of me!<LINE>It's gonna go great this time!<LINE>Let's start up our POKéMON battle again!
-BIANCA: I'll never be a strong Trainer<LINE>like you or CHEREN or IRIS, but…<LINE>You know, since we left NUVEMA TOWN,<LINE>I've met a lot of people and I've been<LINE><LINE>thinking about what I want to do in life!<LINE>When you look at it that way, POKéMON<LINE>have given me a lot of new experiences.
+BIANCA: I'll never be a strong trainer<LINE>like you or CHEREN or IRIS, but…<LINE>You know, since we left NUVEMA TOWN,<LINE>I've met a lot of people and I've been<LINE><LINE>thinking about what I want to do in life!<LINE>When you look at it that way, POKéMON<LINE>have given me a lot of new experiences.
 Having my POKéMON stolen was just<LINE>really hard, and I felt really unsure…<LINE>Still, I gotta say I'm really glad I went!<LINE>I've learned so much on this journey.<LINE>And I also learned that being with<LINE><LINE>POKéMON is really, really important!<LINE>OK, well, I hope to see you again soon!<LINE>Bye-bye, <PLAYER>!
 Maybe I should try to find a<LINE>POKéMON on ROUTE 4 to catch!
 ROUTE 4 is long!<LINE>Be careful if you plan to follow it!

@@ -3,6 +3,6 @@ The GYM LEADER CLAY uses<LINE>Ground-type POKéMON!<LINE>Well, just between you 
 Every now and again, I hope you look at<LINE>the GYM BADGE you won here and<LINE><LINE>remember the battle!
 Welcome to the DRIFTVEIL POKéMON GYM!<LINE>In this GYM, elevators are provided for<LINE>your use.
 This elevator can't go any higher!
-DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified Trainers:
-DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA
+DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified trainers:
+DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified trainers:<LINE><LINE><PLAYER>
+DRIFTVEIL POKéMON GYM<LINE>GYM LEADER: CLAY<LINE>Certified trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA

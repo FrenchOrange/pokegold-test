@@ -1,4 +1,4 @@
-CHEREN: Well… Still.<LINE>Is there anything more important<LINE>than strength for Trainers,<LINE><LINE>like the Champion said?
+CHEREN: Well… Still.<LINE>Is there anything more important<LINE>than strength for trainers,<LINE><LINE>like the Champion said?
 Oh, I'll never understand just by<LINE>thinking about it.<LINE>What a bother.<LINE>Let's hurry up and check the inside.
 CHEREN: Oh… Is someone in there?
 Shall we go, then?

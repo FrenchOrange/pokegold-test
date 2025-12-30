@@ -228,7 +228,7 @@ JuniperExplainHealingText:
 	line "it's totally free!"
 
 	para "A #MON CENTER"
-	line "is a Trainer's"
+	line "is a trainer's"
 	cont "best friend!"
 
 	para "Here, <PLAYER>,"
@@ -250,7 +250,7 @@ JuniperExplainPCText:
 	line "is the PC."
 
 	para "It's free for any"
-	line "Trainer to use."
+	line "trainer to use."
 
 	para "You can store"
 	line "#MON in your PC"
@@ -340,7 +340,7 @@ JuniperExplainMartText:
 
 	para "I've given you the"
 	line "basics of being a"
-	cont "Trainer!"
+	cont "trainer!"
 
 	para "I'm heading back"
 	line "to NUVEMA TOWN."

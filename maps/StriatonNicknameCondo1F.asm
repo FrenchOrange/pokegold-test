@@ -60,7 +60,7 @@ StriatonNicknameCondo1FGrannyText:
 	done
 
 StriatonNicknameCondo1FFisher_BeforeBallText:
-	text "Oh! Trainer!"
+	text "Oh! trainer!"
 
 	para "Do you have enough"
 	line "# BALLS?"

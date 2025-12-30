@@ -65,7 +65,7 @@ ConfrontationDialogue1:
 	line "times no!"
 
 	para "BIANCA: But, I'm…"
-	line "I'm a good Trainer"
+	line "I'm a good trainer"
 	cont "who got a #MON"
 	cont "and everything!"
 

@@ -25,7 +25,7 @@ StriatonNicknameCondo2FYoungsterText:
 
 StriatonNicknameCondo2FLassText:
 	text "Hi, traveling"
-	line "Trainer!"
+	line "trainer!"
 
 	para "Your family must"
 	line "be talking about"

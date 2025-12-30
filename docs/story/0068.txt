@@ -1,5 +1,5 @@
 Did the fantastic speed leave you dizzy?<LINE>My beloved POKéMON will be the next one<LINE>to make your head spin!
-My, oh my…<LINE>You have a sweet fighting style.<LINE>I mean, you're a great Trainer!<LINE>Excuse me, I…uh… Oh, here!<LINE><LINE>I want you to have this!
+My, oh my…<LINE>You have a sweet fighting style.<LINE>I mean, you're a great trainer!<LINE>Excuse me, I…uh… Oh, here!<LINE><LINE>I want you to have this!
 <PLAYER> received the<LINE>Bolt BADGE from ELESA!
 If you have four BADGES, including this<LINE>Bolt BADGE, POKéMON up to Lv. 50,<LINE><LINE>including traded POKéMON, will obey you.<LINE>Also, here's this move I like.<LINE>Feel free to use it, um, if you want to.
 Volt Switch lets the POKéMON switch with<LINE>a different POKéMON after attacking.<LINE>Of course, if you don't have another<LINE>POKéMON in your party, you can't switch.
@@ -11,13 +11,13 @@ When you ride a roller coaster, the<LINE>speed can make you dizzy.<LINE>I'm goin
 Your way of battling…<LINE>It's elegant! You've got style!<LINE><LINE>Even compared to Ms. ELESA!
 If you press the switches, the<LINE>roller coaster's path will change.
 Your NIMBASA GYM challenge is finally<LINE>nearing its finale.<LINE>But if you don't beat me,<LINE>you won't get to meet Ms. ELESA.
-I'm also a POKéMON Trainer who was<LINE>toughened up by Ms. ELESA.<LINE>I'll show you power and style befitting<LINE>this GYM.
-It pleases me to be the opponent of a<LINE>strong and honorable Trainer like you!
-If you maintain your calm and don't get<LINE>flustered by this GYM's gimmicks,<LINE><LINE>you'll be able to defeat Ms. ELESA…<LINE><LINE>and any other Trainer, as well!
+I'm also a POKéMON trainer who was<LINE>toughened up by Ms. ELESA.<LINE>I'll show you power and style befitting<LINE>this GYM.
+It pleases me to be the opponent of a<LINE>strong and honorable trainer like you!
+If you maintain your calm and don't get<LINE>flustered by this GYM's gimmicks,<LINE><LINE>you'll be able to defeat Ms. ELESA…<LINE><LINE>and any other trainer, as well!
 <PLAYER> pressed the switch.<LINE>The roller coaster's path<LINE>has been changed!
 How about it? I can see you're surprised!<LINE>Would you ever have guessed that<LINE>this GYM is a roller coaster?<LINE>OK, let me fill you in…<LINE>And take this, too!
 In this roller coaster GYM, the first<LINE>step is to get in the car.<LINE>Next comes the platform!<LINE>There, you can change<LINE><LINE>where the coaster is going!<LINE>Sometimes you continue by riding<LINE>the cars of opponents you defeat.<LINE><LINE>That's how you aim for the GYM LEADER!<LINE>By the way, Electric-type POKéMON don't<LINE>do well against Ground-type moves…
 ELESA uses sparkling bright<LINE>Electric-type attacks!<LINE>But the combination of you and your<LINE>POKéMON was even more impressive!<LINE>It was… It was…<LINE>an emotional roller coaster!
-NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified Trainers:
-NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA
+NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified trainers:
+NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified trainers:<LINE><LINE><PLAYER>
+NIMBASA POKéMON GYM<LINE>GYM LEADER: ELESA<LINE>Certified trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA

@@ -1,8 +1,8 @@
 BURGH: That way!<LINE>M'hm. Toward the GYM?!
-Hey, Trainer!<LINE>Show me your paces!<LINE>Give me a whirl!
+Hey, trainer!<LINE>Show me your paces!<LINE>Give me a whirl!
 All riiight!<LINE>A fight is like a dance!
 Come on, man!<LINE>You gotta go with the flow!
-Hey hey, Trainer!<LINE>Show me what you can do!<LINE>Take me on for a second!
+Hey hey, trainer!<LINE>Show me what you can do!<LINE>Take me on for a second!
 All riiight!<LINE>Let's get down!
 How 'bout that!<LINE>Those were some smooth moves, no doubt!<LINE>But it'd be even tighter if I had a group.
 Hey, you!<LINE>Would you talk to the other Dancers?<LINE>If you invite both of them,<LINE>the three of us can groove as a team!

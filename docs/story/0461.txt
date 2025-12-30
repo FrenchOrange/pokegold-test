@@ -21,7 +21,7 @@ I downloaded a special<LINE>Single Battle Test!<LINE>You only have one chance to
 I downloaded a special <LINE>Double Battle Test!<LINE>You only have one chance to challenge,<LINE>so please battle until the end<LINE><LINE>without turning off the power.
 Would you like to challenge right away?
 OK. See you later.<LINE>I've been waiting for you!
-You will take a Battle Test using<LINE>three POKéMON for Single Battles<LINE><LINE>and four POKéMON for Double Battles.<LINE>You may not use duplicate POKéMON or<LINE>held items.<LINE>For these battles, all POKéMON will be<LINE>set to Lv. 50.<LINE>You will battle against five Trainers in a<LINE>row, and I will be your judge.<LINE>What would you like to do?
+You will take a Battle Test using<LINE>three POKéMON for Single Battles<LINE><LINE>and four POKéMON for Double Battles.<LINE>You may not use duplicate POKéMON or<LINE>held items.<LINE>For these battles, all POKéMON will be<LINE>set to Lv. 50.<LINE>You will battle against five trainers in a<LINE>row, and I will be your judge.<LINE>What would you like to do?
 You will be facing opponent No. \xf000Ȁ\x0001\x0000.<LINE>Good luck!
 I've been waiting for you.<LINE>Would you like to challenge<LINE>the downloaded Double Battle Test?
 You seem to have taken all of the<LINE>current Battle Tests already.<LINE>What would you like to do?

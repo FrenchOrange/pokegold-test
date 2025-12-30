@@ -1,5 +1,5 @@
 
-You only have one POKéMON?<LINE>And you call yourself a Trainer?<LINE>Well, it's too dangerous for<LINE>you to go any further!
+You only have one POKéMON?<LINE>And you call yourself a trainer?<LINE>Well, it's too dangerous for<LINE>you to go any further!
 We're going to combine our strength<LINE>and do our best, so please watch!
 Ummm…<LINE>One plus one is two, right?
 Maybe I could have won if I had used<LINE>a Potion or something at some point?
@@ -38,9 +38,9 @@ Heeey, <PLAYER>!<LINE>Come here!
 Heeey, <PLAYER>!<LINE>Come here!
 POKéMON battling is very popular<LINE>at this DAY-CARE.<LINE>If you go in the playground, you'll<LINE>be pestered into battling.
 You w-want to have a Double Battle?<LINE>Our P-POKéMON aren't strong enough yet.<LINE>Maybe we'll leave them at the DAY-CARE.
-Our perfectly matched combination<LINE>flusters all the other Trainers!
+Our perfectly matched combination<LINE>flusters all the other trainers!
 Sometimes they let<LINE>us play with POKéMON!
 ROUTE 3
 
-Trainer Tips!<LINE><LINE>The POKéMON placed in the upper<LINE>left of the POKéMON list is important!<LINE>The POKéMON set there is the first<LINE>out when a POKéMON battle starts!
+trainer Tips!<LINE><LINE>The POKéMON placed in the upper<LINE>left of the POKéMON list is important!<LINE>The POKéMON set there is the first<LINE>out when a POKéMON battle starts!
 POKéMON DAY-CARE<LINE>We Take Care of Your Precious POKéMON

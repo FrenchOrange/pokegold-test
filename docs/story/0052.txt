@@ -22,8 +22,8 @@ It looks like Zorua and Celebi are really<LINE>good friends!<LINE>I'm sure Zorua
 So you won't take Zorua with you…<LINE>Poor thing. It looks lonely…
 So you won't take Zorua with you…<LINE>Poor thing. It looks lonely…
 Zorua is waiting for you!
-Trainer, do you have a POKé BALL?
-Trainer, do you have a POKé BALL?
+trainer, do you have a POKé BALL?
+trainer, do you have a POKé BALL?
 …Can't you take Zorua with you?
 
 It looks like Zorua and Celebi are really<LINE>good friends!<LINE>I'm sure Zorua wants to go with you<LINE>and Celebi!<LINE>…But do you have room for Zorua<LINE>in your party?<LINE>You can't take more than six POKéMON<LINE>with you. Right?

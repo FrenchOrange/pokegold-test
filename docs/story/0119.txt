@@ -9,6 +9,6 @@ BRYCEN: In the past, when I was hurt and<LINE>depressed, ALDER shared this with 
 Please take this Fresh Water!
 Ice can be melted with Fire<LINE>or shattered with Fighting.<LINE>Or you might want to smash it<LINE>into dust with Rock or Steel.
 From BRYCEN, I've learned how to<LINE>say more with fewer words.
-ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:
-ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:<LINE><LINE><PLAYER>
-ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified Trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA
+ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified trainers:
+ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified trainers:<LINE><LINE><PLAYER>
+ICIRRUS POKéMON GYM<LINE>GYM LEADER: BRYCEN<LINE>Certified trainers:<LINE><LINE><PLAYER><LINE><LINE>CHEREN<LINE><LINE>BIANCA

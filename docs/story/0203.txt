@@ -4,7 +4,7 @@ N: \xf000븉\x0001\x0001Ah, yes.<LINE>That was the Shadow Triad, just now.<LINE>
 N: \xf000븉\x0001\x0001CHARGESTONE CAVE…<LINE>I like this place.<LINE>Formulas express electricity and<LINE>its connection to POKéMON…<LINE>If people did not exist,<LINE>this would be an ideal place.<LINE>You have been chosen, you know.<LINE>Does it surprise you I said that?\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Of course.<LINE>Such news should be a surprise.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Hmph.<LINE>If you don't understand what that<LINE>means, it's not likely to surprise you.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001I told GHETSIS about you<LINE>and your friends.<LINE>After I did, he apparently used the<LINE>Shadow Triad to find out about you.<LINE>CHEREN is pursuing the ideal of strength.<LINE>Poor BIANCA has faced the sad truth that<LINE>not everyone can become stronger.<LINE>And you are not swayed either way--<LINE>more of a neutral presence.<LINE><LINE>Which is apparently a good thing.<LINE>TEAM PLASMA will be waiting for you ahead.<LINE>GHETSIS wants to see what kind of<LINE>POKéMON Trainer you really are.\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001I told GHETSIS about you<LINE>and your friends.<LINE>After I did, he apparently used the<LINE>Shadow Triad to find out about you.<LINE>CHEREN is pursuing the ideal of strength.<LINE>Poor BIANCA has faced the sad truth that<LINE>not everyone can become stronger.<LINE>And you are not swayed either way--<LINE>more of a neutral presence.<LINE><LINE>Which is apparently a good thing.<LINE>TEAM PLASMA will be waiting for you ahead.<LINE>GHETSIS wants to see what kind of<LINE>POKéMON trainer you really are.\xf000븉\x0001\x0000
 Heeey!
 Guess what!
 BIANCA: <PLAYER>, did you know this?<LINE>The floating stones move<LINE>when you touch them!
@@ -27,11 +27,11 @@ N: \xf000븉\x0001\x0001Many different values mix together,<LINE>and the world b
 \xf000븉\x0001\x0001You have a dream…<LINE>That's wonderful.<LINE>I'll learn just what kind of dream<LINE>you have--in battle!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001As if a person without a dream<LINE>could ever understand me!<LINE>Eh… I guess…<LINE>I have to crush your will here!\xf000븉\x0001\x0000
 
-N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue the truth with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a Trainer?<LINE>As if I could pursue my ideals with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a trainer?<LINE>As if I could pursue the truth with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001Tsk! Why?<LINE>Is it impossible for me to win while<LINE>feeling bad about being a trainer?<LINE>As if I could pursue my ideals with<LINE>something as meaningless as a battle!<LINE>As if that could make me worthy to become<LINE>friends with the legendary POKéMON!\xf000븉\x0001\x0000
 BIANCA: <PLAYER>!
 Just a little further to MISTRALTON CITY!
-PROF.JUNIPER: BIANCA,<LINE>you have good ears.<LINE>I can't believe you heard<LINE><PLAYER>'s voice from that far away.<LINE><PLAYER>, who is this Trainer?
+PROF.JUNIPER: BIANCA,<LINE>you have good ears.<LINE>I can't believe you heard<LINE><PLAYER>'s voice from that far away.<LINE><PLAYER>, who is this trainer?
 N: \xf000븉\x0001\x0001PROF.JUNIPER,<LINE>what are you thinking?<LINE>You appear to have no qualms about the<LINE>relationship between POKéMON and people.<LINE>You put POKéMON into categories using<LINE>arbitrary rules and think you can<LINE><LINE>understand them like that…<LINE><LINE>The very idea of a POKéDEX revolts me.<LINE>What do you have to say for yourself?\xf000븉\x0001\x0000
 PROF.JUNIPER: Oh, my.<LINE>Looks like you're not my biggest fan.<LINE>Your opinion is understandable.<LINE>It happens to be different from mine,<LINE><LINE>which is equally understandable.<LINE>How about if all people get to decide for<LINE>themselves how to relate to POKéMON?
 N: \xf000븉\x0001\x0001You're saying I should just allow<LINE>people to think whatever they want and<LINE><LINE>treat POKéMON however they want,<LINE><LINE>no matter whether the POKéMON suffer?<LINE>I refuse to tolerate the existence<LINE>of a world like that!\xf000븉\x0001\x0000

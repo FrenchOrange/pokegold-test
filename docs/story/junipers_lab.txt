@@ -15,14 +15,14 @@ The POKéDEX is a high-tech device that<LINE>automatically records the POKéMON<
 This is my request.<LINE><PLAYER>!<LINE>CHEREN! BIANCA!<LINE>You'll go on an adventure to<LINE>complete the POKéDEX, will you not?
 PROF.JUNIPER: Here is what I need<LINE>from you!<LINE>What I want to hear are the courageous<LINE>words of people who will blaze new<LINE><LINE>paths around the world!<LINE>I want you three to travel to many<LINE>distant places and meet all of the<LINE><LINE>POKéMON in the UNOVA region!
 BIANCA: OK!<LINE>I mean… Yes, professor!
-CHEREN: Thank you very much.<LINE>Because of you, I can become a POKéMON<LINE>Trainer, exactly as I've always wished.
+CHEREN: Thank you very much.<LINE>Because of you, I can become a POKéMON<LINE>trainer, exactly as I've always wished.
 PROF.JUNIPER: All of you, thanks!<LINE>You have given me the best<LINE>possible answer!
 <PLAYER> obtained the POKéDEX!
 PROF.JUNIPER: Next, I need to teach<LINE>you how to meet POKéMON.<LINE>Please meet me at ROUTE 1, OK?
 BIANCA: S-since the professor asked us,<LINE>it's OK to go on an adventure, right?<LINE>I can explore and maybe find out what<LINE>I want to do in life. I think I'd like that.
 CHEREN: Of course.<LINE>We can travel however we want<LINE>while we complete the POKéDEX.
 BIANCA: For some reason,<LINE>my heart is pounding, <PLAYER>.<LINE>What are you and <POKEMON> going to do?
-CHEREN: Finally, I can become<LINE>a POKéMON Trainer.<LINE>I'll have real battles with other<LINE>Trainers and get stronger. Wait and see!
+CHEREN: Finally, I can become<LINE>a POKéMON trainer.<LINE>I'll have real battles with other<LINE>trainers and get stronger. Wait and see!
 PROF.JUNIPER: Why, hello,<LINE><PLAYER>! How have you been lately?
 CEDRIC: Hey, <PLAYER>!<LINE>Are you meeting lots of POKéMON?<LINE>There really are lots of POKéMON<LINE>in the UNOVA region and the<LINE><LINE>rest of the world!
 
@@ -44,4 +44,4 @@ BIANCA: Oh, <PLAYER>!<LINE>Would you have a POKéMON<LINE>battle with me today?
 BIANCA: Great! <PLAYER>!<LINE>We're battling indoors, so<LINE>don't get too worked up!
 BIANCA: Whaaaaat!<LINE>Wait…<LINE>No, I'm pretty disappointed…
 BIANCA: Oh, so you will have a<LINE>POKéMON battle with me, then?
-BIANCA: Phew!<LINE>I'm totally sure, <PLAYER>.<LINE>You're really a strong Trainer.<LINE>I love your style of POKéMON<LINE>battling, <PLAYER>.<LINE>Somehow your POKéMON look like<LINE>they're having so much fun!
+BIANCA: Phew!<LINE>I'm totally sure, <PLAYER>.<LINE>You're really a strong trainer.<LINE>I love your style of POKéMON<LINE>battling, <PLAYER>.<LINE>Somehow your POKéMON look like<LINE>they're having so much fun!

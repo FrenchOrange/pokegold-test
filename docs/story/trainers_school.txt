@@ -1,7 +1,7 @@
 CHEREN: When a POKéMON is poisoned,<LINE>its HP decreases while it is battling.
 Hey, <PLAYER>.<LINE>Have you come looking for the<LINE>GYM LEADER?
 He was here talking about POKéMON<LINE>types until just a few moments ago…<LINE>Maybe you walked right past him?
-Nothing improves your skill as a Trainer<LINE>like real battles.<LINE>That's why challenging GYM LEADERs is<LINE>great practice.
+Nothing improves your skill as a trainer<LINE>like real battles.<LINE>That's why challenging GYM LEADERs is<LINE>great practice.
 By the way, <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
 CHEREN: <PLAYER>, will you have a<LINE>battle with me?<LINE>I want to test how important items are<LINE>in battles.
 Really? I really want to try out my<LINE>items, so I'll just wait here until you<LINE><LINE>decide you're ready.

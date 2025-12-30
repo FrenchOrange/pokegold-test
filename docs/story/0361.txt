@@ -8,9 +8,9 @@ CHEREN: Who is this man?
 ELESA: This is ALDER,<LINE>the UNOVA region's Champion.
 CHEREN: Champion?!<LINE>Why would the Champion be<LINE>goofing off in a place like this?
 ALDER: I heard that remark.<LINE>You're quite a judgmental young person,<LINE><LINE>are you not?<LINE>My name is ALDER. I'm the UNOVA<LINE>POKéMON LEAGUE's Champion.<LINE>Pleased to make your acquaintance.<LINE>For your information, I'm not<LINE>goofing off. I'm on a voyage.<LINE><LINE>I know every corner of UNOVA.
-CHEREN: Um. I'm CHEREN, from<LINE>NUVEMA TOWN.<LINE>My goal as a Trainer is to<LINE>become the Champion.
+CHEREN: Um. I'm CHEREN, from<LINE>NUVEMA TOWN.<LINE>My goal as a trainer is to<LINE>become the Champion.
 ALDER: Hm. Traveling with a goal in mind<LINE>is a commendable thing.<LINE>And what do you plan to do<LINE>after becoming the Champion?
-CHEREN: What else is there other than<LINE>striving to become stronger?<LINE>The strongest Trainer--<LINE>that's the Champion.
+CHEREN: What else is there other than<LINE>striving to become stronger?<LINE>The strongest trainer--<LINE>that's the Champion.
 ALDER: Hmm. Becoming stronger…<LINE>Becoming stronger, you say…<LINE><LINE>Is that alone enough of a goal? Hmmm.<LINE>It's not that I'm trying to say your way<LINE>of thinking is wrong…
 In my travels, I've helped many people<LINE>learn to love POKéMON. I think that's<LINE><LINE>important, too.<LINE>If you play with those children,<LINE>you might gain more of an understanding.<LINE>Will you two have a POKéMON battle<LINE>with those two?
 Hey, you two. Come<LINE>here for a moment.
@@ -26,10 +26,10 @@ ELESA: Let's roll.<LINE>The DRIFTVEIL DRAWBRIDGE is just ahead.
 CHEREN: The Champion is the strongest<LINE>of the strong! That's all there is to it.
 CHEREN: This way.
 ELESA: Now to contact him…
-It's me, ELESA.<LINE>Please lower the drawbridge.<LINE>I have a couple of Trainers here<LINE>who want to challenge you.<LINE>OK…<LINE>Thanks.
+It's me, ELESA.<LINE>Please lower the drawbridge.<LINE>I have a couple of trainers here<LINE>who want to challenge you.<LINE>OK…<LINE>Thanks.
 Now, watch this!
 ELESA: I have a TV gig, so I've got to go.<LINE>The GYM LEADER of the next town<LINE>may take some getting used to…<LINE><LINE>Do your best, both of you.
-CHEREN: What I am is a Trainer.<LINE>I prove I'm right by getting stronger<LINE>and winning in battle--<LINE><LINE>even against the Champion.
+CHEREN: What I am is a trainer.<LINE>I prove I'm right by getting stronger<LINE>and winning in battle--<LINE><LINE>even against the Champion.
 Excuse me!<LINE>Please stop right there!
 The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to DRIFTVEIL's GYM<LINE>LEADER, CLAY, he could… Well, I'm not<LINE><LINE>sure how you'd reach him over there…<LINE>If you talk to NIMBASA CITY's GYM LEADER,<LINE>ELESA, she might be able to do something.
 The drawbridge is raised right now<LINE>so ships can pass. You can't cross.<LINE>If you make a request to DRIFTVEIL's GYM<LINE>LEADER, CLAY, he could… Well, I'm not<LINE><LINE>sure how you'd reach him over there…<LINE>If you talk to NIMBASA CITY's GYM LEADER,<LINE>ELESA, she might be able to do something.
@@ -50,4 +50,4 @@ The street performers are my favorites.<LINE>They're so charming!
 ROUTE 5<LINE>Performer Street
 DRIFTVEIL DRAWBRIDGE
 
-Trainer Tips!<LINE><LINE>There are different Cases<LINE>for each type of item.<LINE>Items are placed automatically in<LINE>the correct Case by their type.<LINE>The name of the Case tells you<LINE>what type of items will be kept there.
+trainer Tips!<LINE><LINE>There are different Cases<LINE>for each type of item.<LINE>Items are placed automatically in<LINE>the correct Case by their type.<LINE>The name of the Case tells you<LINE>what type of items will be kept there.

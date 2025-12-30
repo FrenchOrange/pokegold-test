@@ -1,4 +1,4 @@
-FENNEL: Ta-da!<LINE>Thanks to you, I got some Dream Mist,<LINE>and now I can collect save files of<LINE><LINE>various Trainers!<LINE><LINE>Thank you very much!<LINE>As a token of my appreciation,<LINE>I will give you this C-Gear to use!<LINE>The C-Gear is a device related to<LINE>communications, such as<LINE><LINE>Infrared Connection or<LINE><LINE>Nintendo Wi-Fi Connection.
+FENNEL: Ta-da!<LINE>Thanks to you, I got some Dream Mist,<LINE>and now I can collect save files of<LINE><LINE>various trainers!<LINE><LINE>Thank you very much!<LINE>As a token of my appreciation,<LINE>I will give you this C-Gear to use!<LINE>The C-Gear is a device related to<LINE>communications, such as<LINE><LINE>Infrared Connection or<LINE><LINE>Nintendo Wi-Fi Connection.
 <PLAYER> obtained the \xf000\xff00\x0001\x0002C-Gear\xf000\xff00\x0001\x0000!
 Turn on the C-Gear and<LINE>establish communications?
 Yes
@@ -7,14 +7,14 @@ Some functions of the C-Gear<LINE>will be restricted. Is that OK?
 Wireless communications<LINE>are turned OFF.<LINE>Turn wireless communications<LINE>ON in the System Settings.<LINE><LINE>Error code: 50699
 You see! The C-Gear was activated, and<LINE>that screen showed up!<LINE>If you touch the '?' icon at the<LINE>bottom-right of the screen, you can read<LINE><LINE>about the C-Gear.
 If you want to turn on the C-Gear, touch<LINE>the Power symbol at the bottom right of<LINE><LINE>the screen.<LINE>Then, after turning on the power, if you<LINE>touch the '?' icon at the bottom right<LINE><LINE>of the screen, you can read about<LINE><LINE>the C-Gear.
-About \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000…<LINE>I'd like to explain a little more about the<LINE>system to collect Trainers' save files.<LINE>Do you have time to learn more?
+About \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000…<LINE>I'd like to explain a little more about the<LINE>system to collect trainers' save files.<LINE>Do you have time to learn more?
 I am sorry!<LINE>I am so happy, so I will explain about it!<LINE>Because, thanks to you, we can do a<LINE>great thing!
-Now \xf000\xff00\x0001\x0002Game Sync \xf000\xff00\x0001\x0000can retrieve memories<LINE>of sleeping POKéMON using Dream Mist!<LINE>That's right! We can collect save files of<LINE>Trainers from all over the world!
+Now \xf000\xff00\x0001\x0002Game Sync \xf000\xff00\x0001\x0000can retrieve memories<LINE>of sleeping POKéMON using Dream Mist!<LINE>That's right! We can collect save files of<LINE>trainers from all over the world!
 What's more, we learned that if you use<LINE>\xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 to make a POKéMON sleep,<LINE><LINE>it will have dreams.<LINE>Then, when you wake up that POKéMON,<LINE>its dream becomes the reality in a<LINE><LINE>space called \xf000\xff00\x0001\x0001Entralink \xf000\xff00\x0001\x0000in the middle of<LINE><LINE>the UNOVA region.<LINE>Isn't Game Sync interesting?<LINE>If you like, please send your save file.<LINE>I've summed up the details in the PC, so<LINE>please check it if you get a chance!
 FENNEL: \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 is fascinating, I think.<LINE>Do you think so, too?<LINE>If you get interested, please send your<LINE>save file.<LINE>I've summed up the details in the PC<LINE>at the back.<LINE><LINE>So, please check it, if you'd like!
-FENNEL: Oh, thank you! <LINE>You also sent your save file. I saw it<LINE>while I was researching Trainers!<LINE>Isn't \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 great?
+FENNEL: Oh, thank you! <LINE>You also sent your save file. I saw it<LINE>while I was researching trainers!<LINE>Isn't \xf000\xff00\x0001\x0002Game Sync\xf000\xff00\x0001\x0000 great?
 
-AMANITA: Oh, Trainer! Thank you very<LINE>much for helping FENNEL!<LINE>This is from me. Please take it.<LINE>Don't be shy.
+AMANITA: Oh, trainer! Thank you very<LINE>much for helping FENNEL!<LINE>This is from me. Please take it.<LINE>Don't be shy.
 You can register your friends in your<LINE>Pal Pad.<LINE>After you register, you can link with<LINE>those friends over Nintendo Wi-Fi<LINE><LINE>Connection to do all kinds of fun things!<LINE>You can trade POKéMON, challenge<LINE>your friends to a battle, and so on.<LINE>Let me give you a quick how-to on<LINE>registering your friends.<LINE>You can either input your friend's code<LINE>directly by using your Pal Pad…<LINE>Or you can use the IR Connection<LINE>feature of the C-Gear.<LINE>Then, you can register your friend!
 AMANITA: Is there something you'd like<LINE>to ask me?
 In the Battle Box, you can register up<LINE>to six POKéMON that you often use<LINE><LINE>in battles.<LINE>When you battle using Infrared<LINE>Connection, you can choose to battle<LINE><LINE>with either your party POKéMON or with<LINE><LINE>the POKéMON in the Battle Box!
@@ -22,10 +22,10 @@ In order to register your friend<LINE>in your Pal Pad…<LINE>You can either inp
 Battle Box
 Pal Pad
 Cancel
-Trainer! Do you use the PC in a<LINE>POKéMON CENTER?<LINE>I am the one who maintains the<LINE>Box system.<LINE>Do you know about the Battle Box?
+trainer! Do you use the PC in a<LINE>POKéMON CENTER?<LINE>I am the one who maintains the<LINE>Box system.<LINE>Do you know about the Battle Box?
 
 FENNEL's Memo
 Read which topic?
 Game Sync
 POKéMON Dreams
-Game Sync is a system to collect save<LINE>files from Trainers all over the world<LINE><LINE>through Nintendo Wi-Fi Connection<LINE><LINE>by making POKéMON sleep and retrieving<LINE><LINE>their dreams.<LINE>Touch the Online button on the C-Gear<LINE>screen, and a button called<LINE><LINE>\xf000\xff00\x0001\x0001Game Sync \xf000\xff00\x0001\x0000appears.<LINE>Choose a POKéMON to send to sleep, then<LINE>you can send your save file through<LINE><LINE>Nintendo Wi-Fi Connection.<LINE>You should be able to make more POKéMON<LINE>sleep as a result of the research.
+Game Sync is a system to collect save<LINE>files from trainers all over the world<LINE><LINE>through Nintendo Wi-Fi Connection<LINE><LINE>by making POKéMON sleep and retrieving<LINE><LINE>their dreams.<LINE>Touch the Online button on the C-Gear<LINE>screen, and a button called<LINE><LINE>\xf000\xff00\x0001\x0001Game Sync \xf000\xff00\x0001\x0000appears.<LINE>Choose a POKéMON to send to sleep, then<LINE>you can send your save file through<LINE><LINE>Nintendo Wi-Fi Connection.<LINE>You should be able to make more POKéMON<LINE>sleep as a result of the research.

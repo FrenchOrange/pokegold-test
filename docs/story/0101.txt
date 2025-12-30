@@ -1,6 +1,6 @@
-Hrmph! So yer the Trainers ELESA was<LINE>talkin' about, huh.<LINE>I'm CLAY. I'm the GYM LEADER 'round<LINE>these parts.<LINE>Don't be expectin' no welcome, now.<LINE>'Cause when we lowered that bridge,<LINE>the TEAM PLASMA guys we'd caught<LINE><LINE>done escaped in all the ruckus!
+Hrmph! So yer the trainers ELESA was<LINE>talkin' about, huh.<LINE>I'm CLAY. I'm the GYM LEADER 'round<LINE>these parts.<LINE>Don't be expectin' no welcome, now.<LINE>'Cause when we lowered that bridge,<LINE>the TEAM PLASMA guys we'd caught<LINE><LINE>done escaped in all the ruckus!
 CHEREN: What a bother.<LINE>We're grateful that you lowered the<LINE>bridge, but how is it our fault that<LINE><LINE>they escaped?
-CLAY: Ya can say whatever ya want.<LINE>But what's important is y'all showed up,<LINE>and then TEAM PLASMA escaped.<LINE>Maybe it's a little heavy-handed, but<LINE>you oughtta start lookin' for<LINE><LINE>TEAM PLASMA, too.<LINE>Yer both talented Trainers, aren't ya?
+CLAY: Ya can say whatever ya want.<LINE>But what's important is y'all showed up,<LINE>and then TEAM PLASMA escaped.<LINE>Maybe it's a little heavy-handed, but<LINE>you oughtta start lookin' for<LINE><LINE>TEAM PLASMA, too.<LINE>Yer both talented trainers, aren't ya?
 Tell ya what…<LINE>If ya find TEAM PLASMA, I'll let ya<LINE>challenge my GYM!<LINE>Life's all about give and take!
 CHEREN: Well, I suppose that's fair.<LINE>But really, we would have looked<LINE>for TEAM PLASMA even if he hadn't asked.<LINE>I can get stronger while beating that<LINE>bothersome bunch…
 <PLAYER>!<LINE>I'll go on ahead.
@@ -20,11 +20,11 @@ Our GYM LEADER, CLAY, is in the<LINE>middle of something right now.<LINE><LINE>P
 BIANCA: Oh, hi, <PLAYER>!
 BIANCA: <PLAYER>!!<LINE>Guess what, guess what?
 Hey, were you at the GYM just now?<LINE>Oh, hey! That's DRIFTVEIL's GYM BADGE!<LINE>Oh, that's totally cool. That's amazing.
-No, no, no! I can't get distracted being<LINE>all impressed with your shiny new BADGE!<LINE>I'm also a Trainer!<LINE>At times like this you battle, right?
+No, no, no! I can't get distracted being<LINE>all impressed with your shiny new BADGE!<LINE>I'm also a trainer!<LINE>At times like this you battle, right?
 BIANCA: I haven't had a POKéMON battle<LINE>with you in a while, <PLAYER>.<LINE>You've become totally strong, huh?<LINE>I'm not that strong, so I don't know<LINE>how to say it, but I think you're way<LINE><LINE>tuned in to how your POKéMON feel!<LINE>Oh, you know what! I want to share this<LINE>HM with you, <PLAYER>!
 BIANCA: My papa gave it to me after<LINE>he tried to take me home that time.<LINE>I'm sure it's so I can come home anytime<LINE>he wants, though…<LINE>Oh, hey, I have to share this with<LINE>CHEREN, too…<LINE>See you, <PLAYER>! Buh-bye!
 So how about this city's pride and joy,<LINE>the drawbridge?<LINE>We also call it the Charizard Bridge<LINE>due to its elegant form!
-Hey there, Trainer!<LINE>Have you ever battled the Elite Four<LINE>of the POKéMON LEAGUE?<LINE>You can't battle them unless you<LINE>have eight GYM BADGES, right?
+Hey there, trainer!<LINE>Have you ever battled the Elite Four<LINE>of the POKéMON LEAGUE?<LINE>You can't battle them unless you<LINE>have eight GYM BADGES, right?
 Oh, ocean…<LINE>I wonder if the tears I've cried<LINE>will flow all the way to Olivine City.
 Those TEAM PLASMA meanies forced me<LINE>to battle them.<LINE>And when I lost, they stole my POKéMON!
 When I win, it's because of my POKéMON.<LINE>When I lose, it's because of me.<LINE>That's how I always think. If you get<LINE>conceited, you get sloppy fast.
@@ -37,7 +37,7 @@ Bridges are amazing. 'Cause they are a<LINE>symbol of connecting the world.<LINE
 I'm a heartbreaker…<LINE>My name… Charles.<LINE>I wanted to get the attention of a girl<LINE>I like, so I learned a new style of<LINE><LINE>POKéMON battling.<LINE>Its name… Triple Battle!<LINE>Want to learn about it?
 Oh, man! Getting someone's attention is<LINE>really hard.
 In Triple Battles, you send out three<LINE>POKéMON at a time and battle!<LINE>The rules are simple: just make all of<LINE>your opponent's POKéMON faint.<LINE>And that's a rough explanation<LINE>of Triple Battles.
-I'm a heartbreaker…<LINE>My name… Charles.<LINE>Hey! If you're a Trainer, how about a<LINE>Triple Battle?
+I'm a heartbreaker…<LINE>My name… Charles.<LINE>Hey! If you're a trainer, how about a<LINE>Triple Battle?
 You've got a good attitude, don't you!<LINE>I'm a heartbreaker…<LINE>My name… Charles.<LINE>I'm always at full throttle.
 I hate to burst your bubble when you're<LINE>all fired up, but…<LINE>In Triple Battles, you need three or<LINE>more POKéMON to battle.
 I'm a heartbreaker…<LINE>My name… Charles.<LINE>I have some advice for you.<LINE>Challenge is the essence of life!
@@ -46,7 +46,7 @@ I'm a heartbreaker…<LINE>My name… Charles.<LINE>Riding a bike and becoming t
 I'm a heartbreaker…<LINE>My name… Charles.<LINE>I wanted to get the attention of a girl<LINE>I like, so I learned a new style of<LINE><LINE>POKéMON battling.<LINE>Its name… Rotation Battle!<LINE>Want to learn about it?
 Oh, man! Getting someone's attention is<LINE>really hard.
 In Rotation Battles, you send out three<LINE>POKéMON at a time and battle!<LINE>One POKéMON takes the lead position,<LINE>and the other two stand on each side.<LINE>The trick is, each turn you can change<LINE>their positions…<LINE>And that's a rough explanation<LINE>of Rotation Battles.
-I'm a heartbreaker…<LINE>My name… Charles.<LINE>Hey! If you're a Trainer, how about a<LINE>Rotation Battle?
+I'm a heartbreaker…<LINE>My name… Charles.<LINE>Hey! If you're a trainer, how about a<LINE>Rotation Battle?
 You've got a good attitude, don't you!<LINE>I'm a heartbreaker…<LINE>My name… Charles.<LINE>I'm always at full throttle.
 I hate to burst your bubble when you're<LINE>all fired up, but…<LINE>In Rotation Battles, you need three or<LINE>more POKéMON to battle.
 I'm a heartbreaker…<LINE>My name… Charles.<LINE>I have some advice for you.<LINE>Challenge is the essence of life!

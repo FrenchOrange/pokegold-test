@@ -49,7 +49,7 @@ MeetFennelText:
 
 	para "In fact, the subj-"
 	line "ect I'm researching"
-	cont "is Trainers!"
+	cont "is trainers!"
 
 	para "PROF.JUNIPER is my"
 	line "friend from"
@@ -173,7 +173,7 @@ StriatonFennelCondo2FAmanita:
 	end
 
 StriatonFennelCondo2FAmanita_IntroText:
-	text "Are you a Trainer?"
+	text "Are you a trainer?"
 
 	para "Do you use the PC"
 	line "at #MON"

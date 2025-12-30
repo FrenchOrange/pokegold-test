@@ -15,7 +15,7 @@ AccumulaGreatBagCondo1FLittleGirl:
 
 AccumulaGreatBagCondo1FMiddleFText:
 	text "On ROUTE 2, many"
-	line "Trainers train"
+	line "trainers train"
 	cont "their POKéMON by"
 
 	para "having them"

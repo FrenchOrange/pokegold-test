@@ -1,5 +1,5 @@
-I am grateful that you came all this way!<LINE>Are you a Trainer?<LINE>Ooh, you have a POKéDEX!<LINE>It's so marvelous!<LINE>I wonder if you'd please do me a favor.
-Oh, Trainer. I'm so pleased that you<LINE>came all the way here!<LINE>I'm wondering if you would do me a favor<LINE>today, too.
+I am grateful that you came all this way!<LINE>Are you a trainer?<LINE>Ooh, you have a POKéDEX!<LINE>It's so marvelous!<LINE>I wonder if you'd please do me a favor.
+Oh, trainer. I'm so pleased that you<LINE>came all the way here!<LINE>I'm wondering if you would do me a favor<LINE>today, too.
 I would like to see a POKéMON that has<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.
 I would like to see a POKéMON that<LINE>learned a move called \xf000ć\x0001\x0000.<LINE>To be clear, that's \xf000ć\x0001\x0000.<LINE>Please show it to me today.<LINE>Oh, my, my, my!<LINE>Your <POKEMON> can<LINE>use \xf000ć\x0001\x0000!<LINE>Did you go to the trouble of teaching it<LINE>to your POKéMON? Marvelous!<LINE>This is a small token of my appreciation.<LINE>Please don't hesitate to accept this.
 I'm touched that you came all the way<LINE>here, yet you are being so unkind.

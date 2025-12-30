@@ -43,7 +43,7 @@ Doug: Hello, hello! I'm Doug!!<LINE>I came from BLACK CITY.<LINE><LINE>I'm an ac
 Doug: When I'm surrounded<LINE>by nature, I work!<LINE><LINE>It's coming along pretty well!
 So, I've had a lot of fresh air,<LINE>and I think I'm well refreshed!<LINE>I have a lot of other work to do,<LINE>so I want to go to BLACK CITY.
 Recently, I saw a Shinx in this area!<LINE>Yes, just being here refreshes me!
-Vincent: Hey, how are you?<LINE>In BLACK CITY, I was <PLAYER>'s<LINE>sparring partner.<LINE>Not too bad of a Trainer, I'd say,<LINE>but not as strong as I am.
+Vincent: Hey, how are you?<LINE>In BLACK CITY, I was <PLAYER>'s<LINE>sparring partner.<LINE>Not too bad of a trainer, I'd say,<LINE>but not as strong as I am.
 Vincent: The vastness of nature<LINE>spices up my life!<LINE>Yeah, I really have taken a liking to<LINE>this place.
 Well, you know, I was born and raised in<LINE>the city, so maybe I should go home soon.
 Recently a Magby was staring at me from<LINE>over there!<LINE>It ran as soon as our gazes met.<LINE>If it likes me, it should let me know!
@@ -55,15 +55,15 @@ Lena: <PLAYER>…?<LINE>Sorry. You look like someone I know…<LINE>A person I m
 Lena: The plants grow thick and green<LINE>with the blessing of the soil.<LINE><LINE>I want to be thankful for this as I walk.
 People are drawn to man-made things.<LINE>I miss BLACK CITY…
 It's so peaceful here. I love listening to<LINE>the Grass-type POKéMON breathing and<LINE><LINE>the bird POKéMON chirping…<LINE>Did you notice? A Ralts just ran past<LINE>right behind you.
-Carlos: Oh! Hello!<LINE>There is so much to see here!<LINE>I just came from BLACK CITY, where I met<LINE>a Trainer named <PLAYER><LINE><LINE>who was very strong. It was fun!
+Carlos: Oh! Hello!<LINE>There is so much to see here!<LINE>I just came from BLACK CITY, where I met<LINE>a trainer named <PLAYER><LINE><LINE>who was very strong. It was fun!
 Carlos: Oh! Hello!<LINE>I've traveled in many places, but places<LINE>this close to nature are very rare!
 But, hmmm… I think it's about time<LINE>to head somewhere else.
 Starly!<LINE>Starly was just there!<LINE>Why don't you go look for it?
-Molly: So this is WHITE FOREST!<LINE>It's very different from BLACK CITY!<LINE>Hey, do you know a Trainer named<LINE><PLAYER> who is really strong?
+Molly: So this is WHITE FOREST!<LINE>It's very different from BLACK CITY!<LINE>Hey, do you know a trainer named<LINE><PLAYER> who is really strong?
 Molly: I've been traveling, and I've seen<LINE>a lot of places, but I have never seen<LINE><LINE>a place this pretty before!
 This is a pretty place, but maybe<LINE>a little boring…
 Oh, that's right! An Azurill was running<LINE>happily toward the grass!<LINE>Maybe I should run with the POKéMON<LINE>in the grass!
-Frederic: <PLAYER>?!<LINE>…Oh! My mistake!<LINE>I'm very frustrated at losing our<LINE>POKéMON battle, so I want a rematch<LINE><LINE>the next time I see that Trainer.
+Frederic: <PLAYER>?!<LINE>…Oh! My mistake!<LINE>I'm very frustrated at losing our<LINE>POKéMON battle, so I want a rematch<LINE><LINE>the next time I see that trainer.
 Frederic: Oh… Have a look at this!<LINE>My POKéMON is so happy!<LINE>POKéMON love nature, but…<LINE>I'm the complete opposite!
 Well, my POKéMON is having fun, but<LINE>I'm starving for some excitement.
 Just a second ago, my POKéMON was<LINE>playing with a wild Budew.<LINE>It ran away when it saw me, but<LINE>it really looked like it was having fun!
@@ -103,11 +103,11 @@ Collin: My success story begins here!<LINE>In BLACK CITY, I had a rival named<LI
 Collin: I like how everyone here looks<LINE>so happy!<LINE>I want to make them even happier with<LINE>my business!
 Business opportunities don't just come<LINE>rolling at you so easily.<LINE>Ahh… I feel like BLACK CITY may be a<LINE>better fit for me…
 Successful people are always looking up!<LINE>So I was looking up while I was walking,<LINE>and I accidentally walked into an Abra.<LINE><LINE>Sorry, Abra!
-Ken: I feel that I've grown as a Trainer<LINE>who can look at POKéMON with a<LINE><LINE>broad mindset.<LINE>I wonder how <PLAYER>, who I met in<LINE>BLACK CITY, is doing these days.
+Ken: I feel that I've grown as a trainer<LINE>who can look at POKéMON with a<LINE><LINE>broad mindset.<LINE>I wonder how <PLAYER>, who I met in<LINE>BLACK CITY, is doing these days.
 Ken: Studying many different POKéMON and<LINE>gaining a lot of far-reaching knowledge<LINE><LINE>widens your world.
 But now I'm thinking I'd rather think<LINE>about just one thing very deeply.
 When you have a broad mindset, you<LINE>notice things about nature and yourself<LINE><LINE>and about yourself and POKéMON.<LINE>I thought that when I saw a Nidoran⑭<LINE>over there recently.
-Jacques: When you see how many different<LINE>POKéMON there are in the world, you<LINE><LINE>understand there are lots of different<LINE><LINE>answers to problems, too.<LINE>When I met <PLAYER> in BLACK CITY, I<LINE>felt that Trainer’s way of thinking was<LINE><LINE>one of those answers.
+Jacques: When you see how many different<LINE>POKéMON there are in the world, you<LINE><LINE>understand there are lots of different<LINE><LINE>answers to problems, too.<LINE>When I met <PLAYER> in BLACK CITY, I<LINE>felt that trainer’s way of thinking was<LINE><LINE>one of those answers.
 Jacques: Several different answers<LINE>exist for each problem.<LINE>Watching different POKéMON makes me feel<LINE>that way.
 But I want to study something<LINE>with a more clear, definite answer…
 A variety of POKéMON,<LINE>a variety of answers.<LINE><LINE>All of them equally valid.<LINE>I thought that when I saw a<LINE>Nidoran⑮ over there recently.

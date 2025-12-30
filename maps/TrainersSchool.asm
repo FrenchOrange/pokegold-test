@@ -175,7 +175,7 @@ TrainersSchoolGentlemanText:
 	line "SCHOOL exists to"
 	cont "meet the demands"
 
-	para "of Trainers who"
+	para "of trainers who"
 	line "want to know more"
 	cont "about #MON"
 

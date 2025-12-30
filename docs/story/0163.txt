@@ -1,13 +1,13 @@
 In order to eliminate the old-fashioned<LINE>ways of looking at things…
 We will steal POKéMON!<LINE>You'll never play together again!
-If their POKéMON are liberated,<LINE>Trainers will no longer be Trainers!
+If their POKéMON are liberated,<LINE>trainers will no longer be trainers!
 We are in the right!
 Everyone else is wrong!
 If you don't think the same way we think,<LINE>we'll use all our power to eliminate you!
 BURGH: Well, you see…<LINE>There are two ways out of<LINE>PINWHEEL FOREST--<LINE>the road that goes straight and the<LINE>path that winds through the woods.
 I will take the straight road after them!
 If they're not there,<LINE>I'll block the exit.
-Would you please take the other way<LINE>and check whether TEAM PLASMA<LINE><LINE>is hiding in there somewhere?<LINE>You'll run into a lot of Trainers,<LINE>but it's basically a single path,<LINE><LINE>so I'm sure you won't get lost.
+Would you please take the other way<LINE>and check whether TEAM PLASMA<LINE><LINE>is hiding in there somewhere?<LINE>You'll run into a lot of trainers,<LINE>but it's basically a single path,<LINE><LINE>so I'm sure you won't get lost.
 Come on!<LINE>Let's do this for LENORA's sake!
 BURGH: Mm-hmm?<LINE>TEAM PLASMA hasn't come<LINE>in this direction…<LINE>The forest's bug POKéMON are quiet, too.
 BURGH: Mm-hmm?<LINE>TEAM PLASMA hasn't come<LINE>in this direction…<LINE>The forest's bug POKéMON are quiet, too.
@@ -27,13 +27,13 @@ But we will not allow anyone to disrupt<LINE>our plans and get away with it.<LIN
 BURGH: Oh, sweet!<LINE>The bug POKéMON were getting<LINE>all worked up, so here I come,<LINE><LINE>and what do I spy with my little eye?<LINE>This important-looking guy!<LINE>Are you here to help your friends,<LINE>whom I defeated?
 LENORA: <PLAYER>!<LINE>BURGH!<LINE>The others didn't have anything…<LINE>And who are you supposed to be?<LINE>Is this guy the big boss?
 Gorm: I am one of the Seven Sages<LINE>of TEAM PLASMA.<LINE>GHETSIS, another of the Seven Sages,<LINE>will liberate POKéMON with words alone!<LINE>The remainder of the Seven Sages have<LINE>ordered their compatriots to take<LINE><LINE>POKéMON with full force!<LINE>But the odds are a little against us now.<LINE>To you, the Bug POKéMON user BURGH and<LINE>the Normal POKéMON user LENORA, I say…<LINE>Know your enemies, know yourself,<LINE>and you need not fear the result<LINE><LINE>of a hundred battles…<LINE><LINE>This time, we shall retreat quietly.
-To secure the liberation of POKéMON,<LINE>we will steal POKéMON from Trainers!<LINE>Even though you are GYM LEADERs,<LINE>we will not tolerate any further<LINE><LINE>obstruction from you.<LINE>In any case, we will settle this someday.<LINE>I hope you are looking forward<LINE>to that time as much as I…
+To secure the liberation of POKéMON,<LINE>we will steal POKéMON from trainers!<LINE>Even though you are GYM LEADERs,<LINE>we will not tolerate any further<LINE><LINE>obstruction from you.<LINE>In any case, we will settle this someday.<LINE>I hope you are looking forward<LINE>to that time as much as I…
 LENORA: They're a speedy bunch.<LINE>What are you planning to do, BURGH?<LINE>Are you going to chase them?
 BURGH: Hmmm…<LINE>We got back the stolen skull,<LINE>and if we corner them, there's<LINE><LINE>no telling what they might do.<LINE>I think I'll be heading back, LENORA…
 Well, now. Well…<LINE>I'll be waiting for your challenge at<LINE><LINE>CASTELIA CITY's POKéMON GYM.<LINE>Yes, indeed.<LINE>I'm certainly looking forward to it!
 LENORA: <PLAYER>!<LINE>You're holding the Dragon Skull you<LINE>worked so hard to get back, right?
 <PLAYER> gave the<LINE>\xf000ĉ\x0001\x0001 to LENORA!
-LENORA: <PLAYER>, thank you so much.<LINE>With a kind Trainer like you<LINE>taking care of them, the POKéMON<LINE><LINE>with you must be happy.<LINE>Here is a token of my gratitude.<LINE>Please use it carefully!
+LENORA: <PLAYER>, thank you so much.<LINE>With a kind trainer like you<LINE>taking care of them, the POKéMON<LINE><LINE>with you must be happy.<LINE>Here is a token of my gratitude.<LINE>Please use it carefully!
 LENORA: This is a Moon Stone!<LINE>Some POKéMON evolve when you<LINE>use this item on them.<LINE>Now, I must take the Dragon Skull<LINE>back to the museum!<LINE>See you! Take care of yourself!
 I run every day!<LINE>My goal is to be the marathon champion<LINE><LINE>of the UNOVA region!
 The trees cut on this forest road are<LINE>sent from DRIFTVEIL CITY to the world.

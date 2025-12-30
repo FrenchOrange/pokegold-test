@@ -8,11 +8,11 @@ OK, I'll take your POKéMON for<LINE>a few seconds.
 Thank you for waiting.<LINE>We've restored your POKéMON<LINE>to full health.
 We hope to see you again!
 Hello, and welcome to<LINE>the POKéMON CENTER.<LINE>We restore your tired POKéMON<LINE>to full health.<LINE>Would you like to…
-Th-that Trainer Card!<LINE>That wonderful shade! That sparkle!<LINE>I've seen several Trainers with<LINE>Silver Trainer Cards already…<LINE>But you're the first to top them all with<LINE>that impressive Trainer Card.<LINE>Oh, <PLAYER>, may I please heal<LINE>your POKéMON?
+Th-that trainer Card!<LINE>That wonderful shade! That sparkle!<LINE>I've seen several trainers with<LINE>Silver trainer Cards already…<LINE>But you're the first to top them all with<LINE>that impressive trainer Card.<LINE>Oh, <PLAYER>, may I please heal<LINE>your POKéMON?
 Great to see you, <PLAYER>!<LINE>You want the usual, right?
 Oh… It looks like your POKéMON may be<LINE>infected with the Pokérus.<LINE>Little is known about the Pokérus,<LINE>except that it is a microscopic life-form<LINE><LINE>that attaches to POKéMON.<LINE>While infected, POKéMON are said to<LINE>grow exceptionally well.
-Welcome to the POKéMON Wireless<LINE>Club Union Room.<LINE>You may interact directly with<LINE>many Trainers here.<LINE>Would you like to enter the room?
-The Trainers in the Union Room<LINE>will be those players around you<LINE><LINE>who have also entered the room.<LINE>You may trade your POKéMON here<LINE>or have battles for two or four.<LINE>Also, you may exchange EGGs<LINE>or draw pictures with other players.<LINE>You may also chat with other<LINE>players in the room.<LINE>Or you may find friends by touching<LINE>the spoken words.<LINE>Would you like to enter the room?
+Welcome to the POKéMON Wireless<LINE>Club Union Room.<LINE>You may interact directly with<LINE>many trainers here.<LINE>Would you like to enter the room?
+The trainers in the Union Room<LINE>will be those players around you<LINE><LINE>who have also entered the room.<LINE>You may trade your POKéMON here<LINE>or have battles for two or four.<LINE>Also, you may exchange EGGs<LINE>or draw pictures with other players.<LINE>You may also chat with other<LINE>players in the room.<LINE>Or you may find friends by touching<LINE>the spoken words.<LINE>Would you like to enter the room?
 DS Wireless Communications<LINE>will be launched.
 I hope you enjoy your time in<LINE>the Union Room.
 Please do visit again.
@@ -21,5 +21,5 @@ Cancel
 Info
 I am sorry…<LINE>You can't enter the Union Room yet.
 You have at least one POKéMON<LINE>that can't be taken in.
-Wait, Trainer!<LINE>Your title on your Trainer Card<LINE>is still just 'POKéMON Trainer,' isn't it?<LINE>If you change your title, you can easily<LINE>project your image to others when you<LINE><LINE>greet them in the Union Room.<LINE>Let's see…<LINE>How about \xf000Ď\x0001\x0000?<LINE><LINE>What do you think?<LINE>That is the impression I got from you.<LINE>First, let's change your title.<LINE>If you don't like the new one, you can<LINE>change it by selecting your Trainer Card.
+Wait, trainer!<LINE>Your title on your trainer Card<LINE>is still just 'POKéMON trainer,' isn't it?<LINE>If you change your title, you can easily<LINE>project your image to others when you<LINE><LINE>greet them in the Union Room.<LINE>Let's see…<LINE>How about \xf000Ď\x0001\x0000?<LINE><LINE>What do you think?<LINE>That is the impression I got from you.<LINE>First, let's change your title.<LINE>If you don't like the new one, you can<LINE>change it by selecting your trainer Card.
 It seems you can't use it yet.

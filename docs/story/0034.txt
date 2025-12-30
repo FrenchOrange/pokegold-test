@@ -9,13 +9,13 @@ When you step on the switch,<LINE>the one that pops out is--moi!<LINE>On that no
 Hiding makes battle instincts dull,<LINE>you know.
 Now. Come. On.<LINE>Step on this switch, and what happens?<LINE>Moi!
 Yeeeeeeeeah! Thank you for going<LINE>to the trouble of calling me out!<LINE>I'll channel my gratitude into my<LINE>POKéMON's moves and…<LINE><LINE>make sure it gets to you!
-If you hadn't stepped on that switch,<LINE>I'd still be stuck hidden away.<LINE>That's right! Bug GYM Trainers like to<LINE>be bugged!
+If you hadn't stepped on that switch,<LINE>I'd still be stuck hidden away.<LINE>That's right! Bug GYM trainers like to<LINE>be bugged!
 Hiding beneath the floor, I understand<LINE>how a Bug-type POKéMON feels.
 What do you think of CASTELIA CITY?<LINE>I bet, with all of the bustling people,<LINE>you started feeling worn down on your<LINE><LINE>way to the GYM!<LINE>Never mind! This will help. Take it!
 The theme of this GYM is<LINE>walking through walls.<LINE>At first glance, these funny honey walls<LINE>may look impassable or even impossible.<LINE><LINE>If you try hard, it'll work out. So I say.<LINE>But…if it doesn't, here's a sweet tip:<LINE>step on the switches on the floor!
 Wow! That's amazing!<LINE>You swatted aside our GYM LEADER<LINE>BURGH's tricky attacks…<LINE>I can barely imagine how much<LINE>stronger you're going to get!
 The GYM LEADER said he was going to<LINE>Prime Pier and left for a little bit.<LINE>You're welcome to go track him down.
 The GYM LEADER said he was going to<LINE>Prime Pier and left for a little bit.<LINE><LINE>You're welcome to go track him down.
-CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified Trainers:<LINE><LINE>CHEREN
-CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified Trainers:<LINE><LINE>CHEREN<LINE><LINE><PLAYER>
-CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified Trainers:<LINE><LINE>CHEREN<LINE><LINE><PLAYER><LINE><LINE>BIANCA
+CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified trainers:<LINE><LINE>CHEREN
+CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified trainers:<LINE><LINE>CHEREN<LINE><LINE><PLAYER>
+CASTELIA POKéMON GYM<LINE>GYM LEADER: BURGH<LINE>Certified trainers:<LINE><LINE>CHEREN<LINE><LINE><PLAYER><LINE><LINE>BIANCA

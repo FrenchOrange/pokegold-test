@@ -46,7 +46,7 @@ AccumulaNewlywedsCondo1FLittleBoyText:
 	cont "I envy you."
 
 	para "I want to be a"
-	line "Trainer, too!"
+	line "trainer, too!"
 	done
 
 AccumulaNewlywedsCondo1F_MapEvents:

@@ -65,7 +65,7 @@ StriatonSixTeamCondo2FLassText:
 	cont "at once, so I've"
 
 	para "heard some"
-	line "Trainers focus on"
+	line "trainers focus on"
 	cont "training three"
 	cont "#MON at a time."
 	done

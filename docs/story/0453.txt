@@ -8,8 +8,8 @@ Ah… You are not bored…
 Argh!<LINE>So frustrating! Whywhywhy?
 You're awesome!<LINE>I don't mind giving you a little credit!
 Oh, you seem to be having fun.
-How are you, Trainer?<LINE>I've been so dreadfully bored in my<LINE>father's villa! May I join you?
-How are you, Trainer?<LINE>I won't lose today.
+How are you, trainer?<LINE>I've been so dreadfully bored in my<LINE>father's villa! May I join you?
+How are you, trainer?<LINE>I won't lose today.
 In my father's villa, I have too much<LINE>time on my hands.<LINE>Please come for a visit tomorrow, too.<LINE>I will have a battle with you.
 In my father's villa, I have too much<LINE>time on my hands.<LINE>Please come for a visit tomorrow, too.<LINE>I will have a battle with you.
 You are as strong as usual.<LINE>But I wonder what will happen next time.
@@ -21,8 +21,8 @@ Hoho! Do you have confidence<LINE>in winning against me?
 UNDELLA TOWN is a relaxing and<LINE>comfortable place.<LINE>But my grandchildren seem<LINE>somewhat bored.<LINE>Please come visit us tomorrow, too.<LINE>My grandchildren will be happy<LINE><LINE>to see you again.
 UNDELLA TOWN is a relaxing and<LINE>comfortable place.<LINE>But my grandchildren seem<LINE>somewhat bored.<LINE>Please come visit us tomorrow, too.<LINE>My grandchildren will be happy<LINE><LINE>to see you again.
 Ho, ho. You are genuinely strong!<LINE>You look dependable!
-Welcome back, young Trainer.<LINE>My grandchildren are itching to have<LINE>more battles with you.
-Children of today are very strong in<LINE>POKéMON battles.<LINE>Hoho! I wonder if my grandchildren<LINE>can become Trainers like you?
+Welcome back, young trainer.<LINE>My grandchildren are itching to have<LINE>more battles with you.
+Children of today are very strong in<LINE>POKéMON battles.<LINE>Hoho! I wonder if my grandchildren<LINE>can become trainers like you?
 Hoho!<LINE>POKéMON battles bring back memories.
 I am so excited, my blood is boiling!<LINE>May I please trouble you for a battle?
 I am so excited, my blood is boiling!<LINE>Please have a battle with me today, too.
@@ -32,7 +32,7 @@ Hoho! Welcome!<LINE>Your visit is very exciting!
 Hoho! Youth!<LINE>However, next time won't be like this.
 Hoho!<LINE>POKéMON battles with the entire family!<LINE>We all had a good time!
 What's happening?<LINE>It's pretty lively.
-Trainer, are you strong?<LINE>Then, try to defeat me!
+trainer, are you strong?<LINE>Then, try to defeat me!
 Today, for sure, I am going to win!<LINE>Now, try to defeat me!
 I may not look like it, but I am very<LINE>familiar with POKéMON.<LINE>I would like to have a battle with you<LINE>someday again.
 I may not look like it, but I am very<LINE>familiar with POKéMON.<LINE>Please have a battle with me again.
@@ -45,4 +45,4 @@ No matter how often you try, <LINE>you cannot defeat me!<LINE>I will protect the
 You may come back again tomorrow.<LINE>However, I have no intention of losing<LINE>in the name of the Riches.
 You came!<LINE>If you can defeat my family,<LINE>I will let you have a battle with me.
 Sigh.<LINE>I guess…it's still too early to identify<LINE>myself as the head of the family.
-Sigh.<LINE>I guess…it's still too early to identify<LINE>myself as the head of the family.<LINE>You should be proud of yourself<LINE>for defeating the distinguished<LINE><LINE>Trainer family, the Riches!
+Sigh.<LINE>I guess…it's still too early to identify<LINE>myself as the head of the family.<LINE>You should be proud of yourself<LINE>for defeating the distinguished<LINE><LINE>trainer family, the Riches!

@@ -47,7 +47,7 @@ StriatonGymSignText:
 DreamyardSignText:
 	text "DREAMYARD ahead."
 	line "A place for novice"
-	cont "Trainers."
+	cont "trainers."
 	done
 
 StriatonCity_MapEvents:

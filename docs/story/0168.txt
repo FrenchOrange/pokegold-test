@@ -7,7 +7,7 @@ The museum in NACRENE CITY…<LINE>I hear POKéMON can be restored from<LINE>fos
 Cover fossil
 Plume fossil
 Cancel
-Trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!
-Trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!
+trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!
+trainer! You still can't move ahead<LINE>'cause there is so much sand!<LINE>I will do my best to remove the sand.<LINE>Give me a second!
 There! The sand is cleared away, so now<LINE>you can proceed.
 There are two things I've learned<LINE>about quicksand!<LINE>If you try to walk through the middle,<LINE>you'll fall.<LINE>And if you try to run through it,<LINE>you'll fall.

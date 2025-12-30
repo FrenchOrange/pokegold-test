@@ -6,7 +6,7 @@ If you want to meet more POKéMON, you<LINE>should try walking through tall gras
 It seems a little more like a POKéDEX now!<LINE>You're getting off to a good start!
 Some POKéMON are hard to find, but don't<LINE>give up! Keep checking the tall grass.
 Some POKéMON are only found in<LINE>certain caves!<LINE>You might want to go back and search<LINE>caves you've already passed through.
-Trainers have a lot of different POKéMON.<LINE>So battling them is a great way to fill up<LINE>your POKéDEX, too!
+trainers have a lot of different POKéMON.<LINE>So battling them is a great way to fill up<LINE>your POKéDEX, too!
 Wow, it's getting really full!<LINE>I'm sure looking over your POKéDEX will<LINE>bring back memories of your journey.
 Over 100 POKéMON…<LINE>It's so much fun looking over all their<LINE>different characteristics!
 That is an excellent POKéDEX!<LINE>Just a little more and it will be full!
@@ -41,11 +41,11 @@ Do you know the move False Swipe?<LINE>False Swipe always leaves a tiny bit of<L
 Do you know the move Mean Look?<LINE>If you use Mean Look on a POKéMON,<LINE>it can't run away!
 There are several ways for POKéMON to<LINE>evolve. Some POKéMON even evolve<LINE><LINE>through friendship!
 Have you heard of mass outbreaks?<LINE>Big groups of POKéMON appear during a<LINE>mass outbreak. It's a great chance to<LINE><LINE>catch them!
-You've caught more than 400<LINE>different POKéMON?!<LINE>That's incredible!<LINE>You're an amazing Trainer!
+You've caught more than 400<LINE>different POKéMON?!<LINE>That's incredible!<LINE>You're an amazing trainer!
 Apparently, some POKéMON<LINE>evolve when they are leveled up<LINE><LINE>in a certain area.
 You've caught 500 different POKéMON…<LINE>My, the variation of these beings called<LINE>POKéMON certainly is surprising!<LINE>And the fact that you've caught so many<LINE>different kinds… That's pretty<LINE><LINE>surprising, too!
-Have you been to the Poké Transfer Lab<LINE>on ROUTE 15?<LINE>Mastering a facility like that is an<LINE>accomplishment for a POKéMON Trainer.
+Have you been to the Poké Transfer Lab<LINE>on ROUTE 15?<LINE>Mastering a facility like that is an<LINE>accomplishment for a POKéMON trainer.
 Just a little more until you complete<LINE>your POKéDEX, huh?<LINE>Catching this many POKéMON must mean…<LINE>You really like POKéMON, don't you!
 Oh! That's a wonderful POKéDEX.<LINE>How about it? Would you research POKéMON<LINE>with me?
 Oh! Just a little more until your<LINE>POKéDEX is complete!<LINE>Make sure you go after the roaming<LINE>POKéMON and trade with friends to get<LINE><LINE>the ones you're missing!
-…<LINE>…<LINE>This blows me away! It's so wonderful,<LINE>I'm at a loss for words.<LINE>You… You've accomplished something<LINE>truly outstanding.<LINE>Filling up the National POKéDEX makes you<LINE>a Trainer among Trainers!<LINE>I'm so happy I was able to meet a<LINE>fantastic Trainer like you!<LINE><LINE>I thank you from the bottom of my heart.
+…<LINE>…<LINE>This blows me away! It's so wonderful,<LINE>I'm at a loss for words.<LINE>You… You've accomplished something<LINE>truly outstanding.<LINE>Filling up the National POKéDEX makes you<LINE>a trainer among trainers!<LINE>I'm so happy I was able to meet a<LINE>fantastic trainer like you!<LINE><LINE>I thank you from the bottom of my heart.

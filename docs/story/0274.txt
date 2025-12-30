@@ -1,5 +1,5 @@
-Oh! A Trainer!<LINE>Let me introduce myself. I am a member<LINE>of the Hip Waders. As its name suggests,<LINE><LINE>it's a fishing club!<LINE>Why don't you join up and enjoy<LINE>some fishing?
-Hey, Trainer!<LINE>Why don't you join the Hip Waders<LINE>and do some fishing?
+Oh! A trainer!<LINE>Let me introduce myself. I am a member<LINE>of the Hip Waders. As its name suggests,<LINE><LINE>it's a fishing club!<LINE>Why don't you join up and enjoy<LINE>some fishing?
+Hey, trainer!<LINE>Why don't you join the Hip Waders<LINE>and do some fishing?
 That's the way the tide turns, huh?<LINE>But, I won't give up. If you change your<LINE>mind, come see me again!
 Awesome! Now you are the second member<LINE>of the Hip Waders!
 Here we go! I'll announce the<LINE>Official Hip Waders Catch of the Day!<LINE>The POKéMON we're fishing for<LINE>today is <PLAYER>!<LINE><LINE>If you catch one, please show it to me!

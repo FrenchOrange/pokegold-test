@@ -35,7 +35,7 @@ BIANCA: Don't be a worrywart!<LINE>These little ones are weak, like you said.<LI
 
 
 
-BIANCA: Wow…<LINE><PLAYER>, you're gonna be<LINE>an awesome Trainer someday, I can tell!<LINE>No doubt!
+BIANCA: Wow…<LINE><PLAYER>, you're gonna be<LINE>an awesome trainer someday, I can tell!<LINE>No doubt!
 BIANCA: Wha…?<LINE>I got so absorbed in having my POKéMON<LINE>use moves, I won before even realizing…
 CHEREN: Uh…<LINE>…<LINE>BIANCA, would you take a look around?
 BIANCA: Wh-whoa!<LINE>What happened?!
@@ -53,8 +53,8 @@ CHEREN: I believe you're right!<LINE>It'll be no problem for me to keep<LINE>the
 
 It's decided. You'll be my opponent…<LINE>in our first POKéMON battle!<LINE>Let's see what you can do, <POKEMON>!
 
-CHEREN: I made a strange blunder<LINE>in my first battle, but<LINE><LINE>this feeling I have…<LINE><LINE>…I'm finally a Trainer.<LINE>But first, we'd better go apologize to<LINE>your mother about this messed-up room.
-CHEREN: This feeling…<LINE>Finally, I'm a Trainer.<LINE>On top of that, we'd better go apologize<LINE>to your mother about this room.
+CHEREN: I made a strange blunder<LINE>in my first battle, but<LINE><LINE>this feeling I have…<LINE><LINE>…I'm finally a trainer.<LINE>But first, we'd better go apologize to<LINE>your mother about this messed-up room.
+CHEREN: This feeling…<LINE>Finally, I'm a trainer.<LINE>On top of that, we'd better go apologize<LINE>to your mother about this room.
 BIANCA: Oh!<LINE>I'd better come, too!
 It's a Wii console!<LINE>It's not even scratched!
 The bed's a mess!

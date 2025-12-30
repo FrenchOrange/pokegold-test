@@ -5,5 +5,5 @@ CHARGESTONE CAVE seems like<LINE>a complicated maze, but actually<LINE><LINE>it'
 POKéMON with Dry Skin love Water-type<LINE>moves and rainy weather. ♪<LINE>I'm talking about the Ability<LINE>of these POKéMON, of course.
 ROUTE 6
 
-Trainer Tips!<LINE><LINE>You can register certain items with<LINE>the Y Button to use them easily!<LINE>Look for a square checkbox beside<LINE>the name of a Key Item.
+trainer Tips!<LINE><LINE>You can register certain items with<LINE>the Y Button to use them easily!<LINE>Look for a square checkbox beside<LINE>the name of a Key Item.
 Researching the Year's Seasons:<LINE>The Season Research Lab

@@ -39,13 +39,13 @@ StriatonSixTeamCondo1FYoungsterText:
 
 StriatonSixTeamCondo1FMiddleFText:
 	text "You can tell how"
-	line "strong Trainers"
+	line "strong trainers"
 	cont "are by the number"
 
 	para "of GYM BADGES they"
 	line "have!"
 
-	para "If you're a Trainer"
+	para "If you're a trainer"
 	line "you should chall-"
 	cont "enge GYM LEADERs"
 

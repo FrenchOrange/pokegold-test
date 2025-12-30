@@ -1,4 +1,4 @@
-PROF.JUNIPER: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your POKéMON is truly one<LINE>of the joys of being a Trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a Trainer to know!
+PROF.JUNIPER: Ah, <PLAYER>!<LINE>There you are!<LINE>Traveling with your POKéMON is truly one<LINE>of the joys of being a trainer!<LINE>Please follow me.<LINE>I'd like to show you the most important<LINE>place for a trainer to know!
 Please listen, everyone.<LINE>We have something important to talk<LINE>to you about. Wait here for a moment.
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
 Please excuse me…<LINE>We are still preparing.<LINE>If you could continue to be patient…
@@ -11,7 +11,7 @@ My name is GHETSIS.<LINE>I am here representing TEAM PLASMA.<LINE>Today, ladies 
 Huh?
 What?
 GHETSIS: I'm sure most of you believe<LINE>that we humans and POKéMON are partners<LINE><LINE>that have come to live together because<LINE><LINE>we want and need each other.<LINE>However…<LINE>Is that really the truth?<LINE>Have you ever considered that perhaps<LINE>we humans…<LINE><LINE>only assume that this is the truth?
-POKéMON are subject to the selfish<LINE>commands of Trainers…<LINE>They get pushed around when they are<LINE>our 'partners' at work…<LINE>Can anyone say with confidence that<LINE>there is no truth in what I'm saying?
+POKéMON are subject to the selfish<LINE>commands of trainers…<LINE>They get pushed around when they are<LINE>our 'partners' at work…<LINE>Can anyone say with confidence that<LINE>there is no truth in what I'm saying?
 Yikes!
 No way.
 I don't know…
@@ -25,10 +25,10 @@ Younger Man: Liberate POKéMON?<LINE>That's not even possible!
 CHEREN: Slow down. You talk too fast.<LINE>And what's this about POKéMON…talking?<LINE>That's an odd thing to say.
 ???: \xf000븉\x0001\x0001Yes, they're talking.<LINE>Oh.<LINE>Then, you two can't hear it, either…<LINE><LINE>How sad.<LINE>My name is N.\xf000븉\x0001\x0001
 CHEREN: My name is CHEREN,<LINE>and this is <PLAYER>.<LINE>We were asked to complete the POKéDEX,<LINE>and we just left on our journey.<LINE>My main goal is to become the<LINE>Champion, though.
-N: \xf000븉\x0001\x0001The POKéDEX, eh?<LINE>So… You're going to confine many, many<LINE>POKéMON in POKé BALLS for that, then.<LINE>I'm a Trainer, too,<LINE>but I can't help wondering…<LINE>Are POKéMON really happy that way?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001The POKéDEX, eh?<LINE>So… You're going to confine many, many<LINE>POKéMON in POKé BALLS for that, then.<LINE>I'm a trainer, too,<LINE>but I can't help wondering…<LINE>Are POKéMON really happy that way?\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001Well, <PLAYER>, is it?<LINE>Let me hear your POKéMON's voice again!\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001As long as POKéMON are confined<LINE>in POKé BALLS…<LINE>POKéMON will never become<LINE>perfect beings.<LINE>I have to change the world for<LINE>POKéMON, because they're my friends.\xf000븉\x0001\x0000
-CHEREN: Huh… Strange guy.<LINE>But I'm not going to worry about it.<LINE>Trainers and POKéMON help<LINE>each other out!<LINE>Listen, I'm going on ahead.<LINE>I want to battle the GYM LEADER<LINE>in the next town--STRIATON CITY.<LINE>Aim to battle GYM LEADER after<LINE>GYM LEADER. The best way for a Trainer<LINE><LINE>to become stronger is to challenge<LINE><LINE>the GYM LEADERs in each area.
+CHEREN: Huh… Strange guy.<LINE>But I'm not going to worry about it.<LINE>trainers and POKéMON help<LINE>each other out!<LINE>Listen, I'm going on ahead.<LINE>I want to battle the GYM LEADER<LINE>in the next town--STRIATON CITY.<LINE>Aim to battle GYM LEADER after<LINE>GYM LEADER. The best way for a trainer<LINE><LINE>to become stronger is to challenge<LINE><LINE>the GYM LEADERs in each area.
 What's this?<LINE>You and your POKéMON<LINE>somehow resemble each other!
 Let me give you the benefit of<LINE>my experience.<LINE>You listening? The number of POKéMON<LINE>you can take with you at one time is six!
 POKéMON do everything in<LINE>their power for people.<LINE>People treat these POKéMON<LINE>with love and affection.<LINE>That's what I think our<LINE>mutual relationship is.

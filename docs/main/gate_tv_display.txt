@@ -1,21 +1,21 @@
 
-◇ A Trainer from NUVEMA TOWN challenged one of the STRIATON GYM LEADERs--CILAN, CHILI, and CRESS--and was victorious!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat LENORA, the NACRENE GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat BURGH, the CASTELIA GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat ELESA, the NIMBASA GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat CLAY, the DRIFTVEIL GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat SKYLA, the MISTRALTON GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat BRYCEN, the ICIRRUS GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat IRIS, the OPELUCID GYM LEADER!
-◇ A Trainer from NUVEMA TOWN challenged and successfully beat DRAYDEN, the OPELUCID GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged one of the STRIATON GYM LEADERs--CILAN, CHILI, and CRESS--and was victorious!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat LENORA, the NACRENE GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat BURGH, the CASTELIA GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat ELESA, the NIMBASA GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat CLAY, the DRIFTVEIL GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat SKYLA, the MISTRALTON GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat BRYCEN, the ICIRRUS GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat IRIS, the OPELUCID GYM LEADER!
+◇ A trainer from NUVEMA TOWN challenged and successfully beat DRAYDEN, the OPELUCID GYM LEADER!
 ◇ 'Tender loving care! They grow in no time!' DAY-CARE on ROUTE 3
 ◇ 'Run and battle! Trains never stop!' Battle Subway in NIMBASA CITY
 ◇ 'Take your first step to stardom.' Musical in NIMBASA CITY
 ◇ 'We deliver to you what winds and waves have brought to us.' DRIFTVEIL MARKET
 ◇ 'The biggest shopping area in the entire UNOVA region. There's nothing you can't buy!' SHOPPING MALL NINE
 ◇ The garden full of green makes you feel warm inside.
-◇ Next to the city is a DAY-CARE, which many Trainers visit.
-◇ You can learn the basics of POKéMON at the Trainers' School.
+◇ Next to the city is a DAY-CARE, which many trainers visit.
+◇ You can learn the basics of POKéMON at the trainers' School.
 ◇ NACRENE CITY is characterized by its stone pavement and warehouses.
 ◇ POKéMON research at the museum starts with their bones.
 ◇ NACRENE GYM is a museum where battles and knowledge are pursued.
@@ -115,7 +115,7 @@
 ◇ BLACK CITY is a place full of tall buildings and civilization.
 ◇ This place strives to be the most advanced city in the UNOVA region.
 ◇ People gather to constantly develop and expand BLACK CITY.
-◇ Many of the city's Trainers are highly competitive.
+◇ Many of the city's trainers are highly competitive.
 ◇ An ongoing project is developing a huge market in the city.
 ◇ Immigration to BLACK CITY changes the logistics and the products available.
 ◇ Many people would like to live in the city, and the population is constantly changing.

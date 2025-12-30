@@ -32,7 +32,7 @@ NacrenePokecenter1FSitting:
 	end
 
 NacrenePokecenter1FLassText:
-	text "Hi, Trainer!"
+	text "Hi, trainer!"
 
 	para "Do you know a"
 	line "#MON called"

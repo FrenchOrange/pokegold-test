@@ -10,10 +10,10 @@ Hm. That sure reminded me of<LINE>my first POKéMON battle!
 Oh, and you know? After a battle,<LINE>you need to rest your POKéMON!
 Your POKéMON is looking great!<LINE>Now, if you're going out,<LINE>don't forget your 'cross-transceiver'!
 You're going to thank the<LINE>professor too, right?<LINE><LINE>Better get going, honey!
-MOM: Phew! I'm taking a little break<LINE>from cleaning up.<LINE>You and your POKéMON should take<LINE>a break, too.<LINE>Good Trainers don't push their<LINE>POKéMON too hard.
+MOM: Phew! I'm taking a little break<LINE>from cleaning up.<LINE>You and your POKéMON should take<LINE>a break, too.<LINE>Good trainers don't push their<LINE>POKéMON too hard.
 MOM: You and your POKéMON should all be<LINE>filled with energy again!<LINE><LINE>Now, you can go anywhere!
 MOM: I wonder where you'll go next<LINE>and what kind of POKéMON you'll meet.
-MOM: <PLAYER>!<LINE>How are your POKéMON?<LINE>You should rest a little!<LINE>Good Trainers don't push<LINE>their POKéMON too hard.
+MOM: <PLAYER>!<LINE>How are your POKéMON?<LINE>You should rest a little!<LINE>Good trainers don't push<LINE>their POKéMON too hard.
 MOM: Great! You and your POKéMON<LINE>look raring to go, <PLAYER>.<LINE>Best get back to your journey!
 MOM: <PLAYER>,<LINE>are you being kind to your POKéMON?<LINE>POKéMON work so hard to help you out!<LINE>You're normally very kind to your<LINE>POKéMON, aren't you?
 MOM: Now that you mention it…<LINE>Your father went on a journey<LINE>with POKéMON, just as you are!<LINE>We met during his trip…
@@ -29,7 +29,7 @@ I am a globe-trotting elite of the<LINE>International Police.<LINE>My name… Ah
 LOOKER: Behind the scenes in this region<LINE>of UNOVA, an organization called<LINE><LINE>TEAM PLASMA conspires…<LINE>This I have heard, and therefore,<LINE>to this region I must come, but…
 Thanks to the GYM LEADERs and to you,<LINE>yes, TEAM PLASMA's castle has fallen.<LINE>And the members, they have gone upon<LINE>their separate ways!<LINE><LINE>This is what I hear, most certainly!
 But, however!<LINE>However, but…<LINE>The ones known as the Seven Sages--still,<LINE>they hide themselves in the UNOVA region.
-And so, in the end, it explains why I must<LINE>ask this of you, Trainer of amazing skill!<LINE>Travel the UNOVA region and search it up<LINE>and search it down for the Seven Sages!<LINE>ALDER, the Champion of renown,<LINE>recommended you to my notice.<LINE>Are you willing to help me?
+And so, in the end, it explains why I must<LINE>ask this of you, trainer of amazing skill!<LINE>Travel the UNOVA region and search it up<LINE>and search it down for the Seven Sages!<LINE>ALDER, the Champion of renown,<LINE>recommended you to my notice.<LINE>Are you willing to help me?
 Ah, ah!<LINE>Yet once more shall I ask!<LINE>If you please, travel the UNOVA region<LINE>and search it low and high for these<LINE><LINE>Seven Sages!
 LOOKER: Excellent! I thank you!<LINE>Now I feel as if I have perhaps <LINE>a million people on my side.<LINE>Permit me to give this into your hands!
 MOM: …That's a Super Rod, right?

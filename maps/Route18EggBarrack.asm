@@ -121,7 +121,7 @@ Route18EggBarrackHiker:
 	end
 
 Route18EggBarrackCooltrainerM_IntroText:
-	text "#MON Trainer."
+	text "#MON trainer."
 
 	para "The sparkle in"
 	line "your eyes…"

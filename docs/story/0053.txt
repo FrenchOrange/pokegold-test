@@ -14,4 +14,4 @@ No?<LINE>I've been raising POKéMON, thinking about<LINE>their Abilities and jus
 I'm Snorlax.<LINE>No, no. I'm the Planner!<LINE>I don't mean to butt in, but the<LINE>Leftovers item is important, isn't it?
 I am the Sound Designer!<LINE>I put in a lot of wonderful mechanisms<LINE>to change the game's music!<LINE>How many of them have you noticed?
 I can tell you take the sound seriously,<LINE>so here's a treat for you!<LINE>What do you think about this<LINE>dramatic sound?
-Were you surprised?<LINE>Well, for a strong Trainer like you,<LINE>winning against Team Rocket<LINE><LINE>would be a piece of cake!
+Were you surprised?<LINE>Well, for a strong trainer like you,<LINE>winning against Team Rocket<LINE><LINE>would be a piece of cake!

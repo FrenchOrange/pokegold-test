@@ -1,5 +1,5 @@
-(PK)(MN) Trainer
-(PK)(MN) Trainer
+(PK)(MN) trainer
+(PK)(MN) trainer
 Youngster
 Lass
 School Kid
@@ -35,10 +35,10 @@ Artist
 Baker
 Psychic
 Psychic
-(PK)(MN) Trainer
-(PK)(MN) Trainer
+(PK)(MN) trainer
+(PK)(MN) trainer
 TEAM PLASMA
-(PK)(MN) Trainer
+(PK)(MN) trainer
 Rich Boy
 Lady
 Pilot
@@ -47,8 +47,8 @@ Hoopster
 Scientist
 TEAM PLASMA
 Clerk ⑮
-Ace Trainer
-Ace Trainer
+Ace trainer
+Ace trainer
 Black Belt
 Scientist
 Striker
@@ -98,8 +98,8 @@ The Riches
 GAME FREAK
 The Riches
 The Riches
-(PK)(MN) Trainer
+(PK)(MN) trainer
 TEAM PLASMA
 Subway Boss
-(PK)(MN) Trainer
-(PK)(MN) Trainer
+(PK)(MN) trainer
+(PK)(MN) trainer

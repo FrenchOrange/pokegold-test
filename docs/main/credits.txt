@@ -89,7 +89,7 @@ Tomohiko  Ohkubo
 James  Turner
 3-D  Graphics  System  Design
 Takao  Unno
-Trainer  Graphics--Main  Design
+trainer  Graphics--Main  Design
 Yusuke  Ohmura
 Battle  Graphics  Design
 Hironobu  Yoshida
@@ -175,7 +175,7 @@ Survey  Radar  &  Tag  Mode  Design
 Shigeru  Ohmori
 Wi-Fi  Battle  System  Design
 Teruyuki  Shimoyamada
-POKéMON  &  Trainer  Parameter  Design
+POKéMON  &  trainer  Parameter  Design
 Koji  Nishino
 Shigeki  Morimoto
 Kazumasa  Iwao

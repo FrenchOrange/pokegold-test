@@ -2,9 +2,9 @@ Bronius: When I saw you in CASTELIA,<LINE>I did not care about your existence.<L
 TEAM PLASMA: Bronius of the Seven Sages,<LINE>I will bring this kid down!
 TEAM PLASMA: This kid is the real thing!
 TEAM PLASMA: Because of you,<LINE>I'm now ex-TEAM PLASMA.<LINE>Being an ex doesn't sound cool, does it?<LINE>How are you going to make it up to me?
-TEAM PLASMA: An ex-TEAM PLASMA member<LINE>becomes an ordinary POKéMON Trainer…<LINE><LINE>This was that moment.
-Bronius: The POKéMON of our TEAM PLASMA<LINE>are also fighting for their Trainers.<LINE>It was so obvious that I overlooked it…<LINE>Thank you for reminding me of that.<LINE>Here, I'd like you to take this.
-Bronius: POKéMON do their best for their<LINE>Trainers even when they are injured.<LINE>I wonder whether my lord N understands<LINE>what that means?
+TEAM PLASMA: An ex-TEAM PLASMA member<LINE>becomes an ordinary POKéMON trainer…<LINE><LINE>This was that moment.
+Bronius: The POKéMON of our TEAM PLASMA<LINE>are also fighting for their trainers.<LINE>It was so obvious that I overlooked it…<LINE>Thank you for reminding me of that.<LINE>Here, I'd like you to take this.
+Bronius: POKéMON do their best for their<LINE>trainers even when they are injured.<LINE>I wonder whether my lord N understands<LINE>what that means?
 LOOKER: On the topic of TEAM PLASMA…<LINE>I am an officer of the<LINE>International Police,<LINE><LINE>so you would be wise<LINE><LINE>to share all you know.
 Bronius: Those who left TEAM PLASMA and<LINE>are behaving with respect and<LINE><LINE>understanding toward POKéMON…<LINE>Them, please forgive!<LINE>However, those who won't interact with<LINE><LINE>POKéMON in a kind and honest way…<LINE><LINE>Even I will never forgive them!
 LOOKER: Truly, I thank you!<LINE>Now, GHETSIS notwithstanding,<LINE>there yet remains but \xf000Ȁ\x0001\x0000 of the<LINE><LINE>Seven Sages still at large.<LINE>Their innermost thoughts,<LINE>their uttermost hopes…<LINE><LINE>These I must and shall discover!<LINE><LINE>Once more, a brief farewell!

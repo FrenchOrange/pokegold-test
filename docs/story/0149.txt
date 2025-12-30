@@ -1,7 +1,7 @@
 N: \xf000븉\x0001\x0001It's over!<LINE>Never again will POKéMON be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Reshiram!\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001It's over!<LINE>Never again will POKéMON be made to<LINE>suffer or be held captive by humans.<LINE>It's all thanks to my friend, Zekrom!\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001You may have the title of Champion…<LINE>But you can't stop me with just a title.<LINE><LINE>Your soft heart has left you weak.<LINE>Years ago, you lost your POKéMON,<LINE>your partner, to sickness.<LINE>In order to forget the pain in your<LINE>heart, you wandered UNOVA…<LINE>Who knows how long it's been since you've<LINE>had to fight with your full strength?<LINE>I actually kind of like that<LINE>about you, though.\xf000븉\x0001\x0000
-\xf000븉\x0001\x0001As a Trainer who far outmatches<LINE>the Champion,<LINE><LINE>I shall issue an order across UNOVA:<LINE>Trainers of the world,<LINE>free your POKéMON!\xf000븉\x0001\x0000
+\xf000븉\x0001\x0001As a trainer who far outmatches<LINE>the Champion,<LINE><LINE>I shall issue an order across UNOVA:<LINE>trainers of the world,<LINE>free your POKéMON!\xf000븉\x0001\x0000
 ALDER: I beg you!<LINE>Separating people from POKéMON…<LINE>Do anything but that!
 N: \xf000븉\x0001\x0001You and I both put our beliefs on the<LINE>line and fought with all our strength.<LINE>And I won.<LINE>Do not say another word.\xf000븉\x0001\x0000
 \xf000븉\x0001\x0001…I've been waiting.\xf000븉\x0001\x0000
@@ -20,6 +20,6 @@ CHEREN: I became stronger because<LINE>I understood what I want to do.
 CHEREN: I'll look after ALDER. You go on.
 ALDER: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my POKéMON.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if POKéMON and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
 ALDER: I… I lost.<LINE>I should have been able to demonstrate<LINE>the bond between me and my POKéMON.<LINE>That would have shown that brat the<LINE>worthlessness of his outrageous dreams.<LINE>So, his convictions were the real thing…<LINE>Be careful.<LINE>The ones who change the world are always<LINE>the ones who pursued their dreams.<LINE><PLAYER>, I ask this of you.<LINE>Even if POKéMON and people are<LINE>separated, nothing good will come of it.<LINE><LINE>Please let him know that!
-ALDER: I am grateful for<LINE>what you did about N.<LINE>I don't know what he's thinking now,<LINE>but I'm sure he realizes<LINE><LINE>that different people and POKéMON<LINE><LINE>have their own paths to follow.<LINE>Say now, how about a match with the<LINE>strongest Trainer in the UNOVA region?
-ALDER: I've really been looking forward<LINE>to deciding who's the strongest<LINE><LINE>POKéMON Trainer in the UNOVA region!<LINE>Kiai!
+ALDER: I am grateful for<LINE>what you did about N.<LINE>I don't know what he's thinking now,<LINE>but I'm sure he realizes<LINE><LINE>that different people and POKéMON<LINE><LINE>have their own paths to follow.<LINE>Say now, how about a match with the<LINE>strongest trainer in the UNOVA region?
+ALDER: I've really been looking forward<LINE>to deciding who's the strongest<LINE><LINE>POKéMON trainer in the UNOVA region!<LINE>Kiai!
 ALDER: Well done!<LINE>You certainly are an unmatched talent!<LINE>Come with me!

@@ -21,8 +21,8 @@ BIANCA: Huh?<LINE>Who are you?!<LINE>What are you doing?
 TEAM PLASMA: What are we doing?<LINE>The POKéMON Munna and Musharna<LINE>emit a mysterious vapor called<LINE><LINE>Dream Mist, which shows people's dreams.<LINE>We're going to use that to make people<LINE>want to release their POKéMON…<LINE>We'll show them dreams<LINE>to manipulate their hearts.
 Munna: Mu… Naa…
 TEAM PLASMA: Come on!<LINE>Spit out that Dream Mist!
-BIANCA: You're kicking a POKéMON<LINE>to make it give off Dream Mist?<LINE>That's mean! Why?<LINE>You're Trainers too, right?
-TEAM PLASMA: That's right.<LINE>We're POKéMON Trainers too, but<LINE>we're fighting for a different reason.<LINE>Unlike you two, we're fighting for<LINE>the freedom of POKéMON!
+BIANCA: You're kicking a POKéMON<LINE>to make it give off Dream Mist?<LINE>That's mean! Why?<LINE>You're trainers too, right?
+TEAM PLASMA: That's right.<LINE>We're POKéMON trainers too, but<LINE>we're fighting for a different reason.<LINE>Unlike you two, we're fighting for<LINE>the freedom of POKéMON!
 TEAM PLASMA: And setting POKéMON free<LINE>means that we win POKéMON battles and<LINE><LINE>take POKéMON by force!<LINE>So, on that note, we are going to rescue<LINE>your POKéMON from you!
 BIANCA: Whaaat!<LINE>Don't hurt <PLAYER>!
 TEAM PLASMA: Were you not taking them<LINE>seriously because they're kids?<LINE>Well, whatever, I'm next!
@@ -50,7 +50,7 @@ With this, I can complete my research!<LINE>You two come to my house later, OK?
 BIANCA: Phew. How random was that?<LINE><PLAYER>, why don't you go<LINE>to FENNEL's house?<LINE>Me? Well, I'm going to go look<LINE>for the POKéMON we saw just now.
 BIANCA: <PLAYER>, why don't you go<LINE>to FENNEL's house?<LINE>Me? Well, I'm going to go look<LINE>for the POKéMON we saw just now.
 Gorm: Boo!
-Were you surprised?<LINE>Oh, Trainer-who-destroyed-our-castle,<LINE>I was quite surprised by you!
+Were you surprised?<LINE>Oh, trainer-who-destroyed-our-castle,<LINE>I was quite surprised by you!
 If you surprise them, both POKéMON<LINE>and people leave themselves open.<LINE>While they're in a state of surprise,<LINE>they can't use their powers<LINE><LINE>like they normally would.<LINE>Our intention was to surprise people<LINE>by making our castle appear and<LINE><LINE>showing off the legendary POKéMON…<LINE>At that moment, we planned to deeply<LINE>impress people's hearts with the<LINE><LINE>awesome power of TEAM PLASMA<LINE><LINE>and the brilliance of our new world.
 Now that I've seen the strength of<LINE>spirit in you and the GYM LEADERs,<LINE><LINE>I wonder how effective that strategy<LINE><LINE>would have been, after all.<LINE>Maybe that strength of spirit<LINE>is what's needed to take POKéMON<LINE><LINE>to the next level?<LINE>Hm… I'm sorry to have wasted your time<LINE>with this silly conversation.<LINE><LINE>Take this with you.
 Gorm: My lord N's dream…<LINE>You were the one who put a stop to that.<LINE><LINE>Please don't ever forget that.

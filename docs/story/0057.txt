@@ -1,14 +1,14 @@
 
 
-The number of Trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>And you've won against \xf000Ȁ\x0001\x0004.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
-The number of Trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
-There are a lot of cabins in this big ship!<LINE>I would like to give you advice 'cause<LINE><LINE>you need help finding Trainers!<LINE>Do you want to listen to my hint?
+The number of trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>And you've won against \xf000Ȁ\x0001\x0004.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+The number of trainers on the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+There are a lot of cabins in this big ship!<LINE>I would like to give you advice 'cause<LINE><LINE>you need help finding trainers!<LINE>Do you want to listen to my hint?
 Some guests like to tell really long<LINE>stories, and they just keep talking<LINE><LINE>until they hear a whistle!
 The ROYAL UNOVA's renowned observation<LINE>deck is just ahead.
-If you’re looking in the cabins with<LINE>blue doors for someone to battle,<LINE><LINE>you’ll find only one Trainer there today.
-It seems the number of Trainers in the<LINE>cabins with blue doors today is \xf000Ȁ\x0001\x0002.
+If you’re looking in the cabins with<LINE>blue doors for someone to battle,<LINE><LINE>you’ll find only one trainer there today.
+It seems the number of trainers in the<LINE>cabins with blue doors today is \xf000Ȁ\x0001\x0002.
 It's running on the ocean!<LINE>What a peculiar thing to see!
-I can't make up my mind whether to go to<LINE>the observation deck or battle some<LINE><LINE>Trainers in the cabins.
+I can't make up my mind whether to go to<LINE>the observation deck or battle some<LINE><LINE>trainers in the cabins.
 I'm running with the rhythm of the waves,<LINE>but it's a real challenge!
 Having battles on the ship and seeing<LINE>the scenery from the deck…<LINE><LINE>This ship is the best!
 I'm still wondering which cabin to enter.
@@ -19,20 +19,20 @@ A battle break from work!<LINE>It is particularly fun.
 I had a great battle on my break<LINE>from work.
 There are yet more POKéMON across<LINE>the water!<LINE>The excitement never stops!
 I am having a relaxing time in this<LINE>opulent cabin.
-I heard that strong Trainers gather<LINE>here, so I came all the way from Sinnoh!<LINE>Let me enjoy some POKéMON battles!
+I heard that strong trainers gather<LINE>here, so I came all the way from Sinnoh!<LINE>Let me enjoy some POKéMON battles!
 I can have POKéMON battles while<LINE>I'm being rocked in the ship.<LINE>Plus, I can see POKéMON that are rarely<LINE>seen. I am soooo happy!
-I heard a lot of Trainers in this ship<LINE>are from the other side of the ocean.<LINE>Speaking of which, I am also from Kanto!
+I heard a lot of trainers in this ship<LINE>are from the other side of the ocean.<LINE>Speaking of which, I am also from Kanto!
 Did you go to the observation deck?<LINE>You can see an incredible view!
 Having POKéMON battles while on the ship,<LINE>being rocked by the ocean waves…<LINE><LINE>Isn't it exciting?
 I lost…<LINE>Maybe I will go check out the view…
 Cool! Cool!<LINE>What is cool?<LINE>This ship! This ship!<LINE>…Which part is cool?<LINE>Hmmmm… It's just cool!
 A POKéMON battle!<LINE>I thought about it, but…<LINE>I don't have any POKéMON with me!
-OK, Trainer! I will give you a practical<LINE>demonstration that I am not just some<LINE><LINE>kid who wears shorts!
+OK, trainer! I will give you a practical<LINE>demonstration that I am not just some<LINE><LINE>kid who wears shorts!
 Argh! I lost!<LINE>I take off my socks to you!
 Listen! Listen!<LINE>I love this ship 'cause I can<LINE><LINE>bring my POKéMON on board!
 Hey! Will you listen to my story?<LINE>The other day, I went to NIMBASA CITY!<LINE>… … … … …<LINE>… … … … I know, right?<LINE><LINE>Then, … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … That's what I heard, anyway!
 Oh! A whistle!<LINE>I apologize for making you listen<LINE>to my long story…<LINE><LINE>But it was fun talking to you. Thanks!
-I am a Trainer.<LINE>I came from a faraway region.<LINE><LINE>I will show you my rarely seen POKéMON!
+I am a trainer.<LINE>I came from a faraway region.<LINE><LINE>I will show you my rarely seen POKéMON!
 My POKéMON! Weren't they unusual?<LINE>In particular, Wormadam is my favorite!
 This gorgeous ship suits a rich person<LINE>like me très bien. Am I right?
 They blow a whistle five times!<LINE>Even if I pretend I don't hear it,<LINE><LINE>when they blow five times, it's the end…
@@ -42,12 +42,12 @@ Oh, their room service?<LINE>I tried the specialty, ROYAL UNOVA tea.<LINE>It tas
 The beautiful scenery outside the window<LINE>is perfection, but I also like the royal<LINE><LINE>atmosphere inside the cabin.
 With a few waltz steps, I will<LINE>choreograph a royal POKéMON battle!
 I am enraptured with the royal<LINE>POKéMON battle…
-From your standpoint,<LINE>I am a Trainer from beyond the sea,<LINE><LINE>and from my standpoint,<LINE><LINE>you are a Trainer from beyond the sea!
+From your standpoint,<LINE>I am a trainer from beyond the sea,<LINE><LINE>and from my standpoint,<LINE><LINE>you are a trainer from beyond the sea!
 Oh, what a cute guest!<LINE>Would you like a cup of tea?<LINE><LINE>Come! Sit there and listen to my story!<LINE>… … … … …<LINE>… … … but<LINE><LINE>it … … …<LINE><LINE>… … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … …, you see!
 Sorry, sorry.<LINE>I talked too much.<LINE><LINE>It was fun, though. Thank you!
-Heh heh. A POKéMON battle?<LINE>I got tired of relaxing in my cabin.<LINE>Well, let's dance, Trainer!
+Heh heh. A POKéMON battle?<LINE>I got tired of relaxing in my cabin.<LINE>Well, let's dance, trainer!
 You see two or three moves ahead.<LINE>Sure enough, I can't win against youth!
-Are you looking for POKéMON Trainers?<LINE>Sorry, I don't know where to find them.<LINE>But the crew may know where they are.
+Are you looking for POKéMON trainers?<LINE>Sorry, I don't know where to find them.<LINE>But the crew may know where they are.
 Oh, look at you!<LINE>What a cute guest!<LINE>I could talk to you for ages.<LINE>… … … … …<LINE><LINE>… … … … exactly.<LINE><LINE>Then, … … … … <LINE><LINE>… … … … …<LINE><LINE>… … … … …<LINE><LINE>… … … That's how it is!
 Oh, my! The sound of a whistle!<LINE>I am so sorry.<LINE><LINE>I rambled on too much!
 Hi there! You are such a cute guest.<LINE>May I have a POKéMON battle with you?
@@ -63,10 +63,10 @@ Today…<LINE>As for people, we have \xf000Ȁ\x0001\x0000 on the<LINE>port side 
 Today…<LINE>The number of people on the starboard<LINE>side is \xf000Ȁ\x0001\x0001, and…none on the port side.
 Today…<LINE>The number of people on the port side is<LINE>\xf000Ȁ\x0001\x0000, and…none on the starboard side.
 If you're so inclined, speak to me.<LINE>I will give you a hint anytime.
-Do you want to know a hint<LINE>about looking for Trainers?
+Do you want to know a hint<LINE>about looking for trainers?
 Certainly. Just a moment, please.
 Certainly.<LINE>Please continue to have a great time!
-Won against every Trainer on the ship!
-Thank you very much for sailing with us<LINE>on the ROYAL UNOVA.<LINE>The number of Trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>Please enjoy the trip.
-The number of Trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>You… Congratulations!<LINE>You've won against every Trainer<LINE>on the ship!<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
+Won against every trainer on the ship!
+Thank you very much for sailing with us<LINE>on the ROYAL UNOVA.<LINE>The number of trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>Please enjoy the trip.
+The number of trainers aboard the<LINE>ROYAL UNOVA today is \xf000Ȁ\x0001\x0003.<LINE><LINE>You… Congratulations!<LINE>You've won against every trainer<LINE>on the ship!<LINE>The ship is nearing the port.<LINE>Would you like to get off the ship?
 Thank you for sailing with us.<LINE>This cruise ship will arrive<LINE>in CASTELIA CITY shortly.

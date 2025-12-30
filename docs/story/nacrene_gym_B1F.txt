@@ -1,5 +1,5 @@
 Welcome!<LINE>The director of the NACRENE Museum<LINE>and the NACRENE GYM's LEADER<LINE><LINE>is me! LENORA!<LINE>Well then, challenger,<LINE>I'm going to research<LINE><LINE>how you battle with the<LINE><LINE>POKéMON you've so lovingly raised!
-Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a POKéMON Trainer<LINE>worthy of receiving this Basic BADGE!
+Your fighting style is so enchanting.<LINE>It is charming.<LINE>You are a POKéMON trainer<LINE>worthy of receiving this Basic BADGE!
 <PLAYER> received<LINE>the Basic BADGE from LENORA!
 If you have two BADGES, traded<LINE>POKéMON up to Lv. 30 will obey you.<LINE>Here, I also want you to have this TM.
 Retaliate does a lot more damage if an<LINE>ally fainted the turn before you use it!<LINE>If you master the timing, you can defeat<LINE>even strong opponents.

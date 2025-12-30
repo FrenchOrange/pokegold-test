@@ -47,7 +47,7 @@ Sniff…<LINE>Don't you want me to come?
 Oh! I was invited by<LINE>somebody else. I'm sorry.
 
 Thank you!<LINE>I'll do my best in BLACK CITY!
-Ryder: 'Sup! Hey, I'm moving<LINE>to BLACK CITY.<LINE>I'm gonna get stronger by going<LINE>where stronger Trainers gather!
+Ryder: 'Sup! Hey, I'm moving<LINE>to BLACK CITY.<LINE>I'm gonna get stronger by going<LINE>where stronger trainers gather!
 Ryder: Hyah! Hyah hyah…<LINE>I'm having trouble getting pumped up!<LINE>When I'm surrounded by nature,<LINE>I sure do tend to calm down…
 Ryder: Hyaaaah! Hyah!<LINE>I've done well training--<LINE>now I want to test my abilities!
 Ryder: I've been training hard.<LINE>I want to test my abilities.<LINE>Would you mind taking me to<LINE>BLACK CITY?
@@ -121,7 +121,7 @@ Sorry!<LINE>I'd completely forgotten, but my<LINE>destination has already been d
 Well said. I'm grateful!<LINE>Well then, I'm going to head<LINE>to BLACK CITY. I'll be waiting!
 Lynette: I'm going to BLACK CITY.<LINE>And you were so kind as to talk to me<LINE>too. I'm ever so sorry!
 Lynette: I get bored because there<LINE>aren't any strong people in this town.
-Lynette: I bet there are a lot of strong<LINE>Trainers, and I'd never get bored in<LINE><LINE>your BLACK CITY…
+Lynette: I bet there are a lot of strong<LINE>trainers, and I'd never get bored in<LINE><LINE>your BLACK CITY…
 Lynette: I've had my fill of<LINE>soothing nature.<LINE>If it's OK with you, could you take me<LINE>to BLACK CITY?
 My! I can't believe you are so<LINE>rude as to refuse my request.
 I've changed my mind.<LINE>I found a different, wonderful<LINE>person…<LINE><LINE>I'm ever so sorry.
@@ -136,9 +136,9 @@ Hey! Sorry!<LINE>I decided to go to a different<LINE>BLACK CITY! Lo siento!
 
 All riiight!<LINE>Exciting urban living, here I come! <LINE>Hey, thanks!
 Gene: I'm going to move to BLACK CITY!<LINE>Time to go see what I'm made of, eh?
-Gene: I'd sure like to go to a place<LINE>where I can test my skill as a Trainer.
+Gene: I'd sure like to go to a place<LINE>where I can test my skill as a trainer.
 Gene: Your BLACK CITY<LINE>looks pretty fun, eh?<LINE><LINE>I'd like to go visit it.
-Gene: I love POKéMON, and I'm<LINE>wanting to test my skill as a<LINE><LINE>Trainer with the POKéMON I've caught.<LINE>Could you take me to BLACK CITY?
+Gene: I love POKéMON, and I'm<LINE>wanting to test my skill as a<LINE><LINE>trainer with the POKéMON I've caught.<LINE>Could you take me to BLACK CITY?
 Whaaat! That's disappointing…<LINE>I'll wait for the next opportunity!
 Hmph! <LINE>I've definitely changed my mind.<LINE>I've decided to go to another BLACK CITY.
 
@@ -198,7 +198,7 @@ Ken: I want to live where<LINE>I can become a master POKéMON battler.<LINE>Will
 Really.<LINE>Fine, I'll ask someone else.
 I've changed my mind.<LINE>I'm going to go to a different BLACK CITY.
 
-I'm going to become the best Trainer<LINE>I can be in BLACK CITY!
+I'm going to become the best trainer<LINE>I can be in BLACK CITY!
 Jacques: I'm going to leave for<LINE>BLACK CITY to find a clear answer!
 Jacques: Sigh…<LINE>I want to do the kind of research<LINE>where I get one clear answer.
 Jacques: Your BLACK CITY…<LINE>I'm jealous because it looks like<LINE>you can find a really excellent answer.
@@ -376,7 +376,7 @@ Hey! Sorry!<LINE>I decided to go to a different<LINE>WHITE FOREST! Lo siento!
 
 Thank you for taking me with you.<LINE>I'm going to enjoy the relaxed<LINE>life for awhile.
 Gene: I'm going to move to WHITE FOREST!<LINE>I'm excited about the POKéMON I will<LINE><LINE>encounter in nature!
-Gene: Hmmm…<LINE>I'm tired of testing myself as a Trainer.<LINE>I want to live the kind of life where I<LINE><LINE>meet POKéMON every day!
+Gene: Hmmm…<LINE>I'm tired of testing myself as a trainer.<LINE>I want to live the kind of life where I<LINE><LINE>meet POKéMON every day!
 Gene: It looks like you can meet a lot<LINE>of POKéMON in your WHITE FOREST!<LINE>It seems charming.
 Gene: Testing my abilities was<LINE>exciting, but I'm tired of it!<LINE><LINE>I want to live while watching POKéMON.<LINE>Could you take me to WHITE FOREST?
 Whaaat! That's disappointing…<LINE>I'll wait for the next opportunity!
@@ -432,13 +432,13 @@ Oh! I just thought of another<LINE>business opportunity!<LINE><LINE>Sorry, but I
 
 All right!<LINE>In WHITE FOREST, I'm going<LINE>to be a success!
 Ken: I'm leaving for WHITE FOREST!<LINE>I'm going to obtain a wide variety<LINE>of knowledge in a new place!
-Ken: In BLACK CITY, all I do<LINE>is POKéMON battling…<LINE>If I think about it, there's something<LINE>missing for me as a Trainer.<LINE>I want to spend time in an environment<LINE>that will give me a wider point of view.
+Ken: In BLACK CITY, all I do<LINE>is POKéMON battling…<LINE>If I think about it, there's something<LINE>missing for me as a trainer.<LINE>I want to spend time in an environment<LINE>that will give me a wider point of view.
 Ken: Your WHITE FOREST seems like a<LINE>place with a lot of POKéMON.<LINE>I'm jealous, because you can widen your<LINE>horizons.
-Ken: As a POKéMON Trainer, I want to look<LINE>at POKéMON from a wider point of view.<LINE>Will you please take me to your forest?
+Ken: As a POKéMON trainer, I want to look<LINE>at POKéMON from a wider point of view.<LINE>Will you please take me to your forest?
 Really.<LINE>I'll ask someone else.
 I've changed my mind.<LINE>I'm going to go to a<LINE>different WHITE FOREST.
 
-OK! I'm going to widen my point<LINE>of view as a Trainer in WHITE FOREST!
+OK! I'm going to widen my point<LINE>of view as a trainer in WHITE FOREST!
 Jacques: I want to find a variety of<LINE>answers, so I'm going to WHITE FOREST!
 Jacques: Sigh…<LINE>I want research in an environment<LINE>where I get many different answers…
 Jacques: Your WHITE FOREST…<LINE>It's full of variations! It looks like<LINE>I can do my research there!

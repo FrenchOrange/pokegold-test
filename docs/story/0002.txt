@@ -35,15 +35,15 @@ Doug: Hello, hello! Nice to work with you!<LINE>How about a POKéMON battle to c
 Hey! You must be UNOVA's best!
 BLACK CITY has everything! But if there's<LINE>one thing it's missing, it's…<LINE>Nature! Relaxation! I want to relax!
 BLACK CITY is full of hustle and bustle!<LINE>I'm sure my work will progress here!
-Vincent: You don't really think you can<LINE>beat me, BLACK CITY's Ace Trainer?
-An Ace Trainer like me, losing?!<LINE>This doesn't count! It just doesn't!
+Vincent: You don't really think you can<LINE>beat me, BLACK CITY's Ace trainer?
+An Ace trainer like me, losing?!<LINE>This doesn't count! It just doesn't!
 I was born and raised in the city, but<LINE>I think nature is really great.<LINE><LINE>I want to go to WHITE FOREST.
 The awesomeness of this city<LINE>spices up my life!
 Marie: Take deep, deep breaths before<LINE>battle. When your mind is clear,<LINE><LINE>the battle can begin!
 I overthought things, and I lost…<LINE>Sometimes just acting on instinct<LINE>might be better.
 I was working on my paper, but now<LINE>I've got writer's block.<LINE>Maybe getting some fresh air in<LINE>WHITE FOREST would clear my head.
 BLACK CITY is really exciting, and there's<LINE>always so much going on.<LINE><LINE>It gives me lots of ideas!
-Lena: Since I started my journey as a<LINE>POKéMON Trainer, I haven't lost<LINE><LINE>many battles.<LINE>Can you make me lose?
+Lena: Since I started my journey as a<LINE>POKéMON trainer, I haven't lost<LINE><LINE>many battles.<LINE>Can you make me lose?
 Oh. I really lost, didn't I…?<LINE>It's strange. I'm usually calm, but now<LINE><LINE>I'm a little frustrated.
 In the end, everything returns<LINE>to nature, no matter what.<LINE>So that's why WHITE FOREST may<LINE>be so calming…
 People build buildings because<LINE>they fear the power of nature.<LINE><LINE>That's why I feel so calm here…
@@ -51,7 +51,7 @@ Carlos: Oh! Hello!<LINE>We must've met here because of fate!<LINE>Let's have a P
 BLACK CITY battles really<LINE>make a person excited, huh?
 Hmmm. I think I'd like<LINE>to see somewhere else soon.
 BLACK CITY has so much to see.<LINE>I never get tired of it!
-Molly: If you look at everything while<LINE>walking, you make eye contact with<LINE><LINE>various Trainers.<LINE>Which POKéMON will you use, Trainer who<LINE>met my gaze?
+Molly: If you look at everything while<LINE>walking, you make eye contact with<LINE><LINE>various trainers.<LINE>Which POKéMON will you use, trainer who<LINE>met my gaze?
 When you don't feel confident,<LINE>lower your eyes as you walk.<LINE><LINE>That is a bit of wisdom.
 When there is this much commotion,<LINE>it's hard to calm down.<LINE><LINE>I want to relax somewhere quiet.
 BLACK CITY always feels like it is<LINE>going forward. It's really cool, isn't it?
@@ -68,7 +68,7 @@ That felt like being on the edge!<LINE>It was thrilling and fun!
 Aaahhh. I'm even getting tired of<LINE>thrilling things. I want to pass time<LINE><LINE>slowly and simply with my POKéMON…
 BLACK CITY is great. It has culture,<LINE>and you can live comfortably.<LINE>I think when you're picking a place<LINE>to live, living comfortably is important!
 Gene: I can't remember how many<LINE>POKéMON I've encountered…<LINE>Why don't you test your powers<LINE>against someone like me?
-Hmmm… I still have a long way to<LINE>go as a Trainer.
+Hmmm… I still have a long way to<LINE>go as a trainer.
 I want to meet more POKéMON<LINE>in my day-to-day life.
 You can keep battling more and more<LINE>and test your power here!<LINE><LINE>BLACK CITY is a great city!
 Piper: Fight efficiently and without<LINE>waste! That is my policy!

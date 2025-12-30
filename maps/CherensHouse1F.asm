@@ -88,7 +88,7 @@ CherensHouse1FCherensDad_InitialText:
 
 	para "And you're all"
 	line "finally your"
-	cont "Trainer journeys?"
+	cont "trainer journeys?"
 
 	para "Well, let me read"
 	line "you a passage from"
@@ -97,7 +97,7 @@ CherensHouse1FCherensDad_InitialText:
 
 	para "'The START Button"
 	line "is vital for"
-	cont "Trainers.'"
+	cont "trainers.'"
 
 	para "Never forget that."
 	done

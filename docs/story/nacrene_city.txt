@@ -1,8 +1,8 @@
 CHEREN: Come with me a sec.
 If you go straight from here,<LINE>there's a POKéMON CENTER.<LINE>And…<LINE>Use these if you want.
 CHEREN: Give your POKéMON a<LINE>Chesto Berry to hold. Then, if it ever<LINE><LINE>falls asleep, it will wake up immediately.<LINE>Oh, and another piece of advice--<LINE>NACRENE CITY's GYM LEADER uses<LINE>Normal types.<LINE>If you have a Fighting-type POKéMON,<LINE>it might give you a big advantage.
-N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The ideals of POKéMON inside POKé BALLS.<LINE>The truths of how Trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
-N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The truths of POKéMON inside POKé BALLS.<LINE>The ideals of how Trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The ideals of POKéMON inside POKé BALLS.<LINE>The truths of how trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
+N: \xf000븉\x0001\x0001I…want to see things no one can see.<LINE>The truths of POKéMON inside POKé BALLS.<LINE>The ideals of how trainers should be.<LINE>And a future where POKéMON<LINE>have become perfect…<LINE>Do you feel the same?\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001That so?<LINE>I think my friends and I should test you<LINE>to see if you can see this future, too.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Huh. I expected more from you.<LINE>Now pay attention.<LINE>My friends and I will test you<LINE>to see if you can see this future, too.\xf000븉\x0001\x0000
 N: \xf000븉\x0001\x0001Right now, my friends aren't strong<LINE>enough to save all POKéMON.<LINE>Maybe I can't solve the equation<LINE>that will change the world.<LINE>So, I need power… Power enough<LINE>to make anyone agree with me.\xf000븉\x0001\x0000
@@ -16,7 +16,7 @@ BURGH: …Eh?<LINE>Just looking for a change of pace.<LINE>Seems hectic or somet
 LENORA: What's up?!<LINE>Someone just walked away with an exhibit,<LINE>that's what's up!
 BIANCA: Oh, hi, <PLAYER>!<LINE>What's everybody doing here?
 CHEREN: <PLAYER>, is there<LINE>some kind of problem?
-LENORA: And these two are…?<LINE>Your friends?<LINE>…<LINE>…<LINE>BIANCA and CHEREN…<LINE>Oh, I see. They're Trainers.<LINE>OK, then. Let's split up and search.<LINE>I'll head this way.
+LENORA: And these two are…?<LINE>Your friends?<LINE>…<LINE>…<LINE>BIANCA and CHEREN…<LINE>Oh, I see. They're trainers.<LINE>OK, then. Let's split up and search.<LINE>I'll head this way.
 Everyone!<LINE>CHEREN and BIANCA,<LINE>I want you to stay here at the museum.
 BURGH and <PLAYER>,<LINE>you two search PINWHEEL FOREST!<LINE>Got it?<LINE>BURGH, you show the way!<LINE>I'm counting on you, everyone!
 BURGH: Uh-huh.<LINE>You are…<PLAYER>, is it?<LINE>Are you raring to round up<LINE>our robbers?
@@ -45,7 +45,7 @@ ALDER: Wait a moment, <PLAYER>!
 If you take this Dark Stone, that<LINE>means you'll be the one to battle N<LINE><LINE>if anything happens to me.<LINE>Are you really OK with that?
 If you take this Light Stone, that<LINE>means you'll be the one to battle N<LINE><LINE>if anything happens to me.<LINE>Are you really OK with that?
 ALDER: I understand. You are determined<LINE>to take on this duty.<LINE>Then, here it is.<LINE>Prepare yourself. Be strong.
-ALDER: So, you're just going to allow<LINE>N to fulfill his plans for a new world?<LINE>A world where POKéMON and Trainers<LINE>are separated?
+ALDER: So, you're just going to allow<LINE>N to fulfill his plans for a new world?<LINE>A world where POKéMON and trainers<LINE>are separated?
 ALDER: Still, I must ask you…<LINE>Sincerely, I must ask you…<LINE>Take this stone.<LINE>Just in case it's needed!
 ALDER: I am deeply sorry.<LINE>I wish I didn't have to burden you.<LINE>This world of ours, where POKéMON<LINE>and people live together…<LINE>Please…<LINE>If anything happens to me, protect it!
 LENORA: …I see.<LINE>If things don't go as planned,<LINE>you'll use this Dark Stone.<LINE>You'll protect the ideal future<LINE>for us and POKéMON.<LINE><PLAYER>, we're counting on you.<LINE>Please take care of yourself.

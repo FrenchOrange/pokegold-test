@@ -15,7 +15,7 @@ Route2GateGirl:
 
 Route2GateReceptionistText:
 	text "Good afternoon,"
-	line "Trainer!"
+	line "trainer!"
 
 	para "This is a gate for"
 	line "travelers!"

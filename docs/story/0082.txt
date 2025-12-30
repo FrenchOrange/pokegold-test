@@ -1,6 +1,6 @@
 BIANCA: A. Mazing. Isn't it?
 Hello, you two! How do you do?<LINE>I'm the owner of this theater.<LINE>Pleasure to meet you!
-Ooh! I must say that you two seem like<LINE>phenomenal Trainers!<LINE>What do we do here? We use Props to make<LINE>your POKéMON fashionable and glamorous!<LINE>Do you want to join in and play Dress Up?<LINE>To get you started, here's a Prop Case!
+Ooh! I must say that you two seem like<LINE>phenomenal trainers!<LINE>What do we do here? We use Props to make<LINE>your POKéMON fashionable and glamorous!<LINE>Do you want to join in and play Dress Up?<LINE>To get you started, here's a Prop Case!
 This Prop Case lets you store Props for<LINE>decorating your POKéMON!<LINE>First off, you need to pick a POKéMON!
 Aw, I'm sorry, but that POKéMON can't<LINE>play Dress Up. Please choose a<LINE><LINE>different POKéMON next time.
 Hmm, I guess I get it! You are expressing<LINE>your POKéMON's innate charm by choosing<LINE><LINE>not to decorate it!<LINE>Honestly, though, I think using Props<LINE>would be better received in this musical.
@@ -23,7 +23,7 @@ Gwah!
 When you play Dress Up, matching the<LINE>show you're performing in is im-por-tant!<LINE>If it's a good match, you can win the<LINE>hearts of the audience!<LINE><LINE>You'll be sure to attract attention.<LINE>If you're going to get on stage,<LINE>it's a waste if you don't stand out!
 POKéMON Props each have their own image:<LINE>cool, cute, elegant, or quirky.<LINE>Before you play Dress Up, take a moment<LINE>to think about the image you prefer.
 I'm not trying to brag, but we're<LINE>rather rich.<LINE>When you say rich people, you think<LINE>musical. It's a matter of taste, I guess.
-It is such a treat when Trainers have<LINE>played Dress Up with their POKéMON<LINE><LINE>with such charming results.
+It is such a treat when trainers have<LINE>played Dress Up with their POKéMON<LINE><LINE>with such charming results.
 Your POKéMON are wonderful!<LINE>I'm always watching them.<LINE>I hope you can keep entertaining us with<LINE>your performances.
 I always make sure to watch the<LINE>shows you participate in!<LINE>Even from the perspective of a rich man<LINE>like me, it's impressive!<LINE>It's unparalleled entertainment!
 There is a Musical Photo saved from<LINE>last time!
