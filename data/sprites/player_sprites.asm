@@ -4,3 +4,10 @@ ChrisStateSprites:
 	db PLAYER_SURF,      SPRITE_SURF
 	db PLAYER_RUN,       SPRITE_CHRIS_RUN
 	db -1 ; end
+
+KrisStateSprites:
+	db PLAYER_NORMAL,    SPRITE_KRIS
+	db PLAYER_BIKE,      SPRITE_KRIS_BIKE
+	db PLAYER_SURF,      SPRITE_SURF
+	db PLAYER_RUN,       SPRITE_KRIS_RUN
+	db -1 ; end

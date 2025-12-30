@@ -4,6 +4,8 @@
 	const SPRITE_NONE              ; 00
 	const SPRITE_CHRIS             ; 01
 	const SPRITE_CHRIS_BIKE        ; 02
+	const SPRITE_KRIS              ; (TEMP) new
+	const SPRITE_KRIS_BIKE         ; (TEMP) new
 	const SPRITE_CLIPBOARD         ; 03
 	const SPRITE_CHEREN            ; (TEMP) 04
 	const SPRITE_JUNIPER           ; (TEMP) 05
@@ -79,6 +81,7 @@
 	const SPRITE_TROPHY            ; 4b
 	const SPRITE_DRAGON_STONE      ; 4c
 	const SPRITE_CHRIS_RUN         ; 4d
+	const SPRITE_KRIS_RUN          ; (TEMP) new
 DEF NUM_OVERWORLD_SPRITES EQU const_value - 1
 
 ; SpriteMons indexes (see data/sprites/sprite_mons.asm)

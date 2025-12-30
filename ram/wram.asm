@@ -2318,6 +2318,8 @@ wRivalName::    ds NAME_LENGTH
 wRedsName::     ds NAME_LENGTH
 wGreensName::   ds NAME_LENGTH
 
+wPlayerGender:: db
+
 wSavedAtLeastOnce:: db
 wSpawnAfterChampion:: db
 
@@ -2349,8 +2351,6 @@ wGameTimeFrames::  db
 	ds 2
 
 wCurDay:: db
-
-	ds 1
 
 wObjectFollow_Leader:: db
 wObjectFollow_Follower:: db

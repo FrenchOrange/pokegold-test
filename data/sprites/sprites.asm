@@ -9,6 +9,8 @@ OverworldSprites:
 	table_width NUM_SPRITEDATA_FIELDS
 	overworld_sprite ChrisSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	overworld_sprite ChrisBikeSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
+	overworld_sprite KrisSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
+	overworld_sprite KrisBikeSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	overworld_sprite ClipboardSpriteGFX, 4, STILL_SPRITE, PAL_OW_GREEN
 	overworld_sprite CherenSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	overworld_sprite JuniperSpriteGFX, 12, WALKING_SPRITE, PAL_OW_BROWN
@@ -84,4 +86,5 @@ OverworldSprites:
 	overworld_sprite TrophySpriteGFX, 4, STILL_SPRITE, PAL_OW_BROWN
 	overworld_sprite DragonStoneSpriteGFX, 4, STILL_SPRITE, PAL_OW_EMOTE
 	overworld_sprite ChrisRunSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
+	overworld_sprite KrisRunSpriteGFX, 12, WALKING_SPRITE, PAL_OW_RED
 	assert_table_length NUM_OVERWORLD_SPRITES

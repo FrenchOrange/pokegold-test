@@ -121,7 +121,12 @@ NamingScreenJumptable:
 	db "NICKNAME?@"
 
 .Player:
+	ld a, [wPlayerGender]
+	bit PLAYERGENDER_FEMALE_F, a
 	ld de, ChrisSpriteGFX
+	jr z, .gotSprite
+	ld de, KrisSpriteGFX
+.gotSprite
 	call .LoadSprite
 	hlcoord 5, 2
 	ld de, .PlayerNameString

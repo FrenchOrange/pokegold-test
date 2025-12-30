@@ -2,6 +2,8 @@ SECTION "Sprites 1", ROMX
 
 ChrisSpriteGFX::               INCBIN "gfx/sprites/chris.2bpp"
 ChrisBikeSpriteGFX::           INCBIN "gfx/sprites/chris_bike.2bpp"
+KrisSpriteGFX::                INCBIN "gfx/sprites/kris.2bpp"
+KrisBikeSpriteGFX::            INCBIN "gfx/sprites/kris_bike.2bpp"
 ClipboardSpriteGFX::           INCBIN "gfx/sprites/clipboard.2bpp"
 CherenSpriteGFX::              INCBIN "gfx/sprites/cheren.2bpp"
 JuniperSpriteGFX::             INCBIN "gfx/sprites/juniper.2bpp"
@@ -41,12 +43,12 @@ LittleGirlSpriteGFX::          INCBIN "gfx/sprites/little_girl.2bpp"
 YoungsterSpriteGFX::           INCBIN "gfx/sprites/youngster.2bpp"
 LassSpriteGFX::                INCBIN "gfx/sprites/lass.2bpp"
 GirlSpriteGFX::                INCBIN "gfx/sprites/girl.2bpp"
-SuperNerdSpriteGFX::           INCBIN "gfx/sprites/super_nerd.2bpp"
-RockerSpriteGFX::              INCBIN "gfx/sprites/rocker.2bpp"
 
 
 SECTION "Sprites 2", ROMX
 
+SuperNerdSpriteGFX::           INCBIN "gfx/sprites/super_nerd.2bpp"
+RockerSpriteGFX::              INCBIN "gfx/sprites/rocker.2bpp"
 MiddleMSpriteGFX::             INCBIN "gfx/sprites/middle_m.2bpp"
 MiddleFSpriteGFX::             INCBIN "gfx/sprites/middle_f.2bpp"
 GrampsSpriteGFX::              INCBIN "gfx/sprites/gramps.2bpp"
@@ -81,3 +83,4 @@ BoulderSpriteGFX::             INCBIN "gfx/sprites/boulder.2bpp"
 TrophySpriteGFX::              INCBIN "gfx/sprites/trophy.2bpp"
 DragonStoneSpriteGFX::         INCBIN "gfx/sprites/dragon_stone.2bpp"
 ChrisRunSpriteGFX::            INCBIN "gfx/sprites/chris_run.2bpp"
+KrisRunSpriteGFX::             INCBIN "gfx/sprites/kris_run.2bpp"
