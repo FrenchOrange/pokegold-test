@@ -243,7 +243,11 @@ ENDM
 
 	map_attributes Route23, ROUTE_23, $0f, 0
 
-; New Bark Town
+; Special areas
+	map_attributes Pokecenter2F, POKECENTER_2F, $00, 0
+	map_attributes TradeCenter, TRADE_CENTER, $00, 0
+	map_attributes Colosseum, COLOSSEUM, $00, 0
+; Nuvema Town
 	map_attributes PlayersHouse1F, PLAYERS_HOUSE_1F, $00, 0
 	map_attributes PlayersHouse2F, PLAYERS_HOUSE_2F, $00, 0
 	map_attributes BiancasHouse1F, BIANCAS_HOUSE_1F, $00, 0
@@ -251,6 +255,7 @@ ENDM
 	map_attributes CherensHouse1F, CHERENS_HOUSE_1F, $00, 0
 	map_attributes CherensHouse2F, CHERENS_HOUSE_2F, $00, 0
 	map_attributes JunipersLab, JUNIPERS_LAB, $00, 0
+	map_attributes Route18EggBarrack, ROUTE_18_EGG_BARRACK, $00, 0
 ; Accumula Town
 	map_attributes AccumulaPokecenter1F, ACCUMULA_POKECENTER_1F, $00, 0
 	map_attributes AccumulaRPSCondo1F, ACCUMULA_RPS_CONDO_1F, $00, 0
@@ -284,7 +289,6 @@ ENDM
 	map_attributes Route2Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route3Gate, ROUTE_2_GATE, $00, 0
 	map_attributes Route17Gate, ROUTE_17_GATE, $00, 0
-	map_attributes Route18EggBarrack, ROUTE_18_EGG_BARRACK, $00, 0
 ; Dungeons
 	map_attributes DreamyardOutside, DREAMYARD_OUTSIDE, $1f, 0
 	map_attributes DreamyardInterior, DREAMYARD_INTERIOR, $00, 0
@@ -412,9 +416,6 @@ ENDM
 	map_attributes KarensRoom, KARENS_ROOM, $00, 0
 	map_attributes LancesRoom, LANCES_ROOM, $00, 0
 	map_attributes HallOfFame, HALL_OF_FAME, $00, 0
-	map_attributes Pokecenter2F, POKECENTER_2F, $00, 0
-	map_attributes TradeCenter, TRADE_CENTER, $00, 0
-	map_attributes Colosseum, COLOSSEUM, $00, 0
 	map_attributes ManiasHouse, MANIAS_HOUSE, $00, 0
 	map_attributes CianwoodGym, CIANWOOD_GYM, $00, 0
 	map_attributes CianwoodPokecenter1F, CIANWOOD_POKECENTER_1F, $00, 0

@@ -171,8 +171,8 @@ ENDM
 	map_const NACRENE_STAT_HOUSE,                           5,  5 ;  5
 	map_const NACRENE_POET_HOUSE,                           5,  5 ;  6
 	map_const NACRENE_CAFE,                                 5,  6 ;  7
-	map_const NACRENE_MUSEUM,                               7, 11 ;  8
-	map_const NACRENE_GYM,                                  5,  8 ;  9
+	map_const NACRENE_MUSEUM,                               7,  9 ;  8
+	map_const NACRENE_GYM,                                 13,  9 ;  9
 	map_const NACRENE_CITY,                                20,  9 ; 10
 	map_const PINWHEEL_FOREST_OUTSIDE,                     10,  9 ; 11
 	map_const PINWHEEL_FOREST_OUTSIDE_SOUTH,               20, 14 ; 12

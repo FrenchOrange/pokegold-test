@@ -117,7 +117,7 @@ DebugSign:
 	givepoke STOUTLAND, 100
 	givepoke JOLTIK, 100
 	givepoke DITTO, 100
-	giveegg LARVESTA, EGG_LEVEL
+;	giveegg PIDOVE, EGG_LEVEL
 ; debug hm
 	loadmem wPartyMon1Moves+0, SURF
 	loadmem wPartyMon1Moves+1, ROCK_SMASH

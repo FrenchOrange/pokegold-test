@@ -4,15 +4,15 @@ BIANCA: …That's a secret, OK?
 CHEREN: OK!<LINE>Let's go meet the professor.
 BIANCA: Heeey!<LINE><PLAYER>, wait up!
 BIANCA: Come on!<LINE><PLAYER>, wait up!
-Mom: Oh, there you are! And…?<LINE>What did the professor have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
+MOM: Oh, there you are! And…?<LINE>What did the professor have to say?<LINE>She asked you to complete the POKéDEX?!<LINE>I can't believe it!
 Well, actually, I can.<LINE>I already knew she was going to ask.
 That's why I brought you three of<LINE>these Town Maps. Take them with you!
-Mom: Here you are, CHEREN.
+MOM: Here you are, CHEREN.
 CHEREN: I'll take good care of it.
-Mom: And one for you, too, BIANCA.
+MOM: And one for you, too, BIANCA.
 BIANCA: Th-thank you so much!
-Mom: As for your room, <PLAYER>--<LINE>or what's left of it…<LINE>No need for any of you to worry.<LINE>I'll take care of tidying up.<LINE>OK, <PLAYER>?
-Mom: Ah, POKéMON. They are so cute,<LINE>but they have enough power to destroy<LINE><LINE>a bedroom! They are really something.<LINE>With POKéMON like that at your side,<LINE>you'll be safe wherever you go!
+MOM: As for your room, <PLAYER>--<LINE>or what's left of it…<LINE>No need for any of you to worry.<LINE>I'll take care of tidying up.<LINE>OK, <PLAYER>?
+MOM: Ah, POKéMON. They are so cute,<LINE>but they have enough power to destroy<LINE><LINE>a bedroom! They are really something.<LINE>With POKéMON like that at your side,<LINE>you'll be safe wherever you go!
 I'll let your parents know!<LINE>I hope that, in addition to POKéMON,<LINE>you'll find lots and lots of places<LINE><LINE>you like in the UNOVA region--<LINE><LINE>and become wonderful adults!<LINE>Have a great trip!
 CHEREN: If I use the Town Map,<LINE>I'll always know where I am…<LINE><LINE>That's certainly helpful.<LINE>Shall we head to ROUTE 1?<LINE>The professor's waiting.
 BIANCA: Let's go, let's go!<LINE><PLAYER>, hurry and come too, OK?

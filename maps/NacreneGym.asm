@@ -9,8 +9,10 @@ NacreneGym_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4, 15, NACRENE_MUSEUM, 3
-	warp_event  5, 15, NACRENE_MUSEUM, 4
+	warp_event  6, 17, NACRENE_MUSEUM, 3
+	warp_event  7, 17, NACRENE_MUSEUM, 4
+	warp_event  9,  5, NACRENE_GYM, 4
+	warp_event 22, 11, NACRENE_GYM, 3
 
 	def_coord_events
 
