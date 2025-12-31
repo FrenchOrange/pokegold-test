@@ -192,7 +192,7 @@ ENDM
 	map_const ROUTE_36,                                    30,  9 ;  3
 	map_const ROUTE_37,                                    10,  9 ;  4
 	map_const STRIATON_CITY,                               16,  9 ;  5
-	map_const STRIATON_GYM,                                 5,  8 ;  6
+	map_const STRIATON_GYM,                                 7, 16 ;  6
 	map_const TRAINERS_SCHOOL,                              5,  8 ;  7
 	map_const STRIATON_NICKNAME_CONDO_1F,                   6,  4 ;  8
 	map_const STRIATON_NICKNAME_CONDO_2F,                   6,  4 ;  9

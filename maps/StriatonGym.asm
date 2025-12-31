@@ -9,8 +9,8 @@ StriatonGym_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  4, 15, STRIATON_CITY, 1
-	warp_event  5, 15, STRIATON_CITY, 1
+	warp_event  6, 31, STRIATON_CITY, 1
+	warp_event  7, 31, STRIATON_CITY, 1
 
 	def_coord_events
 
