@@ -2,19 +2,24 @@
 	const_def
 	const LANDMARK_SPECIAL           ; 00
 	const LANDMARK_NUVEMA_TOWN       ; 01
-	const LANDMARK_ROUTE_29          ; 02
+	const LANDMARK_ROUTE_1           ; 02
 	const LANDMARK_ACCUMULA_TOWN     ; 03
-	const LANDMARK_ROUTE_30          ; 04
-	const LANDMARK_ROUTE_31          ; 05
-	const LANDMARK_STRIATON_CITY     ; 06
+	const LANDMARK_ROUTE_2           ; 04
+	const LANDMARK_STRIATON_CITY     ; 05
+	const LANDMARK_DREAMYARD         ; 06
+	const LANDMARK_ROUTE_3           ; 07
+	const LANDMARK_WELLSPRING_CAVE   ; 08
+	const LANDMARK_NACRENE_CITY      ; 09
+	const LANDMARK_PINWHEEL_FOREST   ; 0a
+	const LANDMARK_ROUTE_17          ; 0b
+	const LANDMARK_ROUTE_18          ; 0c
+	const LANDMARK_P2_LAB            ; 0d
+; vanilla
 	const LANDMARK_SPROUT_TOWER      ; 07
 	const LANDMARK_ROUTE_32          ; 08
 	const LANDMARK_RUINS_OF_ALPH     ; 09
 	const LANDMARK_UNION_CAVE        ; 0a
 	const LANDMARK_ROUTE_33          ; 0b
-	const LANDMARK_NACRENE_CITY      ; 0c
-	const LANDMARK_DREAMYARD         ; 0d
-	const LANDMARK_PINWHEEL_FOREST   ; 0e
 	const LANDMARK_ROUTE_34          ; 0f
 	const LANDMARK_GOLDENROD_CITY    ; 10
 	const LANDMARK_RADIO_TOWER       ; 11
@@ -38,15 +43,13 @@
 	const LANDMARK_MAHOGANY_TOWN     ; 23
 	const LANDMARK_ROUTE_43          ; 24
 	const LANDMARK_LAKE_OF_RAGE      ; 25
-	const LANDMARK_P2_LAB            ; 26
 	const LANDMARK_ICE_PATH          ; 27
 	const LANDMARK_BLACKTHORN_CITY   ; 28
 	const LANDMARK_DRAGONS_DEN       ; 29
-	const LANDMARK_WELLSPRING_CAVE   ; 2a
 	const LANDMARK_DARK_CAVE         ; 2b
-	const LANDMARK_ROUTE_1           ; 2f
-	const LANDMARK_ROUTE_2           ; 31
-	const LANDMARK_ROUTE_3           ; 33
+	const LANDMARK_ROUTE_29          ; 2f
+	const LANDMARK_ROUTE_30          ; 31
+	const LANDMARK_ROUTE_31          ; 32
 	const LANDMARK_ROUTE_4           ; 35
 	const LANDMARK_ROUTE_24          ; 37
 	const LANDMARK_ROUTE_25          ; 38
@@ -62,8 +65,6 @@
 	const LANDMARK_ROUTE_14          ; 4b
 	const LANDMARK_ROUTE_15          ; 4c
 	const LANDMARK_ROUTE_16          ; 4d
-	const LANDMARK_ROUTE_17          ; 4e
-	const LANDMARK_ROUTE_18          ; 4f
 	const LANDMARK_ROUTE_19          ; 51
 	const LANDMARK_ROUTE_20          ; 52
 	const LANDMARK_ROUTE_21          ; 55

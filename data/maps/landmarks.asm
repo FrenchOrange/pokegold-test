@@ -8,83 +8,85 @@ Landmarks:
 ; entries correspond to constants/landmark_constants.asm
 	table_width 4
 	landmark  -8, -16, SpecialMapName
-	landmark 140, 100, NuvemaTownName
-	landmark 128, 100, Route29Name
-	landmark 100, 100, AccumulaTownName
-	landmark 100,  80, Route30Name
-	landmark  96,  60, Route31Name
-	landmark  84,  60, StriatonCityName
-	landmark  85,  58, SproutTowerName
-	landmark  84,  92, Route32Name
-	landmark  76,  76, RuinsOfAlphName
-	landmark  84, 124, UnionCaveName
-	landmark  82, 124, Route33Name
-	landmark  68, 124, NacreneCityName
-	landmark  70, 122, DreamyardName
-	landmark  52, 120, PinwheelForestName
-	landmark  52, 112, Route34Name
-	landmark  52,  92, GoldenrodCityName
-	landmark  50,  92, RadioTowerName
-	landmark  52,  76, Route35Name
-	landmark  52,  60, NationalParkName
-	landmark  64,  60, Route36Name
-	landmark  68,  52, Route37Name
-	landmark  68,  44, EcruteakCityName
-	landmark  70,  42, TinTowerName
-	landmark  66,  42, BurnedTowerName
-	landmark  52,  44, Route38Name
-	landmark  36,  48, Route39Name
-	landmark  36,  60, OlivineCityName
-	landmark  38,  62, LighthouseName
-	landmark  28,  64, Route40Name
-	landmark  28,  92, WhirlIslandsName
-	landmark  28, 100, Route41Name
-	landmark  20, 100, CianwoodCityName
-	landmark  92,  44, Route42Name
-	landmark  84,  44, MtMortarName
-	landmark 108,  44, MahoganyTownName
-	landmark 108,  36, Route43Name
-	landmark 108,  28, LakeOfRageName
-	landmark 120,  44, P2LabName
-	landmark 130,  38, IcePathName
-	landmark 132,  44, BlackthornCityName
-	landmark 132,  36, DragonsDenName
-	landmark 132,  64, WellspringCaveName
-	landmark 112,  72, DarkCaveName
-	landmark  52,  92, Route1Name
-	landmark  52,  64, Route2Name
-	landmark  64,  52, Route3Name
-	landmark  88,  52, Route4Name
-	landmark 100,  44, Route24Name
-	landmark 108,  36, Route25Name
-	landmark 100,  60, Route5Name
-	landmark 100,  76, Route6Name
-	landmark  88,  68, Route7Name
-	landmark 116,  68, Route8Name
-	landmark 116,  52, Route9Name
-	landmark 132,  56, Route10Name
-	landmark 116,  84, Route11Name
-	landmark 132,  80, Route12Name
-	landmark 124, 100, Route13Name
-	landmark 116, 112, Route14Name
-	landmark 104, 116, Route15Name
-	landmark  68,  68, Route16Name
-	landmark  68,  92, Route17Name
-	landmark  80, 116, Route18Name
-	landmark  92, 128, Route19Name
-	landmark  76, 132, Route20Name
-	landmark  52, 120, Route21Name
-	landmark  36,  68, Route22Name
-	landmark  28,  52, VictoryRoadName
-	landmark  28,  44, Route23Name
-	landmark  28,  36, IndigoPlateauName
-	landmark  28,  92, Route26Name
-	landmark  20, 100, Route27Name
-	landmark  12, 100, TohjoFallsName
-	landmark  20,  68, Route28Name
-	landmark 140, 116, FastShipName
+	landmark 124, 132, NuvemaTownName
+	landmark 124, 124, Route1Name
+	landmark 124, 116, AccumulaTownName
+	landmark 124, 108, Route2Name
+	landmark 124, 100, StriatonCityName
+	landmark 132, 100, DreamyardName
+	landmark 116, 100, Route3Name
+	landmark 116,  96, WellspringCaveName
+	landmark 108, 100, NacreneCityName
+	landmark 100, 100, PinwheelForestName
+	landmark 112, 124, Route17Name
+	landmark 100, 124, Route18Name
+	landmark 116, 120, P2LabName
+; vanilla
+	landmark   0,   0, SproutTowerName
+	landmark   0,   0, Route32Name
+	landmark   0,   0, RuinsOfAlphName
+	landmark   0,   0, UnionCaveName
+	landmark   0,   0, Route33Name
+	landmark   0,   0, Route34Name
+	landmark   0,   0, GoldenrodCityName
+	landmark   0,   0, RadioTowerName
+	landmark   0,   0, Route35Name
+	landmark   0,   0, NationalParkName
+	landmark   0,   0, Route36Name
+	landmark   0,   0, Route37Name
+	landmark   0,   0, EcruteakCityName
+	landmark   0,   0, TinTowerName
+	landmark   0,   0, BurnedTowerName
+	landmark   0,   0, Route38Name
+	landmark   0,   0, Route39Name
+	landmark   0,   0, OlivineCityName
+	landmark   0,   0, LighthouseName
+	landmark   0,   0, Route40Name
+	landmark   0,   0, WhirlIslandsName
+	landmark   0,   0, Route41Name
+	landmark   0,   0, CianwoodCityName
+	landmark   0,   0, Route42Name
+	landmark   0,   0, MtMortarName
+	landmark   0,   0, MahoganyTownName
+	landmark   0,   0, Route43Name
+	landmark   0,   0, LakeOfRageName
+	landmark   0,   0, IcePathName
+	landmark   0,   0, BlackthornCityName
+	landmark   0,   0, DragonsDenName
+	landmark   0,   0, DarkCaveName
+	landmark   0,   0, Route29Name
+	landmark   0,   0, Route30Name
+	landmark   0,   0, Route31Name
+	landmark   0,   0, Route4Name
+	landmark   0,   0, Route24Name
+	landmark   0,   0, Route25Name
+	landmark   0,   0, Route5Name
+	landmark   0,   0, Route6Name
+	landmark   0,   0, Route7Name
+	landmark   0,   0, Route8Name
+	landmark   0,   0, Route9Name
+	landmark   0,   0, Route10Name
+	landmark   0,   0, Route11Name
+	landmark   0,   0, Route12Name
+	landmark   0,   0, Route13Name
+	landmark   0,   0, Route14Name
+	landmark   0,   0, Route15Name
+	landmark   0,   0, Route16Name
+	landmark   0,   0, Route19Name
+	landmark   0,   0, Route20Name
+	landmark   0,   0, Route21Name
+	landmark   0,   0, Route22Name
+	landmark   0,   0, VictoryRoadName
+	landmark   0,   0, Route23Name
+	landmark   0,   0, IndigoPlateauName
+	landmark   0,   0, Route26Name
+	landmark   0,   0, Route27Name
+	landmark   0,   0, TohjoFallsName
+	landmark   0,   0, Route28Name
+	landmark   0,   0, FastShipName
 	assert_table_length NUM_LANDMARKS
 
+; towns
 NuvemaTownName:      db "NUVEMA TOWN@"
 AccumulaTownName:    db "ACCUMULA<BSP>TOWN@"
 StriatonCityName:    db "STRIATON<BSP>CITY@"
@@ -94,12 +96,16 @@ EcruteakCityName:    db "ECRUTEAK<BSP>CITY@"
 OlivineCityName:     db "OLIVINE<BSP>CITY@"
 CianwoodCityName:    db "CIANWOOD<BSP>CITY@"
 MahoganyTownName:    db "MAHOGANY<BSP>TOWN@"
-BlackthornCityName:  db "BLACKTHORN<BSP>CITY@"
 LakeOfRageName:      db "LAKE OF<BSP>RAGE@"
+BlackthornCityName:  db "BLACKTHORN<BSP>CITY@"
+; dungeons
+DreamyardName:       db "DREAMYARD@"
+WellspringCaveName:  db "WELLSPRING<BSP>CAVE@"
+PinwheelForestName:  db "PINWHEEL<BSP>FOREST@"
+P2LabName:           db "P2 LAB@"
 SproutTowerName:     db "SPROUT<BSP>TOWER@"
 RuinsOfAlphName:     db "RUINS<BSP>OF ALPH@"
 UnionCaveName:       db "UNION CAVE@"
-DreamyardName:       db "DREAMYARD@"
 RadioTowerName:      db "RADIO TOWER@"
 NationalParkName:    db "NATIONAL<BSP>PARK@"
 TinTowerName:        db "TIN TOWER@"
@@ -108,8 +114,12 @@ WhirlIslandsName:    db "WHIRL<BSP>ISLANDS@"
 MtMortarName:        db "MT.MORTAR@"
 DragonsDenName:      db "DRAGON'S<BSP>DEN@"
 IcePathName:         db "ICE PATH@"
-IndigoPlateauName:   db "INDIGO<BSP>PLATEAU@"
+DarkCaveName:        db "DARK CAVE@"
+BurnedTowerName:     db "BURNED<BSP>TOWER@"
+TohjoFallsName:      db "TOHJO FALLS@"
 VictoryRoadName:     db "VICTORY<BSP>ROAD@"
+IndigoPlateauName:   db "INDIGO<BSP>PLATEAU@"
+; routes
 Route1Name:          db "ROUTE 1@"
 Route2Name:          db "ROUTE 2@"
 Route3Name:          db "ROUTE 3@"
@@ -153,11 +163,6 @@ Route40Name:         db "ROUTE 40@"
 Route41Name:         db "ROUTE 41@"
 Route42Name:         db "ROUTE 42@"
 Route43Name:         db "ROUTE 43@"
-P2LabName:           db "P2 LAB@"
-WellspringCaveName:  db "WELLSPRING<BSP>CAVE@"
-DarkCaveName:        db "DARK CAVE@"
-PinwheelForestName:  db "PINWHEEL<BSP>FOREST@"
-BurnedTowerName:     db "BURNED<BSP>TOWER@"
+; special
 FastShipName:        db "FAST SHIP@"
-TohjoFallsName:      db "TOHJO FALLS@"
 SpecialMapName:      db "SPECIAL@"
