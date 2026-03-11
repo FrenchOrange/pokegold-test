@@ -9,7 +9,7 @@ BiancasHouse2F_MapEvents:
 	db 0, 0 ; filler
 
 	def_warp_events
-	warp_event  0,  1, BIANCAS_HOUSE_2F, 3
+	warp_event  0,  1, BIANCAS_HOUSE_1F, 3
 
 	def_coord_events
 
